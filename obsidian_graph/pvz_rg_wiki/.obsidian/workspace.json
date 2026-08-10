@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,10 +185,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "c9635b5591fc30d5",
+  "active": "178fdffa898a4f51",
   "lastOpenFiles": [
-    "Zombie Template.md",
+    "Images/Classes/solar_class.png",
+    "Images/Plants/green_shadow.png",
+    "Images/Plants/gloom-shroom.png",
+    "Images/Plants/gatling_pea.png",
+    "Images/Plants/fume-shroom.png",
+    "Images/Plants/fire_repeater.png",
+    "Images/Plants/fire_pea.png",
+    "Images/Plants/feral_sunflower.png",
+    "Images/Plants/electro-flower_singer.png",
+    "Images/Plants/electric_repeater.png",
+    "Images/Plants/electric_peashooter.png",
     "Plant Template.md",
+    "Images/Power Mint Families",
+    "Images/Classes",
+    "Images/Zombies",
+    "Images/Plants",
+    "Untitled 2",
+    "Untitled 1",
+    "Images",
+    "Images/Class Images",
+    "Images/Zombie Images",
+    "Images/Plant Images",
+    "Zombie Template.md",
     "Test.md",
     "Welcome.md"
   ]
