@@ -1,32 +1,35 @@
 # Zombie Name
 
-Short summary of the zombie.
+![[missing_image.png|236]]
 
-> [!Zombie name]  
-> Zombie image
-> 
-> **Class:** 
-> 
-> **Tribes:** 
+| Class             | ![[missing_image.png\|53]] |
+| :---------------- | -------------------------------- |
+| Tribes            |                            |
 ## Contents
 
-- [[#Origins|Origins]]
-- [[#In PvZ: Rogue Garden|In PvZ: Rogue Garden]]
+- [[#Origins]]
+- [[#In PvZ: Rogue Garden]]
+	- [[#In PvZ Rogue Garden#Variants|Variants]]
 	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
 	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
-- [[#In PvZ ZPG - Zombie RPG|In PvZ ZPG - Zombie RPG]]
+- [[#In PvZ ZPG - Zombie RPG]]
 	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
 	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
-- [[#In PvZ: Lawnmaggedon|In PvZ: Lawnmaggedon]]
+- [[#In PvZ: Lawnmaggedon]]
 	- [[#In PvZ: Lawnmaggedon#Statistics|Statistics]]
 	- [[#In PvZ: Lawnmaggedon#Almanac|Almanac]]
-- [[#In PvZ Clicker|In PvZ Clicker]]
+- [[#In PvZ Clicker]]
 ## Origins
 
 Information about the plant's origins, inspiration, or first appearance.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden.
+### Variants
+
+| Name | Variant Type |
+| ---- | ------------ |
+|      |              |
 ### Statistics
 
 |                | Value |

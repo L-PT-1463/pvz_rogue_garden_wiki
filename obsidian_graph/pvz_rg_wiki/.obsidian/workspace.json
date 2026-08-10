@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b630ce7245f6210c",
+        "id": "765bd41f9e48dda1",
         "type": "tabs",
         "children": [
           {
-            "id": "c9635b5591fc30d5",
+            "id": "0522af3e71c16e04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plant Template.md",
+                "file": "Plants/Winter Melon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plant Template"
+              "title": "Winter Melon"
             }
           }
         ]
@@ -185,20 +185,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "178fdffa898a4f51",
+  "active": "0522af3e71c16e04",
   "lastOpenFiles": [
-    "Images/Classes/solar_class.png",
-    "Images/Plants/green_shadow.png",
-    "Images/Plants/gloom-shroom.png",
-    "Images/Plants/gatling_pea.png",
-    "Images/Plants/fume-shroom.png",
-    "Images/Plants/fire_repeater.png",
-    "Images/Plants/fire_pea.png",
-    "Images/Plants/feral_sunflower.png",
-    "Images/Plants/electro-flower_singer.png",
-    "Images/Plants/electric_repeater.png",
-    "Images/Plants/electric_peashooter.png",
+    "Plants/Threepeater.md",
+    "Plants/Tall-nut.md",
+    "Plants/Split Pea.md",
+    "Plants/Snow Pea.md",
+    "Plants/Hypno-shroom.md",
+    "Plants/Gloom-shroom.md",
+    "Plants/Gold Magnet.md",
+    "Plants/Gatling Pea.md",
+    "Plants/Fume-shroom.md",
+    "Plants/Cob Cannon.md",
+    "Plants/Cabbage-pult.md",
+    "Plants/Melon-pult.md",
+    "Plants/Potato Mine.md",
+    "Plants/Winter Melon.md",
+    "Plants/Torchwood.md",
+    "Images/Power Mint Families/winter-mint_family.png",
+    "Plants/Twin Sunflower.md",
+    "Plants/Sunflower.md",
+    "Images/Plants/twin_sunflower.png",
+    "Plants/Spikerock.md",
     "Plant Template.md",
+    "Zombie Template.md",
+    "Plants/Wall-nut.md",
+    "Plants/Umbrella Leaf.md",
+    "Plants/Tangle Kelp.md",
+    "Plants/Sun-shroom and Sunnier-shroom.md",
+    "Plants/Starfruit.md",
+    "Plants/Squash.md",
+    "Images/Classes/solar_class.png",
+    "Images/Classes/smarty_class.png",
+    "Images/Classes/kabloom_class.png",
+    "Images/Plants/gloom-shroom.png",
+    "Images/Plants/fume-shroom.png",
+    "Images/Plants/gatling_pea.png",
+    "Images/Power Mint Families/arma-mint_family.png",
+    "Images/Power Mint Families/reinforce-mint_family.png",
+    "Plants",
+    "Plabts",
     "Images/Power Mint Families",
     "Images/Classes",
     "Images/Zombies",
@@ -206,11 +232,6 @@
     "Untitled 2",
     "Untitled 1",
     "Images",
-    "Images/Class Images",
-    "Images/Zombie Images",
-    "Images/Plant Images",
-    "Zombie Template.md",
-    "Test.md",
-    "Welcome.md"
+    "Images/Class Images"
   ]
 }
