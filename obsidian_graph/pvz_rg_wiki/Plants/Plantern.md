@@ -4,10 +4,10 @@ Short summary of the plant.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[guardian_class.png\|53]] |
-| :---------------- | --------------------------- |
-| Power Mint family | ![[missing_image.png\|53]]  |
-| Tribes            |                             |
+| Class             | ![[guardian_class.png\|53]]     |
+| :---------------- | ------------------------------- |
+| Power Mint family | ![[comple-mint_family.png\|53]] |
+| Tribes            |                                 |
 ## Contents
 
 - [[#Origins]]

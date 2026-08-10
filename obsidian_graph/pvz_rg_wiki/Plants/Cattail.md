@@ -4,10 +4,10 @@ Cattail is an aquatic plant that can fire at zombies in the whole lawn.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]  |
-| :---------------- | -------------------------- |
-| Power Mint family | ![[missing_image.png\|53]] |
-| Tribes            |                            |
+| Class             | ![[smarty_class.png\|53]]      |
+| :---------------- | ------------------------------ |
+| Power Mint family | ![[spear-mint_family.png\|53]] |
+| Tribes            |                                |
 ## Contents
 
 - [[#Origins]]

@@ -4,10 +4,10 @@ Sprout is a helpless sprout that grows into a Marigold after some time.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[solar_class.png\|53]]   |
-| :---------------- | -------------------------- |
-| Power Mint family | ![[missing_image.png\|53]] |
-| Tribes            | Flower                     |
+| Class             | ![[solar_class.png\|53]]        |
+| :---------------- | ------------------------------- |
+| Power Mint family | ![[comple-mint_family.png\|53]] |
+| Tribes            | Flower                          |
 ## Contents
 
 - [[#Origins]]

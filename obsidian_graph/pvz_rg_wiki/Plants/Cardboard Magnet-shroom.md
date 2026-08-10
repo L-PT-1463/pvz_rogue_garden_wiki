@@ -4,10 +4,10 @@ Cardboard Magnet-shroom is a standee that attracts metallic objects from the zom
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]        |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[contain-mint_family.png\|53]] |
-| Tribes            | Mushroom                         |
+| Class             | ![[smarty_class.png\|53]]    |
+| :---------------- | ---------------------------- |
+| Power Mint family | ![[ail-mint_family.png\|53]] |
+| Tribes            | Mushroom                     |
 ## Contents
 
 - [[#Origins]]
