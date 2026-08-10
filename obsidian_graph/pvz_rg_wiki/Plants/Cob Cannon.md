@@ -50,9 +50,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Cob Cannon is a regular plant and a boss for [[Pirate's Beach]] boss with a [[Marine Battle]] garden.
+Cob Cannon is a regular plant and a boss for [[Pirate's Beach]] boss with a [[Marine Battle]] garden. It fires massive attacks at 3x3 areas anywhere on the lawn, always targeting a zombie as its centre.
 
-It fires massive attacks at 3x3 areas anywhere on the lawn, always targeting a zombie as its centre, but has to wait a few turns between every attack.
+<font color="#c0504d">Weakness</font>: After attacking, it cannot do so again for a few turns.
 ### Statistics
 
 |           | Value  |

@@ -21,9 +21,7 @@ Garlic is a supporting wall plant that redirects zombies that bite it.
 - [[#In PvZ Clicker]]
 ## Origins
 
-Information about the plant's origins, inspiration, or first appearance.
-
-Plant is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where
+Garlic is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it acts as a weak defensive plant that redirects zombies to adjacent lanes when bitten.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

@@ -1,6 +1,6 @@
-# Plant Name
+# Squash
 
-Short summary of the plant.
+Cardboard Squash is an instant use melee plant that squashes zombies.
 
 ![[missing_image.png|236]]
 

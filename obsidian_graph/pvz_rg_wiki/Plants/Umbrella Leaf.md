@@ -48,7 +48,7 @@ Almanac entry.
 
 Umbrella Leaf is a regular plant from the [[Pirate's Beach]] and [[Lost City]].
 
-While alive, it gives the Shielded trait to other plants in the column in front of it. This makes them immune to the *Fire* and *Traverse* traits for as long as they are Shielded.
+While alive, it gives the *Shielded* trait to other plants in the column in front of it. This makes them immune to the *Fire* and *Traverse* traits for as long as they are Shielded.
 ### Statistics
 
 |           | Value |

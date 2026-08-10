@@ -14,7 +14,7 @@ Magnet-shroom is a mushroom that attracts metallic objects from the zombies in r
 - [[#In PvZ: Rogue Garden]]
 	- [[#In PvZ Rogue Garden#Mutations|Mutations]]
 	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
-	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]]]
+	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
 - [[#In PvZ ZPG - Zombie RPG]]
 	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
 	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]

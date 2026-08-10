@@ -50,7 +50,7 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Fume-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. It attacks in a medium range, shooting a single spore at the zombies.
+Puff-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. It attacks in a medium range, shooting a single spore at the zombies.
 
 <font color="#92d050">Speciality</font>: It has the *Tiny* trait, and can therefor avoid ranged attacks.
 ### Statistics
