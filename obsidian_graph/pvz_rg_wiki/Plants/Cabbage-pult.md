@@ -69,7 +69,7 @@ Almanac entry.
 
 Cabbage-pult is a potted base lobber plant.
 
-It lobs one cabbage at a time in a straight line at the zombie with the most health.
+It lobs one cabbage at a time at the zombie with the most health.
 
 If another Cabbage-pult-type plant is currently targeting the healthiest zombie, Cabbage-pult attacks the second highest-health zombie instead, and so on.
 ### Mutations

@@ -72,7 +72,7 @@ Almanac entry.
 
 Winter Melon is a potted [[Pepper-pult]] mutation lobber plant.
 
-It lobs one melon at a time in a straight line at the zombie with the most health, which deals splash damage in an area of effect and chills zombies.
+It lobs one melon at a time at the zombie with the most health, which deals splash damage in an area of effect and chills zombies.
 
 If another Pepper-pult-type plant is currently targeting the healthiest zombie, Winter Melon attacks the second highest-health zombie instead, and so on.
 ### Mutations

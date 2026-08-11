@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce271b5d09f725cc",
+        "id": "d21812bfa712f6ca",
         "type": "tabs",
         "children": [
           {
-            "id": "499d94ebe6c5d6c2",
+            "id": "846bb03cac2adf60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plants/Stunion.md",
+                "file": "Plants/Stallia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stunion"
+              "title": "Stallia"
             }
           }
         ]
@@ -185,14 +185,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "499d94ebe6c5d6c2",
+  "active": "846bb03cac2adf60",
   "lastOpenFiles": [
+    "Images/Power Mint Families/contain-mint_family.png",
+    "Plants/Stallia.md",
+    "Plants/Tile Turnip.md",
+    "Plants/Red Stinger.md",
+    "Images/Classes/guardian_class.png",
+    "Images/missing_image.png",
+    "Plants/Gold Leaf.md",
+    "Images/Power Mint Families/enlighten-mint.png",
+    "Images/Classes/solar_class.png",
+    "Plants/Endurian.md",
+    "Plants/A.K.E.E..md",
+    "Plants/Cabbage-pult.md",
+    "Plants/Winter Melon.md",
+    "Plants/Melon-pult.md",
+    "Plants/Kernel-pult.md",
+    "Plants/Cob Cannon.md",
+    "Plants/Cardboard Kernel-pult.md",
+    "Images/Power Mint Families/arma-mint_family.png",
+    "Images/Classes/kabloom_class.png",
+    "Plants/Sun-shroom and Sunnier-shroom.md",
+    "Plants/Stunion.md",
     "Plants/Cactus.md",
     "Plants/Bloomerang.md",
-    "Plants/Stunion.md",
-    "Plants/Cardboard Kernel-pult.md",
-    "Images/Power Mint Families/contain-mint_family.png",
-    "Images/Classes/guardian_class.png",
     "Plants/Chili Bean.md",
     "Images/Classes/smarty_class.png",
     "Plants/Rotobaga.md",
@@ -203,26 +220,8 @@
     "Plants/Chard Guard.md",
     "Pepper-pult.md",
     "Plants/Spring Bean.md",
-    "Images/Power Mint Families/reinforce-mint_family.png",
-    "Plants/Tile Turnip.md",
     "Plants/Spikerock.md",
     "Plants/Flower Pot.md",
-    "Images/Classes/mega-grow_class.png",
-    "Images/Power Mint Families/comple-mint_family.png",
-    "Plants/Magnifying Grass.md",
-    "Images/Power Mint Families/enlighten-mint.png",
-    "Images/Classes/solar_class.png",
-    "Plants/Laser Bean.md",
-    "Plants/Frost-shroom.md",
-    "Plants/Infi-nut.md",
-    "Plants/Cardboard Umbrella Leaf.md",
-    "Plants/Umbrella Leaf.md",
-    "Plants/E.M.Peach.md",
-    "Plants/Spikeweed.md",
-    "Plants/Iceberg Lettuce.md",
-    "Plants/Cherry Bomb.md",
-    "Plants/Citron.md",
-    "Plants/Iceberg Lettuce 1.md",
     "Plants",
     "Plabts",
     "Images/Power Mint Families",

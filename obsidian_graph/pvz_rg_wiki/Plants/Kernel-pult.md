@@ -73,7 +73,7 @@ Almanac entry.
 
 Kernel-pult is a potted base lobber plant.
 
-It lobs one kernel at a time in a straight line at the zombie with the most health. It occasionally lobs a stick of butter instead, which stops the hit zombie in place momentarily.
+It lobs one kernel at a time at the zombie with the most health. It occasionally lobs a stick of butter instead, which stops the hit zombie in place momentarily.
 
 If another Kernel-pult-type plant is currently targeting the healthiest zombie, Kernel-pult attacks the second highest-health zombie instead, and so on.
 ### Mutations

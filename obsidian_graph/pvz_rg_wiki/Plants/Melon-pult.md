@@ -71,7 +71,7 @@ Almanac entry.
 
 Melon-pult is a potted [[Pepper-pult]] mutation lobber plant.
 
-It lobs one melon at a time in a straight line at the zombie with the most health, which deals splash damage in an area of effect.
+It lobs one melon at a time at the zombie with the most health, which deals splash damage in an area of effect.
 
 If another Pepper-pult-type plant is currently targeting the healthiest zombie, Melon-pult attacks the second highest-health zombie instead, and so on.
 ### Mutations
