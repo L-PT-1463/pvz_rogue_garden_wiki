@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plants/Stallia.md",
+                "file": "Plants/Scaredy-shroom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stallia"
+              "title": "Scaredy-shroom"
             }
           }
         ]
@@ -187,8 +187,9 @@
   },
   "active": "846bb03cac2adf60",
   "lastOpenFiles": [
-    "Images/Power Mint Families/contain-mint_family.png",
+    "Images/Plants/scaredy-shroom.png",
     "Plants/Stallia.md",
+    "Images/Power Mint Families/contain-mint_family.png",
     "Plants/Tile Turnip.md",
     "Plants/Red Stinger.md",
     "Images/Classes/guardian_class.png",
