@@ -26,6 +26,8 @@ Gatling Pea is a straight-shooter that shoots four peas at a time at the zombies
 ## Origins
 
 Gatling Pea is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it is an evolution of the [[Repeater]] that shoots four peas at a time at the zombies in its lane.
+
+Its appearance in the Rogue Garden universe takes inspiration from Plants vs Zombies 2's Mega Gatling Pea, which also has leaves pressed under the helmet to resemble hair.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

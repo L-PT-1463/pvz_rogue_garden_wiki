@@ -22,6 +22,8 @@ Gloom-shroom is a mushroom that fires a cloud of spores in the area surrounding 
 ## Origins
 
 Gloom-shroom is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it is a [[Fume-shroom]] evolution that attacks in a 3x3 area, dealing damage to all zombies caught in its spore cloud.
+
+Unlike its official appearances, Gloom-shroom in the Rogue Garden universe has its face on the stalk rather than the cap to keep it more consistent with other mushrooms, especially Fume-shroom.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

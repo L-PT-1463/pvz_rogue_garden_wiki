@@ -52,7 +52,7 @@ Almanac entry.
 
 Melon-pult is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens. It lobs watermelons, which deal damage to the target zombie, and affects all zombies in a 3x3 area with its *Chill* trait.
 
-<font color="#9bbb59">Speciality</font>: It has the *Ice Immune* trait, and therefore takes no damage from ice attacks.
+<font color="#9bbb59">Speciality</font>: It has the *Ice Immune* trait, meaning it is unaffected by the zombie's ice attacks.
 ### Statistics
 
 |           | Value  |

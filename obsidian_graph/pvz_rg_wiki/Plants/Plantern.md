@@ -22,6 +22,8 @@ Short summary of the plant.
 ## Origins
 
 Plantern is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it serves as a support plant that clears up fog in an area of effect.
+
+Its weak attack in PvZ ZPG is based on Plantern's attack from its appearance in Plants vs Zombies Heroes.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

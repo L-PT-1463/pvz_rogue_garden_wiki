@@ -70,7 +70,7 @@ Chomper is a potted base melee plant that attacks slowly, dealing heavy damage t
 
 | Mutation type | Other plant               | Mutation          |
 | ------------- | ------------------------- | ----------------- |
-| Fusion        | Chomper or [[Fertilizer]] | [[Super Chomper]] |
+| Fusion        | Chomper or [[Fertilizer]] | [[Chomper]] |
 | Splicing      | [[Peashooter]]            | [[Snap Pea]]      |
 | Splicing      | [[Cherry Bomb]]           | [[Snapdragon]]    |
 | Splicing      | [[Moonbean]]              | [[Nightshade]]    |

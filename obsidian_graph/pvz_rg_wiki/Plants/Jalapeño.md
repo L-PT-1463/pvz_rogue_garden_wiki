@@ -1,6 +1,6 @@
 # Jalapeño
 
-Cherry Bomb is an instant-use explosive plant.
+Jalapeño is an instant-use plant that burst into fire, damaging all zombies in its lane.
 
 ![[missing_image.png|236]]
 

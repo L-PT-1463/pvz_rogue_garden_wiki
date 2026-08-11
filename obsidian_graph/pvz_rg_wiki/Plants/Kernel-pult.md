@@ -50,9 +50,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Kernel-pult is a regular plant from the [[Neighbour's House]] that attacks with a lobbed attack, launching a single kernel if there is a zombie in range.
+Kernel-pult is a regular plant from the [[Neighbour's House]] that attacks with a lobbed attack, launching a single kernel if there is a zombie in range. It also has a chance of launching a stick of butter instead.
 
-It also has a chance of launching a stick of butter instead, which has the *Stun* trait.
+<font color="#9bbb59">Speciality</font>: The butter has the *Stun* trait, which means the hit zombie can't move or attack on its next turn.
 ### Statistics
 
 |           | Value  |

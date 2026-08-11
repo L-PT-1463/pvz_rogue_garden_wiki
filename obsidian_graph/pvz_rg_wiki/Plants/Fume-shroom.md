@@ -72,7 +72,7 @@ Fume-shroom is a mutation of the [[Puff-shroom]], obtained by fusing two Puff-sh
 
 | Mutation type | Other plant         | Mutation            |
 | ------------- | ------------------- | ------------------- |
-| Splicing      | [[Iceberg Lettuce]] | [[Icy Fume-shroom]] |
+| Splicing      | [[Iceberg Lettuce]] | [[Frost-shroom]] |
 ### Statistics
 
 |               | Value             |

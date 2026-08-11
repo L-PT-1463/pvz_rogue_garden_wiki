@@ -19,9 +19,9 @@ Cardboard Kernel-pult is a lobber standee that launches kernels and stalling but
 Cardboard Kernel-pult is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Kernel-pult is a regular plant from the [[Training Grounds]] that attacks with a lobbed attack, launching a single kernel if there is a zombie in range.
+Cardboard Kernel-pult is a regular plant from the [[Training Grounds]] that attacks with a lobbed attack, launching a single kernel if there is a zombie in range. It also has a chance of launching a stick of butter instead.
 
-It also has a chance of launching a stick of butter instead, which has the *Stun* trait.
+<font color="#9bbb59">Speciality</font>: The butter has the *Stun* trait, which means the hit zombie can't move or attack on its next turn.
 ### Statistics
 
 |           | Value  |
