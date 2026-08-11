@@ -36,6 +36,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -52,9 +56,10 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Gatling Pea is a regular plant from the [[Neighbour's House]] that attacks in a straight line, shooting if there is a zombie in range. It has the *Spread (4)* trait, so fires four times per turn.
+Gatling Pea is a regular plant from the [[Neighbour's House]] that attacks in a straight line, shooting if there is a zombie in range.
 
-<font color="#92d050">Speciality</font>: Its attacks have the *Flammable* trait.
+<font color="#4bacc6">Trait</font>: It has the *Spread (4)* trait, so fires four times per turn.
+<font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
 ### Statistics
 
 |           | Value    |
@@ -67,7 +72,9 @@ Gatling Pea is a regular plant from the [[Neighbour's House]] that attacks in a 
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Gatling Pea is a potted [[Peashooter]] mutation shooter plant. It shoots four peas at a time in a straight line at the zombie closest to the player.
+Gatling Pea is a potted [[Peashooter]] mutation shooter plant.
+
+It shoots four peas at a time in a straight line at the zombie closest to the player.
 
 If another Peashooter-type plant is currently targeting the closest zombie, Gatling Pea attacks the second closest instead, and so on.
 ### Mutations

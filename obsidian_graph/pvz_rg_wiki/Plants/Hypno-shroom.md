@@ -30,6 +30,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -48,7 +52,7 @@ Almanac entry.
 
 Hypno-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
 
-If it is vanquished by a Munch-type attack, the hit zombie gains the *Hypnotized* trait for one turn. This makes the zombie only be able to target other zombies with its attacks.
+<font color="#9bbb59">Speciality</font>: If it is vanquished by a Munch-type attack, the hit zombie gains the *Hypnotized* trait for one turn. This makes the zombie only be able to target other zombies with its attacks.
 ### Statistics
 
 |           | Value |

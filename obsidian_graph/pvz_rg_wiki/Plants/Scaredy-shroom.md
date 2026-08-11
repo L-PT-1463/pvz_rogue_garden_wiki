@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -65,7 +69,9 @@ Scaredy-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroo
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Scaredy-shroom is a potted [[Puff-shroom]] mutation shooter plant. It fires a cloud of spores in a straight line at the zombie closest to the player, but can't attack if there are zombies near the Scaredy-shroom.
+Scaredy-shroom is a potted [[Puff-shroom]] mutation shooter plant.
+
+It fires a cloud of spores in a straight line at the zombie closest to the player, but can't attack if there are zombies near the Scaredy-shroom.
 
 If another Puff-shroom-type plant is currently targeting the closest zombie, Scaredy-shroom attacks the second closest instead, and so on.
 ### Mutations

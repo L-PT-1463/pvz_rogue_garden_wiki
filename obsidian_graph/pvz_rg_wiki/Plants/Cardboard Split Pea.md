@@ -21,9 +21,10 @@ Cardboard Split Pea  is an official Plants vs Zombie plant from the I, Zombie mi
 
 Cardboard Split Pea is a regular plant from from the [[Training Grounds]] that attacks in a straight line, shooting if there is a zombie in range
 
-It can also attack behind itself. That backwards attack has the *Repeat* trait, so fires twice per turn. The Cardboard Split Pea can attack forwards and backwards on the same turn, if there are zombies in range.
+<font color="#9bbb59">Speciality</font>: It can also attack behind itself, being able to attack forwards and backwards on the same turn, if there are zombies in range.
 
-<font color="#92d050">Speciality</font>: Its attacks have the *Flammable* trait.
+<font color="#4bacc6">Trait</font>: The backwards attack has the *Repeat* trait, so fires twice per turn.
+<font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
 ### Statistics
 
 |           | Value    |

@@ -31,6 +31,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -47,7 +51,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Super Chomper is a potted [[Chomper]] mutation melee plant that attacks slowly, dealing heavy damage to the zombie it bites and all zombies around it. It always attacks the nearest zombie to itself in range.
+Super Chomper is a potted [[Chomper]] mutation melee plant.
+
+It attacks slowly, dealing heavy damage to the zombie it bites and all zombies around it. It always attacks the nearest zombie to itself in range.
 ### Mutations
 
 Super Chomper is a mutation of the [[Chomper]], obtained by fusing two Chompers, or by applying [[Fertilizer]] to one.

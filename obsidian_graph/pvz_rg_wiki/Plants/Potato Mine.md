@@ -30,6 +30,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -48,7 +52,8 @@ Almanac entry.
 
 Potato Mine is a pass-through plant that deals heavy damage on its own tile, but vanquishes itself after attacking.
 
-<font color="#92d050">Speciality</font>: It has the *Tiny* trait, and can therefor avoid ranged attacks.
+<font color="#4bacc6">Trait</font>: It has the *Tiny* trait, and can therefore avoid ranged attacks.
+
 <font color="#c0504d">Weakness</font>: It must arm itself before it can attack, making it vulnerable on the first rounds.
 ### Statistics
 

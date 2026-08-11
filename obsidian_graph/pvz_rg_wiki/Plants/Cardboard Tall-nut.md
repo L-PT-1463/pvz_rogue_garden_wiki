@@ -19,7 +19,9 @@ Cardboard Tall-nut is a tall defensive standee that blocks zombies that usually 
 Cardboard Tall-nut is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Wall-nut is protector plant from the [[Training Grounds]] that has the *Tall* trait to counter the zombie's *Traverse* trait.
+Cardboard Wall-nut is protector plant from the [[Training Grounds]].
+
+<font color="#4bacc6">Trait</font>: It has the *Tall* trait to counter the zombie's *Traverse* trait.
 ### Statistics
 
 |           | Value |

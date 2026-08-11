@@ -30,6 +30,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -46,7 +50,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Squash is a regular plant from the [[Pirate's Beach]] that attacks a zombie in a small range. It can target the tile directly in front or behind itself, only one at a time. It vanquishes itself after attacking.
+Squash is a regular plant from the [[Pirate's Beach]] that attacks a zombie in a small range.
+
+<font color="#9bbb59">Speciality</font>: It can target the tile directly in front or behind itself, only one at a time. It vanquishes itself after attacking.
 ### Statistics
 
 |           | Value  |

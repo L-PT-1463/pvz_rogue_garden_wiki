@@ -19,9 +19,11 @@ Cardboard Magnet-shroom is a standee that attracts metallic objects from the zom
 Cardboard Magnet-shroom is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Magnet-shroom is a regular plant from the [[Training Grounds]] that has a *Magnetising* trait that applies in its own lane.
+Cardboard Magnet-shroom is a regular plant from the [[Training Grounds]].
 
-Cardboard Magnet-shroom steals armours with the *Magnetisable* trait in range, dealing damage every turn until the armour vanishes, but giving it back at full health if vanquished before it can fully consume it.
+<font color="#9bbb59">Speciality</font>: Cardboard Magnet-shroom's ability affects its own lane.
+
+It steals armours with the *Magnetisable* trait in range, dealing damage every turn until the armour vanishes, but giving it back at full health if vanquished before it can fully consume it.
 ### Statistics
 
 |           | Value |

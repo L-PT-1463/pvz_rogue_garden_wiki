@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -52,7 +56,7 @@ Almanac entry.
 
 Repeater is a regular plant from [[Old Wild Egypt]] that attacks in a straight line, shooting if there is a zombie in range.
 
-<font color="#92d050">Speciality</font>: Its attacks have the *Chill* trait, which prevents the hit zombie from moving on its next turn.
+<font color="#4bacc6">Trait</font>: Its attacks have the *Chill* trait, which prevents the hit zombie from moving on its next turn.
 ### Statistics
 
 |           | Value    |
@@ -65,7 +69,9 @@ Repeater is a regular plant from [[Old Wild Egypt]] that attacks in a straight l
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Snow Pea is a potted [[Peashooter]] mutation shooter plant. It shoots one chilling pea at a time in a straight line at the zombie closest to the player. The hit zombie is slowed down.
+Snow Pea is a potted [[Peashooter]] mutation shooter plant.
+
+It shoots one chilling pea at a time in a straight line at the zombie closest to the player. The hit zombie is slowed down.
 
 If another Peashooter-type plant is currently targeting the closest zombie, Snow Pea attacks the second closest instead, and so on.
 ### Mutations

@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -50,7 +54,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Sunflower is a regular plant that heals the zombie that bit it when hit by a Munch-type attack.
+Sunflower is a regular plant.
+
+<font color="#8064a2">When hit by a Munch-type attack</font>: It heals the zombie that bit it
 ### Statistics
 
 |           | Value |
@@ -63,7 +69,9 @@ Sunflower is a regular plant that heals the zombie that bit it when hit by a Mun
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Sunflower is a potted base support plant. It periodically generates rays of sun on other potted plants which temporarily increase their attack speed.
+Sunflower is a potted base support plant.
+
+It periodically generates rays of sun on other potted plants which temporarily increase their attack speed.
 
 If a plant is already under the effects of a Sunflower-type plant's buff, Sunflower targets a different plant instead.
 ### Mutations
@@ -73,6 +81,12 @@ If a plant is already under the effects of a Sunflower-type plant's buff, Sunflo
 | Fusion        | Sunflower or [[Fertilizer]] | [[Twin Sunflower]]   |
 | Fusion        | Sunflower                   | [[Primal Sunflower]] |
 | Splicing      | [[Moonbean]]                | [[Moonflower]]       |
+Sunflower can be spliced with certain other plants to create their solar mutations.
+
+| Mutated plant   | Mutation         |
+| --------------- | ---------------- |
+| [[Cherry Bomb]] | [[Solar Tomato]] |
+| [[Jugger-nut]]  | [[Metal Petal]]  |
 ### Statistics
 
 |               | Value               |

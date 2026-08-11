@@ -21,7 +21,7 @@ Cardboard Spikeweed  is an official Plants vs Zombie plant from the I, Zombie mi
 
 Cardboard Spikeweed is a pass-through plant from the [[Training Grounds]] that attacks the zombie on its tile.
 
-<font color="#92d050">Speciality</font>: It has the *Grounded* trait, and can therefor avoid most attacks.
+<font color="#4bacc6">Trait</font>: It has the *Grounded* trait, and can therefore avoid most attacks.
 ### Statistics
 
 |           | Value  |

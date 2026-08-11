@@ -19,7 +19,9 @@ Cardboard Squash is an instant use melee standee that squashes zombies.
 Cardboard Squash is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Squash is a regular plant from the [[Training Grounds]] that attacks a zombie in a small range. It can target the tile directly in front or behind itself, only one at a time. It vanquishes itself after attacking.
+Cardboard Squash is a regular plant from the [[Training Grounds]] that attacks a zombie in a small range. It vanquishes itself after attacking.
+
+<font color="#9bbb59">Speciality</font>: It can target the tile directly in front or behind itself, only one at a time.
 ### Statistics
 
 |           | Value  |

@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -50,9 +54,10 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Frost-shroom is a regular plant from [[Old Wild Egypt]] that attacks in a medium range, with an attack that has both the *Strike-through* traits. As such, it can hit multiple zombies but the attack is blocked by shields.
+Frost-shroom is a regular plant from [[Old Wild Egypt]] that attacks in a medium range.
 
-<font color="#92d050">Speciality</font>: Its attacks have the *Chill* trait, which prevents the hit zombie from moving on its next turn.
+<font color="#4bacc6">Trait</font>: Its attack has both the *Strike-through* traits. As such, it can hit multiple zombies but the attack is blocked by shields.
+<font color="#4bacc6">Trait</font>: Its attacks have the *Chill* trait, which prevents the hit zombie from moving on its next turn.
 ### Statistics
 
 |           | Value    |
@@ -65,7 +70,9 @@ Frost-shroom is a regular plant from [[Old Wild Egypt]] that attacks in a medium
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Frost-shroom is a potted [[Puff-shroom]] mutation shooter plant. It fires a cloud of cold spores in a straight line at the zombie closest to the player. All zombies caught in the cloud of spores are hit by the attack and are chilled.
+Frost-shroom is a potted [[Puff-shroom]] mutation shooter plant.
+
+It fires a cloud of cold spores in a straight line at the zombie closest to the player. All zombies caught in the cloud of spores are hit by the attack and are chilled.
 
 If another Puff-shroom-type plant is currently targeting the closest zombie, Frost-shroom attacks the second closest instead, and so on.
 ### Mutations

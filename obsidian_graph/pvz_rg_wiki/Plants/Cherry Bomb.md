@@ -31,6 +31,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -60,6 +64,16 @@ When used as part of Patrice's ability, a Cherry Bomb is occasionally thrown at 
 | Fusion        | Cherry Bomb                   | [[Jalapeño]]     |
 | Splicing      | [[Sunflower]]                 | [[Solar Tomato]] |
 | Splicing      | [[Moonbean]]                  | [[Sunflower]]    |
+Cherry Bomb can be spliced with certain other plants to create fire-themed and explosive mutations.
+
+| Mutated plant    | Mutation          |
+| ---------------- | ----------------- |
+| [[Chomper]]      | [[Snapdragon]]    |
+| [[Peashooter]]   | [[Fire Pea]]      |
+| [[Repeater]]     | [[Fire Repeater]] |
+| [[Wall-nut]]     | [[Explode-o-Nut]] |
+| [[Wall-nut]]     | [[Torchwood]]     |
+| [[Sweet Potato]] | [[Hot Date]]      |
 ### Statistics
 
 |               | Value  |

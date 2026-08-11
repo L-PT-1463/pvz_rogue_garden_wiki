@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -50,9 +54,10 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Melon-pult is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens. It lobs watermelons, which deal damage to the target zombie, and affects all zombies in a 3x3 area with its *Chill* trait.
+Melon-pult is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens. It lobs watermelons, which deal damage to the target zombie.
 
-<font color="#9bbb59">Speciality</font>: It has the *Ice Immune* trait, meaning it is unaffected by the zombie's ice attacks.
+<font color="#4bacc6">Trait</font>: It has the *Ice Immune* trait, meaning it is unaffected by the zombie's ice attacks.
+<font color="#4bacc6">Trait</font>: It has the Chill trait, which is applied to the target zombie and all zombies in a 3x3 area. This means they cannot move on their next turn.
 ### Statistics
 
 |           | Value  |
@@ -65,7 +70,9 @@ Melon-pult is a regular plant from the [[Neighbour's House]], exclusive to [[Win
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Winter Melon is a potted [[Pepper-pult]] mutation lobber plant. It lobs one melon at a time in a straight line at the zombie with the most health, which deals splash damage in an area of effect and chills zombies.
+Winter Melon is a potted [[Pepper-pult]] mutation lobber plant.
+
+It lobs one melon at a time in a straight line at the zombie with the most health, which deals splash damage in an area of effect and chills zombies.
 
 If another Pepper-pult-type plant is currently targeting the healthiest zombie, Winter Melon attacks the second highest-health zombie instead, and so on.
 ### Mutations

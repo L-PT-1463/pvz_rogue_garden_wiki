@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -50,7 +54,7 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Cabbage-pult is a regular plant from the [[Neighbour's House]] that attacks with a lobbed attack, launching a single cabbage if there is a zombie in range.
+Cabbage-pult is a regular plant from the [[Neighbour's House]] that attacks with a lobbed attack, launching a single cabbage at the front-most zombie in its lane.
 ### Statistics
 
 |           | Value  |
@@ -63,7 +67,9 @@ Cabbage-pult is a regular plant from the [[Neighbour's House]] that attacks with
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Cabbage-pult is a potted base lobber plant. It lobs one cabbage at a time in a straight line at the zombie with the most health.
+Cabbage-pult is a potted base lobber plant.
+
+It lobs one cabbage at a time in a straight line at the zombie with the most health.
 
 If another Cabbage-pult-type plant is currently targeting the healthiest zombie, Cabbage-pult attacks the second highest-health zombie instead, and so on.
 ### Mutations
@@ -73,6 +79,12 @@ If another Cabbage-pult-type plant is currently targeting the healthiest zombie,
 | Fusion        | Cabbage-pult or [[Fertilizer]] | [[Slaw-slinger]] |
 | Fusion        | Cabbage-pult                   | [[Cold-slaw]]    |
 | Splicing      | [[Iceberg Lettuce]]            | [[A.K.E.E.]]     |
+Cabbage-pult can be spliced with other plants to create certain mutations.
+
+| Mutated plant | Mutation         |
+| ------------- | ---------------- |
+| [[Flak Seed]] | [[Apple Mortar]] |
+| [[Three Pod]] | [[Sling Pea]]    |
 ### Statistics
 
 |               | Value                 |

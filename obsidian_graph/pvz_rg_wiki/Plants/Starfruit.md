@@ -30,6 +30,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -46,7 +50,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Starfruit is a regular plant from the [[Steam City]]. It shoots projectiles in a straight line on a star-shaped pattern, as long as there is a zombie in range. Starfruit always fires all five projectiles when attacking.
+Starfruit is a regular plant from the [[Steam City]]. It shoots projectiles in a straight line.
+
+<font color="#9bbb59">Speciality</font>: It attacks on a star-shaped pattern, as long as there is a zombie in range. Starfruit always fires all five projectiles when attacking.
 ### Statistics
 
 |           | Value    |

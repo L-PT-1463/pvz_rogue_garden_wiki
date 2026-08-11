@@ -30,6 +30,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -46,9 +50,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Sweet Pea is a regular plant from the [[Steam City]] that attacks in a straight line, shooting a single candy if there is a zombie in range. The hit zombie cannot move to different lane on its next turn.
+Sweet Pea is a regular plant from the [[Steam City]] that attacks in a straight line, shooting a single candy if there is a zombie in range.
 
-<font color="#92d050">Speciality</font>: Its attacks have the *Flammable* trait.
+<font color="#9bbb59">Speciality</font>: The hit zombie cannot move to different lane on its next turn.
 ### Statistics
 
 |           | Value    |

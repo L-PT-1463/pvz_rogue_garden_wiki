@@ -30,6 +30,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -46,7 +50,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Marigold is a regular plant that gives Brainiac Coins when vanquished.
+Marigold is a regular plant.
+
+<font color="#8064a2">When vanquished</font>: Gives Brainiac Coins.
 ### Statistics
 
 |           | Value |

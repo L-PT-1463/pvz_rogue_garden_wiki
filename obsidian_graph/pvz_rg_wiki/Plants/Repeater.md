@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -50,9 +54,10 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Repeater is a regular plant from [[Old Wild Egypt]] that attacks in a straight line, shooting if there is a zombie in range. It has the *Repeat* trait, so fires twice per turn.
+Repeater is a regular plant from [[Old Wild Egypt]] that attacks in a straight line, shooting if there is a zombie in range.
 
-<font color="#92d050">Speciality</font>: Its attacks have the *Flammable* trait.
+<font color="#4bacc6">Trait</font>: It has the *Repeat* trait, so fires twice per turn.
+<font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
 ### Statistics
 
 |           | Value    |
@@ -65,7 +70,9 @@ Repeater is a regular plant from [[Old Wild Egypt]] that attacks in a straight l
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Repeater is a potted [[Peashooter]] mutation shooter plant. It shoots two peas at a time in a straight line at the zombie closest to the player.
+Repeater is a potted [[Peashooter]] mutation shooter plant.
+
+It shoots two peas at a time in a straight line at the zombie closest to the player.
 
 If another Peashooter-type plant is currently targeting the closest zombie, Repeater attacks the second closest instead, and so on.
 ### Mutations

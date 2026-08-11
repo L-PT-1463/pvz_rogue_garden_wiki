@@ -27,7 +27,7 @@ Short summary of the plant.
 
 Information about the plant's origins, inspiration, or first appearance.
 
-Plant is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where
+Plant is an official Plants vs Zombie plant that made its debut in 
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -36,6 +36,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -53,6 +57,16 @@ Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
 Description of the plant in ZPG - Zombie RPG.
+
+<font color="#9bbb59">Speciality</font>:
+
+<font color="#f79646">Placement speciality</font>: 
+
+<font color="#8064a2">When / If</font>:
+
+<font color="#4bacc6">Trait</font>:
+
+<font color="#c0504d">Weakness</font>:
 ### Statistics
 
 |           | Value |
@@ -71,6 +85,10 @@ Description of the plant in Lawnmaggedon.
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |

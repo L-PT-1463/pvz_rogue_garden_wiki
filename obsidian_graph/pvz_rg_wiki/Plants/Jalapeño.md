@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -50,9 +54,11 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Jalapeño is a regular plant from [[Old Wild Egypt]]. When vanquished, it explodes, dealing damage to all zombies in its lane.
+Jalapeño is a regular plant from [[Old Wild Egypt]].
 
-<font color="#9bbb59">Speciality</font>: The attack has the *Fire* trait.
+<font color="#8064a2">When vanquished</font>: It explodes, dealing damage to all zombies in its lane.
+
+<font color="#4bacc6">Trait</font>: The attack has the *Fire* trait.
 ### Statistics
 
 |           | Value  |

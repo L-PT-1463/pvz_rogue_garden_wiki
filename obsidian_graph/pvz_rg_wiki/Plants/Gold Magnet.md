@@ -30,6 +30,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -46,9 +50,11 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Magnet-shroom is a regular plant from the [[Lost City]] that attack zombies in front of it with a straight attack, as long as there is a zombie in range. It has a *Magnetising* trait that applies in its own lane.
+Gold Magnet is a regular plant from the [[Lost City]] that attack zombies in front of it with a straight attack, as long as there is a zombie in range.
 
-Its attack deals no damage, but steals Brainiac Coins if it hits the [[Player Zombie]]. If the hit zombie is within has an armour with the *Magnetisable* trait, Gold Magnet steals it, but gives it back at full health if vanquished.
+<font color="#9bbb59">Speciality</font>: Its attack deals no damage, but steals Brainiac Coins if it hits the [[Player Zombie]].
+
+If the hit zombie is within has an armour with the *Magnetisable* trait, Gold Magnet steals it, but gives it back at full health if vanquished.
 ### Statistics
 
 |           | Value    |

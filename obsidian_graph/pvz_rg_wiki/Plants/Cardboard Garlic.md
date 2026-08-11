@@ -19,7 +19,9 @@ Cardboard Garlic is a supporting wall standee that redirects zombies that bite i
 Cardboard Garlic is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Garlic is a protector plant from the [[Training Grounds]] that, when hit by a Munch-type attack, moves that zombie to an adjacent lane, if the space allows it.
+Cardboard Garlic is a protector plant from the [[Training Grounds]].
+
+<font color="#8064a2">When hit by a Munch-type attack</font>: Moves that zombie to an adjacent lane, if the space allows it.
 ### Statistics
 
 |           | Value |

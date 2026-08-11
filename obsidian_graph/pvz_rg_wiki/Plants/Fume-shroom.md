@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -50,7 +54,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Fume-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. It attacks in a medium range, with an attack that has both the *Pierce* and *Strike-through* traits. As such, it can hit multiple zombies and traverses shields.
+Fume-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. It attacks in a medium range.
+
+<font color="#4bacc6">Trait</font>: Its attack has both the *Pierce* and *Strike-through* traits. As such, it can hit multiple zombies and traverses shields.
 ### Statistics
 
 |           | Value    |
@@ -63,7 +69,9 @@ Fume-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom G
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Fume-shroom is a potted [[Puff-shroom]] mutation shooter plant. It fires a cloud of spores in a straight line at the zombie closest to the player. All zombies caught in the cloud of spores are hit by the attack.
+Fume-shroom is a potted [[Puff-shroom]] mutation shooter plant.
+
+It fires a cloud of spores in a straight line at the zombie closest to the player. All zombies caught in the cloud of spores are hit by the attack.
 
 If another Puff-shroom-type plant is currently targeting the closest zombie, Fume-shroom attacks the second closest instead, and so on.
 ### Mutations

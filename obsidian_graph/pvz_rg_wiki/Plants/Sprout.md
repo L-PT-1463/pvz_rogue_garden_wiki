@@ -30,6 +30,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -46,9 +50,11 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Sprout is a regular plant from the [[Steam City]], exclusive to [[Greenhouse]] gardens. After a few turns, it turns into a [[Marigold]].
+Sprout is a regular plant from the [[Steam City]], exclusive to [[Greenhouse]] gardens.
 
-<font color="#92d050">Speciality</font>: It has the *Tiny* trait, and can therefor avoid ranged attacks.
+<font color="#9bbb59">Speciality</font>: After a few turns, it turns into a [[Marigold]].
+
+<font color="#4bacc6">Trait</font>: It has the *Tiny* trait, and can therefore avoid ranged attacks.
 ### Statistics
 
 |           | Value |

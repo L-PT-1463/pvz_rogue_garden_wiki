@@ -30,6 +30,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -48,7 +52,7 @@ Almanac entry.
 
 Imitater is a regular plant from the [[Neon Carnival]] that copies a neighbouring plant.
 
-It takes starts copying a plant at the start of the turn. It prioritises the plant in front, then behind, then on the neighbouring lane above, then bellow, then the diagonals from left to right, top to bottom. Imitater can also copy plants with the *Vine* and *Pot* traits, though it prioritises plants without those traits.
+<font color="#9bbb59">Speciality</font>: It starts copying a plant at the start of the turn. It prioritises the plant in front, then behind, then on the neighbouring lane above, then bellow, then the diagonals from left to right, top to bottom. Imitater can also copy plants with the *Vine* and *Pot* traits, though it prioritises plants without those traits.
 
 While it copies a plant, it behaves exactly as the copied plant would. If the plant is vanquised, at the start of its next turn it will copy a different neighbour, or revert to its regular form if there are no more neighbours.
 ### Statistics

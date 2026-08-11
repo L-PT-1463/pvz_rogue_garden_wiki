@@ -30,6 +30,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -46,9 +50,13 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Cattail is a regular plant from the [[Pirate's Beach]] that fires spikes at the zombies, targeting any zombie in its lane. It has the *Repeat* trait, so lobs two spikes at a time.
+Cattail is a regular plant from the [[Pirate's Beach]] that fires spikes at the zombies.
 
-<font color="#f79646">Placement speciality</font>: It has the *Aquatic* trait, meaning it can only appear and move to water tiles.
+<font color="#9bbb59">Speciality</font>: Cattail can target any zombie in its lane.
+
+<font color="#f79646">Placement speciality</font>: It is aquatic, meaning it can only appear and move to water tiles.
+
+<font color="#4bacc6">Trait</font>: It has the *Repeat* trait, so lobs two spikes at a time.
 ### Statistics
 
 |           | Value  |

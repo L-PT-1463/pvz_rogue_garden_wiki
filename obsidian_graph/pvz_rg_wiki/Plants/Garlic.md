@@ -30,6 +30,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -46,7 +50,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Garlic is a protector plant that, when hit by a Munch-type attack, moves that zombie to an adjacent lane, if the space allows it.
+Garlic is a protector plant.
+
+<font color="#8064a2">When hit by a Munch-type attack</font>: Moves that zombie to an adjacent lane, if the space allows it.
 ### Statistics
 
 |           | Value |

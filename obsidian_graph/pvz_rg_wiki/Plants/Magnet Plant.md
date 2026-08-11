@@ -30,6 +30,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -46,9 +50,11 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Magnet Plant is a regular plant from the [[Steam City]] and [[The Zombosseum]]. It has a *Magnetising* trait that applies to neighbouring lanes but not its own.
+Magnet Plant is a regular plant from the [[Steam City]] and [[The Zombosseum]].
 
-Magnet Plant steals armours with the *Magnetisable* trait in range, dealing damage every turn until the armour vanishes, but giving it back at full health if vanquished before it can fully consume it.
+<font color="#9bbb59">Speciality</font>: Magnet Plant's ability affects neighbouring lanes but not its own.
+
+It steals armours with the *Magnetisable* trait in range, dealing damage every turn until the armour vanishes, but giving it back at full health if vanquished before it can fully consume it.
 ### Statistics
 
 |           | Value |

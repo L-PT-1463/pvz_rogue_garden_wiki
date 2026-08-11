@@ -22,7 +22,9 @@ Cardboard Chomper is an official Plants vs Zombie plant from the I, Zombie mini-
 Description of the plant in Rogue Garden
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Chomper is a regular plant from the [[Training Grounds]] that attacks zombies in a one tile range, biting them for large damage. If planted behind a protector plant, the Cardboard Chomper can attack one tile further.
+Cardboard Chomper is a regular plant from the [[Training Grounds]] that attacks zombies in a one tile range, biting them for large damage.
+
+<font color="#9bbb59">Speciality</font>: If planted behind a protector plant, the Cardboard Chomper can attack one tile further.
 
 <font color="#c0504d">Weakness</font>: After attacking, it cannot attack again on its next turn.
 ### Statistics

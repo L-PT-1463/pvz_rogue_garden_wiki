@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -50,7 +54,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Chomper is a regular plant that attacks zombies in a one tile range, biting them for large damage. If planted behind a protector plant, the Chomper can attack one tile further.
+Chomper is a regular plant that attacks zombies in a one tile range, biting them for large damage. 
+
+<font color="#9bbb59">Speciality</font>: If planted behind a protector plant, the Chomper can attack one tile further.
 
 <font color="#c0504d">Weakness</font>: After attacking, it cannot attack again on its next turn.
 ### Statistics
@@ -65,16 +71,21 @@ Chomper is a regular plant that attacks zombies in a one tile range, biting them
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Chomper is a potted base melee plant that attacks slowly, dealing heavy damage to the zombie it bites. It always attacks the nearest zombie to itself in range.
+Chomper is a potted base melee plant.
+
+It attacks slowly, dealing heavy damage to the zombie it bites. It always attacks the nearest zombie to itself in range.
 ### Mutations
 
-| Mutation type | Other plant               | Mutation          |
-| ------------- | ------------------------- | ----------------- |
-| Fusion        | Chomper or [[Fertilizer]] | [[Chomper]] |
-| Splicing      | [[Peashooter]]            | [[Snap Pea]]      |
-| Splicing      | [[Cherry Bomb]]           | [[Snapdragon]]    |
-| Splicing      | [[Moonbean]]              | [[Nightshade]]    |
+| Mutation type | Other plant               | Mutation       |
+| ------------- | ------------------------- | -------------- |
+| Fusion        | Chomper or [[Fertilizer]] | [[Chomper]]    |
+| Splicing      | [[Peashooter]]            | [[Snap Pea]]   |
+| Splicing      | [[Cherry Bomb]]           | [[Snapdragon]] |
+Chomper can be spliced with other plants to create jawed mutations.
 
+| Mutated plant        | Mutation            |
+| -------------------- | ------------------- |
+| [[Primal Sunflower]] | [[Feral Sunflower]] |
 ### Statistics
 
 |               | Value           |

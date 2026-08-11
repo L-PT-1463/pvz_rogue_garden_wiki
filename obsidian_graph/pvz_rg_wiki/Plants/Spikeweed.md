@@ -33,6 +33,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -51,7 +55,7 @@ Almanac entry.
 
 Spikeweed is a pass-through plant that attacks the zombie on its tile.
 
-<font color="#92d050">Speciality</font>: It has the *Grounded* trait, and can therefor avoid most attacks.
+<font color="#4bacc6">Trait</font>: It has the *Grounded* trait, and can therefore avoid most attacks.
 ### Statistics
 
 |           | Value  |
@@ -64,7 +68,7 @@ Spikeweed is a pass-through plant that attacks the zombie on its tile.
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Spikeweed is a standalone melee plant.
+Spikeweed is a standalone spawned melee plant.
 
 When picked from plant selection, a Spikeweed is planted on a random spot of the lawn and stay there until it is vanquished. Spikeweed deals damage to all zombies that walk on top of it.
 ### Statistics

@@ -32,6 +32,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -50,7 +54,7 @@ Almanac entry.
 
 Tangle Kelp is a pass-through plant from the [[Pirate's Beach]] that attacks the zombie in its tile for heavy damage, vanquishing itself in the process.
 
-<font color="#f79646">Placement speciality</font>: It has the *Aquatic* trait, meaning it can only appear and move to water tiles.
+<font color="#f79646">Placement speciality</font>: It is aquatic, meaning it can only appear and move to water tiles.
 ### Statistics
 
 |           | Value  |

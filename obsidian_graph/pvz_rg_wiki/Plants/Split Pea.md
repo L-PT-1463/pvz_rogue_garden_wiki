@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -52,9 +56,10 @@ Almanac entry.
 
 Split Pea is a regular plant from [[Old Wild Egypt]] that attacks in a straight line, shooting if there is a zombie in range
 
-It can also attack behind itself. That backwards attack has the *Repeat* trait, so fires twice per turn. The Split Pea can attack forwards and backwards on the same turn, if there are zombies in range.
+<font color="#9bbb59">Speciality</font>: Split Pea can also attack behind itself. It can attack forwards and backwards on the same turn, if there are zombies in range.
 
-<font color="#92d050">Speciality</font>: Its attacks have the *Flammable* trait.
+<font color="#4bacc6">Trait</font>: The backwards attack has the *Repeat* trait, so fires twice per turn.
+<font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
 ### Statistics
 
 |           | Value    |
@@ -67,7 +72,9 @@ It can also attack behind itself. That backwards attack has the *Repeat* trait, 
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Split Pea is a potted [[Peashooter]] mutation shooter plant. It shoots one pea forwards and two peas backwards at a time, shooting forwards in a straight line aimed at the zombie closest to the player.
+Split Pea is a potted [[Peashooter]] mutation shooter plant.
+
+It shoots one pea forwards and two peas backwards at a time, shooting forwards in a straight line aimed at the zombie closest to the player.
 
 If another Peashooter-type plant is currently targeting the closest zombie, Split Pea attacks the second closest instead, and so on.
 ### Mutations

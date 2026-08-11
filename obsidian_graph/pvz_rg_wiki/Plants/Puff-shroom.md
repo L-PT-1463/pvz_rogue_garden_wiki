@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -52,7 +56,7 @@ Almanac entry.
 
 Puff-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. It attacks in a medium range, shooting a single spore at the zombies.
 
-<font color="#92d050">Speciality</font>: It has the *Tiny* trait, and can therefor avoid ranged attacks.
+<font color="#4bacc6">Trait</font>: It has the *Tiny* trait, and can therefore avoid ranged attacks.
 ### Statistics
 
 |           | Value    |
@@ -65,7 +69,9 @@ Puff-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom G
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Puff-shroom is a potted base shooter plant. It fires spores in a straight line at the zombie closest to the player, but has a limited attack range.
+Puff-shroom is a potted base shooter plant.
+
+It fires spores in a straight line at the zombie closest to the player, but has a limited attack range.
 
 If another Puff-shroom-type plant is currently targeting the closest zombie, Puff-shroom attacks the second closest instead, and so on.
 ### Mutations

@@ -32,6 +32,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -48,7 +52,11 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Fume-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. It attacks in a 3x3 area and has the *Pierce* trait, allowing it to hit zombies hiding behind shields.
+Gloom-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
+
+<font color="#9bbb59">Speciality</font>: It attacks in a 3x3 area.
+
+<font color="#4bacc6">Trait</font>: It has the *Pierce* trait, allowing it to hit zombies hiding behind shields.
 ### Statistics
 
 |           | Value    |

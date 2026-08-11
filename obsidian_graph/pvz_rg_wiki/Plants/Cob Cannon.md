@@ -25,7 +25,7 @@ Short summary of the plant.
 - [[#In PvZ Clicker]]
 ## Origins
 
-Cob Cannon is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it is an evolution of the [[Kernel-pult]], taking up two tiles in the garden and having the ability to launch massive cob missiles at the zombies on a very long cool down period.
+Cob Cannon is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it is an evolution of the [[Kernel-pult]], taking up two tiles in the garden and acting as a manual plant with the ability to launch massive cob missiles at the zombies anywhere on the lawn on a very long cool down period.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -50,7 +54,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Cob Cannon is a regular plant and a boss for [[Pirate's Beach]] boss with a [[Marine Battle]] garden. It fires massive attacks at 3x3 areas anywhere on the lawn, always targeting a zombie as its centre.
+Cob Cannon is a regular plant and a boss for [[Pirate's Beach]] boss with a [[Marine Battle]] garden.
+
+<font color="#9bbb59">Speciality</font>: It fires massive attacks at 3x3 areas anywhere on the lawn, always targeting a zombie as its centre.
 
 <font color="#c0504d">Weakness</font>: After attacking, it cannot do so again for a few turns.
 ### Statistics

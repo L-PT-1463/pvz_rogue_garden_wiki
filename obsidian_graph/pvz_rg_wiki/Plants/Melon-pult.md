@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -50,7 +54,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Melon-pult is a regular plant from the [[Pirate's Beach]] that lobs watermelons, which deal damage to the zombies in an X pattern around the target zombie.
+Melon-pult is a regular plant from the [[Pirate's Beach]] that lobs watermelons at the front-most zombie of its lane.
+
+<font color="#9bbb59">Speciality</font>: The attack deals damage to the zombies in an X pattern around the target zombie.
 ### Statistics
 
 |           | Value  |
@@ -63,7 +69,9 @@ Melon-pult is a regular plant from the [[Pirate's Beach]] that lobs watermelons,
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Melon-pult is a potted [[Pepper-pult]] mutation lobber plant. It lobs one melon at a time in a straight line at the zombie with the most health, which deals splash damage in an area of effect.
+Melon-pult is a potted [[Pepper-pult]] mutation lobber plant.
+
+It lobs one melon at a time in a straight line at the zombie with the most health, which deals splash damage in an area of effect.
 
 If another Pepper-pult-type plant is currently targeting the healthiest zombie, Melon-pult attacks the second highest-health zombie instead, and so on.
 ### Mutations

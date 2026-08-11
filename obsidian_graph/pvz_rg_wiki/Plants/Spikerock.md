@@ -30,6 +30,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -48,7 +52,7 @@ Almanac entry.
 
 Spikerock is a pass-through plant from [[The Zombosseum]] that attacks the zombie on its tile.
 
-<font color="#92d050">Speciality</font>: It has the *Grounded* trait, and can therefor avoid most attacks.
+<font color="#4bacc6">Trait</font>: It has the *Grounded* trait, and can therefore avoid most attacks.
 ### Statistics
 
 |           | Value  |

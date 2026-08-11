@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -52,7 +56,7 @@ Almanac entry.
 
 Peashooter is a regular plant that attacks in a straight line, shooting a single pea if there is a zombie in range.
 
-<font color="#92d050">Speciality</font>: Its attacks have the *Flammable* trait.
+<font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
 ### Statistics
 
 |           | Value    |
@@ -65,7 +69,9 @@ Peashooter is a regular plant that attacks in a straight line, shooting a single
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Peashooter is a potted base shooter plant. It shoots one pea at a time in a straight line at the zombie closest to the player.
+Peashooter is a potted base shooter plant.
+
+It shoots one pea at a time in a straight line at the zombie closest to the player.
 
 If another Peashooter-type plant is currently targeting the closest zombie, Peashooter attacks the second closest instead, and so on.
 ### Mutations
@@ -78,6 +84,13 @@ If another Peashooter-type plant is currently targeting the closest zombie, Peas
 | Splicing      | [[Cherry Bomb]]              | [[Fire Pea]]            |
 | Splicing      | [[E.M.Peach]]                | [[Electric Peashooter]] |
 | Splicing      | [[Moonbean]]                 | [[Shadow Peashooter]]   |
+Peashooter can be spliced with certain other plants to create pea-themed mutations.
+
+| Mutated plant | Mutation      |
+| ------------- | ------------- |
+| [[Chomper]]   | [[Snap Pea]]  |
+| [[Wall-nut]]  | [[Pea-nut]]   |
+| [[Pea-nut]]   | [[Three-nut]] |
 ### Statistics
 
 |               | Value             |

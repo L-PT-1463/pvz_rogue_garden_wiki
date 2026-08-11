@@ -30,6 +30,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -48,8 +52,9 @@ Almanac entry.
 
 Sea-shroom is a regular plant from the [[Neighbour's House]], exclusive to [[Fall]] gardens. It shoots spores in a straight line down its lane, but has a limited attack range.
 
-<font color="#f79646">Placement speciality</font>: It has the *Aquatic* trait, meaning it can only appear and move to water tiles.
-<font color="#92d050">Speciality</font>: It has the *Tiny* trait, and can therefor avoid ranged attacks.
+<font color="#f79646">Placement speciality</font>: It is aquatic, meaning it can only appear and move to water tiles.
+
+<font color="#4bacc6">Trait</font>: It has the *Tiny* trait, and can therefore avoid ranged attacks.
 ### Statistics
 
 |           | Value    |

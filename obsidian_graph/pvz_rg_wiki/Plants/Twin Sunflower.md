@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -50,7 +54,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Sunflower is a regular plant from [[Old Wild Egypt]] that heals the zombie that bit it when hit by a Munch-type attack.
+Sunflower is a regular plant from [[Old Wild Egypt]].
+
+<font color="#8064a2">When hit by a Munch-type attack</font>: It heals the zombie that bit it
 ### Statistics
 
 |           | Value |
@@ -63,7 +69,9 @@ Sunflower is a regular plant from [[Old Wild Egypt]] that heals the zombie that 
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Twin Sunflower is a potted [[Sunflower]] mutation support plant. It periodically generates rays of sun on two other potted plants at a time which temporarily increase their attack speed.
+Twin Sunflower is a potted [[Sunflower]] mutation support plant.
+
+It periodically generates rays of sun on two other potted plants at a time which temporarily increase their attack speed.
 
 If a plant is already under the effects of a Sunflower-type plant's buff, Twin Sunflower targets a different plant instead.
 ### Mutations

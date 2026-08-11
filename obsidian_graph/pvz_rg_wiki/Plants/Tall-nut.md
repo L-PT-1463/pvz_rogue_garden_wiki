@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -50,7 +54,9 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Wall-nut is protector plant from [[Old Wild Egypt]]. It has the *Tall* trait to counter the zombie's *Traverse* trait.
+Wall-nut is protector plant from [[Old Wild Egypt]].
+
+<font color="#4bacc6">Trait</font>: It has the *Tall* trait to counter the zombie's *Traverse* trait.
 ### Statistics
 
 |           | Value |

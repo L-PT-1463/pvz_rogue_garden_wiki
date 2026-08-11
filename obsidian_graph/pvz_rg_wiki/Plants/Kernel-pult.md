@@ -34,6 +34,10 @@ Description of the plant in Rogue Garden
 | Mutation type | Other plant | Mutation |
 | ------------- | ----------- | -------- |
 |               |             |          |
+
+| Mutated plant | Mutation |
+| ------------- | -------- |
+|               |          |
 ### Statistics
 
 |               | Value |
@@ -50,9 +54,11 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Kernel-pult is a regular plant from the [[Neighbour's House]] that attacks with a lobbed attack, launching a single kernel if there is a zombie in range. It also has a chance of launching a stick of butter instead.
+Kernel-pult is a regular plant from the [[Neighbour's House]] that attacks with a lobbed attack, launching a single kernel if there is a zombie in range.
 
-<font color="#9bbb59">Speciality</font>: The butter has the *Stun* trait, which means the hit zombie can't move or attack on its next turn.
+<font color="#9bbb59">Speciality</font>: It has a chance of launching a stick of butter instead.
+
+<font color="#4bacc6">Trait</font>: The butter has the *Stun* trait, which means the hit zombie can't move or attack on its next turn.
 ### Statistics
 
 |           | Value  |
@@ -65,7 +71,9 @@ Kernel-pult is a regular plant from the [[Neighbour's House]] that attacks with 
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Kernel-pult is a potted base lobber plant. It lobs one kernel at a time in a straight line at the zombie with the most health. It occasionally lobs a stick of butter instead, which stops the hit zombie in place momentarily.
+Kernel-pult is a potted base lobber plant.
+
+It lobs one kernel at a time in a straight line at the zombie with the most health. It occasionally lobs a stick of butter instead, which stops the hit zombie in place momentarily.
 
 If another Kernel-pult-type plant is currently targeting the healthiest zombie, Kernel-pult attacks the second highest-health zombie instead, and so on.
 ### Mutations
