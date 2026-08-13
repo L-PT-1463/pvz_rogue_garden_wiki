@@ -1,6 +1,6 @@
 # Chili Bean
 
-Short summary of the plant.
+Chili Bean is a single-use plant that when consumed makes zombies fart.
 
 ![[missing_image.png|236]]
 

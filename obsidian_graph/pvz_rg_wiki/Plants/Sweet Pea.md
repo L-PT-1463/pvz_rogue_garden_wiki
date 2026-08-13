@@ -2,7 +2,7 @@
 
 Sweet Pea is a straight-shooter that shoots candy at the zombies while luring them to its lane.
 
-![[missing_image.png|236]]
+![[sweet_pea.png|236]]
 
 | Class             | ![[mega-grow_class.png\|53]]     |
 | :---------------- | -------------------------------- |
