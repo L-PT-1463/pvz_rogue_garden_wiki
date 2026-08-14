@@ -56,7 +56,7 @@ Cattail is a regular plant from the [[Pirate's Beach]] that fires spikes at the 
 
 <font color="#f79646">Placement speciality</font>: It is aquatic, meaning it can only appear and move to water tiles.
 
-<font color="#4bacc6">Trait</font>: It has the *Repeat* trait, so lobs two spikes at a time.
+<font color="#4bacc6">Trait</font>: It has the *Repeat* trait, so fires two spikes per attack.
 ### Statistics
 
 |           | Value  |

@@ -58,7 +58,7 @@ Pea Pod is a regular plant from the [[Old Wild Egypt]] that attacks in a straigh
 
 <font color="#9bbb59">Speciality</font>: Its *Spread* trait is increased by one stack every turn, up to five.
 
-<font color="#4bacc6">Trait</font>: It starts with the *Spread (1)* trait, so fires one time per turn.
+<font color="#4bacc6">Trait</font>: It starts with the *Spread (1)* trait, so fires one time per attack.
 <font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
 ### Statistics
 

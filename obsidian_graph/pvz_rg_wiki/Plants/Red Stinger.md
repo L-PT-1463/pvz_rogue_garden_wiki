@@ -54,7 +54,7 @@ Red Stinger is a protector plant from the [[Lost City]] that gains better attack
 
 <font color="#9bbb59">Speciality</font>: When on the last row, it becomes a regular plant instead, and one rows 7 to 9 it makes a ranged attack down its lane, as long as there is a zombie in range.
 
-<font color="#4bacc6">Trait</font>: When on the last row, it has the *Repeat* trait, so fires twice per turn.
+<font color="#4bacc6">Trait</font>: When on the last row, it has the *Repeat* trait, so fires twice per attack.
 ### Statistics
 
 |           | Value    |

@@ -58,7 +58,7 @@ Almanac entry.
 
 Gatling Pea is a regular plant from the [[Neighbour's House]] that attacks in a straight line, shooting if there is a zombie in range.
 
-<font color="#4bacc6">Trait</font>: It has the *Spread (4)* trait, so fires four times per turn.
+<font color="#4bacc6">Trait</font>: It has the *Spread (4)* trait, so fires four times per attack.
 <font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
 ### Statistics
 
