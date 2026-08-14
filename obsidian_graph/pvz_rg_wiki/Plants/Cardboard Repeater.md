@@ -2,7 +2,7 @@
 
 Cardboard Repeater is a straight-shooter standee that shoots two peas at a time at the zombies.
 
-![[missing_image.png|236]]
+![[cardboard_repeater.png|236]]
 
 | Class             | ![[mega-grow_class.png\|53]]     |
 | :---------------- | -------------------------------- |

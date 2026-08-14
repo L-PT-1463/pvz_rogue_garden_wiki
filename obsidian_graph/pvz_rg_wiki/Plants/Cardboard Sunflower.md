@@ -2,7 +2,7 @@
 
 Cardboard Sunflower is a supporting standee that generates sun.
 
-![[missing_image.png|236]]
+![[cardboard_sunflower.png|236]]
 
 | Class             | ![[solar_class.png\|53]]    |
 | :---------------- | --------------------------- |

@@ -2,7 +2,7 @@
 
 Cardboard Peashooter is a straight-shooter standee that shoots peas at the zombies.
 
-![[missing_image.png|236]]
+![[cardboard_peashooter.png|236]]
 
 | Class             | ![[mega-grow_class.png\|53]]     |
 | :---------------- | -------------------------------- |

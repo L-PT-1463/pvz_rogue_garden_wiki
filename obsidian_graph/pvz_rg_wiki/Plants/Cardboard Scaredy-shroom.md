@@ -2,7 +2,7 @@
 
 Cardboard Scaredy-shroom is a straight-shooter standee that attacks zombies from afar, but gets scared and hides if the zombies get too close.
 
-![[missing_image.png|236]]
+![[cardboard_scaredy-shroom.png|236]]
 
 | Class             | ![[smarty_class.png\|53]]    |
 | :---------------- | ---------------------------- |

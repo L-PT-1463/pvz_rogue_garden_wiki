@@ -2,7 +2,7 @@
 
 Cardboard Puff-shroom is a standee that fires a cloud of spores, hitting all zombies in a medium range in front of it.
 
-![[missing_image.png|236]]
+![[cardboard_puff-shroom.png|236]]
 
 | Class             | ![[kabloom_class.png\|53]]   |
 | :---------------- | ---------------------------- |

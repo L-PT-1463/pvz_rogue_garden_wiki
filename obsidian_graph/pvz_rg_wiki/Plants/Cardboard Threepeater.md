@@ -2,7 +2,7 @@
 
 Cardboard Threepeater is a straight-shooter standee that shoots peas at the zombies both in front and behind itself.
 
-![[missing_image.png|236]]
+![[cardboard_threepeater.png|249]]
 
 | Class             | ![[smarty_class.png\|53]]        |
 | :---------------- | -------------------------------- |

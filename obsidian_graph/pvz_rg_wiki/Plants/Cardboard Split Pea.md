@@ -2,7 +2,7 @@
 
 Cardboard Split Pea is a straight-shooter standee that shoots peas at the zombies both in front and behind itself.
 
-![[missing_image.png|304]]
+![[cardboard_split_pea.png|304]]
 
 | Class             | ![[mega-grow_class.png\|53]]     |
 | :---------------- | -------------------------------- |
