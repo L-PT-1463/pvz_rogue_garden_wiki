@@ -59,7 +59,6 @@ Chilly Pepper is a regular plant from the [[Neighbour's House]] exclusive to [[W
 <font color="#8064a2">When vanquished</font>: It explodes, attacking all zombies in its lane, but dealing no damage.
 
 <font color="#4bacc6">Trait</font>: It has the *Freeze* trait, which means the hit zombie can't move or attack on its next turn.
-<font color="#4bacc6">Trait</font>: It has the *Ice Immune* trait, meaning it is unaffected by the zombie's ice attacks.
 ### Statistics
 
 |           | Value  |

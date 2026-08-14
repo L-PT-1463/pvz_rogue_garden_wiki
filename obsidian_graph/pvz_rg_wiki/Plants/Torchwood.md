@@ -57,8 +57,6 @@ Almanac entry.
 Torchwood is a protector plant from [[Old Wild Egypt]] that empowers flammable projectiles.
 
 <font color="#9bbb59">Speciality</font>: Until the Torchwood is vanquished, all attacks behind it in its lane with the *Flammable* trait gain additional damage and the *Fire* trait.
-
-<font color="#4bacc6">Trait</font>: It has the *Ice Immune* trait, meaning it is unaffected by the zombie's ice attacks.
 ### Statistics
 
 |           | Value |

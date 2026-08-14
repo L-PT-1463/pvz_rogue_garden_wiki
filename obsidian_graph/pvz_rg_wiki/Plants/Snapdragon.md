@@ -61,11 +61,11 @@ Snapdragon is a regular plant from the [[Pirate's Beach]] that attacks by breath
 <font color="#4bacc6">Trait</font>: It has the *Pierce* trait, meaning its fire can hit zombies hiding behind a shield.
 ### Statistics
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+|           | Value    |
+| --------- | -------- |
+| Damage    |          |
+| Toughness |          |
+| Range     | Straight |
 ### Almanac
 
 Almanac entry.

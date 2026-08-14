@@ -59,7 +59,6 @@ Iceberg Lettuce is a regular plant from the [[Neighbour's House]], exclusive to 
 <font color="#8064a2">When vanquished by a Munch or Strike-type attack</font>: It attacks the zombie, dealing no damage.
 
 <font color="#4bacc6">Trait</font>: It has the *Freeze* trait, which means the hit zombie can't move or attack on its next turn.
-<font color="#4bacc6">Trait</font>: It has the *Ice Immune* trait, meaning it is unaffected by the zombie's ice attacks.
 <font color="#4bacc6">Trait</font>: It has the *Tiny* trait, and can therefore avoid ranged attacks.
 ### Statistics
 
