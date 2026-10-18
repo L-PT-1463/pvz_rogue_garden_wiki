@@ -4,10 +4,10 @@ Cabbage-pult is a lobber plant that launches cabbages at zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[mega-grow_class.png\|53]]  |
-| :---------------- | ----------------------------- |
-| Power Mint family | ![[arma-mint_family.png\|53]] |
-| Tribes            |                               |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]    |
+| :---------------- | ------------------------------------------------------ |
+| Power Mint family | ![[arma-mint_family.png\|53]]<br>[[Arma-mint Familiy]] |
+| Tribes            |                                                        |
 ## Contents
 
 - [[#Origins]]

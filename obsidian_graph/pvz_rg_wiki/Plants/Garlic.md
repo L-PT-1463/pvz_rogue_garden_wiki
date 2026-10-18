@@ -4,10 +4,10 @@ Garlic is a supporting wall plant that redirects zombies that bite it.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[guardian_class.png\|53]]        |
-| :---------------- | ---------------------------------- |
-| Power Mint family | ![[reinforce-mint_family.png\|53]] |
-| Tribes            |                                    |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]               |
+| :---------------- | --------------------------------------------------------------- |
+| Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Reinforce-mint Family]] |
+| Tribes            |                                                                 |
 ## Contents
 
 - [[#Origins]]

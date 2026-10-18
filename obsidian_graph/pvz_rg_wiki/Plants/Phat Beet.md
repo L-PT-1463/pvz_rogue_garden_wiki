@@ -4,10 +4,10 @@ Phat Beet is a musical plant that attacks the zombies around it with sick beats.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[kabloom_class.png\|53]]       |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[enforce-mint_family.png\|53]] |
-| Tribes            |                                  |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]            |
+| :---------------- | ---------------------------------------------------------- |
+| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Class]] |
+| Tribes            |                                                            |
 ## Contents
 
 - [[#Origins]]

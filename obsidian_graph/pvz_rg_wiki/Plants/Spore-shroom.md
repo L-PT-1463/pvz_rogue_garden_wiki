@@ -4,10 +4,10 @@ Spore-shroom is a mushroom that lobs spores at the zombies to turn transform the
 
 ![[missing_image.png|236]]
 
-| Class             | ![[kabloom_class.png\|53]]   |
-| :---------------- | ---------------------------- |
-| Power Mint family | ![[ail-mint_family.png\|53]] |
-| Tribes            | Mushroom                     |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]     |
+| :---------------- | --------------------------------------------------- |
+| Power Mint family | ![[ail-mint_family.png\|53]]<br>[[Ail-mint Family]] |
+| Tribes            | [[Mushroom Tribe]]                                  |
 ## Contents
 
 - [[#Origins]]

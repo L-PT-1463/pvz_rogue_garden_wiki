@@ -4,10 +4,10 @@ Fire Repeater is a straight-shooter that shoots two burning peas at a time at th
 
 ![[fire_repeater.png|236]]
 
-| Class             | ![[mega-grow_class.png\|53]]    |
-| :---------------- | ------------------------------- |
-| Power Mint family | ![[pepper-mint_family.png\|53]] |
-| Tribes            | Pea                             |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]      |
+| :---------------- | -------------------------------------------------------- |
+| Power Mint family | ![[pepper-mint_family.png\|53]]<br>[[Pepper-mint Family]] |
+| Tribes            | [[Pea Tribe]]                                            |
 ## Contents
 
 - [[#Origins]]

@@ -8,10 +8,10 @@ Unpowered
 Shadow-powered
 ![[shadow_peashooter_shadow-powered.png|236]]
 
-| Class             | ![[missing_image.png\|53]]       |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[conceal-mint_family.png\|53]] |
-| Tribes            | Pea                              |
+| Class             | ![[missing_image.png\|53]]                                  |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[conceal-mint_family.png\|53]]<br>[[Conceal-mint Family]] |
+| Tribes            | [[Pea Tribe]]                                               |
 ## Contents
 
 - [[#Origins]]

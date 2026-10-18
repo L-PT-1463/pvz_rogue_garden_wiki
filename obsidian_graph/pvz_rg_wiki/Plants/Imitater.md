@@ -4,10 +4,10 @@ Imitater is a plant that transforms into perfect imitations of other plants.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[kabloom_class.png\|53]]       |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[enchant-mint_family.png\|53]] |
-| Tribes            |                                  |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]             |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[enchant-mint_family.png\|53]]<br>[[Enchant-mint Family]] |
+| Tribes            |                                                             |
 ## Contents
 
 - [[#Origins]]

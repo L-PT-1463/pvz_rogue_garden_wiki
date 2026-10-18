@@ -4,10 +4,10 @@ Cardboard Snow Pea is a straight-shooter that shoots chilling peas at the zombie
 
 ![[cardboard_snow_pea.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]       |
-| :---------------- | ------------------------------- |
-| Power Mint family | ![[winter-mint_family.png\|53]] |
-| Tribes            | Pea                             |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]             |
+| :---------------- | --------------------------------------------------------- |
+| Power Mint family | ![[winter-mint_family.png\|53]]<br>[[Winter-mint Family]] |
+| Tribes            | [[Pea Tribe]]                                             |
 ## Contents
 
 - [[#Origins]]

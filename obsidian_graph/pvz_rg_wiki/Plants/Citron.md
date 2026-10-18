@@ -4,10 +4,10 @@ Citron is a slow-firing heavy hitter that spits giant balls of energy at the zom
 
 ![[missing_image.png|236]]
 
-| Class             | ![[mega-grow_class.png\|53]]  |
-| :---------------- | ----------------------------- |
-| Power Mint family | ![[fila-mint_family.png\|53]] |
-| Tribes            |                               |
+| Class             | ![[missing_image.png\|53]]                            |
+| :---------------- | ----------------------------------------------------- |
+| Power Mint family | ![[fila-mint_family.png\|53]]<br>[[Fila-mint Family]] |
+| Tribes            |                                                       |
 ## Contents
 
 - [[#Origins]]
@@ -55,11 +55,11 @@ Citron is a regular plant from the [[Far Future]] that fires bolts of energy at 
 <font color="#c0504d">Weakness</font>: After attacking, it cannot do so again for a few turns.
 ### Statistics
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+|           | Value    |
+| --------- | -------- |
+| Damage    |          |
+| Toughness |          |
+| Range     | Straight |
 ### Almanac
 
 Almanac entry.

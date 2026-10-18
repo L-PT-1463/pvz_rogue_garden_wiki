@@ -4,10 +4,10 @@ Cardboard Squash is an instant use melee plant that squashes zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[solar_class.png\|53]]         |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[enforce-mint_family.png\|53]] |
-| Tribes            |                                  |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]                |
+| :---------------- | ---------------------------------------------------------- |
+| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Class]] |
+| Tribes            |                                                            |
 ## Contents
 
 - [[#Origins]]

@@ -4,10 +4,10 @@ Chilly Pepper is an instant-use plant that burst into ice, freezing all zombies 
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]       |
-| :---------------- | ------------------------------- |
-| Power Mint family | ![[winter-mint_family.png\|53]] |
-| Tribes            |                                 |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]             |
+| :---------------- | --------------------------------------------------------- |
+| Power Mint family | ![[winter-mint_family.png\|53]]<br>[[Winter-mint Family]] |
+| Tribes            |                                                           |
 ## Contents
 
 - [[#Origins]]

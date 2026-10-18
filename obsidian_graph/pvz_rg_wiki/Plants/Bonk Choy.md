@@ -4,10 +4,10 @@ Bonk Choy is a melee plant that punches zombies in front and behind itself.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[mega-grow_class.png\|53]]     |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[enforce-mint_family.png\|53]] |
-| Tribes            |                                  |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]        |
+| :---------------- | ---------------------------------------------------------- |
+| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Class]] |
+| Tribes            |                                                            |
 ## Contents
 
 - [[#Origins]]

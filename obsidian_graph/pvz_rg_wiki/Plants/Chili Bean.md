@@ -4,10 +4,10 @@ Chili Bean is a single-use plant that when consumed makes zombies fart.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]        |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[contain-mint_family.png\|53]] |
-| Tribes            | Bean                             |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]               |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[contain-mint_family.png\|53]]<br>[[Contain-mint Family]] |
+| Tribes            | [[Bean Tribe]]                                              |
 ## Contents
 
 - [[#Origins]]

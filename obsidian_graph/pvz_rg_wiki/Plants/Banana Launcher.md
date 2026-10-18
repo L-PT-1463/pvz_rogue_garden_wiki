@@ -4,10 +4,10 @@ Banana Launcher is a lobbing plant that fires explosive bananas at the lawn.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[kabloom_class.png\|53]]    |
-| :---------------- | ----------------------------- |
-| Power Mint family | ![[arma-mint_family.png\|53]] |
-| Tribes            |                               |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]        |
+| :---------------- | ------------------------------------------------------ |
+| Power Mint family | ![[arma-mint_family.png\|53]]<br>[[Arma-mint Familiy]] |
+| Tribes            |                                                        |
 ## Contents
 
 - [[#Origins]]

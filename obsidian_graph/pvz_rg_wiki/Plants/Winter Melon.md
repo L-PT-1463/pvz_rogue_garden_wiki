@@ -4,10 +4,10 @@ Winter Melon is a lobber plant that launches chilling watermelons at the zombies
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]       |
-| :---------------- | ------------------------------- |
-| Power Mint family | ![[winter-mint_family.png\|53]] |
-| Tribes            |                                 |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]             |
+| :---------------- | --------------------------------------------------------- |
+| Power Mint family | ![[winter-mint_family.png\|53]]<br>[[Winter-mint Family]] |
+| Tribes            |                                                           |
 ## Contents
 
 - [[#Origins]]

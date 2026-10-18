@@ -4,10 +4,10 @@ Primal Potato Mine is an explosive plant that blows zombies up once it's armed.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[guardian_class.png\|53]]      |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[bombard-mint_family.png\|53]] |
-| Tribes            |                                  |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]           |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[bombard-mint_family.png\|53]]<br>[[Bombard-mint Family]] |
+| Tribes            |                                                             |
 ## Contents
 
 - [[#Origins]]

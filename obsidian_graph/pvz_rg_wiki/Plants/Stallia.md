@@ -4,10 +4,10 @@ Stallia is a instant use staller that burst into a cloud of slowing fumes.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]       |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[contain-mint_family.png\|53]] |
-| Tribes            | Flower                           |
+| Class             | ![[missing_image.png\|53]]                                  |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[contain-mint_family.png\|53]]<br>[[Contain-mint Family]] |
+| Tribes            | [[Flower Tribe]]                                            |
 ## Contents
 
 - [[#Origins]]

@@ -4,10 +4,10 @@ Snapdragon is a close-range plant that breathes fire onto multiple lanes to burn
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]       |
-| :---------------- | ------------------------------- |
-| Power Mint family | ![[pepper-mint_family.png\|53]] |
-| Tribes            | Flower                          |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]      |
+| :---------------- | -------------------------------------------------- |
+| Power Mint family | ![[pepper-mint_family.png\|53]]<br>[[Pepper-pult]] |
+| Tribes            | [[Flower Tribe]]                                   |
 ## Contents
 
 - [[#Origins]]
@@ -59,6 +59,7 @@ Snapdragon is a regular plant from the [[Pirate's Beach]] that attacks by breath
 <font color="#9bbb59">Speciality</font>: Its attack deals damage in its row and the row in front, on all three lanes.
 
 <font color="#4bacc6">Trait</font>: It has the *Pierce* trait, meaning its fire can hit zombies hiding behind a shield.
+<font color="#4bacc6">Trait</font>: Its attacks have the *Fire* trait.
 ### Statistics
 
 |           | Value    |

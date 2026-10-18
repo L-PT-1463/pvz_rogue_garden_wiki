@@ -4,10 +4,10 @@ Cardboard Spikeweed is a short standee that is ignored by most zombies, and atta
 
 ![[missing_image.png|236]]
 
-| Class             | ![[guardian_class.png\|53]]    |
-| :---------------- | ------------------------------ |
-| Power Mint family | ![[spear-mint_family.png\|53]] |
-| Tribes            |                                |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]       |
+| :---------------- | ------------------------------------------------------- |
+| Power Mint family | ![[spear-mint_family.png\|53]]<br>[[Spear-mint Family]] |
+| Tribes            |                                                         |
 ## Contents
 
 - [[#Origins]]

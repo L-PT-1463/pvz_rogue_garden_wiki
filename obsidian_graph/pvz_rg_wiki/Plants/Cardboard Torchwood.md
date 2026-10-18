@@ -4,10 +4,10 @@ Cardboard Torchwood is a supporting defensive standee that lights peas and other
 
 ![[missing_image.png|236]]
 
-| Class             | ![[mega-grow_class.png\|53]]    |
-| :---------------- | ------------------------------- |
-| Power Mint family | ![[pepper-mint_family.png\|53]] |
-| Tribes            |                                 |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]      |
+| :---------------- | -------------------------------------------------------- |
+| Power Mint family | ![[pepper-mint_family.png\|53]]<br>[[Pepper-mint Family]] |
+| Tribes            |                                                          |
 ## Contents
 
 - [[#Origins]]

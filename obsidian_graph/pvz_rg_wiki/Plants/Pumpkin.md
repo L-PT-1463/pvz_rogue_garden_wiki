@@ -4,10 +4,10 @@ Pumpkin is a defensive plant that is planted on other plants to protect them.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[guardian_class.png\|53]]        |
-| :---------------- | ---------------------------------- |
-| Power Mint family | ![[reinforce-mint_family.png\|53]] |
-| Tribes            |                                    |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]               |
+| :---------------- | --------------------------------------------------------------- |
+| Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Reinforce-mint Family]] |
+| Tribes            |                                                                 |
 ## Contents
 
 - [[#Origins]]

@@ -4,10 +4,10 @@ Bloomerang is a straight-shooter plant that fires boomerangs at the zombies, ret
 
 ![[missing_image.png|236]]
 
-| Class             | ![[solar_class.png\|53]]       |
-| :---------------- | ------------------------------ |
-| Power Mint family | ![[spear-mint_family.png\|53]] |
-| Tribes            | Flower                         |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]             |
+| :---------------- | ------------------------------------------------------- |
+| Power Mint family | ![[spear-mint_family.png\|53]]<br>[[Spear-mint Family]] |
+| Tribes            | [[Flower Tribe]]                                        |
 ## Contents
 
 - [[#Origins]]
@@ -57,11 +57,11 @@ Bloomerang is a regular plant from [[Old Wild Egypt]] that fires returning boome
 <font color="#4bacc6">Trait</font>: Each boomerang has the *Pierce* and *Strike-through* traits. As such, it can hit multiple zombies and traverses shields.
 ### Statistics
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+|           | Value    |
+| --------- | -------- |
+| Damage    |          |
+| Toughness |          |
+| Range     | Straight |
 ### Almanac
 
 Almanac entry.

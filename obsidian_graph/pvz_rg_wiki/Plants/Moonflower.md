@@ -8,10 +8,10 @@ Unpowered
 Shadow-powered
 ![[moonflower_shadow-powered.png|236]]
 
-| Class             | ![[solar_class.png\|53]]         |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[conceal-mint_family.png\|53]] |
-| Tribes            | Sun producer, Flower             |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]                 |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[conceal-mint_family.png\|53]]<br>[[Conceal-mint Family]] |
+| Tribes            | [[Sun Producer Tribe]], [[Flower Tribe]]                    |
 ## Contents
 
 - [[#Origins]]

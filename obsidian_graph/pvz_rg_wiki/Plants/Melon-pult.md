@@ -4,10 +4,10 @@ Melon-pult is a lobber plant that launches hard-hitting watermelons at the zombi
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]     |
-| :---------------- | ----------------------------- |
-| Power Mint family | ![[arma-mint_family.png\|53]] |
-| Tribes            |                               |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]          |
+| :---------------- | ------------------------------------------------------ |
+| Power Mint family | ![[arma-mint_family.png\|53]]<br>[[Arma-mint Familiy]] |
+| Tribes            |                                                        |
 ## Contents
 
 - [[#Origins]]

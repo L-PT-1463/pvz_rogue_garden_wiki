@@ -4,10 +4,10 @@ Laser Bean is a straight-shooter plant that fires a piercing laser at the zombie
 
 ![[missing_image.png|236]]
 
-| Class             | ![[solar_class.png\|53]]       |
-| :---------------- | ------------------------------ |
-| Power Mint family | ![[spear-mint_family.png\|53]] |
-| Tribes            | Bean                           |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]             |
+| :---------------- | ------------------------------------------------------- |
+| Power Mint family | ![[spear-mint_family.png\|53]]<br>[[Spear-mint Family]] |
+| Tribes            | [[Bean Tribe]]                                          |
 ## Contents
 
 - [[#Origins]]

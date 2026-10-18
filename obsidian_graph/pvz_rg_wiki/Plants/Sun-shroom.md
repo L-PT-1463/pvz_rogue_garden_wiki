@@ -8,10 +8,10 @@ First stage
 Final stage
 ![[sunnier-shroom.png|236]]
 
-| Class             | ![[solar_class.png\|53]]    |
-| :---------------- | --------------------------- |
-| Power Mint family | ![[enlighten-mint.png\|53]] |
-| Tribes            | Sun producer, Mushroom      |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]              |
+| :---------------- | -------------------------------------------------------- |
+| Power Mint family | ![[enlighten-mint.png\|53]]<br>[[Enlighten-mint Family]] |
+| Tribes            | [[Sun Producer Tribe]], [[Mushroom Tribe]]               |
 ## Contents
 
 - [[#Origins]]

@@ -4,10 +4,10 @@ Cardboard Umbrella Leaf is a support plant that protects other plants from threa
 
 ![[missing_image.png|236]]
 
-| Class             | ![[mega-grow_class.png\|53]]       |
-| :---------------- | ---------------------------------- |
-| Power Mint family | ![[reinforce-mint_family.png\|53]] |
-| Tribes            | Flower                             |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]             |
+| :---------------- | --------------------------------------------------------------- |
+| Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Reinforce-mint Family]] |
+| Tribes            | [[Flower Tribe]]                                                |
 ## Contents
 
 - [[#Origins]]

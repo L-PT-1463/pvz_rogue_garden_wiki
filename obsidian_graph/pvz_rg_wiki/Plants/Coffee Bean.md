@@ -1,13 +1,13 @@
-# Hot Potato
+# Coffee Bean
 
-Short summary of the plant.
+Coffee Bean is a supportive plant that awakes other plants on the garden.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]       |
-| :---------------- | ------------------------------- |
-| Power Mint family | ![[pepper-mint_family.png\|53]] |
-| Tribes            |                                 |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]             |
+| :---------------- | --------------------------------------------------------- |
+| Power Mint family | ![[comple-mint_family.png\|53]]<br>[[Comple-mint Family]] |
+| Tribes            |                                                           |
 ## Contents
 
 - [[#Origins]]
@@ -15,19 +15,10 @@ Short summary of the plant.
 	- [[#In PvZ Rogue Garden#Mutations|Mutations]]
 	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
 	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
-- [[#In PvZ: Lawnmaggedon]]
-	- [[#In PvZ Lawnmaggedon#Mutations|Mutations]]
-	- [[#In PvZ: Lawnmaggedon#Statistics|Statistics]]
-	- [[#In PvZ: Lawnmaggedon#Almanac|Almanac]]
 - [[#In PvZ Clicker]]
 ## Origins
 
-Information about the plant's origins, inspiration, or first appearance.
-
-Plant is an official Plants vs Zombie plant that made its debut in 
+Plant is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it allowed mushrooms to be used on day levels by waking them up.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

@@ -4,10 +4,10 @@ Tile Turnip is a plant that drills into the ground to become a supporting tile f
 
 ![[missing_image.png|236]]
 
-| Class             | ![[mega-grow_class.png\|53]]    |
-| :---------------- | ------------------------------- |
-| Power Mint family | ![[comple-mint_family.png\|53]] |
-| Tribes            |                                 |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]       |
+| :---------------- | --------------------------------------------------------- |
+| Power Mint family | ![[comple-mint_family.png\|53]]<br>[[Comple-mint Family]] |
+| Tribes            |                                                           |
 ## Contents
 
 - [[#Origins]]

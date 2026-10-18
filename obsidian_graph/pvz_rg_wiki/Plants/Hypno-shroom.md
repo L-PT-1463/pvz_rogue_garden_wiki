@@ -4,10 +4,10 @@ Hypno-shroom is an instant use plant, consumed by the zombies to turn them again
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]        |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[enchant-mint_family.png\|53]] |
-| Tribes            | Mushroom                         |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]               |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[enchant-mint_family.png\|53]]<br>[[Enchant-mint Family]] |
+| Tribes            | [[Mushroom Tribe]]                                          |
 ## Contents
 
 - [[#Origins]]

@@ -4,10 +4,10 @@ Wall-nut is a protective barrier plant that blocks the advance of the zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[guardian_class.png\|53]]        |
-| :---------------- | ---------------------------------- |
-| Power Mint family | ![[reinforce-mint_family.png\|53]] |
-| Tribes            | Nut                                |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]               |
+| :---------------- | --------------------------------------------------------------- |
+| Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Reinforce-mint Family]] |
+| Tribes            | [[Nut Tribe]]                                                   |
 ## Contents
 
 - [[#Origins]]

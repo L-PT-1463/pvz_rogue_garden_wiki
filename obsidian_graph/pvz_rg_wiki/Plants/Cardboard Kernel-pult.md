@@ -4,10 +4,10 @@ Cardboard Kernel-pult is a lobber standee that launches kernels and stalling but
 
 ![[missing_image.png|236]]
 
-| Class             | ![[solar_class.png\|53]]      |
-| :---------------- | ----------------------------- |
-| Power Mint family | ![[arma-mint_family.png\|53]] |
-| Tribes            |                               |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]            |
+| :---------------- | ------------------------------------------------------ |
+| Power Mint family | ![[arma-mint_family.png\|53]]<br>[[Arma-mint Familiy]] |
+| Tribes            |                                                        |
 ## Contents
 
 - [[#Origins]]

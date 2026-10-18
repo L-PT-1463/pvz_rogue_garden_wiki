@@ -4,10 +4,10 @@ Cardboard Puff-shroom is a standee that fires a cloud of spores, hitting all zom
 
 ![[cardboard_puff-shroom.png|236]]
 
-| Class             | ![[kabloom_class.png\|53]]   |
-| :---------------- | ---------------------------- |
-| Power Mint family | ![[ail-mint_family.png\|53]] |
-| Tribes            | Mushroom                     |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]     |
+| :---------------- | --------------------------------------------------- |
+| Power Mint family | ![[ail-mint_family.png\|53]]<br>[[Ail-mint Family]] |
+| Tribes            | [[Mushroom Tribe]]                                  |
 ## Contents
 
 - [[#Origins]]

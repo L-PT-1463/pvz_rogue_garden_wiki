@@ -4,10 +4,10 @@ Cactus is a straight-shooter plant, that fires thorns at zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[guardian_class.png\|53]]    |
-| :---------------- | ------------------------------ |
-| Power Mint family | ![[spear-mint_family.png\|53]] |
-| Tribes            | Flower                         |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]       |
+| :---------------- | ------------------------------------------------------- |
+| Power Mint family | ![[spear-mint_family.png\|53]]<br>[[Spear-mint Family]] |
+| Tribes            | [[Flower Tribe]]                                        |
 ## Contents
 
 - [[#Origins]]

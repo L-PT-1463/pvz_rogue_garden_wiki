@@ -4,10 +4,10 @@ Magnet Plant is a plant that attracts metallic objects from the zombies in range
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]    |
-| :---------------- | ---------------------------- |
-| Power Mint family | ![[ail-mint_family.png\|53]] |
-| Tribes            |                              |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]       |
+| :---------------- | --------------------------------------------------- |
+| Power Mint family | ![[ail-mint_family.png\|53]]<br>[[Ail-mint Family]] |
+| Tribes            |                                                     |
 ## Contents
 
 - [[#Origins]]

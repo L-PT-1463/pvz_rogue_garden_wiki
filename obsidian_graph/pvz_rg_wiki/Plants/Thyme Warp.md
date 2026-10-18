@@ -4,10 +4,10 @@ Thyme Warp is a time-manipulating plant that sends zombies back down the lawn.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]       |
-| :---------------- | ------------------------------- |
-| Power Mint family | ![[comple-mint_family.png\|53]] |
-| Tribes            |                                 |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]               |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[contain-mint_family.png\|53]]<br>[[Contain-mint Family]] |
+| Tribes            |                                                             |
 ## Contents
 
 - [[#Origins]]

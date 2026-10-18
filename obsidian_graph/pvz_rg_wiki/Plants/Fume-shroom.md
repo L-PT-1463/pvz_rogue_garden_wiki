@@ -4,10 +4,10 @@ Fume-shroom is a mushroom that fires a cloud of spores, hitting all zombies in a
 
 ![[fume-shroom.png|236]]
 
-| Class             | ![[solar_class.png\|53]]     |
-| :---------------- | ---------------------------- |
-| Power Mint family | ![[ail-mint_family.png\|53]] |
-| Tribes            | Mushroom                     |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]         |
+| :---------------- | --------------------------------------------------- |
+| Power Mint family | ![[ail-mint_family.png\|53]]<br>[[Ail-mint Family]] |
+| Tribes            | [[Mushroom Tribe]]                                  |
 ## Contents
 
 - [[#Origins]]

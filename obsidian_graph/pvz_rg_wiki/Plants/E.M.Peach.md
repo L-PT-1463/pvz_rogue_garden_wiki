@@ -4,10 +4,10 @@ E.M.Peach is an instant plant that explodes in an area of effect to weaken the z
 
 ![[missing_image.png|236]]
 
-| Class             | ![[kabloom_class.png\|53]]    |
-| :---------------- | ----------------------------- |
-| Power Mint family | ![[fila-mint_family.png\|53]] |
-| Tribes            |                               |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]       |
+| :---------------- | ----------------------------------------------------- |
+| Power Mint family | ![[fila-mint_family.png\|53]]<br>[[Fila-mint Family]] |
+| Tribes            |                                                       |
 ## Contents
 
 - [[#Origins]]

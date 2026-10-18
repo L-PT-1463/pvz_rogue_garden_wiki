@@ -4,10 +4,10 @@ Threepeater is a straight-shooter that shoots peas at the zombies both in front 
 
 ![[threepeater.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]        |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[appease-mint_family.png\|53]] |
-| Tribes            | Pea                              |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]               |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[appease-mint_family.png\|53]]<br>[[Appease-mint Family]] |
+| Tribes            | [[Pea Tribe]]                                               |
 ## Contents
 
 - [[#Origins]]

@@ -4,10 +4,10 @@ Repeater is a straight-shooter that shoots two peas at a time at the zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[guardian_class.png\|53]]      |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[appease-mint_family.png\|53]] |
-| Tribes            | Flower                           |
+| Class             | ![[guardian_class.png\|53]]<br>[[Red Stinger]]              |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[appease-mint_family.png\|53]]<br>[[Appease-mint Family]] |
+| Tribes            | [[Flower Tribe]]                                            |
 ## Contents
 
 - [[#Origins]]

@@ -4,10 +4,10 @@ Pea Pod is a straight-shooter that grows in stages, firing up to five peas at th
 
 ![[pea_pod.png|236]]
 
-| Class             | ![[mega-grow_class.png\|53]]     |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[appease-mint_family.png\|53]] |
-| Tribes            | Pea                              |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]         |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[appease-mint_family.png\|53]]<br>[[Appease-mint Family]] |
+| Tribes            | [[Pea Tribe]]                                               |
 ## Contents
 
 - [[#Origins]]

@@ -4,10 +4,10 @@ Lily Pad is a utility plant, that can be placed on water to allow ground plants 
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]       |
-| :---------------- | ------------------------------- |
-| Power Mint family | ![[comple-mint_family.png\|53]] |
-| Tribes            |                                 |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]             |
+| :---------------- | --------------------------------------------------------- |
+| Power Mint family | ![[comple-mint_family.png\|53]]<br>[[Comple-mint Family]] |
+| Tribes            |                                                           |
 ## Contents
 
 - [[#Origins]]

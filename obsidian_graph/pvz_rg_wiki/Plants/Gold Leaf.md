@@ -4,10 +4,10 @@ Gold Leaf is a plant that fuses into the ground to become a sun-producing tile.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[solar_class.png\|53]]    |
-| :---------------- | --------------------------- |
-| Power Mint family | ![[enlighten-mint.png\|53]] |
-| Tribes            |                             |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]              |
+| :---------------- | -------------------------------------------------------- |
+| Power Mint family | ![[enlighten-mint.png\|53]]<br>[[Enlighten-mint Family]] |
+| Tribes            |                                                          |
 ## Contents
 
 - [[#Origins]]

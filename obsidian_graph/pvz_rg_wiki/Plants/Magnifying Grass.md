@@ -4,10 +4,10 @@ Magnifying Grass is a plant that funnels solar energy into powerful attacks agai
 
 ![[missing_image.png|236]]
 
-| Class             | ![[solar_class.png\|53]]    |
-| :---------------- | --------------------------- |
-| Power Mint family | ![[enlighten-mint.png\|53]] |
-| Tribes            |                             |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]              |
+| :---------------- | -------------------------------------------------------- |
+| Power Mint family | ![[enlighten-mint.png\|53]]<br>[[Enlighten-mint Family]] |
+| Tribes            |                                                          |
 ## Contents
 
 - [[#Origins]]

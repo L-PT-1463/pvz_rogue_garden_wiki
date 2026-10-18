@@ -4,10 +4,10 @@ Sea-shroom is an aquatic mushroom that attacks in a short range.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[guardian_class.png\|53]]  |
-| :---------------- | ---------------------------- |
-| Power Mint family | ![[ail-mint_family.png\|53]] |
-| Tribes            | Mushroom                     |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]   |
+| :---------------- | --------------------------------------------------- |
+| Power Mint family | ![[ail-mint_family.png\|53]]<br>[[Ail-mint Family]] |
+| Tribes            | [[Mushroom Tribe]]                                  |
 ## Contents
 
 - [[#Origins]]

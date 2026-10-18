@@ -4,10 +4,10 @@ Electric Repeater is a straight-shooter that shoots two electric peas at a time 
 
 ![[electric_repeater.png|236]]
 
-| Class             | ![[missing_image.png\|53]]    |
-| :---------------- | ----------------------------- |
-| Power Mint family | ![[fila-mint_family.png\|53]] |
-| Tribes            | Pea                           |
+| Class             | ![[missing_image.png\|53]]                            |
+| :---------------- | ----------------------------------------------------- |
+| Power Mint family | ![[fila-mint_family.png\|53]]<br>[[Fila-mint Family]] |
+| Tribes            | [[Pea Tribe]]                                         |
 ## Contents
 
 - [[#Origins]]

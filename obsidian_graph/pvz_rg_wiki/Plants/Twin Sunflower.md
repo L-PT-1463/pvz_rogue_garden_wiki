@@ -4,10 +4,10 @@ Twin Sunflower is a supporting plant that generates a lot of sun.
 
 ![[twin_sunflower.png|267]]
 
-| Class             | ![[solar_class.png\|53]]    |
-| :---------------- | --------------------------- |
-| Power Mint family | ![[enlighten-mint.png\|53]] |
-| Tribes            | Sun producer, Flower        |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]              |
+| :---------------- | -------------------------------------------------------- |
+| Power Mint family | ![[enlighten-mint.png\|53]]<br>[[Enlighten-mint Family]] |
+| Tribes            | [[Sun Producer Tribe]], [[Flower Tribe]]                 |
 ## Contents
 
 - [[#Origins]]

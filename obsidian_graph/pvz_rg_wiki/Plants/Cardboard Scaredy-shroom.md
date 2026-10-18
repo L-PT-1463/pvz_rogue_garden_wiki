@@ -4,10 +4,10 @@ Cardboard Scaredy-shroom is a straight-shooter standee that attacks zombies from
 
 ![[cardboard_scaredy-shroom.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]    |
-| :---------------- | ---------------------------- |
-| Power Mint family | ![[ail-mint_family.png\|53]] |
-| Tribes            | Mushroom                     |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]       |
+| :---------------- | --------------------------------------------------- |
+| Power Mint family | ![[ail-mint_family.png\|53]]<br>[[Ail-mint Family]] |
+| Tribes            | [[Mushroom Tribe]]                                  |
 ## Contents
 
 - [[#Origins]]

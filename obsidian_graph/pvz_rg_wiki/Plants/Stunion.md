@@ -4,10 +4,10 @@ Stunion is an instant plant that exhales strong gases, stunning the zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[guardian_class.png\|53]]      |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[contain-mint_family.png\|53]] |
-| Tribes            |                                  |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]           |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[contain-mint_family.png\|53]]<br>[[Contain-mint Family]] |
+| Tribes            |                                                             |
 ## Contents
 
 - [[#Origins]]

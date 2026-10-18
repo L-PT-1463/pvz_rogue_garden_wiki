@@ -4,10 +4,10 @@ Cardboard Starfruit is a straight-shooter standee that fires in five directions.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]        |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[appease-mint_family.png\|53]] |
-| Tribes            |                                  |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]               |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[appease-mint_family.png\|53]]<br>[[Appease-mint Family]] |
+| Tribes            |                                                             |
 ## Contents
 
 - [[#Origins]]

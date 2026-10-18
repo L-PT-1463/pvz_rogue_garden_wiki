@@ -4,10 +4,10 @@ Dusk Lobber is a shadow plant that lobs explosive flower buds at the zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]       |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[conceal-mint_family.png\|53]] |
-| Tribes            | Flower                           |
+| Class             | ![[missing_image.png\|53]]                                  |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[conceal-mint_family.png\|53]]<br>[[Conceal-mint Family]] |
+| Tribes            | [[Flower Tribe]]                                            |
 ## Contents
 
 - [[#Origins]]

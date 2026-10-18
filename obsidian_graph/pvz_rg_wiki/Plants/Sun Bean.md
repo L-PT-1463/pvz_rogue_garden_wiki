@@ -4,10 +4,10 @@ Sun Bean is a single-use plant that when consumed infects zombies with solar ene
 
 ![[missing_image.png|236]]
 
-| Class             | ![[solar_class.png\|53]]    |
-| :---------------- | --------------------------- |
-| Power Mint family | ![[enlighten-mint.png\|53]] |
-| Tribes            | Bean                        |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]              |
+| :---------------- | -------------------------------------------------------- |
+| Power Mint family | ![[enlighten-mint.png\|53]]<br>[[Enlighten-mint Family]] |
+| Tribes            | [[Bean Tribe]]                                           |
 ## Contents
 
 - [[#Origins]]

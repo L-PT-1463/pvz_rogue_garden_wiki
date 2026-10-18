@@ -4,10 +4,10 @@ Jalapeño is an instant-use plant that burst into fire, damaging all zombies in 
 
 ![[missing_image.png|236]]
 
-| Class             | ![[kabloom_class.png\|53]]      |
-| :---------------- | ------------------------------- |
-| Power Mint family | ![[pepper-mint_family.png\|53]] |
-| Tribes            |                                 |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]           |
+| :---------------- | --------------------------------------------------------- |
+| Power Mint family | ![[pepper-mint_family.png\|53]]<br>[[Pepper-mint Family]] |
+| Tribes            |                                                           |
 ## Contents
 
 - [[#Origins]]
