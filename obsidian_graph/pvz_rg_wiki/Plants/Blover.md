@@ -15,6 +15,9 @@ Blover is a wind-making plant, perfect to fight back against fog and flying thre
 	- [[#In PvZ Rogue Garden#Mutations|Mutations]]
 	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
 	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
+- [[#In PvZ ZPG - Zombie RPG]]
+	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
+	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
 - [[#In PvZ Clicker]]
 ## Origins
 
@@ -47,24 +50,19 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Description of the plant in ZPG - Zombie RPG.
+Blover is a regular plant that creates wind in its garden, pushing zombies back.
 
-<font color="#9bbb59">Speciality</font>:
+<font color="#9bbb59">Speciality</font>: Attacks the front-most zombie of each lane.
 
-<font color="#f79646">Placement speciality</font>: 
-
-<font color="#8064a2">When / If</font>:
-
-<font color="#4bacc6">Trait</font>:
-
-<font color="#c0504d">Weakness</font>:
+<font color="#4bacc6">Trait</font>: It has the *Pierce* trait, meaning its fire can hit zombies hiding behind a shield.
+<font color="#4bacc6">Trait</font>: Its attack has the *Knockback* trait, meaning it has a chance to push the hit zombie back one tile.
 ### Statistics
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+|           | Value    |
+| --------- | -------- |
+| Damage    |          |
+| Toughness |          |
+| Range     | Straight |
 ### Almanac
 
 Almanac entry.

@@ -54,7 +54,7 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Chilly Pepper is a regular plant from the [[Neighbour's House]] exclusive to [[Winter]] gardens.
+Chilly Pepper is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
 
 <font color="#8064a2">When vanquished</font>: It explodes, attacking all zombies in its lane, but dealing no damage.
 

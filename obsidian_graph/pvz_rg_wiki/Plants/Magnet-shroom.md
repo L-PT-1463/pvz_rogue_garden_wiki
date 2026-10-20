@@ -50,7 +50,7 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Magnet-shroom is a regular plant from the [[Dark Ages]] exclusive to [[Mushroom Grotto]] gardens.
+Magnet-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
 
 <font color="#9bbb59">Speciality</font>: Magnet-shroom's ability affects a 4x3 range, with two tiles in front of it and one behind.
 

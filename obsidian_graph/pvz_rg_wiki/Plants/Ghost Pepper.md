@@ -58,7 +58,7 @@ Ghost Pepper is a pass-through plant from the [[Dark Ages]] that attacks all zom
 
 <font color="#9bbb59">Speciality</font>: Ghost Pepper attacks its tile and the two tiles in front and behind itself.
 
-<font color="#f79646">Placement speciality</font>: Rotobaga is aerial, and can therefore appear and move to any tile.
+<font color="#f79646">Placement speciality</font>: Ghost Pepper is aerial, and can therefore appear and move to any tile.
 
 <font color="#8064a2">After 3 turns</font>: Ghost Pepper vanquishes itself.
 <font color="#8064a2">When vanquished</font>: Attacks all zombies in the diagonally neighbouring tiles with a straight-attack type explosion.

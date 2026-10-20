@@ -7,7 +7,7 @@ Cherry Bomb is an instant-use explosive plant.
 | Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]             |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[bombard-mint_family.png\|53]]<br>[[Bombard-mint Family]] |
-| Tribes            |                                                             |
+| Tribes            | [[Berry Tribe]]                                             |
 ## Contents
 
 - [[#Origins]]

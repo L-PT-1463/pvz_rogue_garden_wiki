@@ -50,7 +50,7 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Lightning Reed is a regular plant from the [[Far Future]] and [[Neon Carnival]], in which it is exclusive to [[Bog of Enlightenment]] gardens. It shoots bolts of lightning at the front-most zombie in its lane.
+Lightning Reed is a regular plant from the [[Far Future]] and [[Neon Carnival]], where it is exclusive to [[Bog of Enlightenment]] gardens. It shoots bolts of lightning at the front-most zombie in its lane.
 
 <font color="#9bbb59">Speciality</font>: After hitting the target zombie, the bolt jumps to up to two more zombies consecutively, within 1 tile (including diagonals) of the previous zombie.
 
