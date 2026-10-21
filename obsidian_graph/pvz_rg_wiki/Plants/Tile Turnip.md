@@ -54,8 +54,8 @@ Tile Turnip is a pass-through plant from the [[Far Future]].
 
 <font color="#9bbb59">Speciality</font>: When a plant in the same tile as a Tile Turnip attacks, all plants in the same tile as another Tile Turnip attack.
 
-<font color="#4bacc6">Trait</font>: It has the *Pot* trait, allowing plants to appear on its tile. Because of this, it cannot be targeted by ranged attacks and the plant on top must be vanquished before it.
-<font color="#4bacc6">Trait</font>: It has the *Grounded* trait, and can therefore avoid most attacks.
+<font color="#4bacc6">Trait</font>: It has the *[[Pot]]* trait, allowing plants to appear on its tile. Because of this, it cannot be targeted by ranged attacks and the plant on top must be vanquished before it.
+<font color="#4bacc6">Trait</font>: It has the *[[Grounded]]* trait, and can therefore avoid most attacks.
 ### Statistics
 
 |           | Value |

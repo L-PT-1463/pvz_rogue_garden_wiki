@@ -54,8 +54,8 @@ Blover is a regular plant that creates wind in its garden, pushing zombies back.
 
 <font color="#9bbb59">Speciality</font>: Attacks the front-most zombie of each lane.
 
-<font color="#4bacc6">Trait</font>: It has the *Pierce* trait, meaning its fire can hit zombies hiding behind a shield.
-<font color="#4bacc6">Trait</font>: Its attack has the *Knockback* trait, meaning it has a chance to push the hit zombie back one tile.
+<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its wind can hit zombies hiding behind a shield.
+<font color="#4bacc6">Trait</font>: Its attack has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
 ### Statistics
 
 |           | Value    |

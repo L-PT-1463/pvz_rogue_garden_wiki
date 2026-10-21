@@ -56,7 +56,7 @@ Almanac entry.
 
 Wall-nut is protector plant from [[Old Wild Egypt]].
 
-<font color="#4bacc6">Trait</font>: It has the *Tall* trait to counter the zombie's *Traverse* trait.
+<font color="#4bacc6">Trait</font>: It has the *[[Tall]]* trait to counter the zombie's *Traverse* trait.
 ### Statistics
 
 |           | Value |
@@ -77,13 +77,13 @@ When used as part of Nate's ability, a Tall-nut is occasionally planted at rando
 Tall-nut is a mutation of the [[Wall-nut]], obtained by fusing a Wall-nut and a [[Jugger-nut]], or by applying [[Fertilizer]] to the latter.
 ### Statistics
 
-|               | Value   |
-| ------------- | ------- |
-| Mutation type | Level 3 |
-| Rarity        |         |
-| Damage        |         |
-| Attack speed  |         |
-| Targeting     | Random  |
+|               | Value            |
+| ------------- | ---------------- |
+| Mutation type | Level 2 Mutation |
+| Rarity        |                  |
+| Damage        |                  |
+| Attack speed  |                  |
+| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

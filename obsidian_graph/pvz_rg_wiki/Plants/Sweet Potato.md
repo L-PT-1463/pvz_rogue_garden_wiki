@@ -81,13 +81,13 @@ Sweet Potato is a mutation of [[Wall-nut]], obtained by fusing two Wall-nuts.
 | Splicing      | [[Cherry Bomb]] | [[Hot Date]] |
 ### Statistics
 
-|               | Value   |
-| ------------- | ------- |
-| Mutation type | Level 2 |
-| Rarity        |         |
-| Damage        |         |
-| Attack speed  |         |
-| Targeting     | Random  |
+|               | Value            |
+| ------------- | ---------------- |
+| Mutation type | Level 1 Mutation |
+| Rarity        |                  |
+| Damage        |                  |
+| Attack speed  |                  |
+| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

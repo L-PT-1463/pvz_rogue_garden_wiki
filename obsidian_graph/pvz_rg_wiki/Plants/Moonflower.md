@@ -11,7 +11,7 @@ Shadow-powered
 | Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]                 |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[conceal-mint_family.png\|53]]<br>[[Conceal-mint Family]] |
-| Tribes            | [[Sun Producer Tribe]], [[Flower Tribe]]                    |
+| Tribes            | [[Flower Tribe]]                                            |
 ## Contents
 
 - [[#Origins]]
@@ -89,13 +89,13 @@ If the player has at least one other Moonflower, Moonflower periodically generat
 Moonflower is a mutation of the [[Sunflower]], obtained by splicing a Sunflower and a [[Moonbean]].
 ### Statistics
 
-|               | Value   |
-| ------------- | ------- |
-| Mutation type | Level 2 |
-| Rarity        |         |
-| Damage        |         |
-| Attack speed  |         |
-| Targeting     |         |
+|               | Value            |
+| ------------- | ---------------- |
+| Mutation type | Level 1 Mutation |
+| Rarity        |                  |
+| Damage        |                  |
+| Attack speed  |                  |
+| Targeting     |                  |
 ### Almanac
 
 Almanac entry.

@@ -54,7 +54,7 @@ Lily Pad is a pass-through plant that allows plants to be planted on water tiles
 
 <font color="#f79646">Placement speciality</font>: It is aquatic, meaning it can only appear and move to water tiles.
 
-<font color="#4bacc6">Trait</font>: It has the *Pot* trait, allowing plants to appear on its tile. Because of this, it cannot be targeted by ranged attacks and the plant on top must be vanquished before it.
+<font color="#4bacc6">Trait</font>: It has the *[[Pot]]* trait, allowing plants to appear on its tile. Because of this, it cannot be targeted by ranged attacks and the plant on top must be vanquished before it.
 ### Statistics
 
 |           | Value |

@@ -62,8 +62,8 @@ Shadow Peashooter is a regular plant from the [[Dark Ages]], exclusive to [[Cast
 
 It attacks in a straight line, shooting if there is a zombie in range.
 
-<font color="#4bacc6">Trait</font>: If shadow-powered, its attacks have the *Strike-through* trait. As such, it can hit multiple zombies but the attack is blocked by shields.
-<font color="#4bacc6">Trait</font>: If shadow-powered, its attacks have the *Stall* trait, meaning the hit zombies cannot move on their next turn.
+<font color="#4bacc6">Trait</font>: If shadow-powered, its attacks have the *[[Strike-through]]* trait. As such, it can hit multiple zombies but the attack is blocked by shields.
+<font color="#4bacc6">Trait</font>: If shadow-powered, its attacks have the *[[Stall]]* trait, meaning the hit zombies cannot move on their next turn.
 ### Statistics
 
 |           | Value    |
@@ -95,7 +95,7 @@ Shadow Peashooter is a mutation of the [[Peashooter]], obtained by splicing a Pe
 
 |               | Value             |
 | ------------- | ----------------- |
-| Mutation type | Level 2           |
+| Mutation type | Level 1 Mutation  |
 | Rarity        |                   |
 | Damage        |                   |
 | Attack speed  |                   |

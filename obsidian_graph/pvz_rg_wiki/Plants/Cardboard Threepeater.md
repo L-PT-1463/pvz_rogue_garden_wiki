@@ -23,7 +23,7 @@ Cardboard Threepeater is a regular plant from the [[Training Grounds]] that atta
 
 <font color="#9bbb59">Speciality</font>: It shoots in its lane and neighbouring lanes if there is a zombie in range. Cardboard Threepeater always fires all three peas when attacking.
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
 ### Statistics
 
 |           | Value    |

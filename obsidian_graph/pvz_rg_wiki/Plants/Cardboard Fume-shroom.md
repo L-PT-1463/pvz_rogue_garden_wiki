@@ -21,7 +21,7 @@ Cardboard Fume-shroom is an official Plants vs Zombie plant from the I, Zombie m
 
 Cardboard Fume-shroom is a regular plant from the [[Training Grounds]] that attacks in a medium range.
 
-<font color="#4bacc6">Trait</font>: Its attack has both the *Pierce* and *Strike-through* traits. As such, it can hit multiple zombies and traverses shields.
+<font color="#4bacc6">Trait</font>: Its attack has both the *[[Pierce]]* and *Strike-through* traits. As such, it can hit multiple zombies and traverses shields.
 ### Statistics
 
 |           | Value    |

@@ -54,7 +54,7 @@ Stallia is a regular plant from the [[Lost City]] that attacks, dealing no damag
 
 <font color="#9bbb59">Speciality</font>: It attacks every turn in a 3x3 area regardless of whether there is a zombie there or not.
 
-<font color="#4bacc6">Trait</font>: Its attack has the *Stall* trait, which means zombies hit by it cannot move on their next turn.
+<font color="#4bacc6">Trait</font>: Its attack has the *[[Stall]]* trait, which means zombies hit by it cannot move on their next turn.
 ### Statistics
 
 |           | Value |

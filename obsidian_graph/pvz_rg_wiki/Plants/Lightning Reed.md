@@ -54,7 +54,7 @@ Lightning Reed is a regular plant from the [[Far Future]] and [[Neon Carnival]],
 
 <font color="#9bbb59">Speciality</font>: After hitting the target zombie, the bolt jumps to up to two more zombies consecutively, within 1 tile (including diagonals) of the previous zombie.
 
-<font color="#4bacc6">Trait</font>: It has the *Pierce* trait, meaning its bolt can hit zombies hiding behind a shield.
+<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its bolt can hit zombies hiding behind a shield.
 ### Statistics
 
 |           | Value    |

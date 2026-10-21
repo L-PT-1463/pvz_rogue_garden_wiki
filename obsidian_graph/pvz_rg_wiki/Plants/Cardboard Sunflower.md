@@ -7,7 +7,7 @@ Cardboard Sunflower is a supporting standee that generates sun.
 | Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]              |
 | :---------------- | -------------------------------------------------------- |
 | Power Mint family | ![[enlighten-mint.png\|53]]<br>[[Enlighten-mint Family]] |
-| Tribes            | [[Sun Producer Tribe]], [[Flower Tribe]]                 |
+| Tribes            | [[Flower Tribe]]                                         |
 ## Contents
 
 - [[#Origins]]

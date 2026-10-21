@@ -85,7 +85,7 @@ Melon-pult is a mutation of [[Pepper-pult]], obtained by fusing two Pepper-pults
 
 |               | Value                 |
 | ------------- | --------------------- |
-| Mutation type | Level 2               |
+| Mutation type | Level 1 Mutation      |
 | Rarity        |                       |
 | Damage        |                       |
 | Attack speed  |                       |

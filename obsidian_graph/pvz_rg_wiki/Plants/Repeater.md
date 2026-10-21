@@ -56,8 +56,8 @@ Almanac entry.
 
 Repeater is a regular plant from [[Old Wild Egypt]] that attacks in a straight line, shooting if there is a zombie in range.
 
-<font color="#4bacc6">Trait</font>: It has the *Repeat* trait, so fires twice per attack.
-<font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
+<font color="#4bacc6">Trait</font>: It has the *[[Repeat]]* trait, so fires twice per attack.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
 ### Statistics
 
 |           | Value    |
@@ -92,7 +92,7 @@ Repeater is a mutation of the [[Peashooter]], obtained by fusing two Peashooters
 
 |               | Value             |
 | ------------- | ----------------- |
-| Mutation type | Level 2           |
+| Mutation type | Level 1 Mutation  |
 | Rarity        |                   |
 | Damage        |                   |
 | Attack speed  |                   |

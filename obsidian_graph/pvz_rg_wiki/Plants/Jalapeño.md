@@ -58,7 +58,7 @@ Jalapeño is a regular plant from [[Old Wild Egypt]].
 
 <font color="#8064a2">When vanquished</font>: It explodes, dealing damage to all zombies in its lane.
 
-<font color="#4bacc6">Trait</font>: The attack has the *Fire* trait.
+<font color="#4bacc6">Trait</font>: The attack has the *[[Fire]]* trait.
 ### Statistics
 
 |           | Value  |
@@ -84,13 +84,13 @@ Jalapeño is a mutation of [[Cherry Bomb]], obtained by fusing two Cherry Bombs.
 | Splicing      | [[Iceberg Lettuce]] | [[Chilly Pepper]] |
 ### Statistics
 
-|               | Value   |
-| ------------- | ------- |
-| Mutation type | Level 2 |
-| Rarity        |         |
-| Damage        |         |
-| Range         |         |
-| Targeting     | Random  |
+|               | Value            |
+| ------------- | ---------------- |
+| Mutation type | Level 1 Mutation |
+| Rarity        |                  |
+| Damage        |                  |
+| Range         |                  |
+| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

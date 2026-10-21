@@ -54,7 +54,7 @@ Bloomerang is a regular plant from [[Old Wild Egypt]] that fires returning boome
 
 <font color="#9bbb59">Speciality</font>: After traversing five tiles or three zombies, whichever comes first, the boomerang projectile returns to the Bloomerang, hitting every zombie a second time.
 
-<font color="#4bacc6">Trait</font>: Each boomerang has the *Pierce* and *Strike-through* traits. As such, it can hit multiple zombies and traverses shields.
+<font color="#4bacc6">Trait</font>: Each boomerang has the *[[Pierce]]* and *Strike-through* traits. As such, it can hit multiple zombies and traverses shields.
 ### Statistics
 
 |           | Value    |

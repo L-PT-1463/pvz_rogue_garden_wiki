@@ -58,7 +58,7 @@ Apple Mortar is a regular plant from the [[Pirate's Beach]] that lobs apple core
 
 <font color="#9bbb59">Speciality</font>: Attacks on its lane and neighbouring lanes.
 
-<font color="#4bacc6">Trait</font>: Its attack has the *Stun* trait, meaning the hit zombies can't move or attack on their next turn.
+<font color="#4bacc6">Trait</font>: Its attack has the *[[Stun]]* trait, meaning the hit zombies can't move or attack on their next turn.
 ### Statistics
 
 |           | Value  |
@@ -85,7 +85,7 @@ Apple Mortar is a mutation of [[Kernel-pult]], obtained by splicing a [[Cabbage-
 
 |               | Value                 |
 | ------------- | --------------------- |
-| Mutation type | Level 3               |
+| Mutation type | Level 2 Mutation      |
 | Rarity        |                       |
 | Damage        |                       |
 | Attack speed  |                       |

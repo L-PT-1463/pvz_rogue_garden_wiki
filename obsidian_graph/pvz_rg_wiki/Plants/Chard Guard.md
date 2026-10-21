@@ -54,7 +54,7 @@ Almanac entry.
 
 Chard Guard is protector plant from the [[Jurassic Marsh]], that attacks in the tile ahead of itself for no damage.
 
-<font color="#4bacc6">Trait</font>: Its attack has the *Knockback* trait, meaning it has a chance to push the hit zombie back one tile.
+<font color="#4bacc6">Trait</font>: Its attack has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
 ### Statistics
 
 |           | Value    |

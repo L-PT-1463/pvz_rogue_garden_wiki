@@ -74,9 +74,10 @@ Bonk Choy is a potted base melee plant.
 It rapidly attacks zombies the closest zombie to itself in range.
 ### Mutations
 
-| Mutation type | Other plant  | Mutation       |
-| ------------- | ------------ | -------------- |
-| Splicing      | [[Moonbean]] | [[Nightshade]] |
+| Mutation type | Other plant     | Mutation        |
+| ------------- | --------------- | --------------- |
+| Splicing      | [[Moonbean]]    | [[Nightshade]]  |
+| Splicing      | [[Cherry Bomb]] | [[Wasabi Whip]] |
 ### Statistics
 
 |               | Value           |

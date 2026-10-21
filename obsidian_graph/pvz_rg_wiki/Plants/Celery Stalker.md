@@ -54,7 +54,7 @@ Celery Stalker is a protector plant from [[The Zombosseum]] that can only attack
 
 <font color="#9bbb59">Speciality</font>: At the start of the turn, if there are no zombies in range, it hides, becoming a regular plant.
 
-<font color="#4bacc6">Trait</font>: When hidden, gains the *Grounded* trait, and can therefore avoid most attacks.
+<font color="#4bacc6">Trait</font>: When hidden, gains the *[[Grounded]]* trait, and can therefore avoid most attacks.
 ### Statistics
 
 |           | Value    |

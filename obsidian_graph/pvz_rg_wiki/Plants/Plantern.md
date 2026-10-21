@@ -56,9 +56,9 @@ Plantern is a regular plant from the [[Neighbour's House]] that attacks in a one
 
 <font color="#9bbb59">Speciality</font>: It clears fog in a 3x3 area.
 
-When a zombie with the *Invisible* trait enters or starts its turn on the 3x3 area around the Plantern, its *Invisible* trait is reduced by 1 stack.
+When a zombie with the *[[Invisible]]* trait enters or starts its turn on the 3x3 area around the Plantern, its *Invisible* trait is reduced by 1 stack.
 
-<font color="#4bacc6">Trait</font>: It has the *Stun* trait, which means the hit zombie can't move or attack on its next turn.
+<font color="#4bacc6">Trait</font>: It has the *[[Stun]]* trait, which means the hit zombie can't move or attack on its next turn.
 ### Statistics
 
 |           | Value    |

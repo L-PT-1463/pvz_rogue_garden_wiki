@@ -4,7 +4,7 @@ Hypno-shroom is an instant use plant, consumed by the zombies to turn them again
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]               |
+| Class             | ![[missing_image.png\|53]]                                  |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[enchant-mint_family.png\|53]]<br>[[Enchant-mint Family]] |
 | Tribes            | [[Mushroom Tribe]]                                          |
@@ -52,7 +52,7 @@ Almanac entry.
 
 Hypno-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
 
-<font color="#9bbb59">Speciality</font>: If it is vanquished by a Munch-type attack, the hit zombie gains the *Hypnotized* trait for one turn. This makes the zombie only be able to target other zombies with its attacks.
+<font color="#9bbb59">Speciality</font>: If it is vanquished by a Munch-type attack, the hit zombie gains the *[[Hypnotized]]* trait for one turn. This makes the zombie only be able to target other zombies with its attacks.
 ### Statistics
 
 |           | Value |

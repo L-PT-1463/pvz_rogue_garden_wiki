@@ -63,7 +63,7 @@ Fire Repeater is a mutation of the [[Peashooter]], obtained by fusing a Peashoot
 
 |               | Value             |
 | ------------- | ----------------- |
-| Mutation type | Level 3           |
+| Mutation type | Level 2 Mutation  |
 | Rarity        |                   |
 | Damage        |                   |
 | Attack speed  |                   |

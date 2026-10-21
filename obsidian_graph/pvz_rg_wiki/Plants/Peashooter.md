@@ -56,7 +56,7 @@ Almanac entry.
 
 Peashooter is a regular plant that attacks in a straight line, shooting a single pea if there is a zombie in range.
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
 ### Statistics
 
 |           | Value    |

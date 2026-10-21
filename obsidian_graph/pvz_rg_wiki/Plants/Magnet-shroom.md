@@ -4,7 +4,7 @@ Magnet-shroom is a mushroom that attracts metallic objects from the zombies in r
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]       |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]         |
 | :---------------- | --------------------------------------------------- |
 | Power Mint family | ![[ail-mint_family.png\|53]]<br>[[Ail-mint Family]] |
 | Tribes            | [[Mushroom Tribe]]                                  |
@@ -54,7 +54,7 @@ Magnet-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom
 
 <font color="#9bbb59">Speciality</font>: Magnet-shroom's ability affects a 4x3 range, with two tiles in front of it and one behind.
 
-It steals armours with the *Magnetisable* trait in range, dealing damage every turn until the armour vanishes, but giving it back at full health if vanquished before it can fully consume it.
+It steals armours with the *[[Magnetisable]]* trait in range, dealing damage every turn until the armour vanishes, but giving it back at full health if vanquished before it can fully consume it.
 ### Statistics
 
 |           | Value |

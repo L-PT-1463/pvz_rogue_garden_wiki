@@ -82,13 +82,13 @@ When used as part of Patrice's ability, a Ghost Pepper is occasionally thrown at
 Ghost Pepper is a mutation of [[Cherry Bomb]], obtained by fusing a Cherry Bomb with a [[Jalapeño]].
 ### Statistics
 
-|               | Value   |
-| ------------- | ------- |
-| Mutation type | Level 2 |
-| Rarity        |         |
-| Damage        |         |
-| Attack speed  |         |
-| Targeting     | Random  |
+|               | Value            |
+| ------------- | ---------------- |
+| Mutation type | Level 1 Mutation |
+| Rarity        |                  |
+| Damage        |                  |
+| Attack speed  |                  |
+| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

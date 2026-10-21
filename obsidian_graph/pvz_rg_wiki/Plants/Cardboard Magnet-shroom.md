@@ -4,7 +4,7 @@ Cardboard Magnet-shroom is a standee that attracts metallic objects from the zom
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]       |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]         |
 | :---------------- | --------------------------------------------------- |
 | Power Mint family | ![[ail-mint_family.png\|53]]<br>[[Ail-mint Family]] |
 | Tribes            | [[Mushroom Tribe]]                                  |
@@ -23,7 +23,7 @@ Cardboard Magnet-shroom is a regular plant from the [[Training Grounds]].
 
 <font color="#9bbb59">Speciality</font>: Cardboard Magnet-shroom's ability affects its own lane.
 
-It steals armours with the *Magnetisable* trait in range, dealing damage every turn until the armour vanishes, but giving it back at full health if vanquished before it can fully consume it.
+It steals armours with the *[[Magnetisable]]* trait in range, dealing damage every turn until the armour vanishes, but giving it back at full health if vanquished before it can fully consume it.
 ### Statistics
 
 |           | Value |

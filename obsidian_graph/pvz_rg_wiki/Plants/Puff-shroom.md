@@ -56,7 +56,7 @@ Almanac entry.
 
 Puff-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. It attacks in a medium range, shooting a single spore at the zombies.
 
-<font color="#4bacc6">Trait</font>: It has the *Tiny* trait, and can therefore avoid ranged attacks.
+<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
 ### Statistics
 
 |           | Value    |

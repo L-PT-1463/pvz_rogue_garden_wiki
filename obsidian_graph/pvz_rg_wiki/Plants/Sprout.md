@@ -54,7 +54,7 @@ Sprout is a regular plant from the [[Steam City]], exclusive to [[Greenhouse]] g
 
 <font color="#9bbb59">Speciality</font>: After a few turns, it turns into a [[Marigold]].
 
-<font color="#4bacc6">Trait</font>: It has the *Tiny* trait, and can therefore avoid ranged attacks.
+<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
 ### Statistics
 
 |           | Value |

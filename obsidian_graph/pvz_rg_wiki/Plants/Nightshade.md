@@ -54,13 +54,11 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Nightshade is a regular plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
-
-It attacks the tile directly in front of it if there is a zombie in range.
+Nightshade is a regular plant from the [[Dark Ages]], exclusive to [[Castle]] gardens. It attacks the tile directly in front of it if there is a zombie in range.
 
 <font color="#8064a2">Shadow-powered</font>: It can attack three tiles ahead of itself. At the start of the turn, it also regenerates a petal.
 
-<font color="#c0504d">Weakness</font>: Every attack causes Nightshade to lose a petal, it only has three an cannot attack if it has no petals left.
+<font color="#c0504d">Weakness</font>: Every attack causes Nightshade to lose a petal, it only has three and cannot attack if it has no petals left.
 ### Statistics
 
 |           | Value    |
@@ -83,13 +81,13 @@ If the player has at least one [[Moonflower]], Nightshade can launch its petals 
 Nightshade is a mutation of the [[Bonk Choy]], obtained by splicing a Bonk Choy and a [[Moonbean]].
 ### Statistics
 
-|               | Value           |
-| ------------- | --------------- |
-| Mutation type | Base            |
-| Rarity        |                 |
-| Damage        |                 |
-| Attack speed  |                 |
-| Targeting     | Closest to self |
+|               | Value            |
+| ------------- | ---------------- |
+| Mutation type | Level 1 Mutation |
+| Rarity        |                  |
+| Damage        |                  |
+| Attack speed  |                  |
+| Targeting     | Closest to self  |
 ### Almanac
 
 Almanac entry.

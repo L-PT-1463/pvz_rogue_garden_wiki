@@ -54,7 +54,7 @@ Almanac entry.
 
 Spring Bean is a regular plant from the [[Pirate's Beach]], that attacks the zombie directly in front of it.
 
-<font color="#4bacc6">Trait</font>: Its attack has the *Knockback* trait, meaning it has a chance to push the hit zombie back one tile.
+<font color="#4bacc6">Trait</font>: Its attack has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
 ### Statistics
 
 |           | Value    |

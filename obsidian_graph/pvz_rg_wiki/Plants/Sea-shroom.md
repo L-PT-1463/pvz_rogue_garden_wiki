@@ -54,7 +54,7 @@ Sea-shroom is a regular plant from the [[Neighbour's House]], exclusive to [[Fal
 
 <font color="#f79646">Placement speciality</font>: It is aquatic, meaning it can only appear and move to water tiles.
 
-<font color="#4bacc6">Trait</font>: It has the *Tiny* trait, and can therefore avoid ranged attacks.
+<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
 ### Statistics
 
 |           | Value    |

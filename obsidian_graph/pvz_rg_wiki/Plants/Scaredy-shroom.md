@@ -85,7 +85,7 @@ Scaredy-shroom is a mutation of the [[Puff-shroom]], obtained by fusing two Puff
 
 |               | Value             |
 | ------------- | ----------------- |
-| Mutation type | Level 2           |
+| Mutation type | Level 1 Mutation  |
 | Rarity        |                   |
 | Damage        |                   |
 | Attack speed  |                   |

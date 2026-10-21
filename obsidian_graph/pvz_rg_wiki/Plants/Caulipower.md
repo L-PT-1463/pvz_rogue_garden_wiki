@@ -52,7 +52,7 @@ Almanac entry.
 
 Caulipower is a regular plant from the [[Neon Carnival]], that hypnotizes Spawnlings.
 
-<font color="#9bbb59">Speciality</font>: At the start of the turn, gives a random Spawnling the *Hypnotized* trait.
+<font color="#9bbb59">Speciality</font>: At the start of the turn, gives a random Spawnling the *[[Hypnotized]]* trait.
 
 <font color="#f79646">Placement speciality</font>: Caulipower is aerial, and can therefore appear and move to any tile.
 

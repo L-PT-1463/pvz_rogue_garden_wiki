@@ -4,7 +4,7 @@ Magnet Plant is a plant that attracts metallic objects from the zombies in range
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]       |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]         |
 | :---------------- | --------------------------------------------------- |
 | Power Mint family | ![[ail-mint_family.png\|53]]<br>[[Ail-mint Family]] |
 | Tribes            |                                                     |
@@ -54,7 +54,7 @@ Magnet Plant is a regular plant from the [[Steam City]] and [[The Zombosseum]].
 
 <font color="#9bbb59">Speciality</font>: Magnet Plant's ability affects neighbouring lanes but not its own.
 
-It steals armours with the *Magnetisable* trait in range, dealing damage every turn until the armour vanishes, but giving it back at full health if vanquished before it can fully consume it.
+It steals armours with the *[[Magnetisable]]* trait in range, dealing damage every turn until the armour vanishes, but giving it back at full health if vanquished before it can fully consume it.
 ### Statistics
 
 |           | Value |

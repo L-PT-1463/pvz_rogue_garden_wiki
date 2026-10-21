@@ -56,7 +56,7 @@ Almanac entry.
 
 Primal Peashooter is a regular plant from the [[Jurassic Marsh]] that attacks in a straight line, shooting a single pea if there is a zombie in range.
 
-<font color="#4bacc6">Trait</font>: Its attack has the *Knockback* trait, meaning it has a chance to push the hit zombie back one tile.
+<font color="#4bacc6">Trait</font>: Its attack has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
 ### Statistics
 
 |           | Value    |
@@ -81,7 +81,7 @@ Primal Peashooter is a mutation of the [[Peashooter]], obtained by fusing two Pe
 
 |               | Value             |
 | ------------- | ----------------- |
-| Mutation type | Level 2           |
+| Mutation type | Level 1 Mutation  |
 | Rarity        |                   |
 | Damage        |                   |
 | Attack speed  |                   |

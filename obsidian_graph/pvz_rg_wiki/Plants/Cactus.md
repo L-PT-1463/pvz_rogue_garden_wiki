@@ -52,7 +52,7 @@ Almanac entry.
 
 Cactus is a regular plant that attacks in a straight line, shooting a single thorn if there is a zombie in range.
 
-<font color="#4bacc6">Trait</font>: It has the *Pierce* trait, meaning its thorn can hit zombies hiding behind a shield.
+<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its thorn can hit zombies hiding behind a shield.
 ### Statistics
 
 |           | Value    |

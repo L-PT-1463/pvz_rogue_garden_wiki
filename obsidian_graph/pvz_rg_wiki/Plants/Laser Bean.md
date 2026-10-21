@@ -52,7 +52,7 @@ Almanac entry.
 
 Laser Bean is a regular plant from the [[Far Future]] that fires a laser down its lane, as long as there is a zombie there.
 
-<font color="#4bacc6">Trait</font>: Its attack has the *Strike-through* trait. As such, it can hit multiple zombies but the attack is blocked by shields.
+<font color="#4bacc6">Trait</font>: Its attack has the *[[Strike-through]]* trait. As such, it can hit multiple zombies but the attack is blocked by shields.
 ### Statistics
 
 |           | Value    |

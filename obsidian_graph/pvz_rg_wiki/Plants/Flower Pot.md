@@ -53,7 +53,7 @@ Almanac entry.
 
 Flower Pot is a simple pass-through plant.
 
-<font color="#4bacc6">Trait</font>: It has the *Pot* trait, allowing plants to appear on its tile. Because of this, it cannot be targeted by ranged attacks and the plant on top must be vanquished before it.
+<font color="#4bacc6">Trait</font>: It has the *[[Pot]]* trait, allowing plants to appear on its tile. Because of this, it cannot be targeted by ranged attacks and the plant on top must be vanquished before it.
 ### Statistics
 
 |           | Value |

@@ -58,7 +58,7 @@ Kernel-pult is a regular plant from the [[Neighbour's House]] that attacks with 
 
 <font color="#9bbb59">Speciality</font>: It has a chance of launching a stick of butter instead.
 
-<font color="#4bacc6">Trait</font>: The butter has the *Stun* trait, which means the hit zombie can't move or attack on its next turn.
+<font color="#4bacc6">Trait</font>: The butter has the *[[Stun]]* trait, which means the hit zombie can't move or attack on its next turn.
 ### Statistics
 
 |           | Value  |

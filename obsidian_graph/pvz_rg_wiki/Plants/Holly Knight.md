@@ -25,9 +25,9 @@ Holly Knight is a wall plant that fires weaker walls at the zombies.
 - [[#In PvZ Clicker]]
 ## Origins
 
-Holly Knight is based on the Holly Barrier, an official plant that made its debut in Plants vs Zombies 2. It acts as a counter-attacking wall, and can fire projectiles that serve as weak walls.
+Holly Knight is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it acts as a counter-attacking wall, and can fire projectiles that serve as weak walls.
 
-The Holly Knight's name is taken from the Holly Barrier's code name.
+Officially, it is known as Holly Barrier, but the name was changed to its code name Holly Knight in order to allow for the chess reference, used for its projectile the Holly Pawn.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -61,7 +61,7 @@ Holly Knight is a protector plant from the [[Dark Ages]] and [[Neighbour's House
 <font color="#8064a2">When a Protector plant is vanquished</font>: Spawns a [[Holly Pawn]] on that tile. This does not affect holly plants. When it does so, it hits the zombie on the neighbouring lane with a straight attack.
 <font color="#8064a2">When hit by a Munch type attack</font>: Holly Pawn attacks the zombie.
 
-<font color="#4bacc6">Trait</font>: The attack created by the Holly Pawn as it is spawned has the *Knockback* trait, meaning it has a chance to push the hit zombie back one tile.
+<font color="#4bacc6">Trait</font>: The attack created by the Holly Pawn as it is spawned has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
 ### Statistics
 
 |           | Value    |
@@ -86,7 +86,7 @@ Holly Knight is a mutation of [[Kernel-pult]], obtained by splicing an [[Apple M
 
 |               | Value                 |
 | ------------- | --------------------- |
-| Mutation type | Level 4               |
+| Mutation type | Level 3 Mutation      |
 | Rarity        |                       |
 | Damage        |                       |
 | Attack speed  |                       |

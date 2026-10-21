@@ -23,8 +23,8 @@ Cardboard Split Pea is a regular plant from from the [[Training Grounds]] that a
 
 <font color="#9bbb59">Speciality</font>: It can also attack behind itself, being able to attack forwards and backwards on the same turn, if there are zombies in range.
 
-<font color="#4bacc6">Trait</font>: The backwards attack has the *Repeat* trait, so fires twice per attack.
-<font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
+<font color="#4bacc6">Trait</font>: The backwards attack has the *[[Repeat]]* trait, so fires twice per attack.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
 ### Statistics
 
 |           | Value    |

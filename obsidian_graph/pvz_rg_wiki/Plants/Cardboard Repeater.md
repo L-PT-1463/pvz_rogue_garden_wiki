@@ -21,8 +21,8 @@ Cardboard Repeater  is an official Plants vs Zombie plant from the I, Zombie min
 
 Cardboard Repeater is a regular plant from the [[Training Grounds]] that attacks in a straight line, shooting if there is a zombie in range.
 
-<font color="#4bacc6">Trait</font>: It has the *Repeat* trait, so fires twice per attack.
-<font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
+<font color="#4bacc6">Trait</font>: It has the *[[Repeat]]* trait, so fires twice per attack.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
 ### Statistics
 
 |           | Value    |

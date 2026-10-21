@@ -58,8 +58,8 @@ Split Pea is a regular plant from [[Old Wild Egypt]] that attacks in a straight 
 
 <font color="#9bbb59">Speciality</font>: Split Pea can also attack behind itself. It can attack forwards and backwards on the same turn, if there are zombies in range.
 
-<font color="#4bacc6">Trait</font>: The backwards attack has the *Repeat* trait, so fires twice per attack.
-<font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
+<font color="#4bacc6">Trait</font>: The backwards attack has the *[[Repeat]]* trait, so fires twice per attack.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
 ### Statistics
 
 |           | Value    |
@@ -84,7 +84,7 @@ Split Pea is a mutation of the [[Peashooter]], obtained by fusing a Peashooter a
 
 |               | Value             |
 | ------------- | ----------------- |
-| Mutation type | Level 3           |
+| Mutation type | Level 2 Mutation  |
 | Rarity        |                   |
 | Damage        |                   |
 | Attack speed  |                   |

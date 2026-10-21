@@ -7,7 +7,7 @@ Sunflower is a supporting plant that generates sun.
 | Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]              |
 | :---------------- | -------------------------------------------------------- |
 | Power Mint family | ![[enlighten-mint.png\|53]]<br>[[Enlighten-mint Family]] |
-| Tribes            | [[Sun Producer Tribe]], [[Flower Tribe]]                 |
+| Tribes            | [[Flower Tribe]]                                         |
 ## Contents
 
 - [[#Origins]]
@@ -56,7 +56,7 @@ Almanac entry.
 
 Sunflower is a regular plant.
 
-<font color="#8064a2">When hit by a Munch-type attack</font>: It heals the zombie that bit it
+<font color="#8064a2">When hit by a Munch-type attack</font>: It heals the zombie that bit it.
 ### Statistics
 
 |           | Value |

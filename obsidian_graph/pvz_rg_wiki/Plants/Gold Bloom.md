@@ -7,7 +7,7 @@ Gold Bloom is an instant use plant that generates sun.
 | Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]              |
 | :---------------- | -------------------------------------------------------- |
 | Power Mint family | ![[enlighten-mint.png\|53]]<br>[[Enlighten-mint Family]] |
-| Tribes            | [[Sun Producer Tribe]], [[Flower Tribe]]                 |
+| Tribes            | [[Flower Tribe]]                                         |
 ## Contents
 
 - [[#Origins]]

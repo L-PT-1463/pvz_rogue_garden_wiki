@@ -56,7 +56,7 @@ Almanac entry.
 
 Torchwood is a protector plant from [[Old Wild Egypt]] that empowers flammable projectiles.
 
-<font color="#9bbb59">Speciality</font>: Until the Torchwood is vanquished, all attacks behind it in its lane with the *Flammable* trait gain additional damage and the *Fire* trait.
+<font color="#9bbb59">Speciality</font>: Until the Torchwood is vanquished, all attacks behind it in its lane with the *[[Flammable]]* trait gain additional damage and the *Fire* trait.
 ### Statistics
 
 |           | Value |
@@ -79,13 +79,13 @@ Peas that pass through a Torchwood will catch ablaze, dealing additional damage 
 Torchwood is a mutation of the [[Wall-nut]], obtained by splicing a Wall-nut and a [[Cherry Bomb]].
 ### Statistics
 
-|               | Value   |
-| ------------- | ------- |
-| Mutation type | Level 2 |
-| Rarity        |         |
-| Damage        |         |
-| Attack speed  |         |
-| Targeting     | Random  |
+|               | Value            |
+| ------------- | ---------------- |
+| Mutation type | Level 1 Mutation |
+| Rarity        |                  |
+| Damage        |                  |
+| Attack speed  |                  |
+| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

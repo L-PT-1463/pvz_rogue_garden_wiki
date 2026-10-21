@@ -52,7 +52,7 @@ Almanac entry.
 
 Shrinking Violet is a regular plant from the [[Lost City]] and [[Neon Carnival]]. It shrinks zombies in an area around itself before vanquishing.
 
-<font color="#8064a2">When vanquished</font>: Gives all zombies in a 3x3 area centred on itself the *Tiny* trait.
+<font color="#8064a2">When vanquished</font>: Gives all zombies in a 3x3 area centred on itself the *[[Tiny]]* trait.
 ### Statistics
 
 |           | Value |

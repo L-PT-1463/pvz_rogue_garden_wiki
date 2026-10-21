@@ -56,8 +56,8 @@ Almanac entry.
 
 Pea-nut is a protector plant from the [[Steam City]] that fires peas at the zombies.
 
-<font color="#4bacc6">Trait</font>: It has the *Repeat* trait, so fires twice per attack.
-<font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
+<font color="#4bacc6">Trait</font>: It has the *[[Repeat]]* trait, so fires twice per attack.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
 ### Statistics
 
 |           | Value    |
@@ -85,7 +85,7 @@ Pea-nut is a mutation of [[Wall-nut]], obtained by splicing a [[Peashooter]] and
 
 |               | Value                   |
 | ------------- | ----------------------- |
-| Mutation type | Level 2                 |
+| Mutation type | Level 1 Mutation        |
 | Rarity        |                         |
 | Damage        |                         |
 | Attack speed  |                         |

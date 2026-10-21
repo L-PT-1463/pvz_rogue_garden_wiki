@@ -21,7 +21,7 @@ Cardboard Potato Mine is an official Plants vs Zombie plant from the I, Zombie m
 
 Cardboard Potato Mine is a pass-through plant from the [[Training Grounds]] that deals heavy damage on its own tile, but vanquishes itself after attacking.
 
-<font color="#4bacc6">Trait</font>: It has the *Tiny* trait, and can therefore avoid ranged attacks.
+<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
 
 <font color="#c0504d">Weakness</font>: It must arm itself before it can attack, making it vulnerable on the first rounds.
 ### Statistics

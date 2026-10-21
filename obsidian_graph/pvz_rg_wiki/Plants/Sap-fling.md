@@ -56,7 +56,7 @@ Almanac entry.
 
 Sap-fling is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens. It lobs stalling sap-covered pinecones.
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *Stall* trait, meaning the hit zombie cannot move.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Stall]]* trait, meaning the hit zombie cannot move.
 ### Statistics
 
 |           | Value  |
@@ -81,7 +81,7 @@ Sap-fling is a mutation of [[Kernel-pult]], obtained by fusing a Kernel-pult and
 
 |               | Value                 |
 | ------------- | --------------------- |
-| Mutation type | Level 3               |
+| Mutation type | Level 2 Mutation      |
 | Rarity        |                       |
 | Damage        |                       |
 | Attack speed  |                       |

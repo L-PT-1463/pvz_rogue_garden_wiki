@@ -52,7 +52,7 @@ Almanac entry.
 
 Thyme Warp is a regular plant from [[ZCorp IST Headquarters]], that attacks the front-most zombie of every lane for no damage.
 
-<font color="#9bbb59">Speciality</font>: Zombies hit by Thyme Warp's attack are sent to the first row of their lane, if possible. This does not affect zombies with the *Sturdy* trait.
+<font color="#9bbb59">Speciality</font>: Zombies hit by Thyme Warp's attack are sent to the first row of their lane, if possible. This does not affect zombies with the *[[Sturdy]]* trait.
 
 <font color="#8064a2">When vanquished</font>: If in [[ZCorp IST Headquarters]], triggers a [[Time Twist]] event.
 

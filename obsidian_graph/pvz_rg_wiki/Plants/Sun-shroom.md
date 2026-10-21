@@ -11,7 +11,7 @@ Final stage
 | Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]              |
 | :---------------- | -------------------------------------------------------- |
 | Power Mint family | ![[enlighten-mint.png\|53]]<br>[[Enlighten-mint Family]] |
-| Tribes            | [[Sun Producer Tribe]], [[Mushroom Tribe]]               |
+| Tribes            | [[Mushroom Tribe]]                                       |
 ## Contents
 
 - [[#Origins]]
@@ -64,7 +64,7 @@ Sun-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Gr
 
 <font color="#8064a2">When hit by a Munch-type attack</font>: It heals the zombie that bit it
 
-<font color="#4bacc6">Trait</font>: It has the *Tiny* trait, and can therefore avoid ranged attacks. After one turn, it grows larger and loses its *Tiny* trait.
+<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks. After one turn, it grows larger and loses its *Tiny* trait.
 
 ___
 

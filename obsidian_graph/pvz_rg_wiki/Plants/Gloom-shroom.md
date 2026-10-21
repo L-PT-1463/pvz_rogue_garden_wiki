@@ -56,7 +56,7 @@ Gloom-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom 
 
 <font color="#9bbb59">Speciality</font>: It attacks in a 3x3 area.
 
-<font color="#4bacc6">Trait</font>: It has the *Pierce* trait, allowing it to hit zombies hiding behind shields.
+<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, allowing it to hit zombies hiding behind shields.
 ### Statistics
 
 |           | Value    |

@@ -58,7 +58,7 @@ Chilly Pepper is a regular plant from the [[Neighbour's House]], exclusive to [[
 
 <font color="#8064a2">When vanquished</font>: It explodes, attacking all zombies in its lane, but dealing no damage.
 
-<font color="#4bacc6">Trait</font>: It has the *Freeze* trait, which means the hit zombie can't move or attack on its next turn.
+<font color="#4bacc6">Trait</font>: It has the *[[Freeze]]* trait, which means the hit zombie can't move or attack on its next turn.
 ### Statistics
 
 |           | Value  |
@@ -84,13 +84,13 @@ Jalapeño is a mutation of [[Cherry Bomb]], obtained by fusing two Cherry Bombs.
 | Splicing      | [[Iceberg Lettuce]] | [[Chilly Pepper]] |
 ### Statistics
 
-|               | Value   |
-| ------------- | ------- |
-| Mutation type | Level 2 |
-| Rarity        |         |
-| Damage        |         |
-| Range         |         |
-| Targeting     | Random  |
+|               | Value            |
+| ------------- | ---------------- |
+| Mutation type | Level 1 Mutation |
+| Rarity        |                  |
+| Damage        |                  |
+| Range         |                  |
+| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

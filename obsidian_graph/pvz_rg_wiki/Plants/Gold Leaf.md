@@ -54,9 +54,9 @@ Gold Leaf is a pass-through plant from the [[Lost City]] that attacks its tile f
 
 <font color="#9bbb59">Speciality</font>: If stood on, it generates Brainiac Coins at the start of the turn.
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *Stall* trait, meaning the hit zombie cannot move.
-<font color="#4bacc6">Trait</font>: It has the *Pot* trait, allowing plants to appear on its tile. Because of this, it cannot be targeted by ranged attacks and the plant on top must be vanquished before it.
-<font color="#4bacc6">Trait</font>: It has the *Grounded* trait, and can therefore avoid most attacks.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Stall]]* trait, meaning the hit zombie cannot move.
+<font color="#4bacc6">Trait</font>: It has the *[[Pot]]* trait, allowing plants to appear on its tile. Because of this, it cannot be targeted by ranged attacks and the plant on top must be vanquished before it.
+<font color="#4bacc6">Trait</font>: It has the *[[Grounded]]* trait, and can therefore avoid most attacks.
 ### Statistics
 
 |           | Value  |

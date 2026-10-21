@@ -52,7 +52,7 @@ Almanac entry.
 
 Spikerock is a pass-through plant from [[The Zombosseum]] that attacks the zombie on its tile.
 
-<font color="#4bacc6">Trait</font>: It has the *Grounded* trait, and can therefore avoid most attacks.
+<font color="#4bacc6">Trait</font>: It has the *[[Grounded]]* trait, and can therefore avoid most attacks.
 ### Statistics
 
 |           | Value  |

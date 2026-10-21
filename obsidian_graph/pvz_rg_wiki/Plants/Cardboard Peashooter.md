@@ -21,7 +21,7 @@ Cardboard Peashooter is an official Plants vs Zombie plant from the I, Zombie mi
 
 Cardboard Peashooter is a regular plant from the [[Training Grounds]] that attacks in a straight line, shooting a single pea if there is a zombie in range.
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
 ### Statistics
 
 |           | Value    |

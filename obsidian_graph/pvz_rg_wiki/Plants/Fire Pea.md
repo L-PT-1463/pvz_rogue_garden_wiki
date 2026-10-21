@@ -56,7 +56,7 @@ Almanac entry.
 
 Fire Pea is a regular plant from [[Old Wild Egypt]] that attacks in a straight line, shooting if there is a zombie in range.
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *Fire* trait.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Fire]]* trait.
 ### Statistics
 
 |           | Value    |
@@ -85,7 +85,7 @@ Fire Pea is a mutation of the [[Peashooter]], obtained by splicing a Peashooter 
 
 |               | Value             |
 | ------------- | ----------------- |
-| Mutation type | Level 2           |
+| Mutation type | Level 1 Mutation  |
 | Rarity        |                   |
 | Damage        |                   |
 | Attack speed  |                   |

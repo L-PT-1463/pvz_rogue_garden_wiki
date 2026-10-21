@@ -56,8 +56,8 @@ Almanac entry.
 
 Frost-shroom is a regular plant from [[Old Wild Egypt]] that attacks in a medium range.
 
-<font color="#4bacc6">Trait</font>: Its attack has the *Strike-through* trait. As such, it can hit multiple zombies but the attack is blocked by shields.
-<font color="#4bacc6">Trait</font>: Its attacks have the *Chill* trait, which prevents the hit zombie from moving on its next turn.
+<font color="#4bacc6">Trait</font>: Its attack has the *[[Strike-through]]* trait. As such, it can hit multiple zombies but the attack is blocked by shields.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Chill]]* trait, which prevents the hit zombie from moving on its next turn.
 ### Statistics
 
 |           | Value    |
@@ -82,7 +82,7 @@ Frost-shroom is a mutation of the [[Puff-shroom]], obtained by splicing a [[Fume
 
 |               | Value             |
 | ------------- | ----------------- |
-| Mutation type | Level 3           |
+| Mutation type | Level 2 Mutation  |
 | Rarity        |                   |
 | Damage        |                   |
 | Attack speed  |                   |

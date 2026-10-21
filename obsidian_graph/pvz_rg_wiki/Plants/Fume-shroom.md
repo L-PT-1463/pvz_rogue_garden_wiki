@@ -56,7 +56,7 @@ Almanac entry.
 
 Fume-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. It attacks in a medium range.
 
-<font color="#4bacc6">Trait</font>: Its attack has both the *Pierce* and *Strike-through* traits. As such, it can hit multiple zombies and traverses shields.
+<font color="#4bacc6">Trait</font>: Its attack has both the *[[Pierce]]* and *[[Strike-through]]* traits. As such, it can hit multiple zombies and traverses shields.
 ### Statistics
 
 |           | Value    |
@@ -85,7 +85,7 @@ Fume-shroom is a mutation of the [[Puff-shroom]], obtained by fusing two Puff-sh
 
 |               | Value             |
 | ------------- | ----------------- |
-| Mutation type | Level 2           |
+| Mutation type | Level 1 Mutation  |
 | Rarity        |                   |
 | Damage        |                   |
 | Attack speed  |                   |

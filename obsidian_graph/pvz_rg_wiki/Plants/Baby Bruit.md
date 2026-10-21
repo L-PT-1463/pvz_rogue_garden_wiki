@@ -52,7 +52,7 @@ Almanac entry.
 
 Baby Bruit is a regular plant from the [[Steam City]], exclusive to [[Greenhouse]] gardens. It is a weak and small lobber.
 
-<font color="#4bacc6">Trait</font>: It has the *Tiny* trait, and can therefore avoid ranged attacks.
+<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
 ### Statistics
 
 |           | Value  |

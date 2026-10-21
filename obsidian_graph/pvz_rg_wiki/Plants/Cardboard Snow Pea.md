@@ -21,7 +21,7 @@ Cardboard Scaredy-shroom  is an official Plants vs Zombie plant from the I, Zomb
 
 Cardbaord Snow Pea is a regular plant from the [[Training Grounds]] that attacks in a straight line, shooting if there is a zombie in range.
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *Chill* trait, which prevents the hit zombie from moving on its next turn.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Chill]]* trait, which prevents the hit zombie from moving on its next turn.
 ### Statistics
 
 |           | Value    |

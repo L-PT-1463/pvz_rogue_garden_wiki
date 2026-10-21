@@ -54,7 +54,7 @@ Chili Bean is a regular plant.
 
 <font color="#8064a2">When vanquished by a Munch-type attack</font>: Attacks all the zombies in the lane, dealing no damage.
 
-<font color="#4bacc6">Trait</font>: Its attack has the *Stun* trait, meaning the hit zombies can't move or attack on their next turn.
+<font color="#4bacc6">Trait</font>: Its attack has the *[[Stun]]* trait, meaning the hit zombies can't move or attack on their next turn.
 ### Statistics
 
 |           | Value |

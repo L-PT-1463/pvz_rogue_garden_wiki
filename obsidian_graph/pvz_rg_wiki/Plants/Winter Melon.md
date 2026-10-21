@@ -81,7 +81,7 @@ Winter Melon is a mutation of [[Pepper-pult]], obtained by splicing a [[Melon-pu
 
 |               | Value                 |
 | ------------- | --------------------- |
-| Mutation type | Level 3               |
+| Mutation type | Level 2 Mutation      |
 | Rarity        |                       |
 | Damage        |                       |
 | Attack speed  |                       |

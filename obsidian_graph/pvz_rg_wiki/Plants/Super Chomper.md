@@ -59,13 +59,13 @@ It attacks slowly, dealing heavy damage to the zombie it bites and all zombies a
 Super Chomper is a mutation of the [[Chomper]], obtained by fusing two Chompers, or by applying [[Fertilizer]] to one.
 ### Statistics
 
-|               | Value           |
-| ------------- | --------------- |
-| Mutation type | Level 2         |
-| Rarity        |                 |
-| Damage        |                 |
-| Attack speed  |                 |
-| Targeting     | Closest to self |
+|               | Value            |
+| ------------- | ---------------- |
+| Mutation type | Level 1 Mutation |
+| Rarity        |                  |
+| Damage        |                  |
+| Attack speed  |                  |
+| Targeting     | Closest to self  |
 ### Almanac
 
 Almanac entry.

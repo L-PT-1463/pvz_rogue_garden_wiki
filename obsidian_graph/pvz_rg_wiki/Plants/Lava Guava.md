@@ -56,7 +56,7 @@ Lava Guava is a regular plant from the [[Lost City]], that opens large craters i
 
 <font color="#9bbb59">Speciality</font>: Attacks the three tiles in front of it.
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *Fire* trait.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Fire]]* trait.
 ### Statistics
 
 |           | Value  |

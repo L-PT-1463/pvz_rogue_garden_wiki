@@ -58,8 +58,8 @@ Snapdragon is a regular plant from the [[Pirate's Beach]] that attacks by breath
 
 <font color="#9bbb59">Speciality</font>: Its attack deals damage in its row and the row in front, on all three lanes.
 
-<font color="#4bacc6">Trait</font>: It has the *Pierce* trait, meaning its fire can hit zombies hiding behind a shield.
-<font color="#4bacc6">Trait</font>: Its attacks have the *Fire* trait.
+<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its fire can hit zombies hiding behind a shield.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Fire]]* trait.
 ### Statistics
 
 |           | Value    |
@@ -84,13 +84,13 @@ Snapdragon is a mutation of the [[Chomper]], obtained by splicing a [[Cherry Bom
 | Splicing      | [[Iceberg Lettuce]] | [[Cold Snapdragon]] |
 ### Statistics
 
-|               | Value           |
-| ------------- | --------------- |
-| Mutation type | Level 2         |
-| Rarity        |                 |
-| Damage        |                 |
-| Attack speed  |                 |
-| Targeting     | Closest to self |
+|               | Value            |
+| ------------- | ---------------- |
+| Mutation type | Level 1 Mutation |
+| Rarity        |                  |
+| Damage        |                  |
+| Attack speed  |                  |
+| Targeting     | Closest to self  |
 ### Almanac
 
 Almanac entry.

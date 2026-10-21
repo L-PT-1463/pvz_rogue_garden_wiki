@@ -56,10 +56,10 @@ Almanac entry.
 
 Pea Pod is a regular plant from the [[Old Wild Egypt]] that attacks in a straight line.
 
-<font color="#9bbb59">Speciality</font>: Its *Spread* trait is increased by one stack every turn, up to five.
+<font color="#9bbb59">Speciality</font>: Its *[[Spread]]* trait is increased by one stack every turn, up to five.
 
-<font color="#4bacc6">Trait</font>: It starts with the *Spread (1)* trait, so fires one time per attack.
-<font color="#4bacc6">Trait</font>: Its attacks have the *Flammable* trait.
+<font color="#4bacc6">Trait</font>: It starts with the *[[Spread]] (1)* trait, so fires one time per attack.
+<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
 ### Statistics
 
 |           | Value    |
@@ -84,7 +84,7 @@ Pea Pod is a mutation of the [[Peashooter]] obtained in a few ways. It can be ob
 
 |               | Value             |
 | ------------- | ----------------- |
-| Mutation type | Level 4           |
+| Mutation type | Level 3 Mutation  |
 | Rarity        |                   |
 | Damage        |                   |
 | Attack speed  |                   |

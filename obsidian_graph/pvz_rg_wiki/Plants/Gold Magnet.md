@@ -54,7 +54,7 @@ Gold Magnet is a regular plant from the [[Lost City]] that attack zombies in fro
 
 <font color="#9bbb59">Speciality</font>: Its attack deals no damage, but steals Brainiac Coins if it hits the [[Player Zombie]].
 
-If the hit zombie is within has an armour with the *Magnetisable* trait, Gold Magnet steals it, but gives it back at full health if vanquished.
+If the hit zombie is within has an armour with the *[[Magnetisable]]* trait, Gold Magnet steals it, but gives it back at full health if vanquished.
 ### Statistics
 
 |           | Value    |

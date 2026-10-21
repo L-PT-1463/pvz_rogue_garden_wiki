@@ -52,7 +52,7 @@ Almanac entry.
 
 Pumpkin is a protector plant from the [[Dark Ages]].
 
-<font color="#f79646">Placement speciality</font>: It has the *Vine* trait, and can therefore appear on the same tile as another plant. It must be vanquished first before the plant inside can be attacked.
+<font color="#f79646">Placement speciality</font>: It has the *[[Vine]]* trait, and can therefore appear on the same tile as another plant. It must be vanquished first before the plant inside can be attacked.
 ### Statistics
 
 |           | Value |

@@ -58,7 +58,7 @@ Almanac entry.
 
 Infi-nut is a protector plant from the [[Far Future]].
 
-<font color="#9bbb59">Speciality</font>: It gives the *Shielded* trait to all plant in its column, including itself.  This makes them immune to the *Fire* and *Traverse* traits for as long as they are *Shielded*. This remains until the Infi-nut is vanquished.
+<font color="#9bbb59">Speciality</font>: It gives the *[[Shielded]]* trait to all plant in its column, including itself.  This makes them immune to the *[[Fire]]* and *[[Traverse]]* traits for as long as they are *Shielded*. This remains until the Infi-nut is vanquished.
 ### Statistics
 
 |           | Value |
@@ -83,13 +83,13 @@ Infi-nut is a mutation of the [[Wall-nut]], obtained by splicing a Wall-nut and 
 | Fusion        | Wall-nut or [[Fertilizer]] | [[Infi-tall-nut]] |
 ### Statistics
 
-|               | Value   |
-| ------------- | ------- |
-| Mutation type | Level 2 |
-| Rarity        |         |
-| Damage        |         |
-| Attack speed  |         |
-| Targeting     | Random  |
+|               | Value            |
+| ------------- | ---------------- |
+| Mutation type | Level 1 Mutation |
+| Rarity        |                  |
+| Damage        |                  |
+| Attack speed  |                  |
+| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.
