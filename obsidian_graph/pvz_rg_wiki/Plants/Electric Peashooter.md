@@ -56,7 +56,7 @@ Almanac entry.
 
 Electric Peashooter is a regular plant from the [[Far Future]] that attacks in a straight line, shooting if there is a zombie in range.
 
-<font color="#9bbb59">Speciality</font>: Its projectile switches lanes if there is a zombie in a diagonally neighbouring tile behind the hit zombie.
+<font color="#9bbb59">Speciality</font>: Its projectile switches lanes if there is a zombie one tile away in the diagonal behind the hit zombie.
 
 <font color="#4bacc6">Trait</font>: Its attack has the *[[Strike-through]]* trait. As such, it can hit multiple zombies but the attack is blocked by shields.
 ### Statistics
@@ -80,9 +80,10 @@ If another Peashooter-type plant is currently targeting the closest zombie, Elec
 
 Electric Peashooter is a mutation of the [[Peashooter]], obtained by splicing a Peashooter and an [[E.M.Peach]].
 
-| Mutation type | Other plant                      | Mutation              |
-| ------------- | -------------------------------- | --------------------- |
-| Fusion        | [[Peashooter]] or [[Fertilizer]] | [[Electric Repeater]] |
+| Mutation type  | Other plant    | Mutation              |
+| -------------- | -------------- | --------------------- |
+| Fusion         | [[Peashooter]] | [[Electric Repeater]] |
+| [[Fertilizer]] |                | Electric Repeater     |
 ### Statistics
 
 |               | Value             |

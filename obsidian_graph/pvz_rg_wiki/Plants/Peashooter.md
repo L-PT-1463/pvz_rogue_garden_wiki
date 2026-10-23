@@ -76,14 +76,15 @@ It shoots one pea at a time in a straight line at the zombie closest to the play
 If another Peashooter-type plant is currently targeting the closest zombie, Peashooter attacks the second closest instead, and so on.
 ### Mutations
 
-| Mutation type | Other plant                  | Mutation                |
-| ------------- | ---------------------------- | ----------------------- |
-| Fusion        | Peashooter or [[Fertilizer]] | [[Repeater]]            |
-| Fusion        | Peashooter                   | [[Primal Peashooter]]   |
-| Splicing      | [[Iceberg Lettuce]]          | [[Snow Pea]]            |
-| Splicing      | [[Cherry Bomb]]              | [[Fire Pea]]            |
-| Splicing      | [[E.M.Peach]]                | [[Electric Peashooter]] |
-| Splicing      | [[Moonbean]]                 | [[Shadow Peashooter]]   |
+| Mutation type  | Other plant                  | Mutation                |
+| -------------- | ---------------------------- | ----------------------- |
+| Fusion         | Peashooter or [[Fertilizer]] | [[Repeater]]            |
+| Fusion         | Peashooter                   | [[Primal Peashooter]]   |
+| [[Fertilizer]] |                              | Repeater                |
+| Splicing       | [[Iceberg Lettuce]]          | [[Snow Pea]]            |
+| Splicing       | [[Cherry Bomb]]              | [[Fire Pea]]            |
+| Splicing       | [[E.M.Peach]]                | [[Electric Peashooter]] |
+| Splicing       | [[Moonbean]]                 | [[Shadow Peashooter]]   |
 Peashooter can be spliced with certain other plants to create pea-themed mutations.
 
 | Mutated plant | Mutation      |

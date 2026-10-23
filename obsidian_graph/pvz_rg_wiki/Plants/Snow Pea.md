@@ -78,9 +78,10 @@ If another Peashooter-type plant is currently targeting the closest zombie, Snow
 
 Snow Pea is a mutation of the [[Peashooter]], obtained by splicing a Peashooter and an [[Iceberg Lettuce]].
 
-| Mutation type | Other plant                      | Mutation          |
-| ------------- | -------------------------------- | ----------------- |
-| Fusion        | [[Peashooter]] or [[Fertilizer]] | [[Snow Repeater]] |
+| Mutation type  | Other plant    | Mutation          |
+| -------------- | -------------- | ----------------- |
+| Fusion         | [[Peashooter]] | [[Snow Repeater]] |
+| [[Fertilizer]] |                | Snow Repeater     |
 ### Statistics
 
 |               | Value             |

@@ -21,9 +21,7 @@ Spring Bean is a small melee plant that pushes one zombie at a time back.
 - [[#In PvZ Clicker]]
 ## Origins
 
-Information about the plant's origins, inspiration, or first appearance.
-
-Plant is an official Plants vs Zombie plant that made its debut in 
+Spring Bean is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it acts as a weak staller that can push one zombie back a couple of tiles before having to rest.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

@@ -88,9 +88,10 @@ If another Peashooter-type plant is currently targeting the closest zombie, Shad
 Shadow Peashooter is a mutation of the [[Peashooter]], obtained by splicing a Peashooter and a [[Moonbean]].
 
 
-| Mutation type | Other plant                      | Mutation            |
-| ------------- | -------------------------------- | ------------------- |
-| Fusion        | [[Peashooter]] or [[Fertilizer]] | [[Shadow Repeater]] |
+| Mutation type  | Other plant    | Mutation            |
+| -------------- | -------------- | ------------------- |
+| Fusion         | [[Peashooter]] | [[Shadow Repeater]] |
+| [[Fertilizer]] |                | Shadow Repeater     |
 ### Statistics
 
 |               | Value             |

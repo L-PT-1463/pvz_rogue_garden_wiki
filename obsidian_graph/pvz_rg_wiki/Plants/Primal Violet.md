@@ -21,7 +21,7 @@ Primal Violet is an ferocious plant that shrinks zombies down.
 - [[#In PvZ Clicker]]
 ## Origins
 
-Primal Violet is based on the Shrinking Violet, an official plant that made its debut in Plants vs Zombies 2. More specifically, Primal Violet takes after the Shrinking Violet's visual design in Plants vs Zombies Heroes, where it has sharp teeth and spikes on its head.
+Primal Violet is based on the [[Shrinking Violet]], an official plant that made its debut in Plants vs Zombies 2. More specifically, Primal Violet takes after the Shrinking Violet's visual design in Plants vs Zombies Heroes, where it has sharp teeth and spikes on its head.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

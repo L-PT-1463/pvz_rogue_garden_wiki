@@ -79,15 +79,16 @@ If another Peashooter-type plant is currently targeting the closest zombie, Repe
 
 Repeater is a mutation of the [[Peashooter]], obtained by fusing two Peashooters, or by applying [[Fertilizer]] to one.
 
-| Mutation type | Other plant                      | Mutation              |
-| ------------- | -------------------------------- | --------------------- |
-| Fusion        | [[Peashooter]] or [[Fertilizer]] | [[Three Pod]]         |
-| Fusion        | Peashooter                       | [[Threepeater]]       |
-| Fusion        | Peashooter                       | [[Split Pea]]         |
-| Splicing      | [[Iceberg Lettuce]]              | [[Snow Repeater]]     |
-| Splicing      | [[Cherry Bomb]]                  | [[Fire Repeater]]     |
-| Splicing      | [[E.M.Peach]]                    | [[Electric Repeater]] |
-| Splicing      | [[Moonbean]]                     | [[Shadow Repeater]]   |
+| Mutation type  | Other plant         | Mutation              |
+| -------------- | ------------------- | --------------------- |
+| Fusion         | [[Peashooter]]      | [[Three Pod]]         |
+| Fusion         | Peashooter          | [[Threepeater]]       |
+| Fusion         | Peashooter          | [[Split Pea]]         |
+| [[Fertilizer]] |                     | Three Pod             |
+| Splicing       | [[Iceberg Lettuce]] | [[Snow Repeater]]     |
+| Splicing       | [[Cherry Bomb]]     | [[Fire Repeater]]     |
+| Splicing       | [[E.M.Peach]]       | [[Electric Repeater]] |
+| Splicing       | [[Moonbean]]        | [[Shadow Repeater]]   |
 ### Statistics
 
 |               | Value             |

@@ -77,10 +77,11 @@ When used as part of Nate's ability, a Pea-nut is occasionally planted at random
 
 Pea-nut is a mutation of [[Wall-nut]], obtained by splicing a [[Peashooter]] and a [[Wall-nut]].
 
-| Mutation type | Other plant                    | Mutation      |
-| ------------- | ------------------------------ | ------------- |
-| Fusion        | [[Wall-nut]] or [[Fertilizer]] | [[Three-nut]] |
-| Splicing      | [[Peashooter]]                 | Three-nut     |
+| Mutation type  | Other plant    | Mutation      |
+| -------------- | -------------- | ------------- |
+| Fusion         | [[Wall-nut]]   | [[Three-nut]] |
+| [[Fertilizer]] |                | Three-nut     |
+| Splicing       | [[Peashooter]] | Three-nut     |
 ### Statistics
 
 |               | Value                   |

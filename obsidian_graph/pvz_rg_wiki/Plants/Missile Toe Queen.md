@@ -23,7 +23,7 @@ Missile Toe Queen is a frosty artillery that shoots powerful strikes of ice at t
 
 Missile Toe Queen is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it is a manual plant that shoots freezing strikes at the zombies for high damage and chill.
 
-Officially, it is known as Missile Toe, but the name was changed to fit the reference to the chess pieces established by the Holly Knight and Holly Pawn.
+Officially, it is known as Missile Toe, but the name was changed to fit the reference to the chess pieces established by the [[Holly Knight]] and [[Holly Pawn]].
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

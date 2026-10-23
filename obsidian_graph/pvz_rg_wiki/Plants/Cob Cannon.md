@@ -1,6 +1,6 @@
 # Cob Cannon
 
-Short summary of the plant.
+Cob Cannon is a heavy artillery plant that fires devastating cobs at the zombies.
 
 ![[missing_image.png|236]]
 

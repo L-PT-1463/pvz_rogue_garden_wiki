@@ -18,7 +18,7 @@ Doom-shroom is a lawn-level threat that vaporizes incoming zombie hordes in an i
 - [[#In PvZ Clicker]]
 ## Origins
 
-Plant is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it acts as a single-use board clearer unlocked in the Night levels.
+Doom-shroom is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it acts as a single-use board clearer unlocked in the Night levels.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

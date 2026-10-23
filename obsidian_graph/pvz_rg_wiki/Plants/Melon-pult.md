@@ -56,7 +56,7 @@ Almanac entry.
 
 Melon-pult is a regular plant from the [[Pirate's Beach]] that lobs watermelons at the front-most zombie of its lane.
 
-<font color="#9bbb59">Speciality</font>: The attack deals damage to the zombies in an X pattern around the target zombie.
+<font color="#9bbb59">Speciality</font>: The attack deals damage to the zombies in the tiles diagonal to the hit zombie.
 ### Statistics
 
 |           | Value  |

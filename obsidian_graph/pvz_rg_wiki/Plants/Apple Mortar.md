@@ -1,6 +1,6 @@
 # Apple Mortar
 
-Short summary of the plant.
+Apple Mortar is a ranged plant that fires apple cores at its lane and neighbouring lanes.
 
 ![[missing_image.png|236]]
 

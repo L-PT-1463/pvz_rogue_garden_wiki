@@ -27,7 +27,7 @@ Holly Knight is a wall plant that fires weaker walls at the zombies.
 
 Holly Knight is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it acts as a counter-attacking wall, and can fire projectiles that serve as weak walls.
 
-Officially, it is known as Holly Barrier, but the name was changed to its code name Holly Knight in order to allow for the chess reference, used for its projectile the Holly Pawn.
+Officially, it is known as Holly Barrier, but the name was changed to its code name Holly Knight in order to allow for the chess reference, used for its projectile the [[Holly Pawn]].
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

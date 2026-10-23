@@ -58,12 +58,13 @@ When picked from plant selection, a Cherry Bomb is planted on a random spot of t
 When used as part of Patrice's ability, a Cherry Bomb is occasionally thrown at random spots of the lawn.
 ### Mutations
 
-| Mutation type | Other plant                   | Mutation         |
-| ------------- | ----------------------------- | ---------------- |
-| Fusion        | Cherry Bomb or [[Fertilizer]] | [[Grapeshot]]    |
-| Fusion        | Cherry Bomb                   | [[Jalapeño]]     |
-| Splicing      | [[Sunflower]]                 | [[Solar Tomato]] |
-| Splicing      | [[Moonbean]]                  | [[Sunflower]]    |
+| Mutation type  | Other plant   | Mutation         |
+| -------------- | ------------- | ---------------- |
+| Fusion         | Cherry Bomb   | [[Grapeshot]]    |
+| Fusion         | Cherry Bomb   | [[Jalapeño]]     |
+| [[Fertilizer]] |               | Grapeshot        |
+| Splicing       | [[Sunflower]] | [[Solar Tomato]] |
+| Splicing       | [[Moonbean]]  | [[Sunflower]]    |
 Cherry Bomb can be spliced with certain other plants to create fire-themed and explosive mutations.
 
 | Mutated plant    | Mutation          |

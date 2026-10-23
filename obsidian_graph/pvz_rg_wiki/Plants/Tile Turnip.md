@@ -21,7 +21,7 @@ Tile Turnip is a plant that drills into the ground to become a supporting tile f
 - [[#In PvZ Clicker]]
 ## Origins
 
-Tile Turnip is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it allows the player to replicate and control the [[Far Future]] world's Power Tile mechanic that multiplies Plant Food.
+Tile Turnip is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it allows the player to replicate and control the [[Far Future]] world's Power Tile mechanic that multiplies [[Plant Food]].
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

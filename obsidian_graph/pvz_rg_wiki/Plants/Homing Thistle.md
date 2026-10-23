@@ -21,9 +21,7 @@ Homing Thistle is a long distance plant that targets the front-most zombie in th
 - [[#In PvZ Clicker]]
 ## Origins
 
-Information about the plant's origins, inspiration, or first appearance.
-
-Plant is an official Plants vs Zombie plant that made its debut in 
+Homing Thistle is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it acts as a direct successor to [[Cattail]], acting very similarly to it, but shooting only one spike per attack and being a ground plant rather than an aquatic one.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

@@ -21,7 +21,7 @@ Dragon Bruit is a ranged plant that shoots the zombies and produces its seedling
 - [[#In PvZ Clicker]]
 ## Origins
 
-Dragon Bruit is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it is a lobber that attacks its lane and neighbouring lanes, and spawns Baby Bruits when hurt. If powered, its attacks also apply poison to the zombies.
+Dragon Bruit is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it is a lobber that attacks its lane and neighbouring lanes, and spawns [[Baby Bruit]]s when hurt. If powered, its attacks also apply poison to the zombies.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

@@ -74,11 +74,12 @@ It lobs one cabbage at a time at the zombie with the most health.
 If another Cabbage-pult-type plant is currently targeting the healthiest zombie, Cabbage-pult attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
-| Mutation type | Other plant                    | Mutation         |
-| ------------- | ------------------------------ | ---------------- |
-| Fusion        | Cabbage-pult or [[Fertilizer]] | [[Slaw-slinger]] |
-| Fusion        | Cabbage-pult                   | [[Cold-slaw]]    |
-| Splicing      | [[Iceberg Lettuce]]            | [[A.K.E.E.]]     |
+| Mutation type  | Other plant         | Mutation         |
+| -------------- | ------------------- | ---------------- |
+| Fusion         | Cabbage-pult        | [[Slaw-slinger]] |
+| Fusion         | Cabbage-pult        | [[Cold-slaw]]    |
+| [[Fertilizer]] |                     | Slaw-slinger     |
+| Splicing       | [[Iceberg Lettuce]] | [[A.K.E.E.]]     |
 Cabbage-pult can be spliced with other plants to create certain mutations.
 
 | Mutated plant | Mutation         |

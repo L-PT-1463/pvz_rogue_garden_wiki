@@ -7,7 +7,7 @@ Electric Currant is a plant that creates damaging currents of electricity by con
 | Class             | ![[missing_image.png\|53]]                            |
 | :---------------- | ----------------------------------------------------- |
 | Power Mint family | ![[fila-mint_family.png\|53]]<br>[[Fila-mint Family]] |
-| Tribes            |                                                       |
+| Tribes            | [[Berry Tribe]]                                       |
 ## Contents
 
 - [[#Origins]]
@@ -52,7 +52,7 @@ Almanac entry.
 
 Electric Currant is a regular plant from the [[Far Future]] that connects to other electric plants, creating chains of electricity that damage zombies.
 
-<font color="#9bbb59">Speciality</font>: Connects to electric plants to form electric currents. If connecting to another Electric Currant, the current of electricity deals more damage.
+<font color="#9bbb59">Speciality</font>: Connects to [[Fila-mint Family]] plants to form electric currents. If connecting to another Electric Currant, the current of electricity deals more damage.
 ### Statistics
 
 |           | Value  |

@@ -61,7 +61,7 @@ Ghost Pepper is a pass-through plant from the [[Dark Ages]] that attacks all zom
 <font color="#f79646">Placement speciality</font>: Ghost Pepper is aerial, and can therefore appear and move to any tile.
 
 <font color="#8064a2">After 3 turns</font>: Ghost Pepper vanquishes itself.
-<font color="#8064a2">When vanquished</font>: Attacks all zombies in the diagonally neighbouring tiles with a straight-attack type explosion.
+<font color="#8064a2">When vanquished</font>: Explodes, attacking all zombies in the tiles diagonal to itself.
 ### Statistics
 
 |           | Value  |

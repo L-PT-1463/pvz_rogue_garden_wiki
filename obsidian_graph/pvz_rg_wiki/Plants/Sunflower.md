@@ -76,11 +76,12 @@ It periodically generates rays of sun on other potted plants which temporarily i
 If a plant is already under the effects of a Sunflower-type plant's buff, Sunflower targets a different plant instead.
 ### Mutations
 
-| Mutation type | Other plant                 | Mutation             |
-| ------------- | --------------------------- | -------------------- |
-| Fusion        | Sunflower or [[Fertilizer]] | [[Twin Sunflower]]   |
-| Fusion        | Sunflower                   | [[Primal Sunflower]] |
-| Splicing      | [[Moonbean]]                | [[Moonflower]]       |
+| Mutation type  | Other plant  | Mutation             |
+| -------------- | ------------ | -------------------- |
+| Fusion         | Sunflower    | [[Twin Sunflower]]   |
+| Fusion         | Sunflower    | [[Primal Sunflower]] |
+| [[Fertilizer]] |              | Twin Sunflower       |
+| Splicing       | [[Moonbean]] | [[Moonflower]]       |
 Sunflower can be spliced with certain other plants to create their solar mutations.
 
 | Mutated plant   | Mutation         |

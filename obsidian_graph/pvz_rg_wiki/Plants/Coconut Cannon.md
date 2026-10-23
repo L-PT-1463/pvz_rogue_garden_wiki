@@ -4,10 +4,10 @@ Coconut Cannon is a heavy-hitting plant that shoots coconut cannonballs at the z
 
 ![[missing_image.png|236]]
 
-| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]        |
-| :---------------- | ------------------------------------------------------ |
-| Power Mint family | ![[arma-mint_family.png\|53]]<br>[[Arma-mint Familiy]] |
-| Tribes            |                                                        |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]             |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[bombard-mint_family.png\|53]]<br>[[Bombard-mint Family]] |
+| Tribes            |                                                             |
 ## Contents
 
 - [[#Origins]]

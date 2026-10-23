@@ -78,10 +78,11 @@ It lobs one kernel at a time at the zombie with the most health. It occasionally
 If another Kernel-pult-type plant is currently targeting the healthiest zombie, Kernel-pult attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
-| Mutation type | Other plant                   | Mutation            |
-| ------------- | ----------------------------- | ------------------- |
-| Fusion        | Kernel-pult or [[Fertilizer]] | [[Flak Seed]]       |
-| Fusion        | Kernel-pult                   | [[Caramel Popcorn]] |
+| Mutation type  | Other plant | Mutation            |
+| -------------- | ----------- | ------------------- |
+| Fusion         | Kernel-pult | [[Flak Seed]]       |
+| Fusion         | Kernel-pult | [[Caramel Popcorn]] |
+| [[Fertilizer]] |             | Flak Seed           |
 ### Statistics
 
 |               | Value                 |

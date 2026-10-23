@@ -21,9 +21,7 @@ Strawburst is a heavy berry artillery that powers over time to deliver devastati
 - [[#In PvZ Clicker]]
 ## Origins
 
-Information about the plant's origins, inspiration, or first appearance.
-
-Plant is an official Plants vs Zombie plant that made its debut in 
+Strawburst is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it is a manual plant that grows in stages, increasing the damage and area of effect of the projectile with each stage.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

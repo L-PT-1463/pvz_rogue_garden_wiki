@@ -4,10 +4,10 @@ Corn-fetti Popper is a festive artillery plant that shoots kernel-fettis at the 
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                             |
-| :---------------- | ------------------------------------------------------ |
-| Power Mint family | ![[arma-mint_family.png\|53]]<br>[[Arma-mint Familiy]] |
-| Tribes            |                                                        |
+| Class             | ![[missing_image.png\|53]]                                  |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[appease-mint_family.png\|53]]<br>[[Appease-mint Family]] |
+| Tribes            |                                                             |
 ## Contents
 
 - [[#Origins]]
@@ -22,6 +22,8 @@ Corn-fetti Popper is a festive artillery plant that shoots kernel-fettis at the 
 ## Origins
 
 Corn-fetti Popper is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it fires piercing cobs that can push zombies back.
+
+It was completely reworked for PvZ ZPG, keeping only the visual design as inspiration.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

@@ -80,9 +80,10 @@ If another Peashooter-type plant is currently targeting the closest zombie, Thre
 
 Threepeater is a mutation of the [[Peashooter]], obtained by fusing a Peashooter and a [[Repeater]].
 
-| Mutation type | Other plant                      | Mutation    |
-| ------------- | -------------------------------- | ----------- |
-| Fusion        | [[Peashooter]] or [[Fertilizer]] | [[Pea Pod]] |
+| Mutation type  | Other plant    | Mutation    |
+| -------------- | -------------- | ----------- |
+| Fusion         | [[Peashooter]] | [[Pea Pod]] |
+| [[Fertilizer]] |                | Pea Pod     |
 ### Statistics
 
 |               | Value             |

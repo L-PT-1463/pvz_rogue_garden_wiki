@@ -25,7 +25,7 @@ Sweet Potato is a defensive plant that attracts zombies to its lane.
 - [[#In PvZ Clicker]]
 ## Origins
 
-Plant is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it acts as a wall plant that attracts zombies into its lane.
+Sweet Potato is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it acts as a wall plant that attracts zombies into its lane.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

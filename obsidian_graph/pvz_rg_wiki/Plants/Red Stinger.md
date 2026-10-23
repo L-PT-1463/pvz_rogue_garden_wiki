@@ -1,6 +1,6 @@
 # Repeater
 
-Repeater is a straight-shooter that shoots two peas at a time at the zombies.
+Red Stinger is a straight-shooter that fires up to two petals at a time at the zombies or cowers into moderate-health wall.
 
 ![[missing_image.png|236]]
 

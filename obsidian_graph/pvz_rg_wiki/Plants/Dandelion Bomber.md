@@ -23,7 +23,7 @@ Dandelion Bomber is a ranged plant that fires seed bombs at the zombies.
 
 Dandelion Bomber is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it fires explosive seed bombs down its lane and neighbouring lanes. 
 
-Officially, it is known as Dandelion, but the name was changed to avoid confusion with the plant also named Dandelion from the Chinese-exclusive Plants vs Zombies Online.
+Officially, it is known as Dandelion, but the name was changed to avoid confusion with the plant also named Dandelion from the Chinese-exclusive Plants vs Zombies Online, renamed here to [[Dandelion Weed]].
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

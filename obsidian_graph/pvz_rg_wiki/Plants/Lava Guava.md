@@ -23,7 +23,7 @@ Lava Guava is a short-tempered instant use plant that bursts into lava when zomb
 
 Lava Guava is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it bursts into lava when a zombie approaches it, leaving behind a patch of lava.
 
-Its plant food ability in that game, which inspired its functionality in PvZ ZPG, is to create a crater in the tiles in front of it, damaging the zombies.
+Lava Quava's behaviour in PvZ ZPG is based on its [[Plant Food]] power from Plants vs Zombies 2 to create a crater in the tiles in front of it, damaging the zombies., rather than its main instant-like ability.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

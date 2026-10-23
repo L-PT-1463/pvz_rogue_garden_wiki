@@ -31,7 +31,7 @@ Shadow-powered
 
 Moonflower is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it's a shadow plant sun-producer that powers other shadow plants in the 3x3 area around it.
 
-Its shadow-powered ability in PvZ Lawnmaggedon is inspired by Moonflower's Plant Food power in Plants vs Zombies 2, where it generates a weak shield around itself.
+Its shadow-powered ability in PvZ Lawnmaggedon is inspired by Moonflower's [[Plant Food]] power in Plants vs Zombies 2, where it generates a weak shield around itself.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -62,7 +62,7 @@ Almanac entry.
 
 Moonflower is a regular plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
 
-<font color="#9bbb59">Speciality</font>: Powers other plants in a cross-shaped area while alive.
+<font color="#9bbb59">Speciality</font>: Powers neighbouring plants in its lane and column while alive.
 
 <font color="#8064a2">If vanquished by a Munch-type attack</font>: It heals the zombie that bit it.
 

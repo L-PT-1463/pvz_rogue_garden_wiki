@@ -76,11 +76,12 @@ Chomper is a potted base melee plant.
 It attacks slowly, dealing heavy damage to the zombie it bites. It always attacks the nearest zombie to itself in range.
 ### Mutations
 
-| Mutation type | Other plant               | Mutation       |
-| ------------- | ------------------------- | -------------- |
-| Fusion        | Chomper or [[Fertilizer]] | [[Chomper]]    |
-| Splicing      | [[Peashooter]]            | [[Snap Pea]]   |
-| Splicing      | [[Cherry Bomb]]           | [[Snapdragon]] |
+| Mutation type  | Other plant     | Mutation          |
+| -------------- | --------------- | ----------------- |
+| Fusion         | Chompe          | [[Super Chomper]] |
+| [[Fertilizer]] |                 | Super Chomper     |
+| Splicing       | [[Peashooter]]  | [[Snap Pea]]      |
+| Splicing       | [[Cherry Bomb]] | [[Snapdragon]]    |
 Chomper can be spliced with other plants to create jawed mutations.
 
 | Mutated plant        | Mutation            |

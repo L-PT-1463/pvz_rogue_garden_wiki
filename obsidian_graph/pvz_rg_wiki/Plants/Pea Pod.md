@@ -79,7 +79,7 @@ It shoots five peas at a time; three in a straight line at the zombie closest to
 If another Peashooter-type plant is currently targeting the closest zombie, Pea Pod attacks the second closest instead, and so on.
 ### Mutations
 
-Pea Pod is a mutation of the [[Peashooter]] obtained in a few ways. It can be obtained by fusing a [[Peashooter]] and a [[Threepeater]], by applying a [[Watering Cane]] to a [[Three Pod]], or by applying [[Fertilizer]] to a Threepeater.
+Pea Pod is a mutation of the [[Peashooter]], obtained by fusing a Peashooter and a [[Threepeater]], by applying a [[Watering Can]] to a [[Three Pod]], or by applying [[Fertilizer]] to a Threepeater.
 ### Statistics
 
 |               | Value             |

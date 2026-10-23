@@ -23,7 +23,7 @@ Holly Pawn is a weak wall created by the Holly Knight.
 
 Holly Pawn is based on the Holly Barrier, an official plant that made its debut in Plants vs Zombies 2. More specifically, Holly Pawn takes after the Holly Barrier's projectiles, which act as weak walls once planted.
 
-The Holly Pawn's name is in reference to the Holly Barrier's code name Holly Knight, via the association with the pawn and knight chess pieces.
+The Holly Pawn's name is in reference to the Holly Barrier's code name [[Holly Knight]], via the association with the pawn and knight chess pieces.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

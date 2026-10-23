@@ -52,7 +52,7 @@ Almanac entry.
 
 Bowling Bulb is a regular plant from the [[Pirate's Beach]], exclusive to [[Docked Ship]] gardens. It fires a bulb down its lane if there is a zombie in range.
 
-<font color="#9bbb59">Speciality</font>: Attacks bounce off zombies diagonally. Each bulb does slightly more damage than the last, this resets with every attack.
+<font color="#9bbb59">Speciality</font>: Attacks bounce off zombies and the edges of the garden diagonally. Each bulb does slightly more damage than the last, this resets with every attack.
 
 <font color="#4bacc6">Trait</font>: It has the *[[Spread]] (3)* trait, so fires three times per attack.
 ### Statistics

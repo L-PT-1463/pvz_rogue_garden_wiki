@@ -21,9 +21,7 @@ Tangle Kelp is an aquatic single use plants that drags zombies into the depths o
 - [[#In PvZ Clicker]]
 ## Origins
 
-Information about the plant's origins, inspiration, or first appearance.
-
-Plant is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where
+Tangle Kelp is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it acts as the aquatic substitute to [[Potato Mine]], instantly vanquishing one zombie but having a long seed packet recharge time.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

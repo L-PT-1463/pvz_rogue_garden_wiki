@@ -21,7 +21,7 @@ Sweet Pea is a straight-shooter that shoots candy at the zombies while luring th
 - [[#In PvZ Clicker]]
 ## Origins
 
-Sweet Pea is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies Adventures, though its mechanics in the Rogue Garden universe are much more closely inspired by its appearance in Plants vs Zombies Heroes, where it acts as a stronger [[Peashooter]] that can move zombies to its lane.
+Sweet Pea is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies Adventures, though its mechanics in the Rogue Garden universe are inspired by its appearance in Plants vs Zombies Heroes, where it acts as a stronger [[Peashooter]] that can move zombies to its lane.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

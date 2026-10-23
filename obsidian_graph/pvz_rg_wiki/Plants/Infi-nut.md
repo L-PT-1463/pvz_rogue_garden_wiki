@@ -27,7 +27,7 @@ Infi-nut is a protective barrier plant that blocks the advance of the zombies.
 
 Infi-nut is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it's a weaker [[Wall-nut]] that can heal over-time and reappear if fully eaten.
 
-Infi-nut's ability in PvZ ZPG is based on its Plant Food power from Plants vs Zombies 2 instead of its main healing ability, which is to create a protective barrier in the entire lane.
+Infi-nut's ability in PvZ ZPG is based on its [[Plant Food]] power from Plants vs Zombies 2 to create a protective barrier in the entire lane, rather than its main healing ability.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -78,9 +78,10 @@ Infi-nut is a spawned [[Wall-nut]] mutation protector plant.
 
 Infi-nut is a mutation of the [[Wall-nut]], obtained by splicing a Wall-nut and an [[E.M.Peach]].
 
-| Mutation type | Other plant                | Mutation          |
-| ------------- | -------------------------- | ----------------- |
-| Fusion        | Wall-nut or [[Fertilizer]] | [[Infi-tall-nut]] |
+| Mutation type  | Other plant | Mutation          |
+| -------------- | ----------- | ----------------- |
+| Fusion         | Wall-nut    | [[Infi-tall-nut]] |
+| [[Fertilizer]] |             | Infi-tall-nut     |
 ### Statistics
 
 |               | Value            |

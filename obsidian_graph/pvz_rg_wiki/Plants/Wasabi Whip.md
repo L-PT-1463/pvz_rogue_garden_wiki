@@ -73,6 +73,10 @@ It attacks the closest zombie to itself with a sideways slash, which can hit oth
 ### Mutations
 
 Wasabi Whip is a mutation of the [[Bonk Choy]], obtained by splicing a Bonk Choy and a [[Cherry Bomb]].
+
+| Mutation type | Other plant   | Mutation          |
+| ------------- | ------------- | ----------------- |
+| Splicing      | [[E.M.Peach]] | [[Electrici-tea]] |
 ### Statistics
 
 |               | Value            |

@@ -82,6 +82,7 @@ Snapdragon is a mutation of the [[Chomper]], obtained by splicing a [[Cherry Bom
 | Mutation type | Other plant         | Mutation            |
 | ------------- | ------------------- | ------------------- |
 | Splicing      | [[Iceberg Lettuce]] | [[Cold Snapdragon]] |
+| Splicign      | [[E.M.Peach]]       | [[Volt Snapdragon]] |
 ### Statistics
 
 |               | Value            |

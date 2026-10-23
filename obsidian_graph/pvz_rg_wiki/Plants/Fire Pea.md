@@ -25,7 +25,7 @@ Fire Pea is a straight-shooter that shoots burning peas at the zombies.
 - [[#In PvZ Clicker]]
 ## Origins
 
-Fire Pea is based on the official Plants vs Zombie plant Flaming Pea, most commonly known by its later appearances as Fire Peashooter, that made its debut in Plants vs Zombies Adventures, where it serves as a fire variant of the [[Peashooter]].
+Fire Pea is based on the official Plants vs Zombie plant Flaming Pea, most commonly known from its later appearances where it is named Fire Peashooter, that made its debut in Plants vs Zombies Adventures, where it serves as a fire variant of the [[Peashooter]].
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -78,9 +78,10 @@ If another Peashooter-type plant is currently targeting the closest zombie, Fire
 
 Fire Pea is a mutation of the [[Peashooter]], obtained by splicing a Peashooter and a [[Cherry Bomb]].
 
-| Mutation type | Other plant                      | Mutation          |
-| ------------- | -------------------------------- | ----------------- |
-| Fusion        | [[Peashooter]] or [[Fertilizer]] | [[Fire Repeater]] |
+| Mutation type  | Other plant    | Mutation          |
+| -------------- | -------------- | ----------------- |
+| Fusion         | [[Peashooter]] | [[Fire Repeater]] |
+| [[Fertilizer]] |                | Fire Repeater     |
 ### Statistics
 
 |               | Value             |

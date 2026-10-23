@@ -21,7 +21,7 @@ Spikerock is a short plant that is ignored by most zombies, and attacks them fro
 - [[#In PvZ Clicker]]
 ## Origins
 
-Spikeweed is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it is ignored by most zombies, allowing it to attack all zombies on its tile at once by piercing them from the ground.
+Spikerock is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it is ignored by most zombies, allowing it to attack all zombies on its tile at once by piercing them from the ground. It does more damage and can take more hits before vanquishing than [[Spikeweed]], which Spikerock is an upgrade off.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

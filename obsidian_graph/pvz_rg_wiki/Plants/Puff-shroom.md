@@ -76,11 +76,12 @@ It fires spores in a straight line at the zombie closest to the player, but has 
 If another Puff-shroom-type plant is currently targeting the closest zombie, Puff-shroom attacks the second closest instead, and so on.
 ### Mutations
 
-| Mutation type | Other plant                   | Mutation           |
-| ------------- | ----------------------------- | ------------------ |
-| Fusion        | Puff-shroom or [[Fertilizer]] | [[Fume-shroom]]    |
-| Fusion        | Puff-shroom                   | [[Shroom for Two]] |
-| Fusion        | Puff-shroom                   | [[Scaredy-shroom]] |
+| Mutation type  | Other plant | Mutation           |
+| -------------- | ----------- | ------------------ |
+| Fusion         | Puff-shroom | [[Fume-shroom]]    |
+| Fusion         | Puff-shroom | [[Shroom for Two]] |
+| Fusion         | Puff-shroom | [[Scaredy-shroom]] |
+| [[Fertilizer]] |             | Fume-shroom        |
 ### Statistics
 
 |               | Value             |

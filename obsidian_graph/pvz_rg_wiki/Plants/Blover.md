@@ -21,7 +21,7 @@ Blover is a wind-making plant, perfect to fight back against fog and flying thre
 - [[#In PvZ Clicker]]
 ## Origins
 
-Plant is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it specifically countered the Fog level's titulary gimmick and Balloon Zombie.
+Plant is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it specifically countered the Fog level's titulary gimmick and [[Balloon Zombie]].
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

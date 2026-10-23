@@ -1,6 +1,6 @@
 # Baby Bruit
 
-Baby Bruit is the seedling of a Dragon Bruit, just as violent as its mature counterpart.
+Baby Bruit is the seedling of a [[Dragon Bruit]], just as violent as its mature counterpart.
 
 ![[missing_image.png|236]]
 
@@ -21,7 +21,7 @@ Baby Bruit is the seedling of a Dragon Bruit, just as violent as its mature coun
 - [[#In PvZ Clicker]]
 ## Origins
 
-Baby Bruit is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it is exclusively spawned by the Dragon Bruit, which acts as a weaker version of it.
+Baby Bruit is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it is exclusively spawned by the [[Dragon Bruit]], which acts as a weaker version of it.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
