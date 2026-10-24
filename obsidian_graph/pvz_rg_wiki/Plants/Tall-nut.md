@@ -74,7 +74,7 @@ Tall-nut is a spawned [[Wall-nut]] mutation protector plant.
 When used as part of Nate's ability, a Tall-nut is occasionally planted at random spots of the lawn, where it stays, blocking the path of zombies until it is vanquished.
 ### Mutations
 
-Tall-nut is a mutation of the [[Wall-nut]], obtained by fusing a Wall-nut and a [[Jugger-nut]], or by applying [[Fertilizer]] to the latter.
+Tall-nut is a mutation of the [[Wall-nut]], obtained by fusing a Wall-nut and a [[Primal Wall-nut]], or by applying [[Fertilizer]] to the latter.
 ### Statistics
 
 |               | Value            |

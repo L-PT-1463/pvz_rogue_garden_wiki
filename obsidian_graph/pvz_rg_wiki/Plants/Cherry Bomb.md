@@ -64,17 +64,19 @@ When used as part of Patrice's ability, a Cherry Bomb is occasionally thrown at 
 | Fusion         | Cherry Bomb   | [[Jalapeño]]     |
 | [[Fertilizer]] |               | Grapeshot        |
 | Splicing       | [[Sunflower]] | [[Solar Tomato]] |
-| Splicing       | [[Moonbean]]  | [[Sunflower]]    |
+| Splicing       | [[Moonbean]]  | [[Noctarine]]    |
 Cherry Bomb can be spliced with certain other plants to create fire-themed and explosive mutations.
 
 | Mutated plant    | Mutation          |
 | ---------------- | ----------------- |
+| [[Bonk Choy]]]   | [[Wasabi Whip]]   |
 | [[Chomper]]      | [[Snapdragon]]    |
 | [[Peashooter]]   | [[Fire Pea]]      |
 | [[Repeater]]     | [[Fire Repeater]] |
 | [[Wall-nut]]     | [[Explode-o-Nut]] |
-| [[Wall-nut]]     | [[Torchwood]]     |
+| Wall-nut         | [[Torchwood]]     |
 | [[Sweet Potato]] | [[Hot Date]]      |
+| [[Coco-pult]]    | [[Pepper-pult]]   |
 ### Statistics
 
 |               | Value  |

@@ -1,13 +1,13 @@
-# Pumpkin
+# Whirlwind Bamboo
 
-Pumpkin is a defensive plant that is planted on other plants to protect them.
+Whirlwind Bamboo is a ranged plant that shoots heavy missiles to push zombies back.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]               |
-| :---------------- | --------------------------------------------------------------- |
-| Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Reinforce-mint Family]] |
-| Tribes            |                                                                 |
+| Class             | ![[missing_image.png\|53]] |
+| :---------------- | -------------------------- |
+| Power Mint family | ![[missing_image.png\|53]] |
+| Tribes            |                            |
 ## Contents
 
 - [[#Origins]]
@@ -21,7 +21,7 @@ Pumpkin is a defensive plant that is planted on other plants to protect them.
 - [[#In PvZ Clicker]]
 ## Origins
 
-Pumpkin is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it serves as a wall plant that can be planted on the same tile as another plant.
+Whirlwind Bamboo is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 3 China, where it fire powerful missiles that push zombies back, and is powered by winds.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -50,16 +50,18 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Pumpkin is a protector plant from the [[Dark Ages]].
+Whirlwind Bamboo is a regular plant from the [[Steam City]], exclusive to [[Sky Battle]] gardens. It shoots missiles down its lane.
 
-<font color="#f79646">Placement speciality</font>: It has the *[[Vine]]* trait, and can therefore appear on the same tile as another plant. It must be vanquished first before the plant inside can be attacked.
+<font color="#f79646">Placement speciality</font>: Whirlwind Bamboo is aerial, and can therefore appear and move to any tile.
+
+<font color="#4bacc6">Trait</font>: Its attack has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
 ### Statistics
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+|           | Value    |
+| --------- | -------- |
+| Damage    |          |
+| Toughness |          |
+| Range     | Straight |
 ### Almanac
 
 Almanac entry.

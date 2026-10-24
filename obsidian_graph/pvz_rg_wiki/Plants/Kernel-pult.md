@@ -54,7 +54,7 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Kernel-pult is a regular plant from the [[Neighbour's House]] that attacks with a lobbed attack, launching a single kernel if there is a zombie in range.
+Kernel-pult is a regular plant from the [[Neighbour's House]] and [[Pirate's Beach]] that attacks with a lobbed attack, launching a single kernel if there is a zombie in range.
 
 <font color="#9bbb59">Speciality</font>: It has a chance of launching a stick of butter instead.
 
@@ -91,7 +91,7 @@ If another Kernel-pult-type plant is currently targeting the healthiest zombie, 
 | Rarity        |                       |
 | Damage        |                       |
 | Attack speed  |                       |
-| Targeting     | Highest-health zombie |
+| Targeting     | Highest health zombie |
 ### Almanac
 
 Almanac entry.

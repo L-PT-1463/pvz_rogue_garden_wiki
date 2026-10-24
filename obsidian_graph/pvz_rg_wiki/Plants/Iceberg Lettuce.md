@@ -81,6 +81,7 @@ Iceberg Lettuce can be spliced with many other plants to create ice-themed mutat
 
 | Mutated plant    | Mutation            |
 | ---------------- | ------------------- |
+| [[Bonk Choy]]    | [[Nippy Cabbage]]   |
 | [[Cabbage-pult]] | [[Cold-slaw]]       |
 | [[Jalapeño]]     | [[Chilly Pepper]]   |
 | [[Snapdragon]]   | [[Cold Snapdragon]] |

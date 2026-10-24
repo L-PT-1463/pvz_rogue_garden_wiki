@@ -4,7 +4,7 @@ Shadow-shroom is an single-use shadow mushroom that poisons zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[kabloom_class.png\|53]]<br>[[Pepper-pult]]               |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]             |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[conceal-mint_family.png\|53]]<br>[[Conceal-mint Family]] |
 | Tribes            | [[Mushroom Tribe]]                                          |

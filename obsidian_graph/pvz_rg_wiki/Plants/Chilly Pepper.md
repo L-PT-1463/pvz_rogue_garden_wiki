@@ -71,22 +71,17 @@ Chilly Pepper is a regular plant from the [[Neighbour's House]], exclusive to [[
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Jalapeño is a spawned [[Cherry Bomb]] mutation instant plant.
+Chilly Pepper is a spawned [[Cherry Bomb]] mutation instant plant.
 
-When used as part of Patrice's ability, a Jalapeño is occasionally thrown at random spots of the lawn, where it explodes in an straight line that stretches into a random direction, dealing damage to all zombies caught in its fire.
+When used as part of Patrice's ability, a Chilly Pepper is occasionally thrown at random spots of the lawn, where it explodes in an straight line that stretches into a random direction, dealing damage to all zombies and freezing them.
 ### Mutations
 
-Jalapeño is a mutation of [[Cherry Bomb]], obtained by fusing two Cherry Bombs.
-
-| Mutation type | Other plant         | Mutation          |
-| ------------- | ------------------- | ----------------- |
-| Fusion        | [[Cherry Bomb]]     | [[Ghost Pepper]]  |
-| Splicing      | [[Iceberg Lettuce]] | [[Chilly Pepper]] |
+Chilly Pepper is a mutation of [[Cherry Bomb]], obtained by splicing a [[Cherry Bomb]] and an [[Iceberg Lettuce]].
 ### Statistics
 
 |               | Value            |
 | ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
+| Mutation type | Level 2 Mutation |
 | Rarity        |                  |
 | Damage        |                  |
 | Range         |                  |

@@ -83,13 +83,13 @@ A.K.E.E. is a mutation of the [[Cabbage-pult]], obtained by fusing two Cabbage-p
 | Fusion        | [[Cabbage-pult]] | [[Pomegarnet Merchant]] |
 ### Statistics
 
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Rarity        |       |
-| Damage        |       |
-| Attack speed  |       |
-| Targeting     |       |
+|               | Value                 |
+| ------------- | --------------------- |
+| Mutation type |                       |
+| Rarity        |                       |
+| Damage        |                       |
+| Attack speed  |                       |
+| Targeting     | Highest health zombie |
 ### Almanac
 
 Almanac entry.

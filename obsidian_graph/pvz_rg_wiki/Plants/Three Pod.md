@@ -62,11 +62,12 @@ If another Peashooter-type plant is currently targeting the closest zombie, Thre
 
 Three Pod is a mutation of the [[Peashooter]], obtained by fusing a Peashooter and a [[Repeater]] or by applying [[Fertilizer]] to the latter.
 
-| Mutation Type    | Other Plant    | Mutation        |
-| ---------------- | -------------- | --------------- |
-| Fusion           | [[Peashooter]] | [[Gatling Pea]] |
-| [[Fertilizer]]   |                | Gatling Pea     |
-| [[Watering Can]] |                | [[Pea Pod]]     |
+| Mutation Type    | Other Plant      | Mutation        |
+| ---------------- | ---------------- | --------------- |
+| Fusion           | [[Peashooter]]   | [[Gatling Pea]] |
+| [[Fertilizer]]   |                  | Gatling Pea     |
+| [[Watering Can]] |                  | [[Pea Pod]]     |
+| Splicing         | [[Cabbage-pult]] | [[Sling Pea]]   |
 ### Statistics
 
 |               | Value             |

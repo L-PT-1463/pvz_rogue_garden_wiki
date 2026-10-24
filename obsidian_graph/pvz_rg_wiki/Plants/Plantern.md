@@ -1,6 +1,6 @@
 # Plantern
 
-Short summary of the plant.
+Plantern is a plant that produces light in the area around it.
 
 ![[missing_image.png|236]]
 

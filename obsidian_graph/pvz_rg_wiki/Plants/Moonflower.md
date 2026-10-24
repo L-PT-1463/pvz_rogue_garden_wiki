@@ -89,13 +89,13 @@ If the player has at least one other Moonflower, Moonflower periodically generat
 Moonflower is a mutation of the [[Sunflower]], obtained by splicing a Sunflower and a [[Moonbean]].
 ### Statistics
 
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     |                  |
+|               | Value               |
+| ------------- | ------------------- |
+| Mutation type | Level 1 Mutation    |
+| Rarity        |                     |
+| Damage        |                     |
+| Attack speed  |                     |
+| Targeting     | Other potted plants |
 ### Almanac
 
 Almanac entry.

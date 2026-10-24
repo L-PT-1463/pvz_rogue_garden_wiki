@@ -74,16 +74,22 @@ When picked from plant selection, a Wall-nut is planted on a random spot of the 
 When used as part of Nate's ability, a Wall-nut is occasionally planted at random spots of the lawn.
 ### Mutations
 
-| Mutation type  | Other plant     | Mutation           |
-| -------------- | --------------- | ------------------ |
-| Fusion         | Wall-nut        | [[Jugger-nut]]     |
-| Fusion         | Wall-nut        | [[Sweet Potato]]   |
-| [[Fertilizer]] |                 | Jugger-nut         |
-| Splicing       | [[Peashooter]]  | [[Pea-nut]]        |
-| Splicing       | [[Cherry Bomb]] | [[Explode-o-Nut]]  |
-| Splicing       | [[Cherry Bomb]] | [[Torchwood]]      |
-| Splicing       | [[E.M.Peach]]   | [[Infi-nut]]       |
-| Splicing       | [[Moonbean]]    | [[Murkadamia Nut]] |
+| Mutation type  | Other plant     | Mutation            |
+| -------------- | --------------- | ------------------- |
+| Fusion         | Wall-nut        | [[Jugger-nut]]      |
+| Fusion         | Wall-nut        | [[Primal Wall-nut]] |
+| Fusion         | Wall-nut        | [[Sweet Potato]]    |
+| [[Fertilizer]] |                 | Primal Wall-nut     |
+| Splicing       | [[Peashooter]]  | [[Pea-nut]]         |
+| Splicing       | [[Cherry Bomb]] | [[Explode-o-Nut]]   |
+| Splicing       | [[Cherry Bomb]] | [[Torchwood]]       |
+| Splicing       | [[E.M.Peach]]   | [[Infi-nut]]        |
+| Splicing       | [[Moonbean]]    | [[Murkadamia Nut]]  |
+Wall-nut can be spliced with certain other plants to create defensive mutations.
+
+| Mutated plant    | Mutation         |
+| ---------------- | ---------------- |
+| [[Apple Mortar]] | [[Holly Knight]] |
 ### Statistics
 
 |               | Value  |

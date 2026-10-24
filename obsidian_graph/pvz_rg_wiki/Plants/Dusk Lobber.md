@@ -71,25 +71,25 @@ It lobs explosive buds at the front-most zombie of its lane.
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Dusk Lobber is a potten [[Pepper-pult]] mutation lobber plant.
+Dusk Lobber is a potten [[Plants/Coco-pult]] mutation lobber plant.
 
 It lobs one bud at a time at the zombie with the most health. The bud deals splash damage in a small area of effect.
 
 If the player has at least one [[Moonflower]], Dusk Lobber lobs two additional buds that land near the target zombie.
 
-If another Pepper-pult-type plant is currently targeting the healthiest zombie, Dusk Lobber attacks the second highest-health zombie instead, and so on.
+If another Coco-pult-type plant is currently targeting the healthiest zombie, Dusk Lobber attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
-Dusk Lobber is a mutation of the [[Pepper-pult]], obtained by splicing a Pepper-pult and a [[Moonbean]].
+Dusk Lobber is a mutation of the [[Plants/Coco-pult]], obtained by splicing a Coco-pult and a [[Moonbean]].
 ### Statistics
 
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Rarity        |       |
-| Damage        |       |
-| Attack speed  |       |
-| Targeting     |       |
+|               | Value                 |
+| ------------- | --------------------- |
+| Mutation type |                       |
+| Rarity        |                       |
+| Damage        |                       |
+| Attack speed  |                       |
+| Targeting     | Highest health zombie |
 ### Almanac
 
 Almanac entry.

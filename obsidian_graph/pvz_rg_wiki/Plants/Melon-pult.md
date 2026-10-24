@@ -69,14 +69,14 @@ Melon-pult is a regular plant from the [[Pirate's Beach]] that lobs watermelons 
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Melon-pult is a potted [[Pepper-pult]] mutation lobber plant.
+Melon-pult is a potted [[Coco-pult]] mutation lobber plant.
 
 It lobs one melon at a time at the zombie with the most health, which deals splash damage in an area of effect.
 
-If another Pepper-pult-type plant is currently targeting the healthiest zombie, Melon-pult attacks the second highest-health zombie instead, and so on.
+If another Coco-pult-type plant is currently targeting the healthiest zombie, Melon-pult attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
-Melon-pult is a mutation of [[Pepper-pult]], obtained by fusing two Pepper-pults or by applying [[Fertilizer]] to one.
+Melon-pult is a mutation of [[Coco-pult]], obtained by fusing two Coco-pults or by applying [[Fertilizer]] to one.
 
 | Mutation type | Other plant         | Mutation         |
 | ------------- | ------------------- | ---------------- |
@@ -89,7 +89,7 @@ Melon-pult is a mutation of [[Pepper-pult]], obtained by fusing two Pepper-pults
 | Rarity        |                       |
 | Damage        |                       |
 | Attack speed  |                       |
-| Targeting     | Highest-health Zombie |
+| Targeting     | Highest health Zombie |
 ### Almanac
 
 Almanac entry.

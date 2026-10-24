@@ -63,28 +63,4 @@ Sweetheart Snare is a pass-through plant that attacks the zombies on its tile.
 ### Almanac
 
 Almanac entry.
-## In PvZ: Lawnmaggedon
-
-Description of the plant in Lawnmaggedon.
-### Mutations
-
-| Mutation type | Other plant | Mutation |
-| ------------- | ----------- | -------- |
-|               |             |          |
-
-| Mutated plant | Mutation |
-| ------------- | -------- |
-|               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Rarity        |       |
-| Damage        |       |
-| Attack speed  |       |
-| Targeting     |       |
-### Almanac
-
-Almanac entry.
 ## In PvZ Clicker

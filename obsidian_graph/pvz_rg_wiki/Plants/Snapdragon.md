@@ -4,10 +4,10 @@ Snapdragon is a close-range plant that breathes fire onto multiple lanes to burn
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]      |
-| :---------------- | -------------------------------------------------- |
-| Power Mint family | ![[pepper-mint_family.png\|53]]<br>[[Pepper-pult]] |
-| Tribes            | [[Flower Tribe]]                                   |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]             |
+| :---------------- | --------------------------------------------------------- |
+| Power Mint family | ![[pepper-mint_family.png\|53]]<br>[[Pepper-mint Family]] |
+| Tribes            | [[Flower Tribe]]                                          |
 ## Contents
 
 - [[#Origins]]

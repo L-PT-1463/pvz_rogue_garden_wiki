@@ -78,7 +78,7 @@ It attacks slowly, dealing heavy damage to the zombie it bites. It always attack
 
 | Mutation type  | Other plant     | Mutation          |
 | -------------- | --------------- | ----------------- |
-| Fusion         | Chompe          | [[Super Chomper]] |
+| Fusion         | Chomper         | [[Super Chomper]] |
 | [[Fertilizer]] |                 | Super Chomper     |
 | Splicing       | [[Peashooter]]  | [[Snap Pea]]      |
 | Splicing       | [[Cherry Bomb]] | [[Snapdragon]]    |

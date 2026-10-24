@@ -65,28 +65,4 @@ Dandelion Bomber is a regular plant from the [[Lost City]] and [[Kongfu Mausoleu
 ### Almanac
 
 Almanac entry.
-## In PvZ: Lawnmaggedon
-
-Description of the plant in Lawnmaggedon.
-### Mutations
-
-| Mutation type | Other plant | Mutation |
-| ------------- | ----------- | -------- |
-|               |             |          |
-
-| Mutated plant | Mutation |
-| ------------- | -------- |
-|               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Rarity        |       |
-| Damage        |       |
-| Attack speed  |       |
-| Targeting     |       |
-### Almanac
-
-Almanac entry.
 ## In PvZ Clicker

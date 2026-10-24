@@ -54,7 +54,7 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Sap-fling is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens. It lobs stalling sap-covered pinecones.
+Sap-fling is a regular plant from the [[Neighbour's House]], exclusive to [[Fall]] and [[Winter]] gardens. It lobs stalling sap-covered pinecones.
 
 <font color="#4bacc6">Trait</font>: Its attacks have the *[[Stall]]* trait, meaning the hit zombie cannot move.
 ### Statistics

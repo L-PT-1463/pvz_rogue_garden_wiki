@@ -68,28 +68,4 @@ Description of the plant in ZPG - Zombie RPG.
 ### Almanac
 
 Almanac entry.
-## In PvZ: Lawnmaggedon
-
-Description of the plant in Lawnmaggedon.
-### Mutations
-
-| Mutation type | Other plant | Mutation |
-| ------------- | ----------- | -------- |
-|               |             |          |
-
-| Mutated plant | Mutation |
-| ------------- | -------- |
-|               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Rarity        |       |
-| Damage        |       |
-| Attack speed  |       |
-| Targeting     |       |
-### Almanac
-
-Almanac entry.
 ## In PvZ Clicker

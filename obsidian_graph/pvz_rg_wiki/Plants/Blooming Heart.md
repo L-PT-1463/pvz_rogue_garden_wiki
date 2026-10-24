@@ -63,28 +63,4 @@ Blooming Heart is a regular plant from the [[Neon Carnival]] that attacks the fr
 ### Almanac
 
 Almanac entry.
-## In PvZ: Lawnmaggedon
-
-Description of the plant in Lawnmaggedon.
-### Mutations
-
-| Mutation type | Other plant | Mutation |
-| ------------- | ----------- | -------- |
-|               |             |          |
-
-| Mutated plant | Mutation |
-| ------------- | -------- |
-|               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Rarity        |       |
-| Damage        |       |
-| Attack speed  |       |
-| Targeting     |       |
-### Almanac
-
-Almanac entry.
 ## In PvZ Clicker

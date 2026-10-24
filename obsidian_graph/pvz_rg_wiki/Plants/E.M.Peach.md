@@ -58,11 +58,13 @@ When picked from plant selection, an E.M.Peach is planted on a random spot of th
 
 E.M.Peach can be spliced with other plants to create electric mutations.
 
-| Mutated plant  | Mutation                |
-| -------------- | ----------------------- |
-| [[Peashooter]] | [[Electric Peashooter]] |
-| [[Repeater]]   | [[Electric Repeater]]   |
-| [[Wall-nut]]   | [[Infi-nut]]            |
+| Mutated plant   | Mutation                |
+| --------------- | ----------------------- |
+| [[Peashooter]]  | [[Electric Peashooter]] |
+| [[Repeater]]    | [[Electric Repeater]]   |
+| [[Wall-nut]]    | [[Infi-nut]]            |
+| [[Snapdragon]]  | [[Volt Snapdragon]]     |
+| [[Wasabi Whip]] | [[Electrici-tea]]       |
 ### Statistics
 
 |               | Value      |

@@ -21,9 +21,9 @@ Sunflower Singer is a supporting plant that generates sun and buffs other plants
 - [[#In PvZ Clicker]]
 ## Origins
 
-Sunflower Singer is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it acts as a sun producer and boosts the attack of plants around it.
+Sunflower Singer is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2 China, where it acts as a sun producer and boosts the attack of plants around it.
 
-Its microphone pole is inspired by the Zombies on Your Lawn music video from the first Plants vs Zombies game.
+Its microphone pole is inspired by the Zombies on Your Lawn music video from the first Plants vs Zombies game, while its mole is taken from its appearance in the fourth Chinese beta of Plants vs Zombies 3.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden

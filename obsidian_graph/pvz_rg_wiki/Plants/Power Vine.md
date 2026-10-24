@@ -67,28 +67,4 @@ Power Vine is a regular plant from the [[Far Future]] that shoots electricity.
 ### Almanac
 
 Almanac entry.
-## In PvZ: Lawnmaggedon
-
-Description of the plant in Lawnmaggedon.
-### Mutations
-
-| Mutation type | Other plant | Mutation |
-| ------------- | ----------- | -------- |
-|               |             |          |
-
-| Mutated plant | Mutation |
-| ------------- | -------- |
-|               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Rarity        |       |
-| Damage        |       |
-| Attack speed  |       |
-| Targeting     |       |
-### Almanac
-
-Almanac entry.
 ## In PvZ Clicker

@@ -69,14 +69,14 @@ Melon-pult is a regular plant from the [[Neighbour's House]], exclusive to [[Win
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Winter Melon is a potted [[Pepper-pult]] mutation lobber plant.
+Winter Melon is a potted [[Coco-pult]] mutation lobber plant.
 
 It lobs one melon at a time at the zombie with the most health, which deals splash damage in an area of effect and chills zombies.
 
-If another Pepper-pult-type plant is currently targeting the healthiest zombie, Winter Melon attacks the second highest-health zombie instead, and so on.
+If another Coco-pult-type plant is currently targeting the healthiest zombie, Winter Melon attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
-Winter Melon is a mutation of [[Pepper-pult]], obtained by splicing a [[Melon-pult]] and an [[Iceberg Lettuce]].
+Winter Melon is a mutation of [[Coco-pult]], obtained by splicing a [[Melon-pult]] and an [[Iceberg Lettuce]].
 ### Statistics
 
 |               | Value                 |

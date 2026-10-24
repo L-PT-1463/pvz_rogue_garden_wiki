@@ -54,7 +54,7 @@ Description of the plant in Rogue Garden
 Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
-Cabbage-pult is a regular plant from the [[Neighbour's House]] that attacks with a lobbed attack, launching a single cabbage at the front-most zombie in its lane.
+Cabbage-pult is a regular plant that attacks with a lobbed attack, launching a single cabbage at the front-most zombie in its lane.
 ### Statistics
 
 |           | Value  |
@@ -77,9 +77,9 @@ If another Cabbage-pult-type plant is currently targeting the healthiest zombie,
 | Mutation type  | Other plant         | Mutation         |
 | -------------- | ------------------- | ---------------- |
 | Fusion         | Cabbage-pult        | [[Slaw-slinger]] |
-| Fusion         | Cabbage-pult        | [[Cold-slaw]]    |
+| Fusion         | Cabbage-pult        | [[A.K.E.E.]]     |
 | [[Fertilizer]] |                     | Slaw-slinger     |
-| Splicing       | [[Iceberg Lettuce]] | [[A.K.E.E.]]     |
+| Splicing       | [[Iceberg Lettuce]] | [[Cold-slaw]]    |
 Cabbage-pult can be spliced with other plants to create certain mutations.
 
 | Mutated plant | Mutation         |
@@ -94,7 +94,7 @@ Cabbage-pult can be spliced with other plants to create certain mutations.
 | Rarity        |                       |
 | Damage        |                       |
 | Attack speed  |                       |
-| Targeting     | Highest-health zombie |
+| Targeting     | Highest health zombie |
 ### Almanac
 
 Almanac entry.
