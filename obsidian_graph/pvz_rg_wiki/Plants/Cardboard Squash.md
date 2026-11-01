@@ -8,12 +8,6 @@ Cardboard Squash is an instant use melee standee that squashes zombies.
 | :---------------- | ---------------------------------------------------------- |
 | Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Class]] |
 | Tribes            |                                                            |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
 ## Origins
 
 Cardboard Squash is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.

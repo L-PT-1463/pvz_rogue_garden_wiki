@@ -8,14 +8,6 @@ The Security Gourds are a trio of gourds on-duty to defend the home.
 | :---------------- | -------------------------- |
 | Power Mint family | ![[missing_image.png\|53]] |
 | Tribes            |                            |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ: Rogue Garden]]
-	- [[#In PvZ Rogue Garden#Mutations|Mutations]]
-	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
-	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
-- [[#In PvZ Clicker]]
 ## Origins
 
 The Security Gourds are based on the official Plants vs Zombie 2 super power of the same name from the Penny's Pursuit game mode.
@@ -31,18 +23,14 @@ Description of the plant in Rogue Garden
 | Mutated plant | Mutation |
 | ------------- | -------- |
 |               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Sun cost      |       |
-| Recharge      |       |
-| Damage        |       |
-| Toughness     |       |
-| Attack speed  |       |
-| Range         |       |
 ### Almanac
 
 Almanac entry.
+
+| Toughness            |     |
+| -------------------- | --- |
+| Attack damage        |     |
+| Attack speed         |     |
+| Sun cost             |     |
+| Seed packet recharge |     |
 ## In PvZ Clicker

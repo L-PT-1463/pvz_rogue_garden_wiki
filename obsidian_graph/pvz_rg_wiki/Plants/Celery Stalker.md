@@ -8,17 +8,6 @@ Celery Stalker is a melee plant that hides until zombies pass by it, attacking t
 | :---------------- | ---------------------------------------------------------- |
 | Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Class]] |
 | Tribes            |                                                            |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ: Rogue Garden]]
-	- [[#In PvZ Rogue Garden#Mutations|Mutations]]
-	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
-	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
-- [[#In PvZ Clicker]]
 ## Origins
 
 Celery Stalker is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it hid underground letting zombies pass by to attack them from behind.
@@ -34,20 +23,16 @@ Description of the plant in Rogue Garden
 | Mutated plant | Mutation |
 | ------------- | -------- |
 |               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Sun cost      |       |
-| Recharge      |       |
-| Damage        |       |
-| Toughness     |       |
-| Attack speed  |       |
-| Range         |       |
 ### Almanac
 
 Almanac entry.
+
+| Toughness            |     |
+| -------------------- | --- |
+| Attack damage        |     |
+| Attack speed         |     |
+| Sun cost             |     |
+| Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
 Celery Stalker is a protector plant from [[The Zombosseum]] that can only attack the tile directly behind itself.

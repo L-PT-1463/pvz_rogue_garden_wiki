@@ -4,22 +4,10 @@ Fire Repeater is a straight-shooter that shoots two burning peas at a time at th
 
 ![[fire_repeater.png|236]]
 
-| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]      |
-| :---------------- | -------------------------------------------------------- |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]       |
+| :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[pepper-mint_family.png\|53]]<br>[[Pepper-mint Family]] |
-| Tribes            | [[Pea Tribe]]                                            |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ: Rogue Garden]]
-	- [[#In PvZ Rogue Garden#Mutations|Mutations]]
-	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
-	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
-- [[#In PvZ: Lawnmaggedon]]
-	- [[#In PvZ Lawnmaggedon#Mutations|Mutations]]
-	- [[#In PvZ: Lawnmaggedon#Statistics|Statistics]]
-	- [[#In PvZ: Lawnmaggedon#Almanac|Almanac]]
-- [[#In PvZ Clicker]]
+| Tribes            | [[Pea Tribe]]                                             |
 ## Origins
 
 Fire Repeater is a new Rogue Garden universe plant, created for PvZ Lawnmaggedon, as an elemental counterpart of the [[Repeater]], allowing the [[Fire Pea]] mutation to be more viable.
@@ -35,20 +23,16 @@ Description of the plant in Rogue Garden
 | Mutated plant | Mutation |
 | ------------- | -------- |
 |               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Sun cost      |       |
-| Recharge      |       |
-| Damage        |       |
-| Toughness     |       |
-| Attack speed  |       |
-| Range         |       |
 ### Almanac
 
 Almanac entry.
+
+| Toughness            |     |
+| -------------------- | --- |
+| Attack damage        |     |
+| Attack speed         |     |
+| Sun cost             |     |
+| Seed packet recharge |     |
 ## In PvZ: Lawnmaggedon
 
 Fire Repeater is a potted [[Peashooter]] mutation shooter plant.

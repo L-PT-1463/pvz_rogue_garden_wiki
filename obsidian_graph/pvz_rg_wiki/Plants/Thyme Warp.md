@@ -8,17 +8,6 @@ Thyme Warp is a time-manipulating plant that sends zombies back down the lawn.
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[contain-mint_family.png\|53]]<br>[[Contain-mint Family]] |
 | Tribes            |                                                             |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ: Rogue Garden]]
-	- [[#In PvZ Rogue Garden#Mutations|Mutations]]
-	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
-	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
-- [[#In PvZ Clicker]]
 ## Origins
 
 Thyme Warp is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it sends all the zombies in the garden back to the first row at full health.
@@ -34,20 +23,16 @@ Description of the plant in Rogue Garden
 | Mutated plant | Mutation |
 | ------------- | -------- |
 |               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Sun cost      |       |
-| Recharge      |       |
-| Damage        |       |
-| Toughness     |       |
-| Attack speed  |       |
-| Range         |       |
 ### Almanac
 
 Almanac entry.
+
+| Toughness            |     |
+| -------------------- | --- |
+| Attack damage        |     |
+| Attack speed         |     |
+| Sun cost             |     |
+| Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
 Thyme Warp is a regular plant from [[ZCorp IST Headquarters]], that attacks the front-most zombie of every lane for no damage.

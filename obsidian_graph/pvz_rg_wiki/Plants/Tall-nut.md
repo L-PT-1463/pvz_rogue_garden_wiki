@@ -8,21 +8,6 @@ Tall-nut is a tall defensive plant that blocks zombies that usually bypass other
 | :---------------- | ------------------------------------------------------------ |
 | Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Enforce-mint Class]] |
 | Tribes            | [[Nut Tribe]]                                                |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ: Rogue Garden]]
-	- [[#In PvZ Rogue Garden#Mutations|Mutations]]
-	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
-	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
-- [[#In PvZ: Lawnmaggedon]]
-	- [[#In PvZ Lawnmaggedon#Mutations|Mutations]]
-	- [[#In PvZ: Lawnmaggedon#Statistics|Statistics]]
-	- [[#In PvZ: Lawnmaggedon#Almanac|Almanac]]
-- [[#In PvZ Clicker]]
 ## Origins
 
 Tall-nut is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it serves as a strong wall plant that counters the [[Pole Vaulting Zombie]] and [[Dolphin Rider Zombie]].
@@ -38,20 +23,16 @@ Description of the plant in Rogue Garden
 | Mutated plant | Mutation |
 | ------------- | -------- |
 |               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Sun cost      |       |
-| Recharge      |       |
-| Damage        |       |
-| Toughness     |       |
-| Attack speed  |       |
-| Range         |       |
 ### Almanac
 
 Almanac entry.
+
+| Toughness            |     |
+| -------------------- | --- |
+| Attack damage        |     |
+| Attack speed         |     |
+| Sun cost             |     |
+| Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
 Wall-nut is protector plant from [[Old Wild Egypt]].

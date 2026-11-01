@@ -8,17 +8,6 @@ Holly Pawn is a weak wall created by the Holly Knight.
 | :---------------- | --------------------------------------------------------------- |
 | Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Reinforce-mint Family]] |
 | Tribes            | [[Berry Tribe]]                                                 |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ: Rogue Garden]]
-	- [[#In PvZ Rogue Garden#Mutations|Mutations]]
-	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
-	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
-- [[#In PvZ Clicker]]
 ## Origins
 
 Holly Pawn is based on the Holly Barrier, an official plant that made its debut in Plants vs Zombies 2. More specifically, Holly Pawn takes after the Holly Barrier's projectiles, which act as weak walls once planted.
@@ -36,20 +25,16 @@ Description of the plant in Rogue Garden
 | Mutated plant | Mutation |
 | ------------- | -------- |
 |               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Sun cost      |       |
-| Recharge      |       |
-| Damage        |       |
-| Toughness     |       |
-| Attack speed  |       |
-| Range         |       |
 ### Almanac
 
 Almanac entry.
+
+| Toughness            |     |
+| -------------------- | --- |
+| Attack damage        |     |
+| Attack speed         |     |
+| Sun cost             |     |
+| Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
 Holly Pawn is a protector plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens. It acts as a weak shield that counterattacks the zombies.
@@ -76,13 +61,13 @@ The Holly Pawn then stays there until vanquished, dealing damage to zombies in a
 It can also be created by the [[Holly Knight]].
 ### Statistics
 
-|               | Value      |
-| ------------- | ---------- |
-| Mutation type | Standalone |
-| Rarity        |            |
-| Damage        |            |
-| Attack speed  |            |
-| Targeting     | Random     |
+|               | Value                                       |
+| ------------- | ------------------------------------------- |
+| Mutation type | Standalone                                  |
+| Rarity        |                                             |
+| Damage        |                                             |
+| Attack speed  |                                             |
+| Targeting     | Random (Placement), Area of effect (Attack) |
 ### Almanac
 
 Almanac entry.

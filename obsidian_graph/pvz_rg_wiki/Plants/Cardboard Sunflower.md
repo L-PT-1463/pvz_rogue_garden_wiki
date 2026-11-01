@@ -8,12 +8,6 @@ Cardboard Sunflower is a supporting standee that generates sun.
 | :---------------- | -------------------------------------------------------- |
 | Power Mint family | ![[enlighten-mint.png\|53]]<br>[[Enlighten-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                         |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
 ## Origins
 
 Cardboard Sunflower is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.

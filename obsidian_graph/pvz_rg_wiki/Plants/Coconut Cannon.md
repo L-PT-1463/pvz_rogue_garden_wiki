@@ -8,17 +8,6 @@ Coconut Cannon is a heavy-hitting plant that shoots coconut cannonballs at the z
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[bombard-mint_family.png\|53]]<br>[[Bombard-mint Family]] |
 | Tribes            |                                                             |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ: Rogue Garden]]
-	- [[#In PvZ Rogue Garden#Mutations|Mutations]]
-	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
-	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
-- [[#In PvZ Clicker]]
 ## Origins
 
 Coconut Cannon is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it acts as a manual plant, that shoots powerful cannonballs at the zombies in its lane but has a long cool down period.
@@ -34,20 +23,16 @@ Description of the plant in Rogue Garden
 | Mutated plant | Mutation |
 | ------------- | -------- |
 |               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Sun cost      |       |
-| Recharge      |       |
-| Damage        |       |
-| Toughness     |       |
-| Attack speed  |       |
-| Range         |       |
 ### Almanac
 
 Almanac entry.
+
+| Toughness            |     |
+| -------------------- | --- |
+| Attack damage        |     |
+| Attack speed         |     |
+| Sun cost             |     |
+| Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
 Coconut Cannon is a regular plant from the [[Pirate's Beach]] that fires powerful cannonballs at the zombies.

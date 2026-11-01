@@ -8,12 +8,6 @@ Cardboard Garlic is a supporting wall standee that redirects zombies that bite i
 | :---------------- | --------------------------------------------------------------- |
 | Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Reinforce-mint Family]] |
 | Tribes            |                                                                 |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
 ## Origins
 
 Cardboard Garlic is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.

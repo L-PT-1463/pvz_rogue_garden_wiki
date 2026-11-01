@@ -8,21 +8,6 @@ Lily of Alchemy is a lobber plant that throws poisonous vials at the zombies.
 | :---------------- | --------------------------------------------------- |
 | Power Mint family | ![[ail-mint_family.png\|53]]<br>[[Ail-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                    |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ: Rogue Garden]]
-	- [[#In PvZ Rogue Garden#Mutations|Mutations]]
-	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
-	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
-- [[#In PvZ: Lawnmaggedon]]
-	- [[#In PvZ Lawnmaggedon#Mutations|Mutations]]
-	- [[#In PvZ: Lawnmaggedon#Statistics|Statistics]]
-	- [[#In PvZ: Lawnmaggedon#Almanac|Almanac]]
-- [[#In PvZ Clicker]]
 ## Origins
 
 Lily of the Vial is an official Plants vs Zombies plant that made its debut in Plants vs Zombies 2 China, where it lobs flower buds that poison zombies on impact. Its poison can stack.
@@ -40,20 +25,16 @@ Description of the plant in Rogue Garden
 | Mutated plant | Mutation |
 | ------------- | -------- |
 |               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Sun cost      |       |
-| Recharge      |       |
-| Damage        |       |
-| Toughness     |       |
-| Attack speed  |       |
-| Range         |       |
 ### Almanac
 
 Almanac entry.
+
+| Toughness            |     |
+| -------------------- | --- |
+| Attack damage        |     |
+| Attack speed         |     |
+| Sun cost             |     |
+| Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
 Lily of the Vial is a regular plant from the [[Steam City]] that throws vials down its lane.

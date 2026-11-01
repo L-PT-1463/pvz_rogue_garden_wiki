@@ -8,12 +8,6 @@ Cardboard Umbrella Leaf is a support plant that protects other plants from threa
 | :---------------- | --------------------------------------------------------------- |
 | Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Reinforce-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                                |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
 ## Origins
 
 Cardboard Umbrella Leaf is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.

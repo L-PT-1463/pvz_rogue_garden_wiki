@@ -8,21 +8,6 @@ Electric Peashooter is a straight-shooter that shoots electric peas at the zombi
 | :---------------- | ----------------------------------------------------- |
 | Power Mint family | ![[fila-mint_family.png\|53]]<br>[[Fila-mint Family]] |
 | Tribes            | [[Pea Tribe]]                                         |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ: Rogue Garden]]
-	- [[#In PvZ Rogue Garden#Mutations|Mutations]]
-	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
-	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
-- [[#In PvZ: Lawnmaggedon]]
-	- [[#In PvZ Lawnmaggedon#Mutations|Mutations]]
-	- [[#In PvZ: Lawnmaggedon#Statistics|Statistics]]
-	- [[#In PvZ: Lawnmaggedon#Almanac|Almanac]]
-- [[#In PvZ Clicker]]
 ## Origins
 
 Electric Peashooter is an official Plants vs Zombies plant that made its debut in Plants vs Zombies 2, where it's a premium variant of the [[Peashooter]] that shoots electric bolts.
@@ -38,20 +23,16 @@ Description of the plant in Rogue Garden
 | Mutated plant | Mutation |
 | ------------- | -------- |
 |               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Sun cost      |       |
-| Recharge      |       |
-| Damage        |       |
-| Toughness     |       |
-| Attack speed  |       |
-| Range         |       |
 ### Almanac
 
 Almanac entry.
+
+| Toughness            |     |
+| -------------------- | --- |
+| Attack damage        |     |
+| Attack speed         |     |
+| Sun cost             |     |
+| Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
 Electric Peashooter is a regular plant from the [[Far Future]] that attacks in a straight line, shooting if there is a zombie in range.

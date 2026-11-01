@@ -8,12 +8,6 @@ Cardboard Cactus is a straight-shooter standee, that fires thorns at zombies.
 | :---------------- | ------------------------------------------------------- |
 | Power Mint family | ![[spear-mint_family.png\|53]]<br>[[Spear-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                        |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
 ## Origins
 
 Cardboard Cactus is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.

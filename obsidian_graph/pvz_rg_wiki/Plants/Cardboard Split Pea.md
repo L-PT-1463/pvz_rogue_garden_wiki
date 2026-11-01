@@ -8,12 +8,6 @@ Cardboard Split Pea is a straight-shooter standee that shoots peas at the zombie
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[appease-mint_family.png\|53]]<br>[[Appease-mint Family]] |
 | Tribes            | [[Pea Tribe]]                                               |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
 ## Origins
 
 Cardboard Split Pea  is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.

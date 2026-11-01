@@ -8,18 +8,6 @@ Cherry Bomb is an instant-use explosive plant.
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[bombard-mint_family.png\|53]]<br>[[Bombard-mint Family]] |
 | Tribes            | [[Berry Tribe]]                                             |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ: Rogue Garden]]
-	- [[#In PvZ Rogue Garden#Mutations|Mutations]]
-	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
-	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
-- [[#In PvZ: Lawnmaggedon]]
-	- [[#In PvZ Lawnmaggedon#Mutations|Mutations]]
-	- [[#In PvZ: Lawnmaggedon#Statistics|Statistics]]
-	- [[#In PvZ: Lawnmaggedon#Almanac|Almanac]]
-- [[#In PvZ Clicker]]
 ## Origins
 
 Cherry Bomb is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it explodes in a 3x3 area, dealing heavy damage to all zombies caught in the explosion.
@@ -35,20 +23,16 @@ Description of the plant in Rogue Garden
 | Mutated plant | Mutation |
 | ------------- | -------- |
 |               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Sun cost      |       |
-| Recharge      |       |
-| Damage        |       |
-| Toughness     |       |
-| Attack speed  |       |
-| Range         |       |
 ### Almanac
 
 Almanac entry.
+
+| Toughness            |     |
+| -------------------- | --- |
+| Attack damage        |     |
+| Attack speed         |     |
+| Sun cost             |     |
+| Seed packet recharge |     |
 ## In PvZ: Lawnmaggedon
 
 Cherry Bomb is a spawned base instant plant and [[Patrice Blazing]]'s starting ability.

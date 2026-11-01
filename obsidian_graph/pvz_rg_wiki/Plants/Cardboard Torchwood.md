@@ -4,16 +4,10 @@ Cardboard Torchwood is a supporting defensive standee that lights peas and other
 
 ![[missing_image.png|236]]
 
-| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]      |
-| :---------------- | -------------------------------------------------------- |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]       |
+| :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[pepper-mint_family.png\|53]]<br>[[Pepper-mint Family]] |
-| Tribes            |                                                          |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
+| Tribes            |                                                           |
 ## Origins
 
 Cardboard Torchwood is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.

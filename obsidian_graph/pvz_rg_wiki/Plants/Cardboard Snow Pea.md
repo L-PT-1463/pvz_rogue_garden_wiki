@@ -8,12 +8,6 @@ Cardboard Snow Pea is a straight-shooter that shoots chilling peas at the zombie
 | :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[winter-mint_family.png\|53]]<br>[[Winter-mint Family]] |
 | Tribes            | [[Pea Tribe]]                                             |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
 ## Origins
 
 Cardboard Scaredy-shroom  is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.

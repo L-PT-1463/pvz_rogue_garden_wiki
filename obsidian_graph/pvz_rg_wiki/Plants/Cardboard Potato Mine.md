@@ -8,12 +8,6 @@ Cardboard Potato Mine is an explosive standee that blows zombies up once it's ar
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[bombard-mint_family.png\|53]]<br>[[Bombard-mint Family]] |
 | Tribes            |                                                             |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
 ## Origins
 
 Cardboard Potato Mine is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.

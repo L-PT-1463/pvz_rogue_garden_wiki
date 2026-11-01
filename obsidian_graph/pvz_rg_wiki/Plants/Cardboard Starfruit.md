@@ -8,12 +8,6 @@ Cardboard Starfruit is a straight-shooter standee that fires in five directions.
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[appease-mint_family.png\|53]]<br>[[Appease-mint Family]] |
 | Tribes            |                                                             |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ ZPG - Zombie RPG]]
-	- [[#In PvZ ZPG - Zombie RPG#Statistics|Statistics]]
-	- [[#In PvZ ZPG - Zombie RPG#Almanac|Almanac]]
 ## Origins
 
 Cardboard Starfruit is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.

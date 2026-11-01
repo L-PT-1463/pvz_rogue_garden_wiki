@@ -8,14 +8,6 @@ Coffee Bean is a supportive plant that awakes other plants on the garden.
 | :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[comple-mint_family.png\|53]]<br>[[Comple-mint Family]] |
 | Tribes            |                                                           |
-## Contents
-
-- [[#Origins]]
-- [[#In PvZ: Rogue Garden]]
-	- [[#In PvZ Rogue Garden#Mutations|Mutations]]
-	- [[#In PvZ: Rogue Garden#Statistics|Statistics]]
-	- [[#In PvZ: Rogue Garden#Almanac|Almanac]]
-- [[#In PvZ Clicker]]
 ## Origins
 
 Plant is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it allowed mushrooms to be used on day levels by waking them up.
@@ -31,20 +23,16 @@ Description of the plant in Rogue Garden
 | Mutated plant | Mutation |
 | ------------- | -------- |
 |               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Sun cost      |       |
-| Recharge      |       |
-| Damage        |       |
-| Toughness     |       |
-| Attack speed  |       |
-| Range         |       |
 ### Almanac
 
 Almanac entry.
+
+| Toughness            |     |
+| -------------------- | --- |
+| Attack damage        |     |
+| Attack speed         |     |
+| Sun cost             |     |
+| Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
 Description of the plant in ZPG - Zombie RPG.
