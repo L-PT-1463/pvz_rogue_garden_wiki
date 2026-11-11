@@ -37,17 +37,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Dandelion Weed is a regular plant from the [[Kongfu Mausoleum]] that attacks all zombies in the 3x3 area around itself.
+Dandelion Weed is a regular plant from the [[Kongfu Mausoleum]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its cloud can hit zombies hiding behind a shield.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It causes pollen explosions in a 3x3 area centred on itself, making a Straight *[[Pierce]]* attack at any zombie caught in the explosion.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

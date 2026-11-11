@@ -35,19 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Witch Hazel is a regular plant from the [[Dark Ages]] and [[Neon Carnival]] that hits zombies with bolts of magic.
+Witch Hazel is a regular plant from the [[Dark Ages]] and [[Neon Carnival]].
 
-<font color="#9bbb59">Speciality</font>: Can target any zombie on the lawn, always targets the zombie with the lowest health.
+It targets any zombie in the lawn with a magical beam, making a Straight attack at the lowest health zombie, ignoring others in the way.
 
-<font color="#8064a2">If is vanquishes a zombie</font>: Spawns a [[Puff-shroom]] on that lane.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+If it vanquishes a zombie, Witch Hazel spawns a [[Puff-shroom]] on that lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

@@ -35,22 +35,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Fire Pea is a regular plant from [[Old Wild Egypt]] that attacks in a straight line, shooting if there is a zombie in range.
+Fire Pea is a regular plant from [[Old Wild Egypt]].
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Fire]]* trait.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires burning peas down its lane, making a Straight *[[Fire]]* attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Fire Pea is a potted [[Peashooter]] mutation shooter plant.
+Fire Pea is a potted shooter plant, and a Level 1 [[Peashooter]] mutation.
 
 It shoots one burning pea at a time in a straight line at the zombie closest to the player, that deals splash damage in a small area.
 
@@ -63,15 +60,6 @@ Fire Pea is a mutation of the [[Peashooter]], obtained by splicing a Peashooter 
 | -------------- | -------------- | ----------------- |
 | Fusion         | [[Peashooter]] | [[Fire Repeater]] |
 | [[Fertilizer]] |                | Fire Repeater     |
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 1 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

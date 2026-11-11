@@ -37,17 +37,14 @@ Almanac entry.
 
 Magnet Plant is a regular plant from the [[Steam City]] and [[The Zombosseum]].
 
-<font color="#9bbb59">Speciality</font>: Magnet Plant's ability affects neighbouring lanes but not its own.
+It does not attack.
 
-It steals armours with the *[[Magnetisable]]* trait in range, dealing damage every turn until the armour vanishes, but giving it back at full health if vanquished before it can fully consume it.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+It creates a magnetic field in neighbouring lanes. On its turn, it steals armour in range with the *[[Magnetisable]]* trait. It deals damage to the armour every turn until the armour vanishes, but gives it back at full health if Magnet Plant is vanquished before it can fully consume the armour. This also includes armour stolen from Spawnlings.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

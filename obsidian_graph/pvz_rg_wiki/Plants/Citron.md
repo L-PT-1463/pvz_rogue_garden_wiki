@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Citron is a regular plant from the [[Far Future]] that fires bolts of energy at the zombies.
+Citron is a regular plant from the [[Far Future]].
 
-<font color="#c0504d">Weakness</font>: After attacking, it cannot do so again for a few turns.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires heavy bolts of energy down its lane, making a Straight attack if there is a zombie in range. It has to cool down before attacking again.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

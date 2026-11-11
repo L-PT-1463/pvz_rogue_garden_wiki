@@ -35,17 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Electric Currant is a regular plant from the [[Far Future]] that connects to other electric plants, creating chains of electricity that damage zombies.
+Electric Currant is a regular plant from the [[Far Future]].
 
-<font color="#9bbb59">Speciality</font>: Connects to [[Fila-mint Family]] plants to form electric currents. If connecting to another Electric Currant, the current of electricity deals more damage.
-### Statistics
+It does not attack.
 
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+It connects to [[Fila-mint Family]] plants to form electric currents. At the start of the turn, the icy currents make a Ground attack at the tiles they affect. If connecting two Electric Currants together, the current of electricity deals more damage. 
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

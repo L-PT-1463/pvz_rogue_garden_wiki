@@ -37,15 +37,14 @@ Almanac entry.
 
 Intensive Carrot is a regular plant from the [[Far Future]].
 
-<font color="#9bbb59">Speciality</font>: When another plant is vanquished, this moves to that tile and transforms into that plant.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+When another plant is vanquished, Intensive Carrot moves to that tile and transforms into that plant.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

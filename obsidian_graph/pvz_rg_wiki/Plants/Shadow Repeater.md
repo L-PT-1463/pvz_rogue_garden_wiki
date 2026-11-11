@@ -39,7 +39,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ: Lawnmaggedon
 
-Shadow Repeater is a potted [[Peashooter]] mutation shooter plant.
+Shadow Repeater is a potted shooter plant, and Level 2 [[Peashooter]] mutation.
 
 It shoots two peas at a time in a straight line at the zombie closest to the player, that slow down the hit zombie.
 
@@ -49,15 +49,6 @@ If another Peashooter-type plant is currently targeting the closest zombie, Shad
 ### Mutations
 
 Shadow Repeater is a mutation of the [[Peashooter]], obtained by fusing a Peashooter and a [[Shadow Peashooter]], by applying [[Fertilizer]] to the latter, or by splicing a [[Repeater]] and a [[Moonbean]].
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 2 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

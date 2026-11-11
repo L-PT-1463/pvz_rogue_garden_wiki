@@ -35,28 +35,23 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Flak Seed is a regular plant from the [[Steam City]] that attacks the front-most zombie in its lane.
+Flak Seed is a regular plant from the [[Steam City]].
 
-<font color="#9bbb59">Speciality</font>: If there is a zombie on a void tile anywhere on the garden, Flak Seed attacks it instead.
-
-<font color="#4bacc6">Trait</font>: When attacking an air-born zombie, it has the *[[Spread]] (3)* trait, so fires three times per attack.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It fires seeds, hitting the front-most zombie in its lane with a Lobbed attack. If there is an *[[Aerial]]* zombie in its lane, Flak Seed instead makes a Lobbed *[[Spread]] (3)* attack at the air-born zombie.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Flak Seed is a potted [[Kernel-pult]] mutation lobber plant.
+Flak Seed is a potted lobber plant, and a Level 1 [[Kernel-pult]] mutation.
 
 It lobs three seeds at a time at the zombie with the most health.
 
-If another Kernel-pult-type plant is currently targeting the healthiest zombie, Flak Seed attacks the second highest-health zombie instead, and so on.
+If another Kernel-pult-type plant is currently targeting the toughest zombie, Flak Seed attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
 Flak Seed is a mutation of [[Kernel-pult]], obtained by fusing two Kernel-pults or by applying [[Fertilizer]] to one.
@@ -64,16 +59,11 @@ Flak Seed is a mutation of [[Kernel-pult]], obtained by fusing two Kernel-pults 
 | Mutation type | Other plant      | Mutation         |
 | ------------- | ---------------- | ---------------- |
 | Splicing      | [[Cabbage-pult]] | [[Apple Mortar]] |
-### Statistics
-
-|               | Value                 |
-| ------------- | --------------------- |
-| Mutation type | Level 1 Mutation      |
-| Rarity        |                       |
-| Damage        |                       |
-| Attack speed  |                       |
-| Targeting     | Highest health zombie |
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

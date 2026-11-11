@@ -35,26 +35,23 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-A.K.E.E. is a regular plant from the [[Lost City]] that shoots seeds at the front-most zombie of its lane.
+A.K.E.E. is a regular plant from the [[Lost City]].
 
-<font color="#9bbb59">Speciality</font>: The seed bounces onto other zombies in the same lane behind the hit zombie.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+ It shoots seeds to make a Lobbed attack at the front-most zombie in its lane. The seed bounces onto zombies behind the target on the same lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-A.K.E.E. is a potted [[Cabbage-pult]] mutation lobber plant.
+A.K.E.E. is a potted lobber plant, and a Level 2 [[Cabbage-pult]] mutation.
 
 It shoots one seed at a time at the zombie with the most health. The seed then bounces to nearby zombies up to two times.
 
-If another Cabbage-pult-type plant is currently targeting the healthiest zombie, A.K.E.E. attacks the second highest-health zombie instead, and so on.
+If another Cabbage-pult-type plant is currently targeting the toughest zombie, A.K.E.E. attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
 A.K.E.E. is a mutation of the [[Cabbage-pult]], obtained by fusing two Cabbage-pults.
@@ -62,15 +59,6 @@ A.K.E.E. is a mutation of the [[Cabbage-pult]], obtained by fusing two Cabbage-p
 | Mutation type | Other plant      | Mutation                |
 | ------------- | ---------------- | ----------------------- |
 | Fusion        | [[Cabbage-pult]] | [[Pomegarnet Merchant]] |
-### Statistics
-
-|               | Value                 |
-| ------------- | --------------------- |
-| Mutation type |                       |
-| Rarity        |                       |
-| Damage        |                       |
-| Attack speed  |                       |
-| Targeting     | Highest health zombie |
 ### Almanac
 
 Almanac entry.

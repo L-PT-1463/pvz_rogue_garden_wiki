@@ -35,27 +35,23 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Iceberg Lettuce is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
+Iceberg Lettuce is a regular *[[Tiny]]* plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
 
-<font color="#8064a2">When vanquished by a Munch or Strike-type attack</font>: It attacks the zombie, dealing no damage.
+It does not attack.
 
-<font color="#4bacc6">Trait</font>: It has the *[[Freeze]]* trait, which means the hit zombie can't move or attack on its next turn.
-<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+When vanquished, Iceberg Lettuce makes a Straight *[[Freeze]]* attack at the tile in front of it.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
 Iceberg Lettuce is a standalone spawned staller plant.
 
-When picked from plant selection, an Iceberg Lettce is planted on a random spot of the lawn. When a zombie intercepts it, Iceberg Lettuce explodes, freezing all zombies in a small area of effect.
+An Iceberg Lettce is planted on a random spot of the lawn. When a zombie intercepts it, Iceberg Lettuce explodes, freezing all zombies in a small area of effect.
 ### Mutations
 
 Iceberg Lettuce can be spliced with many other plants to create ice-themed mutations.
@@ -70,15 +66,6 @@ Iceberg Lettuce can be spliced with many other plants to create ice-themed mutat
 | [[Repeater]]     | [[Snow Repeater]]   |
 | [[Melon-pult]]   | [[Winter Melon]]    |
 | [[Fume-shroom]]  | [[Frost-shroom]]    |
-### Statistics
-
-|               | Value      |
-| ------------- | ---------- |
-| Mutation type | Standalone |
-| Rarity        |            |
-| Damage        |            |
-| Attack speed  |            |
-| Targeting     | Random     |
 ### Almanac
 
 Almanac entry.

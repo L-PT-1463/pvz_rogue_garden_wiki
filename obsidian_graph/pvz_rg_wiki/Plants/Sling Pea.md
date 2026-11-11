@@ -36,36 +36,22 @@ Almanac entry.
 
 Sling Pea is a regular plant from the [[Pirate's Beach]] and [[Steam City]] that lobs peas.
 
-<font color="#9bbb59">Speciality</font>: Always fires all three peas, though they are spread between the front-most zombies of each lane.
-
-<font color="#4bacc6">Trait</font>: It has the *[[Spread]] (3)* trait, so fires three times per attack.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It fires peas, making a Lobbed attack at the front-most zombie of each lane. It always fires all three peas, targeting the same zombie with multiple peas if need be.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Sling Pea is a potted [[Peashooter]] mutation ranged plant.
+Sling Pea is a potted ranged plant, and a Level 3 [[Peashooter]] mutation.
 
 It fires five peas at a time, targeting the five zombies closest to the player with its lobbed attack. If there are less than five zombies on screen, all five peas are still launched and one or more zombies are hit with more than one pea.
 ### Mutations
 
 Sling Pea is a mutation of the [[Peashooter]], obtained by splicing a [[Three Pod]] and a [[Cabbage-pult]].
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 3 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

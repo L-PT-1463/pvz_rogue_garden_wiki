@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Acid Lemon is a regular plant from the [[Pirate's Beach]], exclusive to [[Docked Ship]] gardens. It shoots citric acid down its lane.
+Acid Lemon is a regular plant from the [[Pirate's Beach]], exclusive to [[Docked Ship]] gardens.
 
-<font color="#9bbb59">Speciality</font>: Its attacks deal extra damage to [[Helmet (Type)]] armour.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots citric acid down its lane, making a Straight attack if there is a zombie in range. The acid deals extra damage to [[Helmet (Type)]] armour.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

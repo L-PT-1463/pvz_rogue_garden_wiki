@@ -37,15 +37,14 @@ Almanac entry.
 
 Aloe is a regular plant from the [[Pirate's Beach]].
 
-<font color="#9bbb59">Speciality</font>: At the start of the turn, heals the plant in front of itself.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+At the start of the turn, Aloe heals the plant in front of itself.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

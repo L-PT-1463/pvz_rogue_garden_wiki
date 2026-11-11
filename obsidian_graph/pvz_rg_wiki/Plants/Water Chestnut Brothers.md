@@ -37,15 +37,12 @@ Almanac entry.
 
 The Water Chestnut Brothers are a regular plant from the [[Neighbour's House]], exclusive to [[Fall]] and [[Winter]] gardens.
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Chill]]* trait, which prevents the hit zombie from moving on its next turn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+They slide a chestnut down the lane, making a Straight *[[Chill]]* attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

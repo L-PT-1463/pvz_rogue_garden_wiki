@@ -35,17 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Lychee is a protector plant from [[Kongfu Mausoleum]]
+Lychee is a protector plant from [[Kongfu Mausoleum]].
 
-<font color="#8064a2">When hit by a Munch or Strike-type attack</font>: Lychee attacks in a 3x3 area. After taking enough damage it loses this property. This property can be regained if healed.
-### Statistics
+It does not attack.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+When hit, Lychee makes a Straight *[[Pierce]]* attack at the 3x3 area around itself. Lychee can only use this ability while above a certain health threshold.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

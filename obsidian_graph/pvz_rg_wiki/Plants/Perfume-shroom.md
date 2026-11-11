@@ -37,15 +37,14 @@ Almanac entry.
 
 Perfume-shroom is a regular plant from the [[Jurassic Marsh]].
 
-<font color="#9bbb59">Speciality</font>: At the start of every few turns, it triggers the [[Dino-roar]] ability of every plant in its lane.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+At the start of every few turns, it triggers the [[Dino-roar]] ability of every plant in its lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

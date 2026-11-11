@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Stallia is a regular plant from the [[Lost City]] that attacks, dealing no damage.
+Stallia is a regular plant from the [[Lost City]].
 
-<font color="#9bbb59">Speciality</font>: It attacks every turn in a 3x3 area regardless of whether there is a zombie there or not.
-
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Stall]]* trait, which means zombies hit by it cannot move on their next turn.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+On its turn, always attacks the 3x3 area around itself, making a Straight *[[Pierce]]* and *[[Stall]]* attack.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

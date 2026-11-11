@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Rotten Red is a regular plant from the [[Kongfu Mausoleum]] and [[Old Wild Egypt]] that fires down its lane.
+Rotten Red is a regular plant from the [[Kongfu Mausoleum]] and [[Old Wild Egypt]].
 
-<font color="#4bacc6">Trait</font>: If it hit a zombie on the previous turn, its attack has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires down its lane, making a Straight attack if there is a zombie in range. This attack gains the *[[Knockback]]* trait if Rotten Red made an attack on its last turn.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

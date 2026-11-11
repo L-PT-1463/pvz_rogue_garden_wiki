@@ -37,38 +37,26 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Pomegarnet Merchant is a regular plant from [[The Zombosseum]] and [[Kongfu Mausoleum]] that fires garnets at the zombies.
+Pomegarnet Merchant is a regular plant from [[The Zombosseum]] and [[Kongfu Mausoleum]].
 
-<font color="#9bbb59">Speciality</font>: Its attack bounces diagonally if there is a zombie within one tile.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+ It shoots garnets to make a Lobbed attack at the front-most zombie in its lane. The garnet bounces diagonally onto zombies in neighbouring lanes behind the target.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Pomegarnet Merchant is a potted [[Cabbage-pult]] mutation lobber plant.
+Pomegarnet Merchant is a potted lobber plant, and a Level 2 [[Cabbage-pult]] mutation.
 
 It shoots one garnet at a time at the zombie with the most health. The garnet then bounces to nearby zombies up to five times, bouncing off the ground if there are no zombies nearby.
 
-If another Cabbage-pult-type plant is currently targeting the healthiest zombie, Pomegarnet Merchant attacks the second highest-health zombie instead, and so on.
+If another Cabbage-pult-type plant is currently targeting the toughest zombie, Pomegarnet Merchant attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
 Pomegarnet Merchant is a mutation of [[Cabbage-pult]], obtained by fusing a Cabbage-pult and an [[A.K.E.E.]]
-### Statistics
-
-|               | Value                 |
-| ------------- | --------------------- |
-| Mutation type | Level 2 Mutation      |
-| Rarity        |                       |
-| Damage        |                       |
-| Attack speed  |                       |
-| Targeting     | Highest health zombie |
 ### Almanac
 
 Almanac entry.

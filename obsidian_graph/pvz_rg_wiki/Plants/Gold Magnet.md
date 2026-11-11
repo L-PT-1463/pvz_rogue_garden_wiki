@@ -35,19 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Gold Magnet is a regular plant from the [[Lost City]] that attack zombies in front of it with a straight attack, as long as there is a zombie in range.
+Gold Magnet is a regular plant from the [[Lost City]].
 
-<font color="#9bbb59">Speciality</font>: Its attack deals no damage, but steals Brainiac Coins if it hits the [[Player Zombie]].
+It attacks any zombie in its lane, targeting it directly with its attack, and prioritizing zombies with *[[Magnetisable]]* armour. If it hits the [[Player Zombie]], it steals Brainiac Coins.
 
-If the hit zombie is within has an armour with the *[[Magnetisable]]* trait, Gold Magnet steals it, but gives it back at full health if vanquished.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+If the hit zombie has an armour with the *[[Magnetisable]]* trait, Gold Magnet steals it, but gives it back at full health if vanquished. This also includes armour stolen from Spawnlings. It can still attack while holding an armour, but can only steal once.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

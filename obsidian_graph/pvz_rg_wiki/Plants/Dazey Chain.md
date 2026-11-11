@@ -35,19 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Dazey Chain is a regular plant from the [[Lost City]] that attacks the front-most zombie in its lane.
+Dazey Chain is a regular plant from the [[Lost City]].
 
-<font color="#9bbb59">Speciality</font>: At the end of each turn, it grows a stage up to its final stage of three flower heads. Each stage deals more damage than the previous.
+It shoots petals down its lane, making a Straight attack if there is a zombie in range.
 
-<font color="#4bacc6">Trait</font>: Its final stage's attacks have the *[[Stall]]* trait, meaning the hit zombie cannot move.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+At the end of each turn, it grows a stage up to its final stage of three flower heads. Each stage deals more damage than the previous, and the last has the *[[Stall]]* trait.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

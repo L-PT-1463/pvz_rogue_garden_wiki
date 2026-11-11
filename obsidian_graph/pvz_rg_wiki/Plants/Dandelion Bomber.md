@@ -37,17 +37,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Dandelion Bomber is a regular plant from the [[Lost City]] and [[Kongfu Mausoleum]] that attacks zombies with explosive seed bombs.
+Dandelion Bomber is a regular plant from the [[Lost City]] and [[Kongfu Mausoleum]].
 
-<font color="#9bbb59">Speciality</font>: Can attack in its lane and neighbouring lanes in the same turn.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It fires flying seed bombs, targeting its own lane or one of the neighbouring lanes, making a Lobbed attack at the front-most zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

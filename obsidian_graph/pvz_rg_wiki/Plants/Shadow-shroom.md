@@ -37,19 +37,14 @@ Almanac entry.
 
 Shadow-shroom is a regular plant from the [[Dark Ages]].
 
-<font color="#8064a2">If vanquished by a Munch or Strike-type attack</font>: Attacks the zombie that hit it.
+It does not attack.
 
-<font color="#8064a2">Shadow-powered</font>: Its "When vanquished" effect also attacks the tiles diagonal to itself.
-
-<font color="#4bacc6">Trait</font>: Its attacks inflict the zombie with 3 stacks of *[[Poison]]*. The poison deals damage equal to the number of stacks at the start of the turn before reducing by one.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+If vanquished, it makes a Straight *[[Pierce]]* attack at the tile in front of it, or at the 3x3 area around it if shadow-powered. This attack applies 3 stacks of *[[Poisoned]]* to hit zombies.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

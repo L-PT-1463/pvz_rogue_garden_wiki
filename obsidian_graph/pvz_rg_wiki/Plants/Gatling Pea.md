@@ -37,23 +37,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Gatling Pea is a regular plant from the [[Neighbour's House]] that attacks in a straight line, shooting if there is a zombie in range.
+Gatling Pea is a regular plant from the [[Neighbour's House]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Spread]] (4)* trait, so fires four times per attack.
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots rapid fire *[[Flammable]]* peas down its lane, making a *[[Spread]] (4)* Straight attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Gatling Pea is a potted [[Peashooter]] mutation shooter plant.
+Gatling Pea is a potted shooter plant, and a Level 3 [[Peashooter]] mutation.
 
 It shoots four peas at a time in a straight line at the zombie closest to the player.
 
@@ -61,15 +57,6 @@ If another Peashooter-type plant is currently targeting the closest zombie, Gatl
 ### Mutations
 
 Gatling Pea is a mutation of the [[Peashooter]], obtained by fusing a Peashooter and a [[Three Pod]], or by applying [[Fertilizer]] to the latter.
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 3 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

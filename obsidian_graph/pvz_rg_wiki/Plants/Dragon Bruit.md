@@ -37,16 +37,14 @@ Almanac entry.
 
 Dragon Bruit is a regular plant from the [[Kongfu Mausoleum]], [[Jurassic Marsh]] and [[Dark Ages]], where it is exclusive to [[Castle]] gardens.
 
-<font color="#8064a2">Shadow-powered</font>: It attacks in its lane and neighbouring lanes.
-<font color="#8064a2">Dino-roar</font>: Spawns a [[Baby Bruit]] on an available tile of the lawn.
-### Statistics
+It spits at the zombies, firing a Lobbed attack at the front-most zombie in its lane. While Shadow-powered, it also attacks the front-most zombie on neighbouring lanes.
 
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+[[Dino-roar]]: Spawns a [[Baby Bruit]] on an available tile of the lawn.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

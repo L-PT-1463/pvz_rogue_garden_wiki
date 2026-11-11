@@ -37,17 +37,14 @@ Almanac entry.
 
 Ice Bloom is a regular plant from the [[Old Wild Egypt]].
 
-<font color="#8064a2">When vanquished</font>: Explodes in a 3x3 area.
+It does not attack.
 
-<font color="#4bacc6">Trait</font>: It has the *[[Freeze]]* trait, which means the hit zombie can't move or attack on its next turn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+When vanquished, Ice Bloom explodes, making a Straight *[[Freeze]]* attack at a 3x3 area around itself.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

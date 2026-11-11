@@ -35,24 +35,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Chomper is a regular plant that attacks zombies in a one tile range, biting them for large damage. 
+Chomper is a regular plant.
 
-<font color="#9bbb59">Speciality</font>: If planted behind a protector plant, the Chomper can attack one tile further.
-
-<font color="#c0504d">Weakness</font>: After attacking, it cannot attack again on its next turn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It bites at zombies in a 2 tile range with a Straight *[[Pierce]]* attack. It has to cool down before attacking again.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Chomper is a potted base melee plant.
+Chomper is a base potted melee plant.
 
 It attacks slowly, dealing heavy damage to the zombie it bites. It always attacks the nearest zombie to itself in range.
 ### Mutations
@@ -68,15 +63,6 @@ Chomper can be spliced with other plants to create jawed mutations.
 | Mutated plant        | Mutation            |
 | -------------------- | ------------------- |
 | [[Primal Sunflower]] | [[Feral Sunflower]] |
-### Statistics
-
-|               | Value           |
-| ------------- | --------------- |
-| Mutation type | Base            |
-| Rarity        |                 |
-| Damage        |                 |
-| Attack speed  |                 |
-| Targeting     | Closest to self |
 ### Almanac
 
 Almanac entry.

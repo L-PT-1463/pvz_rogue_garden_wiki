@@ -35,21 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Guacodile is a regular plant from the [[Pirate's Beach]], exclusive to [[Docked Ship]] gardens.
+Guacodile is a regular *[[Amphibious]]* plant from the [[Pirate's Beach]], exclusive to [[Docked Ship]] gardens.
 
-It fires a pit down its lane if there are zombies in range.
+It fires a pit down its lane, making a Straight attack if there are zombies in range.
 
-<font color="#f79646">Placement speciality</font>: Guacodile is amphibious, meaning it can appear and move to both ground and water tiles.
-
-<font color="#8064a2">When vanquished</font>: It attacks all zombies in its lane.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+When vanquished, Guacodile runs down its lane, biting at zombies, making an attack at all zombies in its way.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

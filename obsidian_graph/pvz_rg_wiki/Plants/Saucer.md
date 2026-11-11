@@ -35,43 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Saucer is a pass-through plant from [[ZCorp IST Headquarters]] and [[Old Wild Egypt]] that affects zombies in its own tile.
+Saucer is a pass-through *[[Aerial]]* plant from [[ZCorp IST Headquarters]] and [[Old Wild Egypt]].
 
-<font color="#f79646">Placement speciality</font>: Saucer is aerial, and can therefore appear and move to any tile.
-
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Stall]]* trait, which means zombies hit by it cannot move on their next turn.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+On its turn, it always makes a Ground *[[Stall]]* attack.
 ### Almanac
 
 Almanac entry.
-## In PvZ: Lawnmaggedon
 
-Description of the plant in Lawnmaggedon.
-### Mutations
-
-| Mutation type | Other plant | Mutation |
-| ------------- | ----------- | -------- |
-|               |             |          |
-
-| Mutated plant | Mutation |
-| ------------- | -------- |
-|               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Rarity        |       |
-| Damage        |       |
-| Attack speed  |       |
-| Targeting     |       |
-### Almanac
-
-Almanac entry.
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

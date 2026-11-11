@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Maypop Mechanic is a regular plant from the [[Steam City]] that shoots in front and behind itself with each attack.
+Maypop Mechanic is a regular plant from the [[Steam City]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its cogs can hit zombies hiding behind a shield.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots cogs down both sides of its lane, always firing both Straight attacks if there is a zombie in at least one of the ranges.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

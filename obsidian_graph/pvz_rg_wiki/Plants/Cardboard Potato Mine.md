@@ -13,18 +13,13 @@ Cardboard Potato Mine is an explosive standee that blows zombies up once it's ar
 Cardboard Potato Mine is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Potato Mine is a pass-through plant from the [[Training Grounds]] that deals heavy damage on its own tile, but vanquishes itself after attacking.
+Cardboard Potato Mine is a pass-through *[[Tiny]]* plant from the [[Training Grounds]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
-
-<font color="#c0504d">Weakness</font>: It must arm itself before it can attack, making it vulnerable on the first rounds.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+If there is a zombie on its tile, it makes a Ground attack, vanquishing itself as it does so.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |

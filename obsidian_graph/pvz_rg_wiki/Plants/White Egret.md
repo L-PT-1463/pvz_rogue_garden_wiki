@@ -39,7 +39,7 @@ Almanac entry.
 
 White Egret is a regular plant from the [[Steam City]], exclusive to [[Sky Battle]] gardens.
 
-<font color="#9bbb59">Speciality</font>: Every third attack, it shoots a high-damage missile instead of its usual bullet.
+It shoots down its lane, making a Straight attack if there is a zombie in range. Every third attack, White Egret shoots a high-damage missile instead of its usual bullet.
 ### Statistics
 
 |           | Value    |

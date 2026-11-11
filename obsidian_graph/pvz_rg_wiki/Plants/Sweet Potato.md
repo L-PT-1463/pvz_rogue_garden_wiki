@@ -37,22 +37,21 @@ Almanac entry.
 
 Sweet Potato is a protector plant from the [[Lost City]] that attracts zombies to its lane.
 
-<font color="#9bbb59">Speciality</font>: As long as it is the front-most protector plant of its lane, forces zombies in front of it to move to its lane if they can.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+As long as it is the front-most protector plant of its lane, Hot Date forces zombies in front of it to move to its lane if they can.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Sweet Potato is a spawned [[Wall-nut]] mutation protector plant.
+Sweet Potato is a spawned protector plant, and Level 1 [[Wall-nut]] mutation.
 
-When used as part of Nate's ability, a Sweet Potato is occasionally planted at random spots of the lawn, where it stays, blocking the path of zombies until it is vanquished. It attracts zombies in an area of effect towards it.
+A Sweet Potato appears at random a spot of the lawn, where it stays, blocking the path of zombies until it is vanquished. It attracts zombies in an area of effect towards it.
 ### Mutations
 
 Sweet Potato is a mutation of [[Wall-nut]], obtained by fusing two Wall-nuts.
@@ -60,15 +59,6 @@ Sweet Potato is a mutation of [[Wall-nut]], obtained by fusing two Wall-nuts.
 | Mutation type | Other plant     | Mutation     |
 | ------------- | --------------- | ------------ |
 | Splicing      | [[Cherry Bomb]] | [[Hot Date]] |
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

@@ -35,38 +35,26 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Sap-fling is a regular plant from the [[Neighbour's House]], exclusive to [[Fall]] and [[Winter]] gardens. It lobs stalling sap-covered pinecones.
+Sap-fling is a regular plant from the [[Neighbour's House]], exclusive to [[Fall]] and [[Winter]] gardens.
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Stall]]* trait, meaning the hit zombie cannot move.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It fires pinecones, making a Lobbed *[[Stall]]* attack at the hit zombie.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Sap-fling is a potted [[Kernel-pult]] mutation lobber plant.
+Sap-fling is a potted lobber plant, and a Level 2 [[Kernel-pult]] mutation.
 
 It lobs one pinecone at a time at the zombie with the most health, which covers a small area of effect in sap, slowing all zombies on it down. After a moment, the sap disappears.
 
-If another Kernel-pult-type plant is currently targeting the healthiest zombie, Sap-fling attacks the second highest-health zombie instead, and so on.
+If another Kernel-pult-type plant is currently targeting the toughest zombie, Sap-fling attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
 Sap-fling is a mutation of [[Kernel-pult]], obtained by fusing a Kernel-pult and a [[Caramel Popcorn]], or by applying [[Fertilizer]] to the latter.
-### Statistics
-
-|               | Value                 |
-| ------------- | --------------------- |
-| Mutation type | Level 2 Mutation      |
-| Rarity        |                       |
-| Damage        |                       |
-| Attack speed  |                       |
-| Targeting     | Highest health zombie |
 ### Almanac
 
 Almanac entry.

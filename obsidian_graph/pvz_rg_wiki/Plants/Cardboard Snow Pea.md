@@ -13,16 +13,13 @@ Cardboard Snow Pea is a straight-shooter that shoots chilling peas at the zombie
 Cardboard Scaredy-shroom  is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardbaord Snow Pea is a regular plant from the [[Training Grounds]] that attacks in a straight line, shooting if there is a zombie in range.
+Cardbaord Snow Pea is a regular plant from the [[Training Grounds]].
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Chill]]* trait, which prevents the hit zombie from moving on its next turn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires frozen peas down its lane, making a Straight *[[Chill]]* attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |

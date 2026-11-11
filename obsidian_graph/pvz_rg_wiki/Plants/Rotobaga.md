@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Starfruit is a regular plant from the [[Steam City]]. It shoots projectiles in a straight line.
+Starfruit is a regular *[[Aerial]]* plant from the [[Steam City]].
 
-<font color="#9bbb59">Speciality</font>: It attacks on the diagonals, as long as there is a zombie in range. Rotobaga always fires all four projectiles when attacking.
-
-<font color="#f79646">Placement speciality</font>: Rotobaga is aerial, and can therefore appear and move to any tile.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots four Straight attacks, on at each diagonal, firing all four if there is a zombie in an least on of the ranges.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

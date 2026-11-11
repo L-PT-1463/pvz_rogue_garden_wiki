@@ -1,4 +1,4 @@
-# Cardboard Fume-shroom
+[# Cardboard Fume-shroom
 
 Cardboard Fume-shroom is a standee that fires a cloud of spores, hitting all zombies in a medium range in front of it.
 
@@ -13,16 +13,13 @@ Cardboard Fume-shroom is a standee that fires a cloud of spores, hitting all zom
 Cardboard Fume-shroom is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Fume-shroom is a regular plant from the [[Training Grounds]] that attacks in a medium range.
+Cardboard Fume-shroom is a regular plant from the [[Training Grounds]].
 
-<font color="#4bacc6">Trait</font>: Its attack has both the *[[Pierce]]* and *Strike-through* traits. As such, it can hit multiple zombies and traverses shields.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires fumes at a limited range, making a Straight *[[Pierce]]* and *[[Strike-through]]* attack if there are zombies in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |

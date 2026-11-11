@@ -35,23 +35,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Frost-shroom is a regular plant from [[Old Wild Egypt]] that attacks in a medium range.
+Frost-shroom is a regular plant from [[Old Wild Egypt]].
 
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Strike-through]]* trait. As such, it can hit multiple zombies but the attack is blocked by shields.
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Chill]]* trait, which prevents the hit zombie from moving on its next turn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires fumes at a limited range, making a Straight *[[Pierce]]* and *[[Strike-through]]*, *[[Chill]]* attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Frost-shroom is a potted [[Puff-shroom]] mutation shooter plant.
+Frost-shroom is a potted shooter plant, and a Level 2 [[Puff-shroom]] mutation.
 
 It fires a cloud of cold spores in a straight line at the zombie closest to the player. All zombies caught in the cloud of spores are hit by the attack and are chilled.
 
@@ -59,15 +55,6 @@ If another Puff-shroom-type plant is currently targeting the closest zombie, Fro
 ### Mutations
 
 Frost-shroom is a mutation of the [[Puff-shroom]], obtained by splicing a [[Fume-shroom]] and an [[Iceberg Lettuce]].
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 2 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

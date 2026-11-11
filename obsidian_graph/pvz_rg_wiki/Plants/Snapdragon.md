@@ -35,12 +35,9 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Snapdragon is a regular plant from the [[Pirate's Beach]] that attacks by breathing fire onto the zombies.
+Snapdragon is a regular plant from the [[Pirate's Beach]].
 
-<font color="#9bbb59">Speciality</font>: Its attack deals damage in its row and the row in front, on all three lanes.
-
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its fire can hit zombies hiding behind a shield.
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Fire]]* trait.
+It exhales fires onto the 3x3 area with Snapdragon at the centre-right of the square, making a Straight *[[Pierce]]* and *[[Fire]]* attack if there is a zombie in range.
 ### Statistics
 
 |           | Value    |

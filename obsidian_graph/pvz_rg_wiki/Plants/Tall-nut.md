@@ -37,7 +37,9 @@ Almanac entry.
 
 Wall-nut is protector plant from [[Old Wild Egypt]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Tall]]* trait to counter the zombie's *Traverse* trait.
+It does not attack.
+
+Tall-nut has the *[[Tall]]* trait.
 ### Statistics
 
 |           | Value |
@@ -50,21 +52,12 @@ Wall-nut is protector plant from [[Old Wild Egypt]].
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Tall-nut is a spawned [[Wall-nut]] mutation protector plant.
+Tall-nut is a spawned protector plant, and a Level 2 [[Wall-nut]] mutation.
 
-When used as part of Nate's ability, a Tall-nut is occasionally planted at random spots of the lawn, where it stays, blocking the path of zombies until it is vanquished.
+A Tall-nut appears at a random spot of the lawn, where it stays, blocking the path of zombies until it is vanquished.
 ### Mutations
 
 Tall-nut is a mutation of the [[Wall-nut]], obtained by fusing a Wall-nut and a [[Primal Wall-nut]], or by applying [[Fertilizer]] to the latter.
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 2 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

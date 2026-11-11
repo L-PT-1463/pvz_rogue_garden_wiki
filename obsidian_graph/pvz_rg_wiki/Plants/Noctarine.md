@@ -37,36 +37,26 @@ Almanac entry.
 
 Noctarine is a regular plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
 
-<font color="#8064a2">When vanquished</font>: Permanently shadow-powers plants in the tiles diagonal to itself, or in a 3x3 area if Noctarine is shadow-powered.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+When vanquished, it explodes, making a Straight attack at the tiles directly diagonal to it, which permanently Shadow-powers those tiles. If Shadow-powered, the range is increased to a 3x3 area.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Noctarine is a spawned [[Cherry Bomb]] mutation instant plant.
+Noctarine is a spawned instant plant, and a Level 1 [[Cherry Bomb]] mutation.
 
-When used as part of Patrice's ability, a Noctarine is occasionally thrown at random spots of the lawn, where it explodes in an area of effect, dealing damage to all zombies caught in its explosion.
+A Noctarine appears at random a spot of the lawn, where it explodes in an area of effect, dealing damage to all zombies caught in its explosion.
 
-If the player has at least one [[Moonflower]], Nocatrine's explosion also leaves behind a cloud of gas that damages zombies over time, until it dissipates.
+If the player has at least 1 [[Moonflower]], Nocatrine's explosion also leaves behind a cloud of gas that damages zombies over time, until it dissipates.
 ### Mutations
 
 Noctarine is a mutation of [[Cherry Bomb]], obtained by splicing a Cherry Bomb and a [[Moonbean]].
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

@@ -35,20 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Blover is a regular plant that creates wind in its garden, pushing zombies back.
+Blover is a regular plant.
 
-<font color="#9bbb59">Speciality</font>: Attacks the front-most zombie of each lane.
-
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its wind can hit zombies hiding behind a shield.
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It creates wind in its garden every turn, making a Straight *[[Pierce]]* attack at the front-most zombie of each lane which hits with *[[Knockback]]*.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

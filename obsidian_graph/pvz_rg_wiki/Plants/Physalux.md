@@ -37,21 +37,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Physalux is a regular plant from the [[Kongfu Mausoleum]].
+Physalux is a regular *[[Aerial]]* plant from the [[Kongfu Mausoleum]].
 
-<font color="#9bbb59">Speciality</font>: It clears fog in a 3x3 area.
+It does not attack.
 
-When a zombie with the *[[Invisible]]* trait enters or starts its turn on the 3x3 area around the Plantern, its *Invisible* trait is reduced by 1 stack.
-
-<font color="#f79646">Placement speciality</font>: Physalux is aerial, and can therefore appear and move to any tile.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+Physalux generates light in a 3x3 area. This clears [[Fog]], and any zombie entering or starting its turn in the light loses 1 stack of the *[[Invisible]]* trait, if the zombie has it.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

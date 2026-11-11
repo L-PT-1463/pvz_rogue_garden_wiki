@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Buttercup is a protector plant from the [[Neon Carnival]] that attacks the tile directly in front of itself.
+Buttercup is a protector plant from the [[Neon Carnival]].
 
-<font color="#9bbb59">Speciality</font>: Its has a chance of buttering the zombie.
-
-<font color="#4bacc6">Trait</font>: The butter has the *[[Stun]]* trait, which means the hit zombie can't move or attack on its next turn.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+When hit by a Munch or Strike type attack, it has a chance of lobbing a stick of butter at the tile in front of itself, making a Lobbed *[[Stun]]* attack at the zombie in that tile.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

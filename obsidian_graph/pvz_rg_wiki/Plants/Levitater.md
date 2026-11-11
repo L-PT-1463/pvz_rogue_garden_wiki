@@ -35,20 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Levitater is a regular plant from the [[Neon Carnival]] and [[ZCorp IST Headquarters]].
+Levitater is a regular *[[Tiny]]* plant from the [[Neon Carnival]] and [[ZCorp IST Headquarters]].
 
-<font color="#9bbb59">Speciality</font>: It can target any zombie on the garden.
-
-<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+It targets a random zombie in the garden with a Ground *[[Knockback]]* attack.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

@@ -43,27 +43,24 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Sun-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. 
+Sun-shroom is a regular *[[Tiny]]* plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. 
 
-<font color="#9bbb59">Speciality</font>: At the start of the third turn, it turns into a Sunnier-shroom.
+It does not attack.
 
-<font color="#8064a2">When hit by a Munch-type attack</font>: It heals the zombie that bit it
-
-<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks. After one turn, it grows larger and loses its *Tiny* trait.
+At the start of the third turn, it turns into a Sunnier-shroom. If hit by a Munch attack, Sun-shroom heals the zombie that bit it.
 
 ___
 
 Sunnier-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
 
-<font color="#8064a2">When hit by a Munch-type attack</font>: It heals the zombie that bit it
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+If hit by a Munch attack, Sunnier-shroom heals the zombie that bit it.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

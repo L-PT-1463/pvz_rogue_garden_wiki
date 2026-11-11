@@ -35,22 +35,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Snow Pea is a regular plant from [[Old Wild Egypt]] that attacks in a straight line, shooting if there is a zombie in range.
+Snow Pea is a regular plant from [[Old Wild Egypt]].
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Chill]]* trait, which prevents the hit zombie from moving on its next turn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires a pea down its lane, making a Straight *[[Chill]]* attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Snow Pea is a potted [[Peashooter]] mutation shooter plant.
+Snow Pea is a potted shooter plant, and Level 1 [[Peashooter]] mutation.
 
 It shoots one chilling pea at a time in a straight line at the zombie closest to the player. The hit zombie and all zombies in a small area around it are slowed down.
 
@@ -63,15 +60,6 @@ Snow Pea is a mutation of the [[Peashooter]], obtained by splicing a Peashooter 
 | -------------- | -------------- | ----------------- |
 | Fusion         | [[Peashooter]] | [[Snow Repeater]] |
 | [[Fertilizer]] |                | Snow Repeater     |
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 1 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

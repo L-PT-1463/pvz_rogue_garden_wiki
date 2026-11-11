@@ -35,17 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Sun Bean is a regular plant from the [[Dark Ages]].
+Sun Bean is a regular plant from the [[Dark Ages]] and [[Neon Carnival]], where it is exclusive to [[Bog of Enlightenment]] gardens.
 
-<font color="#8064a2">If vanquished by a Munch-type attack</font>: It causes the zombie that bit it to heal plants when hit by their attacks.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+If vanquished by a Munch attack, the zombie that bit Sun Bean gets 3 stacks of *[[Illuminated]]*.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

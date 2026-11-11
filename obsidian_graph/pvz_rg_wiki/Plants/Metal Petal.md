@@ -37,36 +37,26 @@ Almanac entry.
 
 Metal Petal is a protector plant from the [[Far Future]].
 
-<font color="#8064a2">When hit by a Munch-type attack</font>: It heals the zombie that bit it.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+When hit by a Munch-type attack, Metal Petal heals the zombie that bit it.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Metal Petal is a spawned [[Wall-nut]] mutation protector plant.
+Metal Petal is a spawned protector plant, and a Level 2 [[Wall-nut]] mutation.
 
-When used as part of Nate's ability, a Metal Petal is occasionally planted on a random spot of the lawn, where it stays, blocking the path of zombies until it is vanquished.
+A Metal Petal appears on a random spot of the lawn, where it stays, blocking the path of zombies until it is vanquished.
 
-While alive, it periodically generates rays of sun on other spawned plants, which slightly heal them.
+Periodically generates rays of sun on other spawned plants, which slightly heal them.
 ### Mutations
 
 Metal Petal is a mutation of [[Wall-nut]], obtained by splicing a [[Jugger-nut]] and a [[Sunflower]].
-### Statistics
-
-|               | Value                |
-| ------------- | -------------------- |
-| Mutation type | Level 2 Mutation     |
-| Rarity        |                      |
-| Damage        |                      |
-| Attack speed  |                      |
-| Targeting     | Other spawned plants |
 ### Almanac
 
 Almanac entry.

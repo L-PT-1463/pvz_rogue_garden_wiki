@@ -37,21 +37,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Plantern is a regular plant from the [[Neighbour's House]] that attacks in a one tile range in front of itself.
+Plantern is a regular plant from the [[Neighbour's House]].
 
-<font color="#9bbb59">Speciality</font>: It clears fog in a 3x3 area.
+It creates strong flashes of light, making a Straight *[[Stun]]* attack at the tile directly in front of it if there is a zombie there.
 
-When a zombie with the *[[Invisible]]* trait enters or starts its turn on the 3x3 area around the Plantern, its *Invisible* trait is reduced by 1 stack.
-
-<font color="#4bacc6">Trait</font>: It has the *[[Stun]]* trait, which means the hit zombie can't move or attack on its next turn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+Plantern generates light in a 3x3 area. This clears [[Fog]], and any zombie entering or starting its turn in the light loses 1 stack of the *[[Invisible]]* trait, if the zombie has it.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

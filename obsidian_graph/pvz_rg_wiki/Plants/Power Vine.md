@@ -35,21 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Power Vine is a regular plant from the [[Far Future]] that shoots electricity.
+Power Vine is a regular *[[Vine]]* plant from the [[Far Future]].
 
-<font color="#9bbb59">Speciality</font>: Its *[[Spread]]* trait is increased by one stack every Power Vine on a neighbouring tile in its lane or column, and by an additional one stack if the plant in its tile is a [[Fila-mint Family]] plant.
+It shoots electric bolts down its lane, making a *[[Spread]]* Straight attack if there is a zombie in range.
 
-<font color="#f79646">Placement speciality</font>: It has the *[[Vine]]* trait, and can therefore appear on the same tile as another plant. It must be vanquished first before the plant inside can be attacked.
-
-<font color="#4bacc6">Trait</font>: It starts with the *[[Spread]] (1)* trait, so fires one time per attack.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It has 1 stack of *[[Spread]]* per Power Vine connected to it via a grid of lane or column neighbours. It also gains 1 stack of *[[Spread]]* if it is in the same tile as another *[[Fila-mint Family]]* plant. 
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

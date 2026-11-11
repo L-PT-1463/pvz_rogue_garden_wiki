@@ -35,21 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Gloom Vine is a regular plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
+Gloom Vine is a regular *[[Vine]]* plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
 
-<font color="#9bbb59">Speciality</font>: Shadow-powers the plant inside it.
+It does not attack. If Shadow-powered, it is granted an attack. Gloom Vine makes a Straight attack at the 3x3 area around itself, as long as there is a zombie in range.
 
-<font color="#f79646">Placement speciality</font>: It has the *[[Vine]]* trait, and can therefore appear on the same tile as another plant. It must be vanquished first before the plant inside can be attacked.
-
-<font color="#8064a2">Shadow-powered</font>: Gains an attack, which hits the 3x3 area around itself.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+Gloom Vine shadow-powers other plants in its tile.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

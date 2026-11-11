@@ -41,23 +41,17 @@ Almanac entry.
 
 Shadow Peashooter is a regular plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
 
-It attacks in a straight line, shooting if there is a zombie in range.
-
-<font color="#4bacc6">Trait</font>: If shadow-powered, its attacks have the *[[Strike-through]]* trait. As such, it can hit multiple zombies but the attack is blocked by shields.
-<font color="#4bacc6">Trait</font>: If shadow-powered, its attacks have the *[[Stall]]* trait, meaning the hit zombies cannot move on their next turn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots shadow peas down its lane, making a Straight attack if there is a zombie in range. The attacks gains *[[Strike-through]]* and *[[Stall]]* if shadow-powered.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Shadow Peashooter is a potted [[Peashooter]] mutation shooter plant.
+Shadow Peashooter is a potted shooter plant, and Level 1 [[Peashooter]] mutation.
 
 It shoots one shadow pea at a time in a straight line at the zombie closest to the player, that slows down the hit zombie.
 
@@ -73,15 +67,6 @@ Shadow Peashooter is a mutation of the [[Peashooter]], obtained by splicing a Pe
 | -------------- | -------------- | ------------------- |
 | Fusion         | [[Peashooter]] | [[Shadow Repeater]] |
 | [[Fertilizer]] |                | Shadow Repeater     |
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 1 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

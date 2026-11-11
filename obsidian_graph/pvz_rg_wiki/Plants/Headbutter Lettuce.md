@@ -37,36 +37,22 @@ Almanac entry.
 
 Headbutter Lettuce is a regular plant from the [[Neon Carnival]].
 
-<font color="#9bbb59">Speciality</font>: It can attack the two tiles in front of it and the one tile behind. It has a chance of buttering the zombie it attcks.
-
-<font color="#4bacc6">Trait</font>: The butter has the *[[Stun]]* trait, which means the hit zombie can't move or attack on its next turn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It makes a Straight attack at a zombie in range, 2 tiles in front and 1 tile behind. Its attack occasionally has the *[[Stun]]* trait, covering the zombie with butter.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Headbutter Lettuce is a potted [[Bonk Choy]] mutation melee plant.
+Headbutter Lettuce is a potted melee plant, and a Level 1 [[Bonk Choy]] mutation.
 
 It attacks the closest zombie to itself, occasionally throwing butter on it to stop its advance.
 ### Mutations
 
 Headbutter Lettuce is a mutation of [[Bonk Choy]], obtained by splicing Bonk Choy and [[Kernel-pult]].
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Closest to self  |
 ### Almanac
 
 Almanac entry.

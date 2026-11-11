@@ -35,24 +35,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Apple Mortar is a regular plant from the [[Pirate's Beach]] that lobs apple cores at the zombies to stun them.
+Apple Mortar is a regular plant from the [[Pirate's Beach]].
 
-<font color="#9bbb59">Speciality</font>: Attacks on its lane and neighbouring lanes.
-
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Stun]]* trait, meaning the hit zombies can't move or attack on their next turn.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It lobs up to three apple cores per attack, making a Lobbed *[[Stun]]* attack at the front-most zombie of its lane and neighbouring lanes.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Apple Mortar is a potted [[Kernel-pult]] mutation lobber plant.
+Apple Mortar is a potted lobber plant, and a Level 2 [[Kernel-pult]] mutation.
 
 It lobs three apple cores, targeting the the zombie with the most health and two zombies near it. Each apple strikes the zombies, momentarily stunning it.
 ### Mutations
@@ -62,15 +57,6 @@ Apple Mortar is a mutation of [[Kernel-pult]], obtained by splicing a [[Cabbage-
 | Mutation type | Other plant  | Mutation         |
 | ------------- | ------------ | ---------------- |
 | Splicing      | [[Wall-nut]] | [[Holly Knight]] |
-### Statistics
-
-|               | Value                 |
-| ------------- | --------------------- |
-| Mutation type | Level 2 Mutation      |
-| Rarity        |                       |
-| Damage        |                       |
-| Attack speed  |                       |
-| Targeting     | Highest health zombie |
 ### Almanac
 
 Almanac entry.

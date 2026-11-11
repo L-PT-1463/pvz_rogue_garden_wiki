@@ -35,19 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Icy Currant is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens. It connects to other ice plants, creating chains of freezing winds that damage zombies.
+Icy Currant is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
 
-<font color="#9bbb59">Speciality</font>: Connects to [[Winter-mint Family]] plants to form freezing currents. The currents only deal damage if they are connecting two Icy Currants.
+It does not attack.
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Chill]]* trait, which prevents the hit zombie from moving on its next turn.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+It connects to [[Winter-mint Family]] plants to form electric currents. At the start of the turn, the icy currents make a Ground *[[Chill]]* attack at the tiles they affect. If connecting two Icy Currants together, the current of frost deals more damage. 
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

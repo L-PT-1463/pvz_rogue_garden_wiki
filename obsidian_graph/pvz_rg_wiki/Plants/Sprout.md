@@ -35,19 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Sprout is a regular plant from the [[Steam City]], exclusive to [[Greenhouse]] gardens.
+Sprout is a regular *[[Tiny]]* plant from the [[Steam City]], exclusive to [[Greenhouse]] gardens.
 
-<font color="#9bbb59">Speciality</font>: After a few turns, it turns into a [[Marigold]].
+It does not attack.
 
-<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+After a few turns, it turns into a [[Marigold]].
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

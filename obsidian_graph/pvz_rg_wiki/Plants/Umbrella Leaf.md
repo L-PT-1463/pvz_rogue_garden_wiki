@@ -37,15 +37,14 @@ Almanac entry.
 
 Umbrella Leaf is a regular plant from the [[Pirate's Beach]] and [[Lost City]].
 
-<font color="#9bbb59">Speciality</font>: While alive, it gives the *[[Shielded]]* trait to other plants in the column in front of it. This makes them immune to the *[[Fire]]* and *[[Traverse]]* traits for as long as they are Shielded.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+Umbrella Leaf gives the *[[Shielded]]* trait to other plants in the column in front of it.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

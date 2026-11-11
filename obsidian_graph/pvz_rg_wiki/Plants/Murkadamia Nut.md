@@ -35,41 +35,30 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Murkadamia Nut is a protector plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
+Murkadamia Nut is a protector *[[Tiny]]* plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
 
-<font color="#8064a2">When hit by a Munch or Strike-type attack while Shadow-powered</font>: Murkadamia Nut attacks the zombie.
+It does not attack.
 
-<font color="#4bacc6">Trait</font>: While unpowered, has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
-<font color="#4bacc6">Trait</font>: While shadow-powered, has the *[[Armoured]] (1)* trait, meaning it takes one less damage from all sources.
-### Statistics
+If hit while Shadow-powered, Murkadamia makes a Straight *[[Pierce]]* attack at the tile in front of itself.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+While Shadow-powered, it also gains the *[[Armoured]] (1)* trait, but loses the *[[Tiny]]* trait.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Murkadamia Nut is a spawned [[Wall-nut]] mutation protector plant.
+Murkadamia Nut is a spawned protector plant, and Level 1 [[Wall-nut]] mutation
 
-When used as part of Nate's ability, a Murkadamia Nut is occasionally planted at random spots of the lawn, where it stays, blocking the path of zombies until it is vanquished.
+A Murkadamia Nut appears on a random spot of the lawn, where it stays, blocking the path of zombies until it is vanquished.
 
-If the player has at least one [[Moonflower]], Murkadamia Nut heals its health while not taking damage, and deals damage to zombies in a small area of effect.
+If the player has at least 1 [[Moonflower]], Murkadamia Nut heals its health while not taking damage, and deals damage to zombies in a small area of effect.
 ### Mutations
 
 Murkadamia Nut is a mutation of [[Wall-nut]], obtained by splicing a Wall-nut and a [[Moonbean]].
-### Statistics
-
-|               | Value           |
-| ------------- | --------------- |
-| Mutation type | Level1 Mutation |
-| Rarity        |                 |
-| Damage        |                 |
-| Attack speed  |                 |
-| Targeting     | Random          |
 ### Almanac
 
 Almanac entry.

@@ -13,14 +13,13 @@ Cardboard Wall-nut is a protective barrier standee that blocks the advance of th
 Cardboard Wall-nut is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Wall-nut is simple protector plant from the [[Training Grounds]].
-### Statistics
+Cardboard Wall-nut is protector plant from the [[Training Grounds]].
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+It does not attack.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |

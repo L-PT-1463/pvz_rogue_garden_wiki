@@ -35,40 +35,30 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Hot Date is a protector plant from the [[Neon Carnival]] that attracts zombies to its lane.
+Hot Date is a protector plant from the [[Neon Carnival]].
 
-<font color="#9bbb59">Speciality</font>: As long as it is the front-most protector plant of its lane, forces zombies in front of it to move to its lane if they can.
+It does not attack.
 
-<font color="#8064a2">When vanquished</font>: It explodes, dealing damage to all zombies in its lane.
+As long as it is the front-most protector plant of its lane, Hot Date forces zombies in front of it to move to its lane if they can.
 
-<font color="#4bacc6">Trait</font>: The attack has the *[[Fire]]* trait.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+When vanquished, it explodes, making a Ground *[[Fire]]* attack in its entire lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Hot Date is a spawned [[Wall-nut]] mutation protector plant.
+Hot Date is a spawned protector plant, and a Level 2 [[Wall-nut]] mutation.
 
-When used as part of Nate's ability, a Hot Date is occasionally planted at random spots of the lawn, where it stays, blocking the path of zombies until it is vanquished. It attracts zombies in an area of effect towards it. Once vanquished, it explodes in an straight line that stretches into a random direction, dealing damage to all zombies caught in its fire.
+A Hot Date appears at a random spot of the lawn, where it stays, blocking the path of zombies until it is vanquished. It attracts zombies in an area of effect towards it.
+
+Once vanquished, it explodes in an straight line that stretches into a random direction, dealing damage to all zombies caught in its fire.
 ### Mutations
 
 Hot Date is a mutation of [[Wall-nut]], obtained by fusing a Wall-nut and an [[Explode-o-Nut]], or by splicing a [[Cherry Bomb]] and a [[Sweet Pea]].
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 2 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

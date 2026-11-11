@@ -37,22 +37,21 @@ Almanac entry.
 
 Explode-o-Nut is a protector plant.
 
-<font color="#8064a2">When vanquished</font>: Explodes in a 3x3 area.
-### Statistics
+It does not attack.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+When vanquished, it explodes, making a Straight attack at the 3x3 area around itself.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Explode-o-Nut is a spawned [[Wall-nut]] mutation protector plant.
+Explode-o-Nut is a spawned protector plant, and a Level 1 [[Wall-nut]] mutation.
 
-When used as part of Nate's ability, an Explode-o-Nut is occasionally planted at random spots of the lawn, where it stays, blocking the path of zombies until it is vanquished, at which point it explodes, dealing damage in an area of effect.
+An Explode-o-Nut appears at random spots of the lawn, where it stays, blocking the path of zombies until it is vanquished, at which point it explodes, dealing damage in an area of effect.
 ### Mutations
 
 Explode-o-Nut is a mutation of the [[Wall-nut]], obtained by splicing a Wall-nut and a [[Cherry Bomb]].
@@ -60,15 +59,6 @@ Explode-o-Nut is a mutation of the [[Wall-nut]], obtained by splicing a Wall-nut
 | Mutation type | Other plant  | Mutation     |
 | ------------- | ------------ | ------------ |
 | Fusion        | [[Wall-nut]] | [[Hot Date]] |
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

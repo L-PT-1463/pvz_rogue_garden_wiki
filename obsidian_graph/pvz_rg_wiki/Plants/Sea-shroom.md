@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Sea-shroom is a regular plant from the [[Neighbour's House]], exclusive to [[Fall]] gardens. It shoots spores in a straight line down its lane, but has a limited attack range.
+Sea-shroom is a regular *[[Aquatic]]* plant from the [[Neighbour's House]], exclusive to [[Fall]] gardens.
 
-<font color="#f79646">Placement speciality</font>: It is aquatic, meaning it can only appear and move to water tiles.
-
-<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots spores down its lane at a limited range, making a Straight attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

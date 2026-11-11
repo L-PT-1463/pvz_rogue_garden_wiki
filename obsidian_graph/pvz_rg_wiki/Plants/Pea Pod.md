@@ -35,41 +35,28 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Pea Pod is a regular plant from the [[Old Wild Egypt]] that attacks in a straight line.
+Pea Pod is a regular plant from the [[Old Wild Egypt]].
 
-<font color="#9bbb59">Speciality</font>: Its *[[Spread]]* trait is increased by one stack every turn, up to five.
+It shoots *[[Flammable]]* peas down its lane, making a *[[Spread]]* Straight attack down its lane if there is a zombie in range.
 
-<font color="#4bacc6">Trait</font>: It starts with the *[[Spread]] (1)* trait, so fires one time per attack.
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+Starts at *[[Spread]] (1)*, and increases by 1 stack each turn, as its heads grow.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Pea Pod is a potted [[Peashooter]] mutation shooter plant.
+Pea Pod is a potted shooter plant, Level 3 [[Peashooter]] mutation.
 
-It shoots five peas at a time; three in a straight line at the zombie closest to the player and one diagonally to either each.
+It shoots five peas at a time; three in a straight line at the zombie closest to the player and one diagonally to either side.
 
 If another Peashooter-type plant is currently targeting the closest zombie, Pea Pod attacks the second closest instead, and so on.
 ### Mutations
 
 Pea Pod is a mutation of the [[Peashooter]], obtained by fusing a Peashooter and a [[Threepeater]], by applying a [[Watering Can]] to a [[Three Pod]], or by applying [[Fertilizer]] to a Threepeater.
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 3 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

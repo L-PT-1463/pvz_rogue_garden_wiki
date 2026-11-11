@@ -35,21 +35,18 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Negative Magnet-shroom is a regular plant from the [[Far Future]]
+Negative Magnet-shroom is a regular plant from the [[Far Future]].
 
-<font color="#9bbb59">Speciality</font>: Magnet-shroom's ability affects its own lane.
+It creates a magnetic field in its own lane. On its turn, it steals armour in range with the *[[Magnetisable]]* trait. As soon as possible, including on that same turn, it shoots the armour back at the zombies.
 
-It steals armours with the *[[Magnetisable]]* trait in range, and uses it as projectile as soon as possible. helmets and shields are shot straight while umbrellas are lobbed. After being returned, the armours take damage but are returned to the player's inventory. This is also the case for armour stolen from Spawnlings.
+It fires back armour stolen from the zombie, making an attack down its lane if there is a zombie in range. It makes a Straight attack when throwing helmets, a Straight *[[Knockback]]* attack with shields, or a Lobbed attack with umbrellas.
 
-<font color="#4bacc6">Trait</font>: Thrown shields haev the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
-### Statistics
-
-|           | Value              |
-| --------- | ------------------ |
-| Damage    |                    |
-| Toughness |                    |
-| Range     | Straight or Lobbed |
+The armour takes damage with the attack, but is then returned. This also includes armour stolen from Spawnlings.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

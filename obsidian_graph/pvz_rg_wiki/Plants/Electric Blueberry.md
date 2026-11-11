@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Electric Blueberry is a regular plant from the [[Far Future]] that attacks zombies with large clouds of lightning.
+Electric Blueberry is a regular plant from the [[Far Future]].
 
-<font color="#9bbb59">Speciality</font>: Can target any zombie on the lawn.
-
-<font color="#c0504d">Weakness</font>: After attacking, it cannot do so again for a few turns.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It summons large thunder clouds, which target a random zombie on the garden with a Lobbed attack. It has to cool down before attacking again.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

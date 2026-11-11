@@ -7,7 +7,7 @@ Missile Toe Queen is a frosty artillery that shoots powerful strikes of ice at t
 | Class             | ![[missing_image.png\|53]]                                |
 | :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[winter-mint_family.png\|53]]<br>[[Winter-mint Family]] |
-| Tribes            |                                                           |
+| Tribes            | [[Flower Tribe]]                                          |
 ## Origins
 
 Missile Toe Queen is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it is a manual plant that shoots freezing strikes at the zombies for high damage and chill.
@@ -39,19 +39,12 @@ Almanac entry.
 
 Missile Toe Queen is a regular plant from the [[Dark Ages]] and [[Neighbour's House]], where it is exclusive to [[Winter]] gardens. It fires powerful blasts of ice from above.
 
-<font color="#9bbb59">Speciality</font>: It fires a 3x1 attack anywhere on the lawn, always targeting a zombie as its centre.
-
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Chill]]* trait, which prevents the hit zombie from moving on its next turn.
-
-<font color="#c0504d">Weakness</font>: After attacking, it cannot do so again for a few turns.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It fires Lobbed *[[Chill]]* attacks at 3x1 areas anywhere on the lawn, always targeting a zombie as its centre. It has to cool down before attacking again.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

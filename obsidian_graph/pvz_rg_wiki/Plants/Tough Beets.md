@@ -35,17 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Tough Beets is a protector plant from the [[Neon Carnival]] that attacks the tile directly in front of itself.
+Tough Beets is a protector plant from the [[Neon Carnival]].
 
-<font color="#9bbb59">Speciality</font>: When a Spawnling is planted, Tough Beet's health is increased.
-### Statistics
+It headbutts the tile directly in front of itself, making a Straight attack if there is a zombie in range.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+When a Spawnling is planted, Tough Beet's health is increased.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

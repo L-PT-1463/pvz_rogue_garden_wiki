@@ -13,16 +13,13 @@ Cardboard Spikeweed is a short standee that is ignored by most zombies, and atta
 Cardboard Spikeweed  is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Spikeweed is a pass-through plant from the [[Training Grounds]] that attacks the zombie on its tile.
+Cardboard Spikeweed is a pass-through *[[Grounded]]* plant from the [[Training Grounds]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Grounded]]* trait, and can therefore avoid most attacks.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+On its turn, it always makes a Ground attack on its own tile.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |

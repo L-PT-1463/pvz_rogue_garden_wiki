@@ -35,21 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Pyre Vine is a regular plant from the [[Old Wild Egypt]] that attacks the tile directly in front of it.
+Pyre Vine is a regular *[[Vine]]* plant from the [[Old Wild Egypt]].
 
-<font color="#9bbb59">Speciality</font>: If it is on the same tile as a plant with the [[Flammable]] trait, Pyre Vine doesn't attack. Instead, it grants the plant inside's attack the [[Fire]] trait.
+It shoots fire at the tile in front of itself, making a Straight *[[Pierce]]* and *[[Fire]]* attack if there is a zombie in range.
 
-<font color="#f79646">Placement speciality</font>: It has the *[[Vine]]* trait, and can therefore appear on the same tile as another plant. It must be vanquished first before the plant inside can be attacked.
-
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its attacks can hit zombies hiding behind a shield.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+If the attack of the other plant in its lane has the *[[Flammable]]* trait, Pyre Vine does not attack. Instead, it grants that projectile the *[[Fire]]* trait.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

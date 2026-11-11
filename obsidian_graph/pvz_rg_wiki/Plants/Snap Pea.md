@@ -37,24 +37,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Snap Pea is a regular plant from the [[Jurassic Marsh]] and [[Old Wild Egypt]], that attacks the tile directly in front of itself.
+Snap Pea is a regular plant from the [[Jurassic Marsh]] and [[Old Wild Egypt]].
 
-<font color="#9bbb59">Speciality</font>: If it vanquishes a zombie, it immediately performs a ranged Straight attack down its lane as it spits that zombie's head.
-
-<font color="#c0504d">Weakness</font>: After attacking, it cannot attack again on its next turn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It bites at the tile directly in front of itself, making a Straight *[[Pierce]]* attack. If it vanquishes a zombie with its melee attack, it fires a Straight attack down its lane next time there is a zombie in range, firing the eaten zombie's head. It has to cool down before making a bite attack again.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Snap Pea is a potted [[Chomper]] mutation melee plant.
+Snap Pea is a potted melee plant, and a Level 1 [[Chomper]] mutation.
 
 It attacks slowly, dealing heavy damage to the zombie it bites. It always attacks the nearest zombie to itself in range.
 
@@ -62,15 +57,6 @@ If there are no zombies in its melee range, it instead shoots a spread of three 
 ### Mutations
 
 Snap Pea is a mutation of [[Chomper]], obtained by splicing Chomper and [[Peashooter]].
-### Statistics
-
-|               | Value                                               |
-| ------------- | --------------------------------------------------- |
-| Mutation type | Level 1 Mutation                                    |
-| Rarity        |                                                     |
-| Damage        |                                                     |
-| Attack speed  |                                                     |
-| Targeting     | Closest to self (melee), Closest to player (ranged) |
 ### Almanac
 
 Almanac entry.

@@ -39,7 +39,9 @@ Almanac entry.
 
 Seedling is a regular plant.
 
-<font color="#9bbb59">Speciality</font>: After a few turns, it turns into a random plant.
+It does not attack.
+
+After a few turns, it turns into a random plant.
 ### Almanac
 
 Almanac entry.

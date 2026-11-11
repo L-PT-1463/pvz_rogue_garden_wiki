@@ -35,15 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Magic-shroom is a regular plant from the [[Neon Carnival]] that can attack in front and behind itself.
-### Statistics
+Magic-shroom is a regular plant from the [[Neon Carnival]].
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots cards down its lane, attacking either in front or behind itself with a Straight attack, if there is a zombie in range. It always prioritizes the zombie closest to itself.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

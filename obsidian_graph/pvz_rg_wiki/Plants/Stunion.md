@@ -35,20 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Stunion is a regular plant from the [[Jurassic Marsh]], that attacks the tile in front of it for no damage.
+Stunion is a regular plant from the [[Jurassic Marsh]].
 
-<font color="#8064a2">Whenvanquished</font>: It attacks the two tiles in front of itself.
-
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Stun]]* trait, which means the hit zombie can't move or attack on its next turn.
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its gases can hit zombies hiding behind a shield.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+Attacks the two tiles in front of itself, making a Straight *[[Pierce]]* and *[[Strike-through]]*, *[[Stun]]* attack if there is a zombie in range. It vanquishes itself after attacking.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

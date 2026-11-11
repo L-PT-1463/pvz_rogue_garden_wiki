@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Coconut Cannon is a regular plant from the [[Pirate's Beach]] that fires powerful cannonballs at the zombies.
+Coconut Cannon is a regular plant from the [[Pirate's Beach]].
 
-<font color="#9bbb59">Speciality</font>: The impact damages zombies on a cross pattern around the target zombie.
-
-<font color="#c0504d">Weakness</font>: After attacking, it cannot do so again for a few turns.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires cannonballs down its lane, making a Straight attack at the hit zombie and the neighbouring tiles on the lane and column. It has to cool down before attacking again.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

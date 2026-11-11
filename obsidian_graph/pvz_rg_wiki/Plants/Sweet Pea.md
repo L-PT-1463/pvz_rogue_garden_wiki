@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Sweet Pea is a regular plant from the [[Steam City]] that attacks in a straight line, shooting a single candy if there is a zombie in range.
+Sweet Pea is a regular plant from the [[Steam City]].
 
-<font color="#9bbb59">Speciality</font>: The hit zombie cannot move to different lane on its next turn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+Shoots candy down its lane, making a Straight attack if there is a zombie in range. The hit zombie cannot move to a different lane on its next turn.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

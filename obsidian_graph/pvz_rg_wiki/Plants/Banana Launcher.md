@@ -37,17 +37,12 @@ Almanac entry.
 
 Banana Launcher is a regular plant from the [[Pirate's Beach]].
 
-<font color="#9bbb59">Speciality</font>: It fires attacks at 3x1 areas anywhere on the lawn, always targeting a zombie as its centre.
-
-<font color="#c0504d">Weakness</font>: After attacking, it cannot do so again for a few turns.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It fires Lobbed attacks at 3x1 areas anywhere on the lawn, always targeting a zombie as its centre. It has to cool down before attacking again.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

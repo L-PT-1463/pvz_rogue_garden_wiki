@@ -35,22 +35,21 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Scaredy-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. It attacks in a straight line, shooting a single spore if there is a zombie in range.
+Scaredy-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
 
-<font color="#9bbb59">Speciality</font>: If there are zombies in a 3x3 area around it, the Scaredy-shroom loses the ability to attack but becomes a protector plant instead.
-### Statistics
+It shoots spores down its lane, making a Straight attack if there is a zombie in range.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+If there are zombies in a 3x3 area around it, Scaredy-shroom loses the ability to attack but becomes a protector plant.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Scaredy-shroom is a potted [[Puff-shroom]] mutation shooter plant.
+Scaredy-shroom is a potted shooter plant, and Level 1 [[Puff-shroom]] mutation.
 
 It fires a cloud of spores in a straight line at the zombie closest to the player, but can't attack if there are zombies near the Scaredy-shroom.
 
@@ -62,15 +61,6 @@ Scaredy-shroom is a mutation of the [[Puff-shroom]], obtained by fusing two Puff
 | Mutation type | Other plant     | Mutation       |
 | ------------- | --------------- | -------------- |
 | Fusion        | [[Puff-shroom]] | [[Hat-shroom]] |
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 1 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

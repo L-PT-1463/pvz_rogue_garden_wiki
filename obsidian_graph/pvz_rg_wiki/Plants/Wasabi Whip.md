@@ -37,22 +37,17 @@ Almanac entry.
 
 Wasabi Whip is a regular plant from the [[Kongfu Mausoleum]].
 
-<font color="#9bbb59">Speciality</font>: It can attack the two tiles in front of it and the one tile behind.
-
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Fire]]* trait.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It makes a Straight *[[Fire]]* attack at a zombie in its range, 2 tiles in front and 1 tile behind.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Wasabi Whip is a potted [[Bonk Choy]] mutation melee plant.
+Wasabi Whip is a potted melee plant, and Level 1 [[Bonk Choy]] mutation.
 
 It attacks the closest zombie to itself with a sideways slash, which can hit other zombies.
 ### Mutations
@@ -62,15 +57,6 @@ Wasabi Whip is a mutation of the [[Bonk Choy]], obtained by splicing a Bonk Choy
 | Mutation type | Other plant   | Mutation          |
 | ------------- | ------------- | ----------------- |
 | Splicing      | [[E.M.Peach]] | [[Electrici-tea]] |
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Closest to self  |
 ### Almanac
 
 Almanac entry.

@@ -37,41 +37,30 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Holly Knight is a protector plant from the [[Dark Ages]] and [[Neighbour's House]], where it is exclusive to [[Winter]] gardens. It counterattacks zombies and replaces fallen protectors.
+Holly Knight is a protector plant from the [[Dark Ages]] and [[Neighbour's House]], where it is exclusive to [[Winter]] gardens.
 
-<font color="#8064a2">When a Protector plant is vanquished</font>: Spawns a [[Holly Pawn]] on that tile. This does not affect holly plants. When it does so, it hits the zombie on the neighbouring lane with a straight attack.
-<font color="#8064a2">When hit by a Munch type attack</font>: Holly Pawn attacks the zombie.
+It does not attack.
 
-<font color="#4bacc6">Trait</font>: The attack created by the Holly Pawn as it is spawned has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
-### Statistics
+When hit by a Munch attack, Holly Knight makes a Straight attack at the zombie that bit it.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+When a protector plant is vanquished, Holly Knight launches a [[Holly Pawn]], planting it on that tile. As it does so, the Holly Pawn makes a Straight *[[Knockback]]* attack at all three tiles in the lane in front of it. This power does not affect hollies.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Holly Knight is a potted [[Kernel-pult]] mutation lobber plant.
+Holly Knight is a potted lobber plant, and a Level 3 [[Kernel-pult]] mutation.
 
 It fires one holly at a time at the zombie with the most health, at very long intervals. The holly damages all zombies in a small area of effect, knocking them back, and leaves behind a [[Holly Pawn]].
 
-If there is already a Holly Pawn near the zombie with the most health it will target the second highest-health zombie instead, and so on.
+Holly Knight can only create up to three Holly Pawns. It must wait until one of them is vanquished before attacking again. It does not target zombies near a Holly Pawn.
 ### Mutations
 
 Holly Knight is a mutation of [[Kernel-pult]], obtained by splicing an [[Apple Mortar]] and a [[Wall-nut]].
-### Statistics
-
-|               | Value                 |
-| ------------- | --------------------- |
-| Mutation type | Level 3 Mutation      |
-| Rarity        |                       |
-| Damage        |                       |
-| Attack speed  |                       |
-| Targeting     | Highest health zombie |
 ### Almanac
 
 Almanac entry.

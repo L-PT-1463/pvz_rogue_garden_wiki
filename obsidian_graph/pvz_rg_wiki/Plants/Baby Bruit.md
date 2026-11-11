@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Baby Bruit is a regular plant from the [[Steam City]], exclusive to [[Greenhouse]] gardens. It is a weak and small lobber.
+Baby Bruit is a regular *[[Tiny]]* plant from the [[Steam City]], exclusive to [[Greenhouse]] gardens.
 
-<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It is a weak and small lobber, that makes a Lobbed attack at the front-most zombie of its lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

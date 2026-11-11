@@ -15,14 +15,13 @@ Cardboard Umbrella Leaf is an official Plants vs Zombie plant from the I, Zombie
 
 Cardboard Umbrella Leaf is a regular plant from the [[Training Grounds]].
 
-<font color="#9bbb59">Speciality</font>: While alive, it gives the *[[Shielded]]* trait to other plants in a 3x3 area. This makes them immune to the *Fire* and *Traverse* traits for as long as they are Shielded.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+Cardboard Umbrella Lead grants the *[[Shielded]]* trait to other plants in a 3x3 area.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |

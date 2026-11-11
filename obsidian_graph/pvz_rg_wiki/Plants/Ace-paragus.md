@@ -37,19 +37,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Ace-paragus is a regular plant from the [[Steam City]], exclusive to [[Sky Battle]] gardens. 
+Ace-paragus is a regular plant from the [[Steam City]], exclusive to [[Sky Battle]] gardens.
 
-<font color="#9bbb59">Speciality</font>: It can target any zombie in the 3x3 area in front of it, and can spread its three shots per attack between various zombies.
-
-<font color="#4bacc6">Trait</font>: It has the *[[Spread]] (3)* trait, so fires three times per attack.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots at the 3x3 area in front of itself with a *[[Spread]] (3)* Straight attack. Each bullet can target a different zombie in the area. It attacks three random tiles if there are no zombies in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

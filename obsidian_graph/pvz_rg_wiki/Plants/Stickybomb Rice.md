@@ -35,15 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Stickybomb Rice is a regular plant from the [[Kongfu Mausoleum]] that can target the front-most zombie of any of the three lanes.
-### Statistics
+Stickybomb Rice is a regular plant from the [[Kongfu Mausoleum]].
 
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+Shoots rice bombs, targeting the front-most zombie in the garden with a Lobbed attack.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

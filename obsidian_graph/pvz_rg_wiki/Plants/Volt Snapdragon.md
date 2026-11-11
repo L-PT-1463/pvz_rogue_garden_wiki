@@ -35,22 +35,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Volt Snapdragon is a regular plant from the [[Far Future]] and [[Pirate's Beach]] that fires a bolt of electricity down its lane.
+Volt Snapdragon is a regular plant from the [[Far Future]] and [[Pirate's Beach]].
 
-<font color="#9bbb59">Speciality</font>: Its attack explodes upon reaching the target zombie, attacking neighbouring zombies in that column.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires a bolt of electricity down its lane, making a Straight attack if there is a zombie in range. Its attack explodes upon reaching the target zombie, making a Straight attack at neighbouring zombies in that column.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Volt Snapdragon is a potted [[Chomper]] mutation ranged plant.
+Volt Snapdragon is a potted ranged plant, and Level 2 [[Chomper]] mutation.
 
 It fires a bolt of electric energy in a straight line at the zombie closest to the player, which explodes upon reaching it, dealing damage in an area of effect.
 
@@ -58,15 +55,6 @@ If there are zombies in its melee area, it instead spits a rapid-fire electric f
 ### Mutations
 
 Volt Snapdragon is a mutation of [[Chomper]], obtained by splicing an [[E.M.Peach]] and a [[Snapdragon]].
-### Statistics
-
-|               | Value                                               |
-| ------------- | --------------------------------------------------- |
-| Mutation type | Level 2 Mutation                                    |
-| Rarity        |                                                     |
-| Damage        |                                                     |
-| Attack speed  |                                                     |
-| Targeting     | Closest to self (melee), Closest to player (ranged) |
 ### Almanac
 
 Almanac entry.

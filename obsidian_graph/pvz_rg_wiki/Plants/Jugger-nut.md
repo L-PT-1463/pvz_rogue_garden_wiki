@@ -37,22 +37,21 @@ Almanac entry.
 
 Jugger-nut is protector plant from [[The Zombosseum]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Armoured]] (1)* trait, meaning it takes one less damage from all sources.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+Jugger-nut has the *[[Armoured]] (1)* trait.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Jugger-nut is a spawned [[Wall-nut]] mutation protector plant.
+Jugger-nut is a spawned protector plant, and a Level 1 [[Wall-nut]] mutation.
 
-When used as part of Nate's ability, a Jugger-nut is occasionally planted on a random spot of the lawn, where it stays, blocking the path of zombies until it is vanquished.
+A Jugger-nut appears on a random spot of the lawn, where it stays, blocking the path of zombies until it is vanquished.
 ### Mutations
 
 Jugger-nut is a mutation of the [[Wall-nut]], obtained by fusing two Wall-nuts.
@@ -60,15 +59,6 @@ Jugger-nut is a mutation of the [[Wall-nut]], obtained by fusing two Wall-nuts.
 | Mutation type | Other plant   | Mutation        |
 | ------------- | ------------- | --------------- |
 | Splicing      | [[Sunflower]] | [[Metal Petal]] |
-### Statistics
-
-|               | Value  |
-| ------------- | ------ |
-| Mutation type | Base   |
-| Rarity        |        |
-| Damage        |        |
-| Attack speed  |        |
-| Targeting     | Random |
 ### Almanac
 
 Almanac entry.

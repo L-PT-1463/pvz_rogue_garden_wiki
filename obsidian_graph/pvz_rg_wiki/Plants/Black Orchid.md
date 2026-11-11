@@ -37,17 +37,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Black Orchid is a regular plant from [[ZCorp IST Headquarters]] that fires gravitational spheres at the zombies.
+Black Orchid is a regular plant from [[ZCorp IST Headquarters]].
 
-<font color="#9bbb59">Speciality</font>: Its attack is unaffected by [[Black Hole]] gardens. When possible, causes zombies in the 3x3 area around the hit zombie to move to its lane.
-### Statistics
+It shoots a gravitational sphere down its lane, making a Straight attack if there is a zombie in range. When possible, these spheres cause zombies in the 3x3 area around the hit zombie to move to that lane.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+Black Orchid's attack is unaffected by [[Black Hole]] gardens.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

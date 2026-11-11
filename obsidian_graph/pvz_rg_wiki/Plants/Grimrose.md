@@ -37,17 +37,12 @@ Almanac entry.
 
 Grimrose is a regular plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
 
-It attacks zombie in its lane with the most health, but vanquishes itself after its first attack.
-
-<font color="#8064a2">Shadow-powered</font>: Grimrose can perform two additional attacks before vanquishing.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+It attacks zombie in its lane with the most health, making a Ground attack. Has limited charges, vanquishing itself after 1 attack, or after 3 attacks if Shadow-powered.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

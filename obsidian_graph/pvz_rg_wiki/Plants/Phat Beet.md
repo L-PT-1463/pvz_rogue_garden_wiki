@@ -37,15 +37,12 @@ Almanac entry.
 
 Phat Beet is a regular plant from the [[Neon Carnival]].
 
-<font color="#9bbb59">Speciality</font>: Attacks in a 3x3 area.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+Generates soundwaves, making a Ground attack in the 3x3 area around it if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

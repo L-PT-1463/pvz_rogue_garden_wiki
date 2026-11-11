@@ -35,18 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Fire Gourd is a regular plant from the [[Kongfu Mausoleum]] that spits fire onto the zombies at a medium range.
+Fire Gourd is a regular plant from the [[Kongfu Mausoleum]].
 
-<font color="#4bacc6">Trait</font>: The attack has the *[[Fire]]* trait.
-<font color="#4bacc6">Trait</font>: Its attack has both the *[[Pierce]]* and *[[Strike-through]]* traits. As such, it can hit multiple zombies and traverses shields.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It spits fire at a limited range, making a Straight *[[Pierce]]* and *[[Strike-through]]*, *[[Fire]]* attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

@@ -48,34 +48,24 @@ Almanac entry.
 
 Primal Wall-nut is a protector plant from the [[Jurassic Marsh]].
 
-<font color="#9bbb59">Speciality</font>: Primal Wall-not cannot be moved by any means.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+Primal Wall-nut has the *[[Sturdy]]* trait.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Primal Wall-nut is a spawned [[Wall-nut]] mutation protector plant.
+Primal Wall-nut is a spawned protector plant, and a Level 1 [[Wall-nut]] mutation.
 
-When used as part of Nate's ability, a Primal Wall-nut is occasionally planted at random spots of the lawn, where it stays, blocking the path of zombies until it is vanquished.
+A Primal Wall-nut appears on a random spot of the lawn, where it stays, blocking the path of zombies until it is vanquished.
 ### Mutations
 
 Tall-nut is a mutation of the [[Wall-nut]], obtained by fusing two Wall-nuts, or by applying [[Fertilizer]] to the latter.
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

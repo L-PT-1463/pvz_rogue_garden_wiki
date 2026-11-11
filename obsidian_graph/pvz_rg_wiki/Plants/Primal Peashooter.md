@@ -35,22 +35,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Primal Peashooter is a regular plant from the [[Jurassic Marsh]] that attacks in a straight line, shooting a single pea if there is a zombie in range.
+Primal Peashooter is a regular plant from the [[Jurassic Marsh]].
 
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots *[[Flammable]]* peas down its lane, making a Straight *[[Knockback]]* attack down its lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Primal Peashooter is a potted [[Peashooter]] mutation shooter plant.
+Primal Peashooter is a potted shooter plant, and a Level 1 [[Peashooter]] mutation.
 
 It shoots one pea at a time in a straight line at the zombie closest to the player. This pea knocks the hit zombie back slightly
 
@@ -58,15 +55,6 @@ If another Peashooter-type plant is currently targeting the closest zombie, Prim
 ### Mutations
 
 Primal Peashooter is a mutation of the [[Peashooter]], obtained by fusing two Peashooters.
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 1 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

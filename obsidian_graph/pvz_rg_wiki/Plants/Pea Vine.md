@@ -35,19 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Pea Vine is a regular plant from [[Old Wild Egypt]] that fires peas down its lane.
+Pea Vine is a regular *[[Vine]]* plant from [[Old Wild Egypt]].
 
-<font color="#9bbb59">Speciality</font>: If it is on the same tile as a [[Pea Tribe]] plant, Pea Vine does not attack. Instead, it powers up the other plant's attack.
+It fires *[[Flammable]]* peas down its lane, making a Straight attack if there is a zombie in range.
 
-<font color="#f79646">Placement speciality</font>: It has the *[[Vine]]* trait, and can therefore appear on the same tile as another plant. It must be vanquished first before the plant inside can be attacked.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+If Pea Vine is on the same tile as a [[Pea Tribe]] plant, Pea Vine does not attack. Instead, it powers up the other plant's attack.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

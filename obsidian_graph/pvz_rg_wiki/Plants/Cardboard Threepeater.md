@@ -13,18 +13,13 @@ Cardboard Threepeater is a straight-shooter standee that shoots peas at the zomb
 Cardboard Threepeater is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Threepeater is a regular plant from the [[Training Grounds]] that attacks in a straight line.
+Cardboard Threepeater is a regular plant from the [[Training Grounds]].
 
-<font color="#9bbb59">Speciality</font>: It shoots in its lane and neighbouring lanes if there is a zombie in range. Cardboard Threepeater always fires all three peas when attacking.
-
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots *[[Flammable]]* peas down its lane and neighbouring lanes, making a Straight attack at all three lanes if there's a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |

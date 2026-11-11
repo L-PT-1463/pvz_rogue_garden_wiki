@@ -35,18 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Draftodil is a regular plant from the [[Steam City]] that attacks the front-most zombie in its lane.
+Draftodil is a regular plant from the [[Steam City]].
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Stall]]* trait, meaning the hit zombie cannot move.
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its attacks can hit zombies hiding behind a shield.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots a burst of wind down its lane, making a Straight *[[Pierce]]* and *[[Stall]]* attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

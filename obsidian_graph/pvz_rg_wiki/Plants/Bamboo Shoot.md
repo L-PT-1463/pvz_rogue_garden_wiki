@@ -35,15 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Bamboo Shoot is a regular plant from the [[Kongfu Mausoleum]] that launches explosive bamboo shoots at the front-most zombie in its lane.
-### Statistics
+Bamboo Shoot is a regular plant from the [[Kongfu Mausoleum]].
 
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It launches explosive bamboo shoots, making a Lobbed attack at the front-most zombie of its lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

@@ -13,16 +13,15 @@ Cardboard Scaredy-shroom is a straight-shooter standee that attacks zombies from
 Cardboard Scaredy-shroom  is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Scaredy-shroom is a regular plant from the [[Training Grounds]] that attacks in a straight line, shooting a single spore if there is a zombie in range.
+Cardboard Scaredy-shroom is a regular plant from the [[Training Grounds]].
 
-<font color="#9bbb59">Speciality</font>: If there are zombies in a 3x3 area around it, the Cardboard Scaredy-shroom loses the ability to attack but becomes a protector plant instead.
-### Statistics
+It shoots spores down its lane, making a Straight attack if there is a zombie in range.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+If there are zombies in a 3x3 area around it, Cardboard Scaredy-shroom loses the ability to attack but becomes a protector plant.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |

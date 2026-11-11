@@ -35,19 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Red Stinger is a protector plant from the [[Lost City]] that gains better attack power but worse health the further back in the lane it appears in.
+Red Stinger is a protector plant from the [[Lost City]].
 
-<font color="#9bbb59">Speciality</font>: When on the last row, it becomes a regular plant instead, and one rows 7 to 9 it makes a ranged attack down its lane, as long as there is a zombie in range.
+It only attacks on rows 7 to 9, shooting petals down its lane to make a Straight attack if there is a zombie in range, *[[Repeat]]* Straight attack if it is on column 9.
 
-<font color="#4bacc6">Trait</font>: When on the last row, it has the *[[Repeat]]* trait, so fires twice per attack.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+On columns 8 and 9, Red Stinger is a regular plant.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

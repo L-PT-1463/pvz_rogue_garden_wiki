@@ -37,39 +37,26 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Thorn Fencer is a regular plant from [[The Zombosseum]] that attacks the two tiles directly in front of itself.
+Thorn Fencer is a regular plant from [[The Zombosseum]].
 
-<font color="#9bbb59">Speciality</font>: Its *[[Spread]]* trait is increased by one stack for every consecutive turn it attacks, up to three. If it does not attack for two consecutive turns, its Spread trait resets to 1 stack.
+It stabs at the two tiles in front of itself, targeting the front-most zombie in range with a *[[Spread]]* Straight *[[Pierce]]* attack.
 
-<font color="#4bacc6">Trait</font>: It starts with the *[[Spread]] (1)* trait, so fires one time per attack.
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its thorn can hit zombies hiding behind a shield.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+Thorn Fencer's *[[Spread]]* trait is increased by 1 stack for every consecutive turn it attacks, up to 3. If it does not attack for two consecutive turns, its Spread trait resets to 1 stack.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Thorn Fencer is a potted [[Bonk Choy]] mutation melee plant.
+Thorn Fencer is a potted melee plant, and a Level 1 [[Bonk Choy]] mutation.
 
 It rapidly attacks zombies the closest zombie to itself in range, increasing its attack speed if it attacks for a long time consecutively, until it reaches its speed boost cap. This boost resets if it hasn't attacked in a while.
 ### Mutations
 
 Thorn Fencer is a mutation of [[Bonk Choy]], obtained by fusing two Bonk Choys.
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Closest to self  |
 ### Almanac
 
 Almanac entry.

@@ -35,24 +35,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Wall-nut is simple protector plant.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+Wall-nut is protector plant.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Wall-nut is a spawned base protector plant and [[Nate Timely]]'s starting ability.
+Wall-nut is a base spawned protector plant, and [[Nate Timely]]'s starting ability.
 
-When picked from plant selection, a Wall-nut is planted on a random spot of the lawn, where it stays, blocking the path of zombies until it is vanquished.
-
-When used as part of Nate's ability, a Wall-nut is occasionally planted at random spots of the lawn.
+A Wall-nut appears on a random spot of the lawn, where it stays, blocking the path of zombies until it is vanquished.
 ### Mutations
 
 | Mutation type  | Other plant     | Mutation            |
@@ -71,15 +66,6 @@ Wall-nut can be spliced with certain other plants to create defensive mutations.
 | Mutated plant    | Mutation         |
 | ---------------- | ---------------- |
 | [[Apple Mortar]] | [[Holly Knight]] |
-### Statistics
-
-|               | Value  |
-| ------------- | ------ |
-| Mutation type | Base   |
-| Rarity        |        |
-| Damage        |        |
-| Attack speed  |        |
-| Targeting     | Random |
 ### Almanac
 
 Almanac entry.

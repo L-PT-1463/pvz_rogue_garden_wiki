@@ -37,17 +37,12 @@ Almanac entry.
 
 Cob Cannon is a regular plant and a boss for [[Pirate's Beach]] boss with a [[Marine Battle]] garden.
 
-<font color="#9bbb59">Speciality</font>: It fires massive attacks at 3x3 areas anywhere on the lawn, always targeting a zombie as its centre.
-
-<font color="#c0504d">Weakness</font>: After attacking, it cannot do so again for a few turns.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It fires massive attacks at 3x3 areas anywhere on the lawn, always targeting a zombie as its centre. It has to cool down before attacking again.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

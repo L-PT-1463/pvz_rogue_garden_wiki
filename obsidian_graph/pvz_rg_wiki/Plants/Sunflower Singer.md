@@ -39,17 +39,16 @@ Almanac entry.
 
 Sunflower Singer is a regular plant from the [[Neon Carnival]].
 
-<font color="#9bbb59">Speciality</font>: While alive, lightly boosts the damage of plants in a 3x3 area.
+It does not attack.
 
-<font color="#8064a2">When hit by a Munch-type attack</font>: It heals the zombie that bit it.
-### Statistics
+Sunflower Singer boosts the damage of plants in a 3x3 area.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+If hit by a Munch attack, Sunflower Singer heals the zombie that bit it.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

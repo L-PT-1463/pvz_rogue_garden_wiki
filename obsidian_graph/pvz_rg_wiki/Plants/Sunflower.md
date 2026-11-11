@@ -37,20 +37,19 @@ Almanac entry.
 
 Sunflower is a regular plant.
 
-<font color="#8064a2">When hit by a Munch-type attack</font>: It heals the zombie that bit it.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+If hit by a Munch attack, Sunflower heals the zombie that bit it.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Sunflower is a potted base support plant.
+Sunflower is a base potted support plant.
 
 It periodically generates rays of sun on other potted plants which temporarily increase their attack speed.
 
@@ -69,15 +68,6 @@ Sunflower can be spliced with certain other plants to create their solar mutatio
 | --------------- | ---------------- |
 | [[Cherry Bomb]] | [[Solar Tomato]] |
 | [[Jugger-nut]]  | [[Metal Petal]]  |
-### Statistics
-
-|               | Value               |
-| ------------- | ------------------- |
-| Mutation type | Base                |
-| Rarity        |                     |
-| Damage        |                     |
-| Attack speed  |                     |
-| Targeting     | Other potted plants |
 ### Almanac
 
 Almanac entry.

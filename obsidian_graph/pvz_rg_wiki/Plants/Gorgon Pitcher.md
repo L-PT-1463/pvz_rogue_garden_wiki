@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Gorgon Pitcher is a regular plant from [[The Zombosseum]] that attacks the front-most zombie in its lane.
+Gorgon Pitcher is a regular plant from [[The Zombosseum]].
 
-<font color="#9bbb59">Speciality</font>: If the attack hits a Spawnling, it gets the *[[Hypnotized]]* trait.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It makes a Straight attack at the front-most zombie in its lane, with a beam that ignores other zombies in the way. If it hits a Spawnling, it gets 1 stack of *[[Hypnotized]]*.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

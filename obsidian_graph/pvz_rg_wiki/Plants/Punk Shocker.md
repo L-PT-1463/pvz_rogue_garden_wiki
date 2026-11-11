@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Punk Shocker is a regular plant from the [[Neon Carnival]] that shoots bolts of lightning at the front-most zombie in its lane.
+Punk Shocker is a regular plant from the [[Neon Carnival]].
 
-<font color="#9bbb59">Speciality</font>: After hitting the target zombie, the bolt jumps to up to two more zombies consecutively, within 1 tile (including diagonals) of the previous zombie.
-
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its bolt can hit zombies hiding behind a shield.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots bolts of lightning down its lane, making a Straight *[[Pierce]]* attack if there is a zombie in range. After hitting the target zombie, the bolt jumps to up to two more zombies consecutively, within 1 tile (including diagonals) of the previous zombie.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

@@ -13,16 +13,13 @@ Cardboard Puff-shroom is a standee that fires a cloud of spores, hitting all zom
 Cardboard Puff-shroom  is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Puff-shroom is a regular plant from the [[Training Grounds]] that attacks in a medium range, shooting a single spore at the zombies.
+Cardboard Puff-shroom is a regular *[[Tiny]]* plant from the [[Training Grounds]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots spores down its lane at a limited range, making a Straight attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |

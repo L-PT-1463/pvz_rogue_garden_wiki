@@ -35,24 +35,23 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Cabbage-pult is a regular plant that attacks with a lobbed attack, launching a single cabbage at the front-most zombie in its lane.
-### Statistics
+Cabbage-pult is a regular plant.
 
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It makes a Lobbed attack, launching a single cabbage at the front-most zombie in its lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Cabbage-pult is a potted base lobber plant.
+Cabbage-pult is a base potted lobber plant.
 
 It lobs one cabbage at a time at the zombie with the most health.
 
-If another Cabbage-pult-type plant is currently targeting the healthiest zombie, Cabbage-pult attacks the second highest-health zombie instead, and so on.
+If another Cabbage-pult-type plant is currently targeting the toughest zombie, Cabbage-pult attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
 | Mutation type  | Other plant         | Mutation         |
@@ -67,15 +66,6 @@ Cabbage-pult can be spliced with other plants to create certain mutations.
 | ------------- | ---------------- |
 | [[Flak Seed]] | [[Apple Mortar]] |
 | [[Three Pod]] | [[Sling Pea]]    |
-### Statistics
-
-|               | Value                 |
-| ------------- | --------------------- |
-| Mutation type | Base                  |
-| Rarity        |                       |
-| Damage        |                       |
-| Attack speed  |                       |
-| Targeting     | Highest health zombie |
 ### Almanac
 
 Almanac entry.

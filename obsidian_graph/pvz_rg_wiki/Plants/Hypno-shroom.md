@@ -37,15 +37,14 @@ Almanac entry.
 
 Hypno-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
 
-<font color="#9bbb59">Speciality</font>: If it is vanquished by a Munch-type attack, the hit zombie gains the *[[Hypnotized]]* trait for one turn. This makes the zombie only be able to target other zombies with its attacks.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+If it is vanquished by a Munch-type attack, the hit zombie gains 1 stack of *[[Hypnotized]]*.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

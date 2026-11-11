@@ -37,19 +37,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Lava Guava is a regular plant from the [[Lost City]], that opens large craters in front of itself to damage zombies.
+Lava Guava is a regular plant from the [[Lost City]].
 
-<font color="#9bbb59">Speciality</font>: Attacks the three tiles in front of it.
-
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Fire]]* trait.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+If there is a zombie in range, it makes a Ground *[[Fire]]* attack at the three tiles in front of it. To do so, it cracks the ground open, creating a blazing crater to attack the zombies. It has to cool down before attacking.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

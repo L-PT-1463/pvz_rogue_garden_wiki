@@ -39,17 +39,16 @@ Almanac entry.
 
 Cosmic Nut is protector plant from [[ZCorp IST Headquarters]].
 
-<font color="#9bbb59">Speciality</font>: When in a [[Black Hole]] garden, at the start of the second turn, Cosmic Nut turns into a random [[Nut Tribe]] plant that gains the *[[Shielded]]* trait. This makes it immune to the *[[Fire]]* and *[[Traverse]]* traits.
+It does not attack.
 
-<font color="#8064a2">When it reaches half health</font>: Cosmic Nut teleports to a random available tile, if possible in a different lane. As it does so, it leaves behind a black hole that pulls a zombie on a neighbouring tile onto it.
-### Statistics
+When in a [[Black Hole]] garden, at the start of the second turn, Cosmic Nut turns into a random [[Nut Tribe]] plant that gains the *[[Shielded]]* trait.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+Once it reaches half health, Cosmic Nut teleports to a random available tile, if possible in a different lane. As it does so, it leaves behind a black hole that pulls a zombie on a neighbouring tile onto it.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

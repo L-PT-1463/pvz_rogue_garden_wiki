@@ -37,36 +37,22 @@ Almanac entry.
 
 Nippy Cabbage is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
 
-<font color="#9bbb59">Speciality</font>: It can attack the two tiles in front of it and the one tile behind.
-
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Chill]]* trait, which prevents the hit zombie from moving on its next turn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It makes a Straight *[[Chill]]* attack at a zombie in its range, 2 tiles in front and 1 tile behind.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Nippy Cabbage is a potted base melee plant.
+Nippy Cabbage is a base potted melee plant.
 
 It rapidly attacks zombies the closest zombie to itself in range, chilling them with its punches.
 ### Mutations
 
 Nippy Cabbage is a mutation of [[Bonk Choy]], obtained by splicing a Bonk Choy and an [[Iceberg Lettuce]].
-### Statistics
-
-|               | Value           |
-| ------------- | --------------- |
-| Mutation type | Base            |
-| Rarity        |                 |
-| Damage        |                 |
-| Attack speed  |                 |
-| Targeting     | Closest to self |
 ### Almanac
 
 Almanac entry.

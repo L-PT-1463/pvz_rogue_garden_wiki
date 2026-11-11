@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Laser Bean is a regular plant from the [[Far Future]] that fires a laser down its lane, as long as there is a zombie there.
+Laser Bean is a regular plant from the [[Far Future]].
 
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Strike-through]]* trait. As such, it can hit multiple zombies but the attack is blocked by shields.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires a laser beam down its lane, making a Straight *[[Strike-through]]* attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

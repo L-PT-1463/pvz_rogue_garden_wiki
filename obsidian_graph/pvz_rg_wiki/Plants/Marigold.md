@@ -37,15 +37,14 @@ Almanac entry.
 
 Marigold is a regular plant.
 
-<font color="#8064a2">When vanquished</font>: Gives Brainiac Coins.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+When vanquished, Marigold gives Brainiac Coins.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

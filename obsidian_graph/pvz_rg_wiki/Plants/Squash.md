@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Squash is a regular plant from the [[Pirate's Beach]] that attacks a zombie in a small range.
+Squash is a regular plant from the [[Pirate's Beach]].
 
-<font color="#9bbb59">Speciality</font>: It can target the tile directly in front or behind itself, only one at a time. It vanquishes itself after attacking.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It launches itself at the zombies, making a Lobbed attack at the tile directly in front or behind itself if there is a zombie in range, and vanquishing itself as it does so.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

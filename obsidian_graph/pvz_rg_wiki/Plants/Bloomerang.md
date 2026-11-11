@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Bloomerang is a regular plant from [[Old Wild Egypt]] that fires returning boomerangs at the zombies.
+Bloomerang is a regular plant from [[Old Wild Egypt]].
 
-<font color="#9bbb59">Speciality</font>: After traversing five tiles or three zombies, whichever comes first, the boomerang projectile returns to the Bloomerang, hitting every zombie a second time.
-
-<font color="#4bacc6">Trait</font>: Each boomerang has the *[[Pierce]]* and *Strike-through* traits. As such, it can hit multiple zombies and traverses shields.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires Straight *[[Pierce]]* and *[[Strike-through]]* attacks if there are zombies in range, firing boomerangs that return to Bloomerang after traversing five tiles or three zombies, whichever comes first, as long as the boomerang is not destroyed by a [[Shield (Type)]] armour, hitting zombies a second time.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

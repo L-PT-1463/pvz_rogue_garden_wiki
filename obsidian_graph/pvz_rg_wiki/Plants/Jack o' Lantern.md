@@ -35,18 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Jack o' Lantern is a regular plant from the [[Dark Ages]] that spews fire onto the zombies at a medium range.
+Jack o' Lantern is a regular plant from the [[Dark Ages]].
 
-<font color="#4bacc6">Trait</font>: The attack has the *[[Fire]]* trait.
-<font color="#4bacc6">Trait</font>: Its attack has both the *[[Pierce]]* and *[[Strike-through]]* traits. As such, it can hit multiple zombies and traverses shields.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It spews fire at a limited range, making a Straight *[[Pierce]]* and * *[[Strike-through]]*, *[[Fire]]* attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

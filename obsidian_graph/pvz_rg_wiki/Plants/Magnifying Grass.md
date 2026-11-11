@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Magnifying Grass is a regular plant from the [[Lost City]] and [[Steam City]], that fires a bolt of light if there are zombies in range.
+Magnifying Grass is a regular plant from the [[Lost City]] and [[Steam City]].
 
-<font color="#9bbb59">Speciality</font>: Its attack becomes more powerful based on the amount of sun producers in the garden.
-
-<font color="#c0504d">Weakness</font>: It cannot attack if there are no sun producers in the garden.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires a bolt of light down its lane, making a Straight attack as long as there is a zombie in range and at least 1 sun producer on the garden. Its attack scales in power with the number of sun producers on the garden.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

@@ -35,33 +35,21 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Spikeweed is a pass-through plant that attacks the zombie on its tile.
+Spikeweed is a pass-through *[[Grounded]]* plant that attacks the zombie on its tile.
 
-<font color="#4bacc6">Trait</font>: It has the *[[Grounded]]* trait, and can therefore avoid most attacks.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+On its turn, it always makes a Ground attack on its own tile.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
 Spikeweed is a standalone spawned melee plant.
 
 When picked from plant selection, a Spikeweed is planted on a random spot of the lawn and stay there until it is vanquished. Spikeweed deals damage to all zombies that walk on top of it.
-### Statistics
-
-|               | Value      |
-| ------------- | ---------- |
-| Mutation type | Standalone |
-| Rarity        |            |
-| Damage        |            |
-| Attack speed  |            |
-| Targeting     | Random     |
 ### Almanac
 
 Almanac entry.

@@ -33,27 +33,4 @@ Almanac entry.
 | Attack speed         |     |
 | Sun cost             |     |
 | Seed packet recharge |     |
-## In PvZ ZPG - Zombie RPG
-
-Description of the plant in ZPG - Zombie RPG.
-
-<font color="#9bbb59">Speciality</font>:
-
-<font color="#f79646">Placement speciality</font>: 
-
-<font color="#8064a2">When / If</font>:
-
-<font color="#4bacc6">Trait</font>:
-
-<font color="#c0504d">Weakness</font>:
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
-### Almanac
-
-Almanac entry.
 ## In PvZ Clicker

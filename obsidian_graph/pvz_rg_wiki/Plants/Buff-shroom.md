@@ -37,15 +37,14 @@ Almanac entry.
 
 Buff-shroom is a regular plant from the [[Training Grounds]] and [[Dark Ages]], where it exclusive to [[Mushroom Grotto]] gardens.
 
-<font color="#9bbb59">Speciality</font>: At the start of the turn, it increases the damage of all mushrooms in a 3x3 area.
-### Statistics
+It shoots spores down its lane, making a Straight attack if there is a zombie in range.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+At the start of each turn, it increases the damage of all mushrooms in a 3x3 area.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

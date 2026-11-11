@@ -35,23 +35,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Repeater is a regular plant from [[Old Wild Egypt]] that attacks in a straight line, shooting if there is a zombie in range.
+Repeater is a regular plant from [[Old Wild Egypt]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Repeat]]* trait, so fires twice per attack.
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots *[[Flammable]]* peas down its lane, making a *[[Repeat]]* straight attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Repeater is a potted [[Peashooter]] mutation shooter plant.
+Repeater is a potted shooter plant, and a Level 1 [[Peashooter]] mutation.
 
 It shoots two peas at a time in a straight line at the zombie closest to the player.
 
@@ -60,25 +56,17 @@ If another Peashooter-type plant is currently targeting the closest zombie, Repe
 
 Repeater is a mutation of the [[Peashooter]], obtained by fusing two Peashooters, or by applying [[Fertilizer]] to one.
 
-| Mutation type  | Other plant         | Mutation              |
-| -------------- | ------------------- | --------------------- |
-| Fusion         | [[Peashooter]]      | [[Three Pod]]         |
-| Fusion         | Peashooter          | [[Threepeater]]       |
-| Fusion         | Peashooter          | [[Split Pea]]         |
-| [[Fertilizer]] |                     | Three Pod             |
-| Splicing       | [[Iceberg Lettuce]] | [[Snow Repeater]]     |
-| Splicing       | [[Cherry Bomb]]     | [[Fire Repeater]]     |
-| Splicing       | [[E.M.Peach]]       | [[Electric Repeater]] |
-| Splicing       | [[Moonbean]]        | [[Shadow Repeater]]   |
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 1 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
+| Mutation type    | Other plant         | Mutation              |
+| ---------------- | ------------------- | --------------------- |
+| Fusion           | [[Peashooter]]      | [[Three Pod]]         |
+| Fusion           | Peashooter          | [[Threepeater]]       |
+| Fusion           | Peashooter          | [[Split Pea]]         |
+| [[Fertilizer]]   |                     | Three Pod             |
+| [[Watering Can]] |                     | Threepeater           |
+| Splicing         | [[Iceberg Lettuce]] | [[Snow Repeater]]     |
+| Splicing         | [[Cherry Bomb]]     | [[Fire Repeater]]     |
+| Splicing         | [[E.M.Peach]]       | [[Electric Repeater]] |
+| Splicing         | [[Moonbean]]        | [[Shadow Repeater]]   |
 ### Almanac
 
 Almanac entry.

@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Tumbleweed is a regular plant from [[Old Wild Egypt]] that sends tumbles down its lane.
+Tumbleweed is a regular plant from [[Old Wild Egypt]].
 
-<font color="#9bbb59">Speciality</font>: Attacks bounce off zombies and the edges of the garden diagonally.
-
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It sends *[[Flammable]]* tumbles down its lane, making a Straight attack if there is a zombie in range. This attacks bounce diagonally off hit zombies and the upper and lower edges of the garden.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

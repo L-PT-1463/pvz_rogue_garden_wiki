@@ -35,41 +35,25 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Ghost Pepper is a pass-through plant from the [[Dark Ages]] that attacks all zombies in its range and explodes on death.
+Ghost Pepper is a pass-through *[[Aerial]]* plant from the [[Dark Ages]].
 
-<font color="#9bbb59">Speciality</font>: Ghost Pepper attacks its tile and the two tiles in front and behind itself.
+If there is a zombie in range, it attacks all tiles in a 5x1 area centred on itself with a Ground attack.
 
-<font color="#f79646">Placement speciality</font>: Ghost Pepper is aerial, and can therefore appear and move to any tile.
-
-<font color="#8064a2">After 3 turns</font>: Ghost Pepper vanquishes itself.
-<font color="#8064a2">When vanquished</font>: Explodes, attacking all zombies in the tiles diagonal to itself.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
-### Almanac
+After a few turns, Ghost Pepper vanquishes itself. When vanquished, it explodes, making a Straight attack at the diagonal tiles.### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Ghost Pepper is a spawned [[Cherry Bomb]] mutation instant plant.
+Ghost Pepper is a spawned instant plant, and a Level 2 [[Cherry Bomb]] mutation.
 
-When used as part of Patrice's ability, a Ghost Pepper is occasionally thrown at random spots of the lawn. Once there it deals damage to all zombies in a line stretching to a random direction, then explodes, dealing damage to all zombies in an area of effect.
+Ghost Pepper appears at a random spot of the lawn. It deals damage to all zombies in a line stretching to a random direction, then explodes, dealing damage to all zombies in an area of effect.
 ### Mutations
 
 Ghost Pepper is a mutation of [[Cherry Bomb]], obtained by fusing a Cherry Bomb with a [[Jalapeño]].
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

@@ -39,22 +39,21 @@ Almanac entry.
 
 Infi-nut is a protector plant from the [[Far Future]].
 
-<font color="#9bbb59">Speciality</font>: It gives the *[[Shielded]]* trait to all plant in its column, including itself.  This makes them immune to the *[[Fire]]* and *[[Traverse]]* traits for as long as they are *Shielded*. This remains until the Infi-nut is vanquished.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+Infi-nut grants the *[[Shielded]]* trait to all plant in its column, including itself.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Infi-nut is a spawned [[Wall-nut]] mutation protector plant.
+Infi-nut is a spawned protector plant, and a Level 1 [[Wall-nut]] mutation.
 
- When used as part of Nate's ability, a holographic projector is occasionally planted at random spots of the lawn. It periodically generates an Infi-nut, and remains there after the Infi-nut is vanquished.
+A holographic projector is occasionally planted at a random spot of the lawn. It periodically generates an Infi-nut, and remains there after the Infi-nut is vanquished.
 ### Mutations
 
 Infi-nut is a mutation of the [[Wall-nut]], obtained by splicing a Wall-nut and an [[E.M.Peach]].
@@ -63,15 +62,6 @@ Infi-nut is a mutation of the [[Wall-nut]], obtained by splicing a Wall-nut and 
 | -------------- | ----------- | ----------------- |
 | Fusion         | Wall-nut    | [[Infi-tall-nut]] |
 | [[Fertilizer]] |             | Infi-tall-nut     |
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

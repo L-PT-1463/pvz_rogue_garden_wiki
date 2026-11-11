@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Sweetheart Snare is a pass-through plant that attacks the zombies on its tile.
+Sweetheart Snare is a pass-through plant from [[The Zombosseum]].
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Stall]]* trait, meaning the hit zombie cannot move.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+On its turn, it always attacks its own tile, making a Ground *[[Stall]]* attack.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

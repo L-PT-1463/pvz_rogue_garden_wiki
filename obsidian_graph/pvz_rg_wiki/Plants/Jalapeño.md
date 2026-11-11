@@ -37,24 +37,21 @@ Almanac entry.
 
 Jalapeño is a regular plant from [[Old Wild Egypt]].
 
-<font color="#8064a2">When vanquished</font>: It explodes, dealing damage to all zombies in its lane.
+It does not attack.
 
-<font color="#4bacc6">Trait</font>: The attack has the *[[Fire]]* trait.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+When vanquished, it makes a Ground *[[Fire]]* attack in its entire lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Jalapeño is a spawned [[Cherry Bomb]] mutation instant plant.
+Jalapeño is a spawned instant plant, and a Level 1 [[Cherry Bomb]] mutation.
 
-When used as part of Patrice's ability, a Jalapeño is occasionally thrown at random spots of the lawn, where it explodes in an straight line that stretches into a random direction, dealing damage to all zombies caught in its fire.
+A Jalapeño appears at a random spot of the lawn, where it explodes in an straight line that stretches into a random direction, dealing damage to all zombies caught in its fire.
 ### Mutations
 
 Jalapeño is a mutation of [[Cherry Bomb]], obtained by fusing two Cherry Bombs.
@@ -63,15 +60,6 @@ Jalapeño is a mutation of [[Cherry Bomb]], obtained by fusing two Cherry Bombs.
 | ------------- | ------------------- | ----------------- |
 | Fusion        | [[Cherry Bomb]]     | [[Ghost Pepper]]  |
 | Splicing      | [[Iceberg Lettuce]] | [[Chilly Pepper]] |
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Range         |                  |
-| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

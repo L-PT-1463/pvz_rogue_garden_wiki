@@ -35,7 +35,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ: Lawnmaggedon
 
-Fire Repeater is a potted [[Peashooter]] mutation shooter plant.
+Fire Repeater is a potted shooter plant, and a Level 2 [[Peashooter]] mutation.
 
 It shoots two burning peas at a time in a straight line at the zombie closest to the player, that deal splash damage in a small area of effect.
 
@@ -43,15 +43,6 @@ If another Peashooter-type plant is currently targeting the closest zombie, Fire
 ### Mutations
 
 Fire Repeater is a mutation of the [[Peashooter]], obtained by fusing a Peashooter and a [[Fire Pea]], by applying [[Fertilizer]] to the latter, or by splicing a [[Repeater]] and a [[Cherry Bomb]].
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 2 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

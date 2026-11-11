@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Hurrikale is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens. It generates freezing winds down its lane.
+Hurrikale is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
 
-<font color="#4bacc6">Trait</font>: Each boomerang has the *[[Pierce]]* and *[[Strike-through]]* traits. As such, it can hit multiple zombies and traverses shields.
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Chill]]* trait, which prevents the hit zombie from moving on its next turn.
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+On its turn, generates powerful winds, shooting a Straight *[[Pierce]]* and *[[Strike-through]]*, *[[Chill]]*, *[[Knockback]]* attack down its lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

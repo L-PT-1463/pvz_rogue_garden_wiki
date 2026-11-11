@@ -37,39 +37,22 @@ Almanac entry.
 
 Cold Snapdragon is a regular plant from the [[Jurassic Marsh]] and [[Neighbour's House]], where it is exclusive to [[Winter]] gardens.
 
-It attacks by breathing ice onto the zombies.
-
-<font color="#9bbb59">Speciality</font>: Its attack deals damage in its row and the row in front, on all three lanes.
-
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its attacks can hit zombies hiding behind a shield.
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Chill]]* trait, which prevents the hit zombie from moving on its next turn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It exhales ice onto the 3x3 area with Cold Snapdragon at the centre-right of the square, making a Straight *[[Pierce]]* and *[[Chill]]* attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Cold Snapdragon is a potted [[Chomper]] mutation melee plant.
+Cold Snapdragon is a potted melee plant, and a Level 2 [[Chomper]] mutation.
 
-It spits ice in an area of effect that can hit multiple zombies and chill them, targeting in its centre the zombie closest to it.
+It spits ice in an area of effect that can hit multiple zombies and chill them, targeting in its centre the zombie closest to itself.
 ### Mutations
 
 Cold Snapdragon is a mutation of the [[Chomper]], obtained by splicing a [[Snapdragon]] and an [[Iceberg Lettuce]].
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 2 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Closest to self  |
 ### Almanac
 
 Almanac entry.

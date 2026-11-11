@@ -13,16 +13,15 @@ Cardboard Torchwood is a supporting defensive standee that lights peas and other
 Cardboard Torchwood is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Torchwood is a protector plant from the [[Training Grounds]] that empowers flammable projectiles.
+Cardboard Torchwood is a protector plant from the [[Training Grounds]].
 
-<font color="#9bbb59">Speciality</font>: Until the Cardboard Torchwood is vanquished, all attacks behind it in its lane with the *[[Flammable]]* trait gain the *Fire* trait.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+Cardboard Torchwood grants all *[[Flammable]]* attacks that pass through its tile the *[[Fire]]* trait.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |

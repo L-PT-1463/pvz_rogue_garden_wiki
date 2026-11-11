@@ -35,36 +35,24 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Electrici-tea is a regular plant from the [[Steam City]] that attacks the neighbouring tiles in its lane and column.
+Electrici-tea is a regular plant from the [[Steam City]].
 
-<font color="#9bbb59">Speciality</font>: The attack can jump once to an additional zombie that is 1 tile away diagonally from the hit zombie.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+If there is a zombie in its range, the neighbouring tiles on its lane and column, it makes a Straight attack at all 4 tiles. The attack can jump once to an additional zombie that is 1 tile away diagonally from the original target.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Electrici-tea is a potted [[Bonk Choy]] mutation melee plant.
+Electrici-tea is a potted melee plant, and a [[Bonk Choy]] mutation.
 
 It attacks all zombies in the area of effect around itself with lightning.
 ### Mutations
 
 Electrici-tea is a mutation of [[Bonk Choy]], obtained by splicing a [[Wasabi Whip]] and an [[E.M.Peach]].
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 2 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Area of effect   |
 ### Almanac
 
 Almanac entry.

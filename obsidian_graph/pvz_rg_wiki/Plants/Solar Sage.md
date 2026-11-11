@@ -35,19 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Solar Sage is a regular plant from the [[Neon Carnival]] and [[Kongfu Mausoleum]].
+Solar Sage is a regular *[[Aerial]]* plant from the [[Neon Carnival]] and [[Kongfu Mausoleum]].
 
-<font color="#f79646">Placement speciality</font>: Rotobaga is aerial, and can therefore appear and move to any tile.
+It does not attack.
 
-<font color="#8064a2">When vanquished</font>: Permanently turns all Spawnlings in a 3x1 area centred on itself into [[Zombie Monk]].
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+When vanquished, it permanently turns all Spawnlings in a 3x1 area centred on itself into a [[Zombie Monk]].
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

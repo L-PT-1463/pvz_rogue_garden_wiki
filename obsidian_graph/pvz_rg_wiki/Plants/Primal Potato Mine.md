@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Primal Potato Mine is a pass-through plant that deals heavy damage on its own tile and surrounding tiles, but vanquishes itself after attacking.
+Primal Potato Mine is a pass-through *[[Tiny]]* plant from the [[Jurassic Marsh]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
-
-<font color="#c0504d">Weakness</font>: It must arm itself before it can attack, making it vulnerable on the first rounds.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+If there is a zombie on its tile, it makes a Ground attack, vanquishing itself as it does so.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

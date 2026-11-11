@@ -35,22 +35,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Fume-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. It attacks in a medium range.
+Fume-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
 
-<font color="#4bacc6">Trait</font>: Its attack has both the *[[Pierce]]* and *[[Strike-through]]* traits. As such, it can hit multiple zombies and traverses shields.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires fumes at a limited range, making a Straight *[[Pierce]]* and *[[Strike-through]]* attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Fume-shroom is a potted [[Puff-shroom]] mutation shooter plant.
+Fume-shroom is a potted shooter plant, and a Level 1 [[Puff-shroom]] mutation.
 
 It fires a cloud of spores in a straight line at the zombie closest to the player. All zombies caught in the cloud of spores are hit by the attack.
 
@@ -62,15 +59,6 @@ Fume-shroom is a mutation of the [[Puff-shroom]], obtained by fusing two Puff-sh
 | Mutation type | Other plant         | Mutation            |
 | ------------- | ------------------- | ------------------- |
 | Splicing      | [[Iceberg Lettuce]] | [[Frost-shroom]] |
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 1 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

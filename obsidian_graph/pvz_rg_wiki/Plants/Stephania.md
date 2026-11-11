@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Stephania is a regular plant from the [[Kongfu Mausoleum]] that fires leaves down its lane.
+Stephania is a regular plant from the [[Kongfu Mausoleum]].
 
-<font color="#9bbb59">Speciality</font>: The attack splits into four smaller projectiles that hit the tiles diagonal to the hit zombie.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+Shoots leaves down its lane, making a Straight attack if there is a zombie in range. The leaf splits on impact, making a Straight *[[Pierce]]* attack at each diagonal from the hit zombie.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

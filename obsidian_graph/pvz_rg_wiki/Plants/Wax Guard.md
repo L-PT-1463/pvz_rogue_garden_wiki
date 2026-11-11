@@ -37,12 +37,9 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Wax Guard is a protector plant from the [[Kongfu Mausoleum]] that attacks the tile directly in front of itself.
+Wax Guard is a protector plant from the [[Kongfu Mausoleum]].
 
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Stall]]* trait, which means zombies hit by it cannot move on their next turn.
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
-
-<font color="#c0504d">Weakness</font>: After attacking, it cannot do so again for a few turns.
+It attacks the tile directly in front of itself, making a Straight *[[Stall]]* and *[[Knockback]]* attack if there is a zombie in range. It has to cool down before attacking again.
 ### Statistics
 
 |           | Value    |

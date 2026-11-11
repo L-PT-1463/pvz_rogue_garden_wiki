@@ -33,23 +33,21 @@ Almanac entry.
 | Attack speed         |     |
 | Sun cost             |     |
 | Seed packet recharge |     |
+## In PvZ ZPG - Zombie RPG
+
+Solar Tomato is a regular plant from the [[Lost City]] and [[Neon Carnival]], where it is exclusive to [[Bog of Enlightenment]] gardens.
+
+It does not attack.
+
+When vanquished, Solar Tomato explodes in a 3x3 area, making a Straight *[[Pierce]]* attack that puts 2 stacks of *[[Illuminated]]* on every hit zombie.
 ## In PvZ: Lawnmaggedon
 
-Solar Tomato is a spawned [[Cherry Bomb]] mutation instant plant.
+Solar Tomato is a spawned instant plant, and Level 1 [[Cherry Bomb]] mutation.
 
-When used as part of Patrice's ability, a Solar Tomato is occasionally thrown at random spots of the lawn, where it explodes in an area of effect, dealing damage to all zombies caught in its explosion and stunning them.
+A Solar Tomato appears at a random spot of the lawn, where it explodes in an area of effect, dealing damage to all zombies caught in its explosion and stunning them.
 ### Mutations
 
 Solar Tomato is a mutation of [[Cherry Bomb]], obtained by splicing Cherry Bomb and [[Sunflower]].
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Range         |                  |
-| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

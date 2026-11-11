@@ -37,15 +37,14 @@ Almanac entry.
 
 Endurian is a protector plant from [[Lost City]].
 
-<font color="#8064a2">When hit by a Munch or Strike-type attack</font>: Endurian attacks the zombie.
-### Statistics
+It does not attack.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+When hit, it makes a Straight *[[Pierce]]* attack at the tiles in front and behind it.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

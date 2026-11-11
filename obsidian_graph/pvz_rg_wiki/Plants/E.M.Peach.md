@@ -35,9 +35,9 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ: Lawnmaggedon
 
-E.M.Peach is a standalone staller plant.
+E.M.Peach is a standalone spawned staller plant.
 
-When picked from plant selection, an E.M.Peach is planted on a random spot of the lawn, where it explodes in an area of effect, temporarily stunning zombies.
+An E.M.Peach is planted on a random spot of the lawn, where it explodes in an area of effect, temporarily stunning zombies.
 ### Mutations
 
 E.M.Peach can be spliced with other plants to create electric mutations.
@@ -49,15 +49,6 @@ E.M.Peach can be spliced with other plants to create electric mutations.
 | [[Wall-nut]]    | [[Infi-nut]]            |
 | [[Snapdragon]]  | [[Volt Snapdragon]]     |
 | [[Wasabi Whip]] | [[Electrici-tea]]       |
-### Statistics
-
-|               | Value      |
-| ------------- | ---------- |
-| Mutation type | Standalone |
-| Rarity        |            |
-| Damage        |            |
-| Range         |            |
-| Targeting     | Random     |
 ### Almanac
 
 Almanac entry.

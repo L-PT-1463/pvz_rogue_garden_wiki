@@ -37,17 +37,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Pumpkin Shell is a protector plant from the [[Dark Ages]].
+Pumpkin Shell is a protector *[[Vine]]* plant from the [[Dark Ages]].
 
-<font color="#f79646">Placement speciality</font>: It has the *[[Vine]]* trait, and can therefore appear on the same tile as another plant. It must be vanquished first before the plant inside can be attacked.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+It does not attack.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

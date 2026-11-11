@@ -35,22 +35,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Puff-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. It attacks in a medium range, shooting a single spore at the zombies.
+Puff-shroom is a regular *[[Tiny]]* plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
 
-<font color="#4bacc6">Trait</font>: It has the *[[Tiny]]* trait, and can therefore avoid ranged attacks.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots spores down its lane at a limited range, making a Straight attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Puff-shroom is a potted base shooter plant.
+Puff-shroom is a base potted shooter plant.
 
 It fires spores in a straight line at the zombie closest to the player, but has a limited attack range.
 
@@ -63,15 +60,6 @@ If another Puff-shroom-type plant is currently targeting the closest zombie, Puf
 | Fusion         | Puff-shroom | [[Shroom for Two]] |
 | Fusion         | Puff-shroom | [[Scaredy-shroom]] |
 | [[Fertilizer]] |             | Fume-shroom        |
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Base              |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

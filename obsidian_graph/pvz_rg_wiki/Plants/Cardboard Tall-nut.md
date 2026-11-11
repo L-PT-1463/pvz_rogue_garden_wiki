@@ -15,14 +15,13 @@ Cardboard Tall-nut is an official Plants vs Zombie plant from the I, Zombie mini
 
 Cardboard Wall-nut is protector plant from the [[Training Grounds]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Tall]]* trait to counter the zombie's *Traverse* trait.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+Cardboard Tall-nut has the *[[Tall]]* trait.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |

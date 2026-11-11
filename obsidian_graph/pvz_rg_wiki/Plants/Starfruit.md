@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Starfruit is a regular plant from the [[Steam City]]. It shoots projectiles in a straight line.
+Starfruit is a regular plant from the [[Steam City]].
 
-<font color="#9bbb59">Speciality</font>: It attacks on a star-shaped pattern, as long as there is a zombie in range. Starfruit always fires all five projectiles when attacking.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots stars diagonally forwards, up and down its column, and backwards down its lane, creating a star pattern. It always fires all five Straight attacks if there is a zombie in at least one of its ranges.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

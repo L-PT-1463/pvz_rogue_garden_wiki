@@ -37,15 +37,14 @@ Almanac entry.
 
 Toadstool is a regular plant from the [[Lost City]] that attacks at a limited range.
 
-<font color="#8064a2">If vanquished by a Munch type attack</font>: Heals the zombie.
-### Statistics
+It licks zombies in a limited range, making a Straight attack if there is a zombie in range.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+If vanquished by a Munch attack, Toadstool heals the zombie that bit it.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

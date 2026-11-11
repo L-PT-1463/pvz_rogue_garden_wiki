@@ -15,16 +15,13 @@ Cardboard Magnet-shroom is an official Plants vs Zombie plant from the I, Zombie
 
 Cardboard Magnet-shroom is a regular plant from the [[Training Grounds]].
 
-<font color="#9bbb59">Speciality</font>: Cardboard Magnet-shroom's ability affects its own lane.
+It does not attack.
 
-It steals armours with the *[[Magnetisable]]* trait in range, dealing damage every turn until the armour vanishes, but giving it back at full health if vanquished before it can fully consume it.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+It creates a magnetic field in its lane. On its turn, it steals armours in range with the *[[Magnetisable]]* trait. It deals damage to the armour every turn until the armour vanishes, but gives it back at full health if Cardboard Magnet-shroom is vanquished before it can fully consume the armour. This also includes armour stolen from Spawnlings.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |

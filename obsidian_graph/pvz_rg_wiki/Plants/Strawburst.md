@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Strawburst is a regular plant from the [[Lost City]] that attacks the first zombie in its lane with an explosive strawberry.
+Strawburst is a regular plant from the [[Lost City]].
 
-<font color="#9bbb59">Speciality</font>: If it does not attack for one turn, it powers up. Once it reaches its last stage it no longer powers up, but its attack inflicts damage on a cross area around the hit zombie.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It shoots explosive strawberries, making a Lobbed attack at the front-most zombie of its lane. If it does not attack for one turn, Strawburst powers up. It powers again after two turns, dealing more damage and increasing the area of effect of the attack into the hit zombie and the neighbouring tiles in its lane and column.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

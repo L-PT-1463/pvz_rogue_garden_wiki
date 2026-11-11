@@ -35,37 +35,24 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Three-nut is a protector plant from the [[Jurassic Marsh]] that fires peas at the zombies.
+Three-nut is a protector plant from the [[Jurassic Marsh]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Spread]] (3)* trait, so fires three times per attack.
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots *[[Flammable]]* peas down its lane, making a *[[Spread]] (3)* Straight attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Three-nut is a spawned [[Wall-nut]] mutation protector plant that attacks.
+Three-nut is a spawned protector plant, and a Level 2 [[Wall-nut]] mutation.
 
-When used as part of Nate's ability, a Pea-nut is occasionally planted at random spots of the lawn, where it stays, blocking the path of zombies until it is vanquished. It attacks the nearest zombie to itself with a straight attack, rapidly firing a unprecise spread of three peas.
+A Three-nut appears at a random spot of the lawn, where it stays, blocking the path of zombies until it is vanquished. It attacks the nearest zombie to itself with a straight attack, rapidly firing a unprecise spread of three peas.
 ### Mutations
 
 Three-nut is a mutation of [[Wall-nut]], obtained by fusing a Wall-nut and a [[Pea-nut]], by applying Fertilizer to the latter, or by splicing a [[Peashooter]] and a Pea-nut
-### Statistics
-
-|               | Value                                        |
-| ------------- | -------------------------------------------- |
-| Mutation type | Level 2 Mutation                             |
-| Rarity        |                                              |
-| Damage        |                                              |
-| Attack speed  |                                              |
-| Targeting     | Random (Placement), Nearest to self (Attack) |
 ### Almanac
 
 Almanac entry.

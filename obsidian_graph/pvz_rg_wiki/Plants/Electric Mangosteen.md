@@ -37,17 +37,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Mangosteen is a regular plant from the [[Far Future]] that attacks fires electricity around itself.
+Mangosteen is a regular plant from the [[Far Future]].
 
-<font color="#9bbb59">Speciality</font>: At the start of the turn, switches between attacking the neighbouring tiles on its lane and column, or attacking the tiles one tile away diagonally. It can target all zombies in range with a single attack.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+At the start of the turn, switches its range between the neighbouring tiles on its lane and column, or the tiles 1 tile away diagonally. On its turn, if there is a zombie in range, it makes a Straight attack at all 4 tiles.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

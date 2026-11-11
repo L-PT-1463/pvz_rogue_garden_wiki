@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Primal Rafflesia is a regular plant from the [[Jurassic Marsh]] that fires poison bubbles at the zombies.
+Primal Rafflesia is a regular plant from the [[Jurassic Marsh]].
 
-<font color="#9bbb59">Speciality</font>: Targets the last zombie in the lane.
-
-<font color="#4bacc6">Trait</font>: Its attacks inflict the zombie with 2 stacks of *[[Poison]]*. The poison deals damage equal to the number of stacks at the start of the turn before reducing by one.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It shoots bubbles, making a Lobbed attack at the last zombie in its lane, which applies two stacks of *[[Poisoned]]*.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

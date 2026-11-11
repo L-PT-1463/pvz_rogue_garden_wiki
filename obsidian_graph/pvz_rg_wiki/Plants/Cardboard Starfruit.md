@@ -13,16 +13,13 @@ Cardboard Starfruit is a straight-shooter standee that fires in five directions.
 Cardboard Starfruit is an official Plants vs Zombie plant from the I, Zombie mini-game in the first Plants vs Zombies game.
 ## In PvZ ZPG - Zombie RPG
 
-Cardboard Starfruit is a regular plant from the [[Training Grounds]] that shoots projectiles in a straight line.
+Cardboard Starfruit is a regular plant from the [[Training Grounds]].
 
-<font color="#9bbb59">Speciality</font>: It fires in a star-shaped pattern, as long as there is a zombie in range. Starfruit always fires all five projectiles when attacking.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots stars diagonally forwards, up and down its column, and backwards down its lane, creating a star pattern. It always fires all five Straight attacks if there is a zombie in at least one of its ranges.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |

@@ -35,7 +35,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ: Lawnmaggedon
 
-Electric Repeater is a potted [[Peashooter]] mutation shooter plant.
+Electric Repeater is a potted shooter plant, and a Level 2 [[Peashooter]] mutation.
 
 It shoots two electric peas at a time in a straight line at the zombie closest to the player, that move slowly, traversing zombies to damage them until it leaves the screen.
 
@@ -43,15 +43,6 @@ If another Peashooter-type plant is currently targeting the closest zombie, Elec
 ### Mutations
 
 Fire Repeater is a mutation of the [[Peashooter]], obtained by fusing a Peashooter and an [[Electric Peashooter]], by applying [[Fertilizer]] to the latter, or by splicing a [[Repeater]] and an [[E.M.Peach]].
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 2 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

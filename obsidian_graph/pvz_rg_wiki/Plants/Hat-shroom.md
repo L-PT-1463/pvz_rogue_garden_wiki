@@ -52,39 +52,31 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Hat-shroom is a regular plant from the [[Steam City]] that fires hats down its lane.
+Hat-shroom is a regular plant from the [[Steam City]].
 
-<font color="#9bbb59">Speciality</font>: Projectile bounces to a neighbouring zombie on the same lane up to twice.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It throws hats down its lane, making a Straight attack if there is a zombie in range. The hats bounce off zombies to neighbouring zombies on the same lane up to two times.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Hat-shroom is a potted [[Puff-shroom]] mutation shooter plant.
+Hat-shroom is a potted shooter plant, and a Level 2 [[Puff-shroom]] mutation.
 
-It fires a hat in a straight line at the zombie closest to the player, which bounces off that zombie in a random direction. It continues to bounce off zombies until it exists the screen.
+It fires a hat in a straight line at the zombie closest to the player, which bounces off to another zombie or a random direction if there are none nearby. It cannot bounce closer to the player than the previous target. It continues to bounce off zombies until it exists the screen.
 
 If another Puff-shroom-type plant is currently targeting the closest zombie, Hat-shroom attacks the second closest instead, and so on.
 ### Mutations
 
 Hat-shroom is a mutation of [[Puff-shroom]], obtained by fusing Puff-shroom and [[Scaredy-shroom]].
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 2 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

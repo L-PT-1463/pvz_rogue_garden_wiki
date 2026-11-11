@@ -10,7 +10,7 @@ Bruce Bamboo is a melee plant that attacks all tiles around itself.
 | Tribes            |                                                            |
 ## Origins
 
-Bruce Bamboo is an official Plants vs Zombie plant that made its debut in Plants vs Zombies Online, the discontinued China-exclusive game. It attacks zombies in a one-tile radius.
+Bruce Bamboo is an official Plants vs Zombie plant that made its debut in Plants vs Zombies Online, the discontinued China-exclusive game. It attacks zombies in a 1-tile radius.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -27,23 +27,22 @@ Description of the plant in Rogue Garden
 
 Almanac entry.
 
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
+## In PvZ ZPG - Zombie RPG
+
+Bruce Bamboo is a regular plant from the [[Kongfu Mausoleum]].
+
+It makes a Straight attack at a zombie in its range, a 3x3 area.
+### Almanac
+
+Almanac entry.
+
 | Toughness            |     |
 | -------------------- | --- |
 | Attack damage        |     |
 | Attack speed         |     |
 | Sun cost             |     |
 | Seed packet recharge |     |
-## In PvZ ZPG - Zombie RPG
-
-Bruce Bamboo is a regular plant from the [[Kongfu Mausoleum]] that can target any zombie in the neighbouring tiles, including diagonals.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
-### Almanac
-
-Almanac entry.
 ## In PvZ Clicker

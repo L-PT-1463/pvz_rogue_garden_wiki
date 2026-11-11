@@ -35,9 +35,9 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Spore-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. It lobs spores at the front-most zombie in its lane.
+Spore-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
 
-<font color="#9bbb59">Speciality</font>: If it vanquishes a zombie, it spawns a Spore-shroom in that lane.
+It shoots spores, making a Lobbed attack at the front-most zombie in its lane. If this attack vanquishes a zombie, a Spore-shroom is spawned on that lane.
 ### Statistics
 
 |           | Value   |
@@ -50,7 +50,7 @@ Spore-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom 
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-SPore-shroom is a potten [[Puff-shroom]] mutation lobber plant.
+Spore-shroom is a potten lobber plant, and a Level 1 [[Puff-shroom]] mutation.
 
 It fires lobbed spores at the zombie closest to the player. If it vanquishes a zombie, it spawns a [[Button-shroom]] on that spot.
 
@@ -58,15 +58,6 @@ If another Puff-shroom-type plant is currently targeting the closest zombie, Spo
 ### Mutations
 
 Spore-shroom is a mutation of the [[Puff-shroom]], obtained by fusing a Puff-shroom and a [[Shroom for Two]].
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 1 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

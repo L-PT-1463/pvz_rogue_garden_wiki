@@ -37,20 +37,17 @@ Almanac entry.
 
 Sunflower is a regular plant from [[Old Wild Egypt]].
 
-<font color="#8064a2">When hit by a Munch-type attack</font>: It heals the zombie that bit it
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+When hit by a Munch attack, Twin Sunflower heals the zombie that bit it
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Twin Sunflower is a potted [[Sunflower]] mutation support plant.
+Twin Sunflower is a potted support plant, and a Level 1 [[Sunflower]] mutation.
 
 It periodically generates rays of sun on two other potted plants at a time which temporarily increase their attack speed.
 
@@ -58,15 +55,6 @@ If a plant is already under the effects of a Sunflower-type plant's buff, Twin S
 ### Mutations
 
 Twin Sunflower is a mutation of the [[Sunflower]], obtained by fusing two Sunflowers or by applying [[Fertilizer]] to one.
-### Statistics
-
-|               | Value               |
-| ------------- | ------------------- |
-| Mutation type | Base                |
-| Rarity        |                     |
-| Damage        |                     |
-| Attack speed  |                     |
-| Targeting     | Other potted plants |
 ### Almanac
 
 Almanac entry.

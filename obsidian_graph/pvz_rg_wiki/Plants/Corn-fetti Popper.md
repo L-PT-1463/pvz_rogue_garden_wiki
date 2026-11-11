@@ -37,19 +37,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Corn-fetti Popper is a regular plant from the [[Neon Carnival]] that fires a barrage of kernel-fettis down its lane.
+Corn-fetti Popper is a regular plant from the [[Neon Carnival]].
 
-<font color="#9bbb59">Speciality</font>: Each kernel-fetti from the barrage of attacks has a chance to fire diagonally instead of forwards.
-
-<font color="#4bacc6">Trait</font>: It has the *[[Spread]] (5)* trait, so fires five times per attack.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+If there is a zombie in its lane, it fires a barrage of kernel-fettis, making a *[[Spread]] (5)* Straight attack. Each kernel-fetti from the barrage of attacks has a chance to fire diagonally instead of forwards.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

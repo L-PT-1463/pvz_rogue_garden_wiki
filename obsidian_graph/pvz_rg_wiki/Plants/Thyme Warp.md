@@ -35,23 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Thyme Warp is a regular plant from [[ZCorp IST Headquarters]], that attacks the front-most zombie of every lane for no damage.
+Thyme Warp is a regular plant from [[ZCorp IST Headquarters]].
 
-<font color="#9bbb59">Speciality</font>: Zombies hit by Thyme Warp's attack are sent to the first row of their lane, if possible. This does not affect zombies with the *[[Sturdy]]* trait.
+It attacks the front-most zombie of every lane, making a Ground *[[Stun]]* attack, which moves the zombie to the first row of their lane, if possible. This does not affect zombies with the *[[Sturdy]]* trait. It has to cool down before attacking again.
 
-<font color="#8064a2">When vanquished</font>: If in [[ZCorp IST Headquarters]], triggers a [[Time Twist]] event.
-
-<font color="#4bacc6">Trait</font>: It has the *Stun* trait, which means hit zombies can't move or attack on their next turn.
-
-<font color="#c0504d">Weakness</font>: After attacking, it cannot do so again for a few turns.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+If in [[ZCorp IST Headquarters]], when vanquished, Thyme Warp triggers a [[Time Twist]] event.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

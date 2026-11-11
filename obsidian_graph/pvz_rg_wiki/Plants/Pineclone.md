@@ -39,37 +39,18 @@ Almanac entry.
 
 Pineclone is a regular plant from the [[Far Future]].
 
-It is created by [[The Pinearch]], replacing another plant. It keeps any "When vanquished" abilities from the replaced plant, and decides its attack type is based on the plant it replaces:
+It is created by [[The Pinearch]], replacing another plant. It keeps any "When vanquished" abilities from the replaced plant, and decides its attack type based on the plant it replaces:
 - The plant doesn't attack: Pineclone makes a Straight attack down its lane.
 - The plant can make a Straight attack: Pineclone makes a Straight attack down its lane.
 - The plant can make a Lobbed attack: Pineclone makes a Lobbed attack down its lane.
 - The plant can make both Straight and Lobbed attacks: Pineclone makes a Straight attack down its lane.
 - The plant can make a Ground attack: Pineclone makes a Ground attack at the tile directly in front of it.
+It only attacks if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
-## In PvZ: Lawnmaggedon
 
-Description of the plant in Lawnmaggedon.
-### Mutations
-
-| Mutation type | Other plant | Mutation |
-| ------------- | ----------- | -------- |
-|               |             |          |
-
-| Mutated plant | Mutation |
-| ------------- | -------- |
-|               |          |
-### Statistics
-
-|               | Value |
-| ------------- | ----- |
-| Mutation type |       |
-| Rarity        |       |
-| Damage        |       |
-| Attack speed  |       |
-| Targeting     |       |
-### Almanac
-
-Almanac entry.
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

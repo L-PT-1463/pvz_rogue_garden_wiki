@@ -35,19 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Explode-o-Vine is a regular plant from the [[Pirate's Beach]] and [[Kongfu Mausoleum]].
+Explode-o-Vine is a regular *[[Vine]]* plant from the [[Pirate's Beach]] and [[Kongfu Mausoleum]].
 
-<font color="#f79646">Placement speciality</font>: It has the *[[Vine]]* trait, and can therefore appear on the same tile as another plant. It must be vanquished first before the plant inside can be attacked.
+It does not attack.
 
-<font color="#8064a2">When vanquished</font>: Explodes in a 3x3 area.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+When vanquished, it explodes, making a Straight attack at the 3x3 area around itself.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

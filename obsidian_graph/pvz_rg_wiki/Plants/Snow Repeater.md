@@ -35,7 +35,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ: Lawnmaggedon
 
-Snow Repeater is a potted [[Peashooter]] mutation shooter plant.
+Snow Repeater is a potted shooter plant, and Level 2 [[Peashooter]] mutation.
 
 It shoots two peas at a time in a straight line at the zombie closest to the player. The hit zombie and all zombies in a small area around it are slowed down.
 
@@ -43,15 +43,6 @@ If another Peashooter-type plant is currently targeting the closest zombie, Snow
 ### Mutations
 
 Snow Repeater is a mutation of the [[Peashooter]], obtained by fusing a Peashooter and a [[Snow Pea]], by applying [[Fertilizer]] to the latter, or by splicing a [[Repeater]] and an [[Iceberg Lettuce]].
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 2 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

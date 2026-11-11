@@ -35,19 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Escape Root is a regular plant from the [[Neighbour's House]].
+Escape Root is a regular plant from the [[Neighbour's House]]. It always spawns in columns 7 and 8.
 
-<font color="#9bbb59">Speciality</font>: At the start of the turn, if a plant in columns 5 or 6 is on low HP, Escape Root switches places with that plant, then turns into a [[Jalapeño]] or [[Chilly Pepper]].
+It does not attack.
 
-<font color="#f79646">Placement speciality</font>: Always spawns in columns 7 and 8.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+At the start of the turn, if a plant in columns 5 or 6 is on low HP, Escape Root switches places with that plant, then turns into a [[Jalapeño]] or [[Chilly Pepper]].
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

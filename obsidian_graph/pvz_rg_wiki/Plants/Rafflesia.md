@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Rafflesia is a regular plant from the [[Kongfu Mausoleum]] that fires bubbles at the zombies.
+Rafflesia is a regular plant from the [[Kongfu Mausoleum]].
 
-<font color="#9bbb59">Speciality</font>: Targets the last zombie in the lane.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It shoots bubbles, making a Lobbed attack at the last zombie in its lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

@@ -39,17 +39,14 @@ Almanac entry.
 
 Buzz Button is a regular plant from [[The Zombosseum]].
 
-<font color="#8064a2">When vanquished</font>: Attacks a zombie in a 3x3 area around itself with a straight attack. The attack then jumps to an additional zombie up to one tile away, including diagonals, from the hit zombie.
+It does not attack.
 
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Stun]]* trait, meaning the hit zombies can't move or attack on their next turn.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
-### Almanac
+When vanquished, it makes a Straight *[[Stun]]* attack at all zombies in a 3x3 area around itself.
+### ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

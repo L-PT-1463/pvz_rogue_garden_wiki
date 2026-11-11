@@ -35,45 +35,31 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Threepeater is a regular plant from the [[Pirate's Beach]] that attacks in a straight line.
+Threepeater is a regular plant from the [[Pirate's Beach]].
 
-<font color="#9bbb59">Speciality</font>: It shoots in its lane and neighbouring lanes if there is a zombie in range. Threepeater always fires all three peas when attacking.
-
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots *[[Flammable]]* peas down its lane and neighbouring lanes, making a Straight attack at all three lanes if there's a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Threepeater is a potted [[Peashooter]] mutation shooter plant.
+Threepeater is a potted shooter plant, and Level 2 [[Peashooter]] mutation.
 
 It shoots one pea forwards and one pea diagonally to either side at a time, shooting forwards in a straight line aimed at the zombie closest to the player.
 
 If another Peashooter-type plant is currently targeting the closest zombie, Threepeater attacks the second closest instead, and so on.
 ### Mutations
 
-Threepeater is a mutation of the [[Peashooter]], obtained by fusing a Peashooter and a [[Repeater]].
+Threepeater is a mutation of the [[Peashooter]], obtained by fusing a Peashooter and a [[Repeater]], or by applying a [[Watering Can]] to a [[Repeater]].
 
 | Mutation type  | Other plant    | Mutation    |
 | -------------- | -------------- | ----------- |
 | Fusion         | [[Peashooter]] | [[Pea Pod]] |
 | [[Fertilizer]] |                | Pea Pod     |
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 2 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

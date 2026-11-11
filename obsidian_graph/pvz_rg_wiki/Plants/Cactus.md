@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Cactus is a regular plant that attacks in a straight line, shooting a single thorn if there is a zombie in range.
+Cactus is a regular plant.
 
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its thorn can hit zombies hiding behind a shield.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots a single thorn down its lane, making a Straight *[[Pierce]]* attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

@@ -35,21 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Shine Vine is a regular plant from the [[Lost City]], [[Steam City]], where it is exclusive to [[Greenhouse]] gardens, and [[Neon Carnival]], where it is exclusive to [[Bog of Enlightenment]] gardens. It attacks the tile directly in front of it.
+Shine Vine is a regular *[[Vine]]* plant from the [[Lost City]], [[Steam City]], where it is exclusive to [[Greenhouse]] gardens, and [[Neon Carnival]], where it is exclusive to [[Bog of Enlightenment]] gardens.
 
-<font color="#f79646">Placement speciality</font>: It has the *[[Vine]]* trait, and can therefore appear on the same tile as another plant. It must be vanquished first before the plant inside can be attacked.
+Flashes light at the tile in front of itself, making a Straight *[[Stun]]* attack if there is a zombie in range. This attack puts 1 stack of *[[Illuminated]]* on the hit zombie.
 
-<font color="#8064a2">If vanquished by a Munch-type attack</font>: It heals the zombie.
-
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Stun]]* trait, meaning the hit zombies can't move or attack on their next turn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+If vanquished by a Munch attack, Shine Vine heals the zombie.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

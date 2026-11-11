@@ -35,26 +35,23 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Coco-pult is a regular plant from the [[Pirate's Beach]] that lobs cocnuts at the front-most zombie of its lane.
+Coco-pult is a regular plant from the [[Pirate's Beach]].
 
-<font color="#9bbb59">Speciality</font>: The attack deals damage to the zombies in the neighbouring tiles in the lane and column of the hit zombie.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It fires coconuts at the front-most zombie in its lane, making a Lobbed attack at the target and the neighbouring tiles on that column.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Coco-pult is a potted base lobber plant.
+Coco-pult is a base potted lobber plant.
 
 It lobs one coconut at a time at the zombie with the most health, which deals splash damage in an area of effect.
 
-If another Coco-pult-type plant is currently targeting the healthiest zombie, Coco-pult attacks the second highest-health zombie instead, and so on.
+If another Coco-pult-type plant is currently targeting the toughest zombie, Coco-pult attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
 | Mutation type  | Other plant     | Mutation        |
@@ -63,15 +60,6 @@ If another Coco-pult-type plant is currently targeting the healthiest zombie, Co
 | [[Fertilizer]] |                 | Melon-pult      |
 | Splicing       | [[Cherry Bomb]] | [[Pepper-pult]] |
 | Splicing       | [[Moonbean]]    | [[Dusk Lobber]] |
-### Statistics
-
-|               | Value                 |
-| ------------- | --------------------- |
-| Mutation type | Base                  |
-| Rarity        |                       |
-| Damage        |                       |
-| Attack speed  |                       |
-| Targeting     | Highest health zombie |
 ### Almanac
 
 Almanac entry.

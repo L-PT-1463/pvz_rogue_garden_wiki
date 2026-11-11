@@ -35,18 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Iceweed is a pass-through plant that attacks the zombie on its tile.
+Iceweed is a pass-through *[[Grounded]]* plant that attacks the zombie on its tile.
 
-<font color="#4bacc6">Trait</font>: It has the *[[Grounded]]* trait, and can therefore avoid most attacks.
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Chill]]* trait, which prevents the hit zombie from moving on its next turn.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+On its turn, it always makes a Ground *[[Chill]]* attack on its own tile.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

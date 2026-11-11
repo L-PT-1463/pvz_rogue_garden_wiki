@@ -35,22 +35,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Peashooter is a regular plant that attacks in a straight line, shooting a single pea if there is a zombie in range.
+Peashooter is a regular plant.
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Flammable]]* trait.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots *[[Flammable]]* peas down its lane, making a Straight attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Peashooter is a potted base shooter plant.
+Peashooter is a base potted shooter plant.
 
 It shoots one pea at a time in a straight line at the zombie closest to the player.
 
@@ -73,15 +70,6 @@ Peashooter can be spliced with certain other plants to create pea-themed mutatio
 | [[Chomper]]   | [[Snap Pea]]  |
 | [[Wall-nut]]  | [[Pea-nut]]   |
 | [[Pea-nut]]   | [[Three-nut]] |
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Base              |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

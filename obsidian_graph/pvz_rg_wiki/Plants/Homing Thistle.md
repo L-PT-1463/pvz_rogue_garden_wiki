@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Homing Thistle is a regular plant from the [[Pirate's Beach]], which attacks the front-most zombie in the garden.
+Homing Thistle is a regular plant from the [[Pirate's Beach]].
 
-<font color="#9bbb59">Speciality</font>: Can target any zombie on the lawn.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots a homing spike, making a Straight attack at the front-most zombie in the garden.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

@@ -35,28 +35,23 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Kernel-pult is a regular plant from the [[Neighbour's House]] and [[Pirate's Beach]] that attacks with a lobbed attack, launching a single kernel if there is a zombie in range.
+Kernel-pult is a regular plant from the [[Neighbour's House]] and [[Pirate's Beach]].
 
-<font color="#9bbb59">Speciality</font>: It has a chance of launching a stick of butter instead.
-
-<font color="#4bacc6">Trait</font>: The butter has the *[[Stun]]* trait, which means the hit zombie can't move or attack on its next turn.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It fires a Lobbed attack at the front-most zombie in its lane. This attack is usually a kernel, but can occasionally be a stick of butter instead, which has the *[[Stun]]* trait.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
 Kernel-pult is a potted base lobber plant.
 
 It lobs one kernel at a time at the zombie with the most health. It occasionally lobs a stick of butter instead, which stops the hit zombie in place momentarily.
 
-If another Kernel-pult-type plant is currently targeting the healthiest zombie, Kernel-pult attacks the second highest-health zombie instead, and so on.
+If another Kernel-pult-type plant is currently targeting the toughest zombie, Kernel-pult attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
 | Mutation type  | Other plant | Mutation            |
@@ -64,15 +59,6 @@ If another Kernel-pult-type plant is currently targeting the healthiest zombie, 
 | Fusion         | Kernel-pult | [[Flak Seed]]       |
 | Fusion         | Kernel-pult | [[Caramel Popcorn]] |
 | [[Fertilizer]] |             | Flak Seed           |
-### Statistics
-
-|               | Value                 |
-| ------------- | --------------------- |
-| Mutation type | Base                  |
-| Rarity        |                       |
-| Damage        |                       |
-| Attack speed  |                       |
-| Targeting     | Highest health zombie |
 ### Almanac
 
 Almanac entry.

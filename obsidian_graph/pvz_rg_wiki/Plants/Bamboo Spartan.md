@@ -35,18 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Bamboo Spartan is a protector plant from the [[Kongfu Mausoleum]] and [[The Zombosseum]], which attacks the tile directly in front of itself with its spear.
+Bamboo Spartan is a protector plant from the [[Kongfu Mausoleum]] and [[The Zombosseum]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its attacks can hit zombies hiding behind a shield.
-<font color="#4bacc6">Trait</font>: It has the *[[Armoured]] (1)* trait, meaning it takes one less damage from all sources.
-### Statistics
+It makes a Straight *[[Pierce]]* attack at the tile directly in front of itself with its spear, if there is a zombie in range.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+Bamboo Spartan has the *[[Armoured]] (1)* trait.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

@@ -35,18 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Galacta-Cactus is a regular plant from [[ZCorp IST Headquarters]] that spins to shoot, firing each projectile in a random direction.
+Galacta-Cactus is a regular plant from [[ZCorp IST Headquarters]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Spread]] (4)* trait, so fires three times per attack.
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its thorns can hit zombies hiding behind a shield.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It spins around, shooting spike projectiles in a random direction. On its turn, makes a *[[Spread]] (4)* Straight *[[Pierce]]* attack.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

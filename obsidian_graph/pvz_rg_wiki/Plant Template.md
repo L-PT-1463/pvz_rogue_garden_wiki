@@ -45,8 +45,6 @@ Almanac entry.
 | Toughness     |     |
 | ------------- | --- |
 | Attack damage |     |
-| Attack speed  |     |
-| Sun cost      |     |
 ## In PvZ: Lawnmaggedon
 
 Description of the plant in Lawnmaggedon.

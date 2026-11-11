@@ -37,17 +37,14 @@ Almanac entry.
 
 Chili Bean is a regular plant.
 
-<font color="#8064a2">When vanquished by a Munch-type attack</font>: Attacks all the zombies in the lane, dealing no damage.
+It does not attack.
 
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Stun]]* trait, meaning the hit zombies can't move or attack on their next turn.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+If vanquished by a Munch attack, it makes a Straight *[[Pierce]]* and *[[Strike-through]]*, *[[Stun]]* attack down its lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

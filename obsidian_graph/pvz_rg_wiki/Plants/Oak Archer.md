@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Oak Archer is a regular plant from the [[Dark Ages]] that attacks in a straight line, shooting a arrow if there is a zombie in range.
+Oak Archer is a regular plant from the [[Dark Ages]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its arrow can hit zombies hiding behind a shield.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires arrows down its lane, making a Straight *[[Pierce]]* attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Whirlwind Bamboo is a regular plant from the [[Steam City]], exclusive to [[Sky Battle]] gardens. It shoots missiles down its lane.
+Whirlwind Bamboo is a regular *[[Aerial]]* plant from the [[Steam City]], exclusive to [[Sky Battle]] gardens.
 
-<font color="#f79646">Placement speciality</font>: Whirlwind Bamboo is aerial, and can therefore appear and move to any tile.
-
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots missiles down its lane, making a Straight *[[Knockback]]* attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

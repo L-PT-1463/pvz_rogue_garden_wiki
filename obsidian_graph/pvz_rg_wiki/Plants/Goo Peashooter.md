@@ -37,15 +37,12 @@ Almanac entry.
 
 Goo Peashooter is a regular plant.
 
-<font color="#4bacc6">Trait</font>: Its attacks inflict the zombie with 2 stacks of *[[Poison]]*. The poison deals damage equal to the number of stacks at the start of the turn before reducing by one.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires coated peas down its lane, making a Straight attack if there is a zombie in range. The hit zombie is inflicted with two stacks of *[[Poisoned]]*.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

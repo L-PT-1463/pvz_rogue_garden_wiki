@@ -35,17 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Shrinking Violet is a regular plant from the [[Jurassic Marsh]]. It shrinks zombies in an area around itself before vanquishing, and bites zombies in the tile in front of it.
+Primal Violet is a regular plant from the [[Jurassic Marsh]].
 
-<font color="#8064a2">When vanquished</font>: Gives all zombies in a 3x3 area centred on itself the *[[Tiny]]* trait.
-### Statistics
+It bites at the tile in front of it, making a Straight attack if there is a zombie in range.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+When vanquished, it gives all zombies in the 3x3 area around itself the *[[Tiny]]* trait.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

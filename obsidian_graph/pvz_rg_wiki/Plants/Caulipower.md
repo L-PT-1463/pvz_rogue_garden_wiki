@@ -35,21 +35,13 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Caulipower is a regular plant from the [[Neon Carnival]], that hypnotizes Spawnlings.
+Caulipower is a regular *[[Aerial]]* plant from the [[Neon Carnival]].
 
-<font color="#9bbb59">Speciality</font>: At the start of the turn, gives a random Spawnling the *[[Hypnotized]]* trait.
-
-<font color="#f79646">Placement speciality</font>: Caulipower is aerial, and can therefore appear and move to any tile.
-
-<font color="#c0504d">Weakness</font>: After hypnotizing a Spawnling, it cannot do so again for a few turns.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+It shoots a hypnotic beam, targeting any Spawnling in the garden with a Straight *[[Pierce]]* attack that gives them 1 stack of *[[Hypnotized]]*, prioritizing zombies it can hit. It has to coold down before attacking again.
 ### Almanac
 
 Almanac entry.
-## In PvZ Clicker
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |

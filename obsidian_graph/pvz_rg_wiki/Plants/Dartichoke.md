@@ -4,7 +4,7 @@ Dartichoke is a sharp shooting plant that targets the biggest threat in its lane
 
 ![[missing_image.png|236]]
 
-| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]       |
+| Class             | ![[missing_image.png\|53]]                              |
 | :---------------- | ------------------------------------------------------- |
 | Power Mint family | ![[spear-mint_family.png\|53]]<br>[[Spear-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                        |
@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Dartichoke is a regular plant from [[The Zombosseum]] that attacks in its lane.
+Dartichoke is a regular plant from [[The Zombosseum]].
 
-<font color="#9bbb59">Speciality</font>: Always targets the highest health zombie in range, ignoring zombies in front of it.
-
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, meaning its attacks can hit zombies hiding behind a shield.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It targets the highest health zombie in its lane, making a Straight *[[Pierce]]* attack, while ignoring other zombies.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

@@ -35,21 +35,12 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ: Lawnmaggedon
 
-Super Chomper is a potted [[Chomper]] mutation melee plant.
+Super Chomper is a potted melee plant, and Level 1 [[Chomper]] mutation.
 
 It attacks slowly, dealing heavy damage to the zombie it bites and all zombies around it. It always attacks the nearest zombie to itself in range.
 ### Mutations
 
 Super Chomper is a mutation of the [[Chomper]], obtained by fusing two Chompers, or by applying [[Fertilizer]] to one.
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Closest to self  |
 ### Almanac
 
 Almanac entry.

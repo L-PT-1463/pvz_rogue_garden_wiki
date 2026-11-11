@@ -35,28 +35,23 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Caramel Popcorn is a regular plant from the [[Neon Carnival]] that attacks with a lobbed attack, launching a single popcorn if there is a zombie in range.
+Caramel Popcorn is a regular plant from the [[Neon Carnival]].
 
-<font color="#9bbb59">Speciality</font>: It has a chance of launching a blob of caramel instead, which hits all zombies in the column.
-
-<font color="#4bacc6">Trait</font>: The caramel blob has the the *[[Stall]]* trait, meaning hit zombies cannot move.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It fires a Lobbed attack at the front-most zombie in its lane. This attack is usually a popcorn, but can occasionally be a blob of caramel instead, which affects all zombies in the target column with a Lobbed *[[Stall]]* attack.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Caramel Popcorn is a potted [[Kernel-pult]] mutation lobber plant.
+Caramel Popcorn is a potted lobber plant, and a Level 1 mutation of [[Kernel-pult]].
 
 It lobs one popcorn at a time at the zombie with the most health. It occasionally lobs a blob of caramel instead, which covers a small area of effect in caramel, slowing all zombies on it down. After a moment, the caramel disappears.
 
-If another Kernel-pult-type plant is currently targeting the healthiest zombie, Caramel Popcorn attacks the second highest-health zombie instead, and so on.
+If another Kernel-pult-type plant is currently targeting the toughest zombie, Caramel Popcorn attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
 Caramel Popcorn is a mutation of [[Kernel-pult]], obtained by fusing two Kernel-pults.
@@ -64,15 +59,6 @@ Caramel Popcorn is a mutation of [[Kernel-pult]], obtained by fusing two Kernel-
 | Mutation type | Other plant | Mutation      |
 | ------------- | ----------- | ------------- |
 | Fusion        | Kernel-pult | [[Sap-fling]] |
-### Statistics
-
-|               | Value                 |
-| ------------- | --------------------- |
-| Mutation type | Level 1 Mutation      |
-| Rarity        |                       |
-| Damage        |                       |
-| Attack speed  |                       |
-| Targeting     | Highest health zombie |
 ### Almanac
 
 Almanac entry.

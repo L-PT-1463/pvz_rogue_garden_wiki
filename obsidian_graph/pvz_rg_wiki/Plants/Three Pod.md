@@ -37,7 +37,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ: Lawnmaggedon
 
-Three Pod is a potted [[Peashooter]] mutation shooter plant.
+Three Pod is a potted shooter plant, and Level 2 [[Peashooter]] mutation.
 
 It shoots three peas at a time in a straight line at the zombie closest to the player.
 
@@ -52,15 +52,6 @@ Three Pod is a mutation of the [[Peashooter]], obtained by fusing a Peashooter a
 | [[Fertilizer]]   |                  | Gatling Pea     |
 | [[Watering Can]] |                  | [[Pea Pod]]     |
 | Splicing         | [[Cabbage-pult]] | [[Sling Pea]]   |
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 2 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

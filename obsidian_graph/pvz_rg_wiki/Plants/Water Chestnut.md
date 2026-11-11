@@ -35,17 +35,12 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Water Chestnut is a protector plant from [[Pirate's Beach]].
-
-<font color="#f79646">Placement speciality</font>: It is aquatic, meaning it can only appear and move to water tiles.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+Water Chestnut is a protector *[[Aquatic]]* plant from [[Pirate's Beach]].
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

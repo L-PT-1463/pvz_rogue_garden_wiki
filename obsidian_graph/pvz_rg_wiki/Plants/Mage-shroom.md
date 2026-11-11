@@ -37,20 +37,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Pyro-shroom is a regular plant from the [[Dark Ages]] that shoots elemental bolts at the zombies.
+Mage-shroom is a regular plant from the [[Dark Ages]].
 
-<font color="#9bbb59">Speciality</font>: Its attack is either Straight or Lobbed.
-
-<font color="#4bacc6">Trait</font>: Its lobbed attacks have the *[[Fire]]* trait.
-<font color="#4bacc6">Trait</font>: Its straight attacks have the *[[Chill]]* trait, which prevents the hit zombie from moving on its next turn.
-### Statistics
-
-|           | Value              |
-| --------- | ------------------ |
-| Damage    |                    |
-| Toughness |                    |
-| Range     | Straight or Lobbed |
+On its turn, it either shoots a ray of frost down its lane, making a Straight *[[Chill]]* attack if there's a zombie in range, or shoots down a bolt of fire, making a Lobbed *[[Fire]]* attack at the front-most zombie.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

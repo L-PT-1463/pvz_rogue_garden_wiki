@@ -35,40 +35,28 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Nightshade is a regular plant from the [[Dark Ages]], exclusive to [[Castle]] gardens. It attacks the tile directly in front of it if there is a zombie in range.
+Nightshade is a regular plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
 
-<font color="#8064a2">Shadow-powered</font>: It can attack three tiles ahead of itself. At the start of the turn, it also regenerates a petal.
+It attacks with its petals, losing one each attack. It cannot attack if it does not have petals. It makes a Straight attack at the tile directly in front of it, or at the three tiles in front if Shadow-powered.
 
-<font color="#c0504d">Weakness</font>: Every attack causes Nightshade to lose a petal, it only has three and cannot attack if it has no petals left.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+At the start of the turn, if Shadow-powered, it regenerates 1 petal.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Nightshade is a potted [[Bonk Choy]] mutation melee plant.
+Nightshade is a potted melee plant, and a Level 1 [[Bonk Choy]] mutation.
 
 It attacks zombies the closest zombie to itself in range, having to recharge every third attack.
 
-If the player has at least one [[Moonflower]], Nightshade can launch its petals at a longer distance and recharges faster.
+If the player has at least 1 [[Moonflower]], Nightshade can launch its petals at a longer distance and recharges faster.
 ### Mutations
 
 Nightshade is a mutation of the [[Bonk Choy]], obtained by splicing a Bonk Choy and a [[Moonbean]].
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Closest to self  |
 ### Almanac
 
 Almanac entry.

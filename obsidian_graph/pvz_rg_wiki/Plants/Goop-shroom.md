@@ -35,18 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Goop-shroom is a regular plant from the [[Steam City]] that fires goop at the zombies in a limited range.
+Goop-shroom is a regular plant from the [[Steam City]].
 
-<font color="#4bacc6">Trait</font>: Its attack has both the *[[Pierce]]* and *[[Strike-through]]* traits. As such, it can hit multiple zombies and traverses shields.
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Stall]]* trait, meaning the hit zombie cannot move.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires fumes at a limited range, making a Straight *[[Pierce]]* and *[[Strike-through]]*, *[[Stall]]* attack if there is a zombie in range. 
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

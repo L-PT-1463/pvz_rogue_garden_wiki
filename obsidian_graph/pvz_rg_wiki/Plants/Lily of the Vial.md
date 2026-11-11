@@ -37,17 +37,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Lily of the Vial is a regular plant from the [[Steam City]] that throws vials down its lane.
+Lily of the Vial is a regular plant from the [[Steam City]].
 
-<font color="#4bacc6">Trait</font>: Its attacks inflict the zombie with 2 stacks of *[[Poison]]*. The poison deals damage equal to the number of stacks at the start of the turn before reducing by one.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It throws vials, making a Lobbed attack at the front-most zombie in its lane, which applies 2 stacks of *[[Poisoned]]*.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

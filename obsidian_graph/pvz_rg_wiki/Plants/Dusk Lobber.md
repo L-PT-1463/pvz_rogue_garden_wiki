@@ -37,40 +37,26 @@ Almanac entry.
 
 Dusk Lobber is a regular plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
 
-It lobs explosive buds at the front-most zombie of its lane.
-
-<font color="#8064a2">Shadow-powered</font>: Attacks deal damage in a 3x1 area.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It fires explosive buds, making a Lobbed attack at the front-most zombie of its lane, which does damage in a 3x1 area if Dusk Lobber is Shadow-powered.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Dusk Lobber is a potten [[Plants/Coco-pult]] mutation lobber plant.
+Dusk Lobber is a potted lobber plant, and a Level 1 mutation of [[Coco-pult]].
 
 It lobs one bud at a time at the zombie with the most health. The bud deals splash damage in a small area of effect.
 
-If the player has at least one [[Moonflower]], Dusk Lobber lobs two additional buds that land near the target zombie.
+If the player has at least 1 [[Moonflower]], Dusk Lobber lobs two additional buds that land near the target zombie.
 
-If another Coco-pult-type plant is currently targeting the healthiest zombie, Dusk Lobber attacks the second highest-health zombie instead, and so on.
+If another Coco-pult-type plant is currently targeting the toughest zombie, Dusk Lobber attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
-Dusk Lobber is a mutation of the [[Plants/Coco-pult]], obtained by splicing a Coco-pult and a [[Moonbean]].
-### Statistics
-
-|               | Value                 |
-| ------------- | --------------------- |
-| Mutation type |                       |
-| Rarity        |                       |
-| Damage        |                       |
-| Attack speed  |                       |
-| Targeting     | Highest health zombie |
+Dusk Lobber is a mutation of the [[Coco-pult]], obtained by splicing a Coco-pult and a [[Moonbean]].
 ### Almanac
 
 Almanac entry.

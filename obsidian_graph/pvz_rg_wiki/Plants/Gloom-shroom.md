@@ -39,17 +39,12 @@ Almanac entry.
 
 Gloom-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
 
-<font color="#9bbb59">Speciality</font>: It attacks in a 3x3 area.
-
-<font color="#4bacc6">Trait</font>: It has the *[[Pierce]]* trait, allowing it to hit zombies hiding behind shields.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It shoots clouds of spores, making a Straight *[[Pierce]]* attack at every tile in a 3x3 area if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

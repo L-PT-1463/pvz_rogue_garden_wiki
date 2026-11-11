@@ -27,32 +27,29 @@ Description of the plant in Rogue Garden
 
 Almanac entry.
 
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
+## In PvZ ZPG - Zombie RPG
+
+Bonk Choy is a regular plant from the [[Kongfu Mausoleum]] and [[Training Grounds]].
+
+It makes a Straight attack at a zombie in its range, 2 tiles in front and 1 tile behind.
+### Almanac
+
+Almanac entry.
+
 | Toughness            |     |
 | -------------------- | --- |
 | Attack damage        |     |
 | Attack speed         |     |
 | Sun cost             |     |
 | Seed packet recharge |     |
-## In PvZ ZPG - Zombie RPG
-
-Bonk Choy is a regular plant from the [[Kongfu Mausoleum]] and [[Training Grounds]].
-
-<font color="#9bbb59">Speciality</font>: It can attack the two tiles in front of it and the one tile behind.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
-### Almanac
-
-Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Bonk Choy is a potted base melee plant.
+Bonk Choy is a base potted melee plant.
 
-It rapidly attacks zombies the closest zombie to itself in range.
+It rapidly attacks the closest zombie to itself in range.
 ### Mutations
 
 | Mutation type  | Other plant         | Mutation               |
@@ -64,15 +61,6 @@ It rapidly attacks zombies the closest zombie to itself in range.
 | Splicing       | [[Cherry Bomb]]     | [[Wasabi Whip]]        |
 | Splicing       | [[Kernel-pult]]     | [[Headbutter Lettuce]] |
 | Splicing       | [[Iceberg Lettuce]] | [[Nippy Cabbage]]      |
-### Statistics
-
-|               | Value           |
-| ------------- | --------------- |
-| Mutation type | Base            |
-| Rarity        |                 |
-| Damage        |                 |
-| Attack speed  |                 |
-| Targeting     | Closest to self |
 ### Almanac
 
 Almanac entry.

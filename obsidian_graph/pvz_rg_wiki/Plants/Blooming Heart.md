@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Blooming Heart is a regular plant from the [[Neon Carnival]] that attacks the front-most zombie in its lane.
+Blooming Heart is a regular plant from the [[Neon Carnival]].
 
-<font color="#9bbb59">Speciality</font>: Each time it damages a zombie, its damage increases.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It makes a Lobbed attack at the front-most zombie in its lane, firing a heart bud. Each time it damages a zombie, Blooming Heart's damage is increased.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

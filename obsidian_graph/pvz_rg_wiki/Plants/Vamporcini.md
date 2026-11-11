@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Vamporcini is a protector plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. It attacks the tile directly in front of itself.
+Vamporcini is a protector plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
 
-<font color="#9bbb59">Speciality</font>: Heals after dealing damage to the zombies.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It bites at the tile directly in front of itself, making a Straight attack if there is a zombie in range. This attack heals Vamporcini if it hits the zombie.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

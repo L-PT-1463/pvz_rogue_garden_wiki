@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Spikerock is a pass-through plant from [[The Zombosseum]] that attacks the zombie on its tile.
+Spikerock is a pass-through *[[Grounded]]* plant from [[The Zombosseum]].
 
-<font color="#4bacc6">Trait</font>: It has the *[[Grounded]]* trait, and can therefore avoid most attacks.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+On its turn, it always makes a Ground attack on its own tile.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

@@ -35,19 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Blastberry Vine is a regular plant from the [[Pirate's Beach]] and [[Steam City]].
+Blastberry Vine is a regular *[[Vine]]* plant from the [[Pirate's Beach]] and [[Steam City]].
 
-<font color="#9bbb59">Speciality</font>: Its attack hits also hits the two tiles behind the target zombie.
-
-<font color="#f79646">Placement speciality</font>: It has the *[[Vine]]* trait, and can therefore appear on the same tile as another plant. It must be vanquished first before the plant inside can be attacked.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It fires explosive clusters of grapes, making a Lobbed attack at the front-most zombie in its lane and the two tiles behind.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

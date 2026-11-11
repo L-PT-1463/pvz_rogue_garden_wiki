@@ -35,9 +35,9 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Tangle Kelp is a pass-through plant from the [[Pirate's Beach]] that attacks the zombie in its tile for heavy damage, vanquishing itself in the process.
+Tangle Kelp is a pass-through *[[Aquatic]]* plant from the [[Pirate's Beach]].
 
-<font color="#f79646">Placement speciality</font>: It is aquatic, meaning it can only appear and move to water tiles.
+It attacks its own tile, making a Ground attack if there is a zombie in range. It vanquishes itself as it does so.
 ### Statistics
 
 |           | Value  |

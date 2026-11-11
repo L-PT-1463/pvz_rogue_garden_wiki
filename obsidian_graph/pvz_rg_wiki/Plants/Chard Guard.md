@@ -35,17 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Chard Guard is protector plant from the [[Jurassic Marsh]], that attacks in the tile ahead of itself for no damage.
+Chard Guard is protector plant from the [[Jurassic Marsh]].
 
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Knockback]]* trait, meaning it has a chance to push the hit zombie back one tile.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+If there is a zombie in range, it attacks the tile directly in front of it with a Straight *[[Knockback]]* attack. It can only do so 3 times.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

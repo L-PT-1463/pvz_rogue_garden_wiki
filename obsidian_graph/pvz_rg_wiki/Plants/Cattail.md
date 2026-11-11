@@ -35,21 +35,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Cattail is a regular plant from the [[Pirate's Beach]] that fires spikes at the zombies.
+Cattail is a regular *[[Aquatic]]* plant from the [[Pirate's Beach]].
 
-<font color="#9bbb59">Speciality</font>: Cattail can target any zombie in its lane.
-
-<font color="#f79646">Placement speciality</font>: It is aquatic, meaning it can only appear and move to water tiles.
-
-<font color="#4bacc6">Trait</font>: It has the *[[Repeat]]* trait, so fires two spikes per attack.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It fires spikes at the zombies, making a *[[Repeat]]* Lobbed attack at any zombie in its lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

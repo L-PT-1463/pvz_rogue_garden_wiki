@@ -35,26 +35,23 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Pepper-pult is a regular plant that lobs peppers at the front-most zombie of its lane.
+Pepper-pult is a regular plant.
 
-<font color="#4bacc6">Trait</font>: Its attacks have the *[[Fire]]* trait.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It shoots peppers, making a Lobbed *[[Fire]]* attack at the front-most zombie in its lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Pepper-pult is a potted [[Coco-pult]] mutation lobber plant.
+Pepper-pult is a potted lobber plant, and a Level 1 [[Coco-pult]] mutation.
 
 It lobs one flaming pepper at a time at the zombie with the most health, which deals splash damage in an area of effect.
 
-If another Coco-pult-type plant is currently targeting the healthiest zombie, Pepper-pult attacks the second highest-health zombie instead, and so on.
+If another Coco-pult-type plant is currently targeting the toughest zombie, Pepper-pult attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
 Pepper-pult is a mutation of [[Coco-pult]], obtained by splicing a [[Coco-pult]] and a [[Cherry Bomb]].

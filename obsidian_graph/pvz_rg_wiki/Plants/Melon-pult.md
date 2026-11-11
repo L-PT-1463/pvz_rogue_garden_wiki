@@ -35,26 +35,23 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Melon-pult is a regular plant from the [[Pirate's Beach]] that lobs watermelons at the front-most zombie of its lane.
+Melon-pult is a regular plant from the [[Pirate's Beach]].
 
-<font color="#9bbb59">Speciality</font>: The attack deals damage to the zombies in the tiles diagonal to the hit zombie.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It fires melons, making a Lobbed attack at the front-most zombie in its lane and the tiles diagonal to the target.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Melon-pult is a potted [[Coco-pult]] mutation lobber plant.
+Melon-pult is a potted lobber plant, and a Level 1 [[Coco-pult]] mutation.
 
 It lobs one melon at a time at the zombie with the most health, which deals splash damage in an area of effect.
 
-If another Coco-pult-type plant is currently targeting the healthiest zombie, Melon-pult attacks the second highest-health zombie instead, and so on.
+If another Coco-pult-type plant is currently targeting the toughest zombie, Melon-pult attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
 Melon-pult is a mutation of [[Coco-pult]], obtained by fusing two Coco-pults or by applying [[Fertilizer]] to one.
@@ -62,15 +59,6 @@ Melon-pult is a mutation of [[Coco-pult]], obtained by fusing two Coco-pults or 
 | Mutation type | Other plant         | Mutation         |
 | ------------- | ------------------- | ---------------- |
 | Splicing      | [[Iceberg Lettuce]] | [[Winter Melon]] |
-### Statistics
-
-|               | Value                 |
-| ------------- | --------------------- |
-| Mutation type | Level 1 Mutation      |
-| Rarity        |                       |
-| Damage        |                       |
-| Attack speed  |                       |
-| Targeting     | Highest health Zombie |
 ### Almanac
 
 Almanac entry.

@@ -35,19 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Celery Stalker is a protector plant from [[The Zombosseum]] that can only attack the tile directly behind itself.
+Celery Stalker is a protector plant from [[The Zombosseum]].
 
-<font color="#9bbb59">Speciality</font>: At the start of the turn, if there are no zombies in range, it hides, becoming a regular plant.
+At the start of the turn, if there are no zombies on the two tiles directly behind it, it hides, becoming a regular plant with the *[[Grounded]]* trait.
 
-<font color="#4bacc6">Trait</font>: When hidden, gains the *[[Grounded]]* trait, and can therefore avoid most attacks.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+On its turn, if there is a zombie on either tile directly behind it, it pops out of the ground, becoming a protector plant, and attacking the zombie closest to itself with a Straight attack.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

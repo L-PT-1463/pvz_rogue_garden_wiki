@@ -35,19 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Bowling Bulb is a regular plant from the [[Pirate's Beach]], exclusive to [[Docked Ship]] gardens. It fires a bulb down its lane if there is a zombie in range.
+Bowling Bulb is a regular plant from the [[Pirate's Beach]], exclusive to [[Docked Ship]] gardens.
 
-<font color="#9bbb59">Speciality</font>: Attacks bounce off zombies and the edges of the garden diagonally. Each bulb does slightly more damage than the last, this resets with every attack.
+It rolls bulbs down its lane, if there is a zombie in range, making a *Spread* Straight attack, that does higher damage the higher the *Spread* trait is. The bulbs bounce diagonally off hit zombies and the upper and lower edges of the garden.
 
-<font color="#4bacc6">Trait</font>: It has the *[[Spread]] (3)* trait, so fires three times per attack.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It starts off with a *[[Spread]] (3)* stat, reducing it by 1 with each attack, and increasing it by 1 to a maximum of 3 at the start of each turn.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

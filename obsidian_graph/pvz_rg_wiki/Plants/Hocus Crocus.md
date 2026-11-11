@@ -37,17 +37,12 @@ Almanac entry.
 
 Hocus Crocus is a regular plant from the [[Neon Carnival]].
 
-<font color="#9bbb59">Speciality</font>: Can target the front-most zombie of any lane. Its attack sends the hit zombie back to the last available tile on that lane.
-
-<font color="#c0504d">Weakness</font>: Power does not affect zombies with the *[[Sturdy]]* trait.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It targets the front-most zombie on any lane with a Straight *[[Pierce]]* attack. Unless the hit zombie has the *[[Sturdy]]* trait, it is teleported to the last available tile on that lane.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

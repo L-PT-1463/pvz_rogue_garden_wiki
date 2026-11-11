@@ -37,9 +37,11 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Holly Pawn is a protector plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens. It acts as a weak shield that counterattacks the zombies.
+Holly Pawn is a protector plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
 
-<font color="#8064a2">When hit by a Munch type attack</font>: Holly Pawn attacks the zombie.
+It does not attack.
+
+When hit by a Munch attack, Holly Pawn makes a Straight attack at the zombie that bit it.
 ### Statistics
 
 |           | Value    |
@@ -52,22 +54,11 @@ Holly Pawn is a protector plant from the [[Neighbour's House]], exclusive to [[W
 Almanac entry.
 ## In PvZ: Lawnmaggedon
 
-Holly Pawn is a standalone spawned protector plant.
+Holly Pawn is a standalone spawned protector plant. It can be created by [[Holly Knight]].
 
-When picked from plant selection, a Holly Pawn is launched onto a random spot of the lawn. When it lands, it damages all zombies in a small area of effect, knocking them back.
+A Holly Pawn appears on a random spot of the lawn. When it lands, it damages all zombies in a small area of effect, knocking them back.
 
 The Holly Pawn then stays there until vanquished, dealing damage to zombies in a small area of effect.
-
-It can also be created by the [[Holly Knight]].
-### Statistics
-
-|               | Value                                       |
-| ------------- | ------------------------------------------- |
-| Mutation type | Standalone                                  |
-| Rarity        |                                             |
-| Damage        |                                             |
-| Attack speed  |                                             |
-| Targeting     | Random (Placement), Area of effect (Attack) |
 ### Almanac
 
 Almanac entry.

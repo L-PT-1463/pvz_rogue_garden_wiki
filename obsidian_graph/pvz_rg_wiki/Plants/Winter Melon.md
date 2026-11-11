@@ -35,26 +35,23 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Melon-pult is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens. It lobs watermelons, which deal damage to the target zombie.
+Melon-pult is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
 
-<font color="#4bacc6">Trait</font>: It has the Chill trait, which is applied to the target zombie and all zombies in a 3x3 area. This means they cannot move on their next turn.
-### Statistics
-
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+It lobs watermelons, targeting the front-most zombie in its lane with a Lobbed attack. Upon hitting the target, it makes a Lobbed *[[Chill]]* attack at the 3x3 area around the hit zombie.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
 Winter Melon is a potted [[Coco-pult]] mutation lobber plant.
 
 It lobs one melon at a time at the zombie with the most health, which deals splash damage in an area of effect and chills zombies.
 
-If another Coco-pult-type plant is currently targeting the healthiest zombie, Winter Melon attacks the second highest-health zombie instead, and so on.
+If another Coco-pult-type plant is currently targeting the toughest zombie, Winter Melon attacks the second highest-health zombie instead, and so on.
 ### Mutations
 
 Winter Melon is a mutation of [[Coco-pult]], obtained by splicing a [[Melon-pult]] and an [[Iceberg Lettuce]].

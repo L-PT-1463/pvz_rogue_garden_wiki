@@ -35,24 +35,19 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Electric Peashooter is a regular plant from the [[Far Future]] that attacks in a straight line, shooting if there is a zombie in range.
+Electric Peashooter is a regular plant from the [[Far Future]].
 
-<font color="#9bbb59">Speciality</font>: Its projectile switches lanes if there is a zombie one tile away in the diagonal behind the hit zombie.
-
-<font color="#4bacc6">Trait</font>: Its attack has the *[[Strike-through]]* trait. As such, it can hit multiple zombies but the attack is blocked by shields.
-### Statistics
-
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+It fires electric peas down its lane, making a Straight *[[Strike-through]]* attack if there is a zombie in range. As the projectile advances, if it enters the same column as a zombie on a neighbouring lane, it switches to that tile before continuing.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Electric Peashooter is a potted [[Peashooter]] mutation shooter plant.
+Electric Peashooter is a potted shooter plant, and a Level 1 [[Peashooter]] mutation.
 
 It shoots one electric pea at a time in a straight line at the zombie closest to the player, that moves slowly, traversing zombies to damage them until it leaves the screen.
 
@@ -65,15 +60,6 @@ Electric Peashooter is a mutation of the [[Peashooter]], obtained by splicing a 
 | -------------- | -------------- | --------------------- |
 | Fusion         | [[Peashooter]] | [[Electric Repeater]] |
 | [[Fertilizer]] |                | Electric Repeater     |
-### Statistics
-
-|               | Value             |
-| ------------- | ----------------- |
-| Mutation type | Level 1 Mutation  |
-| Rarity        |                   |
-| Damage        |                   |
-| Attack speed  |                   |
-| Targeting     | Closest to player |
 ### Almanac
 
 Almanac entry.

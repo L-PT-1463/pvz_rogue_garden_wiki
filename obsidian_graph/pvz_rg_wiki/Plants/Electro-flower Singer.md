@@ -35,19 +35,18 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Electro-flower Singer is a regular plant from the [[Far Future]]
+Electro-flower Singer is a regular plant from the [[Far Future]].
 
-<font color="#9bbb59">Speciality</font>: While alive, lightly boosts the damage of plants in a 3x3 area.
+It does not attack.
 
-<font color="#8064a2">When hit by a Munch-type attack</font>: It heals the zombie that bit it.
-### Statistics
+Electro-flower Singer boosts the damage of other plants in a 3x3 area around itself.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+When hit by a Munch attack, it heals the zombie that bit it.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

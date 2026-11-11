@@ -35,38 +35,28 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Torchwood is a protector plant from [[Old Wild Egypt]] that empowers flammable projectiles.
+Torchwood is a protector plant from [[Old Wild Egypt]].
 
-<font color="#9bbb59">Speciality</font>: Until the Torchwood is vanquished, all attacks behind it in its lane with the *[[Flammable]]* trait gain additional damage and the *Fire* trait.
-### Statistics
+It does not attack.
 
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+Torchwood grants all *[[Flammable]]* attacks that pass through its tile the *[[Fire]]* trait.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Torchwood is a spawned [[Wall-nut]] mutation protector plant.
+Torchwood is a spawned protector plant, and Level 1 [[Wall-nut]] mutation.
 
-When used as part of Nate's ability, a Torchwood is occasionally planted at random spots of the lawn, where it stays, blocking the path of zombies until it is vanquished.
+A Torchwood appears on a random spot of the lawn, where it stays, blocking the path of zombies until it is vanquished.
 
 Peas that pass through a Torchwood will catch ablaze, dealing additional damage on hit.
 ### Mutations
 
 Torchwood is a mutation of the [[Wall-nut]], obtained by splicing a Wall-nut and a [[Cherry Bomb]].
-### Statistics
-
-|               | Value            |
-| ------------- | ---------------- |
-| Mutation type | Level 1 Mutation |
-| Rarity        |                  |
-| Damage        |                  |
-| Attack speed  |                  |
-| Targeting     | Random           |
 ### Almanac
 
 Almanac entry.

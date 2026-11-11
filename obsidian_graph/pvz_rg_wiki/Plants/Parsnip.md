@@ -35,17 +35,16 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Parsnip is a regular plant from the [[Jurassic Marsh]] that attacks at a short range.
+Parsnip is a regular plant from the [[Jurassic Marsh]].
 
-<font color="#8064a2">When vanquished</font>: Uproots itself and rushes down the lane, attacking all zombies.
-### Statistics
+It snaps at the tile in front of it, making a Straight attack if there is a zombie in range.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+When vanquished, Parsnip uproots itself runs down its lane, snapping at zombies, making an attack at all zombies in its way.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

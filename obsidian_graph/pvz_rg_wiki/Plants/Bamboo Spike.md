@@ -37,15 +37,14 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Bamboo Spike is a regular plant from the [[Kongfu Mausoleum]] that attacks the two tiles in front of it from below.
-### Statistics
+Bamboo Spike is a regular plant from the [[Kongfu Mausoleum]].
 
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Ground |
+It attacks the two tiles in front of it from below, making a Ground attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

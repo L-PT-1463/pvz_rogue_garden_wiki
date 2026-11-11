@@ -43,40 +43,28 @@ Almanac entry.
 
 Moonflower is a regular plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
 
-<font color="#9bbb59">Speciality</font>: Powers neighbouring plants in its lane and column while alive.
+It does not attack.
 
-<font color="#8064a2">If vanquished by a Munch-type attack</font>: It heals the zombie that bit it.
+Moonflower shadow-powers neighbouring plants in its lane and column. While Shadow-powered, it instead powers plants in a 3x3 area.
 
-<font color="#8064a2">Shadow-powered</font>: It powers plants in a 3x3 area instead.
-### Statistics
-
-|           | Value |
-| --------- | ----- |
-| Damage    |       |
-| Toughness |       |
-| Range     |       |
+If vanquished by a Munch-type attack, Moonflower heals the zombie that bit it.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Moonflower is a potted [[Sunflower]] mutation support plant.
+Moonflower is a potted support plant, and Level 1 [[Sunflower]] mutation.
 
 It activates other shadow plants' powers.
 
-If the player has at least one other Moonflower, Moonflower periodically generates a weak shield around the player that can take a few hits before having to be regenerated. It has a long cooldown and does not heal.
+If the player has at least 1 other Moonflower, Moonflower periodically generates a weak shield around the player that can take a few hits before having to be regenerated. It has a long cooldown and does not heal.
 ### Mutations
 
 Moonflower is a mutation of the [[Sunflower]], obtained by splicing a Sunflower and a [[Moonbean]].
-### Statistics
-
-|               | Value               |
-| ------------- | ------------------- |
-| Mutation type | Level 1 Mutation    |
-| Rarity        |                     |
-| Damage        |                     |
-| Attack speed  |                     |
-| Targeting     | Other potted plants |
 ### Almanac
 
 Almanac entry.

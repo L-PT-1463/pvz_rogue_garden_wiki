@@ -37,17 +37,16 @@ Almanac entry.
 
 Meteor Flower is a regular plant from the [[Lost City]], [[Jurassic Marsh]] and [[ZCorp IST Headquarters]].
 
-<font color="#9bbb59">Speciality</font>: It can target any zombie in its lane. Any Meteor Z in its lane also causes zombies on that tile to take more damage from attacks they aren't immune to.
+It fires meteors down on the zombies, attacking a random zombie in its lane with a Lobbed  *[[Fire]]* attack.
 
-<font color="#8064a2">Dino-roar</font>: Sends three meteors down on random tiles.
-### Statistics
+If a [[Meteor Z]] lands on a tile in its lane, it causes zombies on that tile to take more damage from all attacks they aren't immune to.
 
-|           | Value  |
-| --------- | ------ |
-| Damage    |        |
-| Toughness |        |
-| Range     | Lobbed |
+[[Dino-roar]]: Fires three meteors down on random tiles, making a Lobbed *[[Fire]]* attack.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ Clicker

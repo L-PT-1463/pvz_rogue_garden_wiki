@@ -35,36 +35,26 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Grapeshot is a regular plant from the [[Lost City]] and [[The Zombosseum]], 
+Grapeshot is a regular plant from the [[Lost City]] and [[The Zombosseum]].
 
-<font color="#8064a2">When vanquished</font>: Explodes in a 3x3 area, and shoots four projectiles total, down both sides its lane and column.
-### Statistics
+It does not attack.
 
-|           | Value    |
-| --------- | -------- |
-| Damage    |          |
-| Toughness |          |
-| Range     | Straight |
+When vanquished, Grapeshot explodes in a 3x3 area, and shoots four projectiles total, down both sides its lane and column.
 ### Almanac
 
 Almanac entry.
+
+| Toughness     |     |
+| ------------- | --- |
+| Attack damage |     |
 ## In PvZ: Lawnmaggedon
 
-Grapeshot is a spawned [[Cherry Bomb]] mutation instant plant.
+Grapeshot is a spawned instant plant, and a Level 1 [[Cherry Bomb]] mutation.
 
-When used as part of Patrice's ability, a Grapeshot is occasionally thrown at random spots of the lawn, where it explodes in an area of effect, then fires projectiles in random directions, which do a smaller explosion on impact.
+A Grapeshot appears at a random spot of the lawn, where it explodes in an area of effect, then fires projectiles in random directions, which do a smaller explosion on impact.
 ### Mutations
 
 Grapeshot is a mutation of [[Cherry Bomb]], obtained by fusing two Cherry Bombs, or by applying [[Fertilizer]] to one.
-### Statistics
-
-|               | Value  |
-| ------------- | ------ |
-| Mutation type |        |
-| Rarity        |        |
-| Damage        |        |
-| Attack speed  |        |
-| Targeting     | Random |
 ### Almanac
 
 Almanac entry.
