@@ -4,10 +4,10 @@ White Egret is a flying plant that shoots bullets and missiles at the zombies in
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]] |
-| :---------------- | -------------------------- |
-| Power Mint family | ![[missing_image.png\|53]] |
-| Tribes            |                            |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]] |
+| :---------------- | --------------------------------------------- |
+| Power Mint family | ![[missing_image.png\|53]]                    |
+| Tribes            |                                               |
 ## Origins
 
 White Egret is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it shoots rapid fire bullets at a close range and high-damage stunning missiles at a long range or between barrages of bullets.

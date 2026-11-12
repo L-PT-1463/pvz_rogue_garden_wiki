@@ -6,7 +6,7 @@ Super Chomper is a melee plant that devours groups of zombies.
 
 | Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]                |
 | :---------------- | ---------------------------------------------------------- |
-| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Class]] |
+| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Family]] |
 | Tribes            |                                                            |
 ## Origins
 

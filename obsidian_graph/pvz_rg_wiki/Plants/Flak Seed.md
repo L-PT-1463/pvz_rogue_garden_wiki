@@ -4,7 +4,7 @@ Flak Seed is a lobber plant that launches flax seeds at the zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]            |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]    |
 | :---------------- | ------------------------------------------------------ |
 | Power Mint family | ![[arma-mint_family.png\|53]]<br>[[Arma-mint Familiy]] |
 | Tribes            |                                                        |

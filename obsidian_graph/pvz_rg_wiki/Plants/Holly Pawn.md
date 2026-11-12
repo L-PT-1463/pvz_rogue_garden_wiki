@@ -4,7 +4,7 @@ Holly Pawn is a weak wall created by the Holly Knight.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                      |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]               |
 | :---------------- | --------------------------------------------------------------- |
 | Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Reinforce-mint Family]] |
 | Tribes            | [[Berry Tribe]]                                                 |

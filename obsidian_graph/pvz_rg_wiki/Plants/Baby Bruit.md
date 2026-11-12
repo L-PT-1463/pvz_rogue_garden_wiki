@@ -4,7 +4,7 @@ Baby Bruit is the seedling of a [[Dragon Bruit]], just as violent as its mature 
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                  |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]             |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[conceal-mint_family.png\|53]]<br>[[Conceal-mint Family]] |
 | Tribes            |                                                             |

@@ -4,7 +4,7 @@ Electric Currant is a plant that creates damaging currents of electricity by con
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                            |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]     |
 | :---------------- | ----------------------------------------------------- |
 | Power Mint family | ![[fila-mint_family.png\|53]]<br>[[Fila-mint Family]] |
 | Tribes            | [[Berry Tribe]]                                       |

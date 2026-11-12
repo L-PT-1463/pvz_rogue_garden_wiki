@@ -4,7 +4,7 @@ Pyre Vine is a vine plant that shoots fire onto nearby zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]           |
 | :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[pepper-mint_family.png\|53]]<br>[[Pepper-mint Family]] |
 | Tribes            |                                                           |

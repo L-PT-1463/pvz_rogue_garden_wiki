@@ -6,7 +6,7 @@ Celery Stalker is a melee plant that hides until zombies pass by it, attacking t
 
 | Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]          |
 | :---------------- | ---------------------------------------------------------- |
-| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Class]] |
+| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Family]] |
 | Tribes            |                                                            |
 ## Origins
 

@@ -4,7 +4,7 @@ Sweetheart Snare is a melee plant that pricks at the zombies passing through it 
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                              |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]             |
 | :---------------- | ------------------------------------------------------- |
 | Power Mint family | ![[spear-mint_family.png\|53]]<br>[[Spear-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                        |

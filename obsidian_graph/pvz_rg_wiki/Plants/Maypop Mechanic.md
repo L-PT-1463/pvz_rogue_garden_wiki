@@ -4,7 +4,7 @@ Maypop Mechanic is a shooter plant that fires cogs at zombies in front and behin
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                              |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]             |
 | :---------------- | ------------------------------------------------------- |
 | Power Mint family | ![[spear-mint_family.png\|53]]<br>[[Spear-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                        |

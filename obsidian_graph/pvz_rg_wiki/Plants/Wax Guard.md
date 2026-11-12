@@ -4,7 +4,7 @@ Wax Guard is a defensive plant that stuns zombies with powerful blows.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                      |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]               |
 | :---------------- | --------------------------------------------------------------- |
 | Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Reinforce-mint Family]] |
 | Tribes            |                                                                 |

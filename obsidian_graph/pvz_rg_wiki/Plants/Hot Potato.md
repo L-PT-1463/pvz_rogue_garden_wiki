@@ -4,7 +4,7 @@ Hot Potato is an instant use plant to counter icy chills.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]             |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]         |
 | :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[pepper-mint_family.png\|53]]<br>[[Pepper-mint Family]] |
 | Tribes            |                                                           |

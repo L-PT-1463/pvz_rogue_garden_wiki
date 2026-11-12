@@ -4,10 +4,10 @@ Black Orchid is a ranged plant that shoots gravitational spheres at the zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]] |
-| :---------------- | -------------------------- |
-| Power Mint family | ![[missing_image.png\|53]] |
-| Tribes            | [[Flower Tribe]]           |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]         |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[conceal-mint_family.png\|53]]<br>[[Conceal-mint Family]] |
+| Tribes            | [[Flower Tribe]]                                            |
 ## Origins
 
 Black Orchid is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2 China, where it fires gravity balls at the zombies, damaging them and sucking them into its lane.
@@ -37,9 +37,9 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Black Orchid is a regular plant from [[ZCorp IST Headquarters]].
+Black Orchid is a regular plant from [[ZCorp IST Headquarters]] and [[Dark Ages]], where it is exclusive to [[Castle]] gardens.
 
-It shoots a gravitational sphere down its lane, making a Straight attack if there is a zombie in range. When possible, these spheres cause zombies in the 3x3 area around the hit zombie to move to that lane.
+It shoots a gravitational sphere down its lane, making a Straight attack if there is a zombie in range. When possible, these spheres cause zombies in the 3x3 area around the hit zombie to move to that lane. This does not affect zombies with the *[[Sturdy]]* trait. If shadow-powered, pulled zombies also take damage.
 
 Black Orchid's attack is unaffected by [[Black Hole]] gardens.
 ### Almanac

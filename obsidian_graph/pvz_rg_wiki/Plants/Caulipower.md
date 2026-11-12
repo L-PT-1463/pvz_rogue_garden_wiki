@@ -4,7 +4,7 @@ Caulipower is a psychic plant that hypontizes zombies from a great distance.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                  |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]               |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[enchant-mint_family.png\|53]]<br>[[Enchant-mint Family]] |
 | Tribes            |                                                             |

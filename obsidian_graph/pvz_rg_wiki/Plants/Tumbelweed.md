@@ -4,10 +4,10 @@ Tumbleweed is a rolling and tumbling plant that hits and bounces on zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]       |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[enforce-mint_family.png\|53]] |
-| Tribes            |                                  |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]              |
+| :---------------- | ---------------------------------------------------------- |
+| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Family]] |
+| Tribes            |                                                            |
 ## Origins
 
 Tumbleweed is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where when placed it rolls down the garden, bouncing off zombies and pushing them back.

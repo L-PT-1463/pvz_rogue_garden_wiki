@@ -4,7 +4,7 @@ Meteor Flower is a ranged plant that sends meteors down onto the zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]           |
 | :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[pepper-mint_family.png\|53]]<br>[[Pepper-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                          |

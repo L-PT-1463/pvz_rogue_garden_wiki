@@ -4,7 +4,7 @@ Snow Repeater is a straight-shooter that shoots two chilling peas at a time at t
 
 ![[snow_repeater.png|236]]
 
-| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]       |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]             |
 | :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[winter-mint_family.png\|53]]<br>[[Winter-mint Family]] |
 | Tribes            | [[Pea Tribe]]                                             |

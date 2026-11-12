@@ -4,7 +4,7 @@ Magic-shroom is a ranged mushroom that shoots spreads of cards ahead and behind 
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                  |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]               |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[enchant-mint_family.png\|53]]<br>[[Enchant-mint Family]] |
 | Tribes            | [[Mushroom Tribe]]                                          |

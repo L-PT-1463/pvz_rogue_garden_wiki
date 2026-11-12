@@ -4,7 +4,7 @@ Electric Mangosteen is an electric plant that shoots electricity in the area aro
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                            |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]       |
 | :---------------- | ----------------------------------------------------- |
 | Power Mint family | ![[fila-mint_family.png\|53]]<br>[[Fila-mint Family]] |
 | Tribes            |                                                       |

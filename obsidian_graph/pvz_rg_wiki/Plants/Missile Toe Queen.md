@@ -4,7 +4,7 @@ Missile Toe Queen is a frosty artillery that shoots powerful strikes of ice at t
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]             |
 | :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[winter-mint_family.png\|53]]<br>[[Winter-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                          |

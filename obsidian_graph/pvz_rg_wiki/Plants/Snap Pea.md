@@ -4,9 +4,9 @@ Snap Pea is a melee plant that devours zombies and uses their heads as ranged pr
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                 |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]        |
 | :---------------- | ---------------------------------------------------------- |
-| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Class]] |
+| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Family]] |
 | Tribes            | [[Pea Tribe]]                                              |
 ## Origins
 

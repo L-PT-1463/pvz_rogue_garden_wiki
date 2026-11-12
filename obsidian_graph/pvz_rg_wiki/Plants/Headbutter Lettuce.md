@@ -4,9 +4,9 @@ Headbutter Lettuce is a melee plant that butters zombies with its heabutts.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                 |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]                |
 | :---------------- | ---------------------------------------------------------- |
-| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Class]] |
+| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Family]] |
 | Tribes            |                                                            |
 ## Origins
 

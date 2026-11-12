@@ -4,7 +4,7 @@ Grimrose is a shadow plant that opens portals at a distance to pull zombies into
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                  |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]                 |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[conceal-mint_family.png\|53]]<br>[[Conceal-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                            |

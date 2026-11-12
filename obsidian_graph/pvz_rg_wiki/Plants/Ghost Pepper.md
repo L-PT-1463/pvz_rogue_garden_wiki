@@ -4,7 +4,7 @@ Ghost Pepper is an instant use plant that damages zombies around itself.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                   |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]              |
 | :---------------- | ------------------------------------------------------------ |
 | Power Mint family | ![[enchant-mint_family.png\|53]] <br>[[Enchant-mint Family]] |
 | Tribes            |                                                              |

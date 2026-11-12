@@ -4,9 +4,9 @@ Bruce Bamboo is a melee plant that attacks all tiles around itself.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                 |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]          |
 | :---------------- | ---------------------------------------------------------- |
-| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Class]] |
+| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Family]] |
 | Tribes            |                                                            |
 ## Origins
 

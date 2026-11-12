@@ -4,7 +4,7 @@ Dandelion Weed is a melee plant that attacks all tiles around itself with an exp
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                  |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]             |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[bombard-mint_family.png\|53]]<br>[[Bombard-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                            |

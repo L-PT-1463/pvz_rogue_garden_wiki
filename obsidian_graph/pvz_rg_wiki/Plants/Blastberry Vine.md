@@ -4,7 +4,7 @@ Blastberry Vine is a long-ranged vine that fires explosive berry clusters at the
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                             |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]        |
 | :---------------- | ------------------------------------------------------ |
 | Power Mint family | ![[arma-mint_family.png\|53]]<br>[[Arma-mint Familiy]] |
 | Tribes            | [[Berry Tribe]]                                        |

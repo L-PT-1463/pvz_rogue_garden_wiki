@@ -4,7 +4,7 @@ Rafflesia is a ranged plant that lobs bubbles of acid at the zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                          |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]     |
 | :---------------- | --------------------------------------------------- |
 | Power Mint family | ![[ail-mint_family.png\|53]]<br>[[Ail-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                    |

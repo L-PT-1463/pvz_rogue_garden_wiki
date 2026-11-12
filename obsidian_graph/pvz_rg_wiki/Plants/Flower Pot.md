@@ -4,7 +4,7 @@ Flower Pot is a supporting plant that allows certain plants to be planted where 
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]             |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]       |
 | :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[comple-mint_family.png\|53]]<br>[[Comple-mint Family]] |
 | Tribes            |                                                           |

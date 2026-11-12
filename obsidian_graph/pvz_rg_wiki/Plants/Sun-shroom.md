@@ -2,11 +2,9 @@
 
 Sun-shroom is a weak sun producing mushrooms that grows larger after a while to produce more sun.
 
-First stage
-![[sun-shroom.png|236]]
-
-Final stage
-![[sunnier-shroom.png|236]]
+| First Stage              | Final Stage                  |
+| ------------------------ | ---------------------------- |
+| ![[sun-shroom.png\|236]] | ![[sunnier-shroom.png\|236]] |
 
 | Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]              |
 | :---------------- | -------------------------------------------------------- |

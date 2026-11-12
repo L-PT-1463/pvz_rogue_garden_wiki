@@ -4,7 +4,7 @@ Stickybomb Rice is a ranged plant that lobs sticky rice bombs at the zombies in 
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                             |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]        |
 | :---------------- | ------------------------------------------------------ |
 | Power Mint family | ![[arma-mint_family.png\|53]]<br>[[Arma-mint Familiy]] |
 | Tribes            |                                                        |

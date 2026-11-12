@@ -4,10 +4,10 @@ Blooming Heart is a lobber plant that increases its damage as it attacks the zom
 
 ![[missing_image.png|236]]
 
-| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]] |
-| :---------------- | ----------------------------------------------- |
-| Power Mint family | ![[missing_image.png\|53]]                      |
-| Tribes            | [[Flower Tribe]]                                |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]        |
+| :---------------- | ------------------------------------------------------ |
+| Power Mint family | ![[arma-mint_family.png\|53]]<br>[[Arma-mint Familiy]] |
+| Tribes            | [[Flower Tribe]]                                       |
 ## Origins
 
 Blooming Heart is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it attacks zombies, imposing a stat that increases the damage that zombie takes from all Blooming Hearts.

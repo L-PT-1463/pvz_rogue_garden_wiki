@@ -4,7 +4,7 @@ Bamboo Spike is a grounded plant that pierces zombies from below.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                              |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]       |
 | :---------------- | ------------------------------------------------------- |
 | Power Mint family | ![[spear-mint_family.png\|53]]<br>[[Spear-mint Family]] |
 | Tribes            |                                                         |

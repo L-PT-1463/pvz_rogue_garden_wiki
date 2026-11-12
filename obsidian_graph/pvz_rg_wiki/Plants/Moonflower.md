@@ -2,11 +2,9 @@
 
 Sunflower is a supporting plant that generates sun.
 
-Unpowered
-![[moonflower.png|236]]
-
-Shadow-powered
-![[moonflower_shadow-powered.png|236]]
+| Unpowered                | Shadow-powered                          |
+| ------------------------ | --------------------------------------- |
+| ![[moonflower.png\|236]] | ![[moonflower_shadow-powered.png\|236]] |
 
 | Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]                 |
 | :---------------- | ----------------------------------------------------------- |

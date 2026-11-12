@@ -4,7 +4,7 @@ Gorgon Pitcher is an enchanting plant that uses magic to convert zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                  |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]                 |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[enchant-mint_family.png\|53]]<br>[[Enchant-mint Family]] |
 | Tribes            |                                                             |

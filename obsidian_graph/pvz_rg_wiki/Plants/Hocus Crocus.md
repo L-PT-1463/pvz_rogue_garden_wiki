@@ -4,7 +4,7 @@ Hocus Crocus is a magical plant that sends zombies to the back of the lawn.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                  |
+| Class             | ![[smarty_class.png\|53]]<br>[[Hocus Crocus]]               |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[enchant-mint_family.png\|53]]<br>[[Enchant-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                            |

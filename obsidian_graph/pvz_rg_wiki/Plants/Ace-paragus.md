@@ -4,10 +4,10 @@ Ace-paragus is a flying plant that rapidly fires at nearby zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]] |
-| :---------------- | -------------------------- |
-| Power Mint family | ![[missing_image.png\|53]] |
-| Tribes            |                            |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]               |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[appease-mint_family.png\|53]]<br>[[Appease-mint Family]] |
+| Tribes            |                                                             |
 ## Origins
 
 Ace-sparagus is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2 China, where it shoots rapid fire shots at the tiles in front of itself in its lane and neighbouring lanes. It has to recharge after attacking.

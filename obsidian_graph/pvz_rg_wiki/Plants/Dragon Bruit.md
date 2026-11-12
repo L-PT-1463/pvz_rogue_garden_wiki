@@ -4,10 +4,10 @@ Dragon Bruit is a ranged plant that shoots the zombies and produces its seedling
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]       |
-| :---------------- | -------------------------------- |
-| Power Mint family | ![[conceal-mint_family.png\|53]] |
-| Tribes            |                                  |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]             |
+| :---------------- | ----------------------------------------------------------- |
+| Power Mint family | ![[conceal-mint_family.png\|53]]<br>[[Conceal-mint Family]] |
+| Tribes            |                                                             |
 ## Origins
 
 Dragon Bruit is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it is a lobber that attacks its lane and neighbouring lanes, and spawns [[Baby Bruit]]s when hurt. If powered, its attacks also apply poison to the zombies.

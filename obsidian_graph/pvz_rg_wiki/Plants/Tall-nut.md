@@ -6,7 +6,7 @@ Tall-nut is a tall defensive plant that blocks zombies that usually bypass other
 
 | Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]            |
 | :---------------- | ------------------------------------------------------------ |
-| Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Enforce-mint Class]] |
+| Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Enforce-mint Family]] |
 | Tribes            | [[Nut Tribe]]                                                |
 ## Origins
 

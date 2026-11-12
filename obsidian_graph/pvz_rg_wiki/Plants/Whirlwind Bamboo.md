@@ -4,10 +4,10 @@ Whirlwind Bamboo is a ranged plant that shoots heavy missiles to push zombies ba
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]] |
-| :---------------- | -------------------------- |
-| Power Mint family | ![[missing_image.png\|53]] |
-| Tribes            |                            |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]] |
+| :---------------- | --------------------------------------------- |
+| Power Mint family | ![[missing_image.png\|53]]                    |
+| Tribes            |                                               |
 ## Origins
 
 Whirlwind Bamboo is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 3 China, where it fire powerful missiles that push zombies back, and is powered by winds.

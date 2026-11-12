@@ -4,7 +4,7 @@ Saucer is an flying plant that captures zombies in place with its light beam.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                  |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]                 |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[contain-mint_family.png\|53]]<br>[[Contain-mint Family]] |
 | Tribes            |                                                             |

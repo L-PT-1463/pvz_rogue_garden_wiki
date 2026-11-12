@@ -2,13 +2,11 @@
 
 Shadow Repeater is a straight-shooter that shoots two shadow peas at a time at the zombies, or two piercing lasers when powered.
 
-Unpowered
-![[shadow_repeater.png|236]]
+| Unpowered                     | Shadow-powered                               |
+| ----------------------------- | -------------------------------------------- |
+| ![[shadow_repeater.png\|236]] | ![[shadow_repeater_shadow-powered.png\|236]] |
 
-Shadow-powered
-![[shadow_repeater_shadow-powered.png|236]]
-
-| Class             | ![[missing_image.png\|53]]                                  |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]         |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[conceal-mint_family.png\|53]]<br>[[Conceal-mint Family]] |
 | Tribes            | [[Pea Tribe]]                                               |

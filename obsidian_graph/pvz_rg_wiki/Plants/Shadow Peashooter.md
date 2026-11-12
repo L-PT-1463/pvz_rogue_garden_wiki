@@ -2,13 +2,11 @@
 
 Shadow Peashooter is a straight-shooter that shoots shadow peas at the zombies, or piercing lasers when powered.
 
-Unpowered
-![[shadow_peashooter.png|236]]
+| Unpowered                       | Shadow-powered                                 |
+| ------------------------------- | ---------------------------------------------- |
+| ![[shadow_peashooter.png\|236]] | ![[shadow_peashooter_shadow-powered.png\|236]] |
 
-Shadow-powered
-![[shadow_peashooter_shadow-powered.png|236]]
-
-| Class             | ![[missing_image.png\|53]]                                  |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]         |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[conceal-mint_family.png\|53]]<br>[[Conceal-mint Family]] |
 | Tribes            | [[Pea Tribe]]                                               |

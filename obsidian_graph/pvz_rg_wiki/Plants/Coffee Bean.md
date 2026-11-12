@@ -4,7 +4,7 @@ Coffee Bean is a supportive plant that awakes other plants on the garden.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]             |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]       |
 | :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[comple-mint_family.png\|53]]<br>[[Comple-mint Family]] |
 | Tribes            |                                                           |

@@ -6,7 +6,7 @@ Guacodile is a straight-shooter plant that bites through all the zombies in its 
 
 | Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]          |
 | :---------------- | ---------------------------------------------------------- |
-| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Class]] |
+| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Family]] |
 | Tribes            |                                                            |
 ## Origins
 

@@ -4,7 +4,7 @@ Power Vine is a vine plant that connects with electric plants to create an elect
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                            |
+| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]   |
 | :---------------- | ----------------------------------------------------- |
 | Power Mint family | ![[fila-mint_family.png\|53]]<br>[[Fila-mint Family]] |
 | Tribes            |                                                       |

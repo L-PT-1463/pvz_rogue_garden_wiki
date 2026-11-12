@@ -4,7 +4,7 @@ Coco-pult is a lobber plant that launches juicy cocos at the zombies, which deal
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                             |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]          |
 | :---------------- | ------------------------------------------------------ |
 | Power Mint family | ![[arma-mint_family.png\|53]]<br>[[Arma-mint Familiy]] |
 | Tribes            |                                                        |

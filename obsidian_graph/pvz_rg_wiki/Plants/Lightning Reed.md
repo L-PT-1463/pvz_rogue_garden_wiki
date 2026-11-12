@@ -11,6 +11,8 @@ Lightning Reed is a ranged plant that attacks zombies with chain lightning.
 ## Origins
 
 Lightning Reed is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it shoots weak bolts of lightning that chain between zombies.
+
+Its ability to be placed in water in PvZ ZPG is taken directly from Plants vs Zombies Heroes.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -35,7 +37,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Lightning Reed is a regular plant from the [[Far Future]], [[Old Wild Egypt]], and [[Neon Carnival]], where it is exclusive to [[Bog of Enlightenment]] gardens.
+Lightning Reed is a regular *[[Amphibious]]* plant from the [[Far Future]], [[Old Wild Egypt]], and [[Neon Carnival]], where it is exclusive to [[Bog of Enlightenment]] gardens.
 
 It shoots bolts of lightning down its lane, making a Straight *[[Pierce]]* attack if there is a zombie in range. After hitting the target zombie, the bolt jumps to up to two more zombies consecutively, within 1 tile (including diagonals) of the previous zombie.
 ### Almanac

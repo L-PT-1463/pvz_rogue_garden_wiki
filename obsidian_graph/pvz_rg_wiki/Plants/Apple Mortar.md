@@ -4,7 +4,7 @@ Apple Mortar is a ranged plant that fires apple cores at its lane and neighbouri
 
 ![[missing_image.png|236]]
 
-| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]            |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]          |
 | :---------------- | ------------------------------------------------------ |
 | Power Mint family | ![[arma-mint_family.png\|53]]<br>[[Arma-mint Familiy]] |
 | Tribes            |                                                        |

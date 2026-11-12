@@ -4,7 +4,7 @@ Pepper-pult is a lobber plant that launches flaming peppers at the zombies, deal
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]             |
 | :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[pepper-mint_family.png\|53]]<br>[[Pepper-mint Family]] |
 | Tribes            |                                                           |

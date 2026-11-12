@@ -4,7 +4,7 @@ Draftodil is a stalling plant that shoots wind bursts at the zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                  |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]               |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[contain-mint_family.png\|53]]<br>[[Contain-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                            |

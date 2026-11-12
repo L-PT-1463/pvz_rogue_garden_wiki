@@ -4,9 +4,9 @@ Tangle Kelp is an aquatic single use plants that drags zombies into the depths o
 
 ![[missing_image.png|236]]
 
-| Class             | ![[mega-grow_class.png\|53]]<br>[[Mega-grow Class]]        |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]            |
 | :---------------- | ---------------------------------------------------------- |
-| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Class]] |
+| Power Mint family | ![[enforce-mint_family.png\|53]]<br>[[Enforce-mint Family]] |
 | Tribes            |                                                            |
 ## Origins
 

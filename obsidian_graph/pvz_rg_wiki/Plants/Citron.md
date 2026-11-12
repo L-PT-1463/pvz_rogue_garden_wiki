@@ -4,7 +4,7 @@ Citron is a slow-firing heavy hitter that spits giant balls of energy at the zom
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                            |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]       |
 | :---------------- | ----------------------------------------------------- |
 | Power Mint family | ![[fila-mint_family.png\|53]]<br>[[Fila-mint Family]] |
 | Tribes            |                                                       |

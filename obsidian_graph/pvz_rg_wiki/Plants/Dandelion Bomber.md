@@ -4,7 +4,7 @@ Dandelion Bomber is a ranged plant that fires seed bombs at the zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                  |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]               |
 | :---------------- | ----------------------------------------------------------- |
 | Power Mint family | ![[bombard-mint_family.png\|53]]<br>[[Bombard-mint Family]] |
 | Tribes            | [[Flower Tribe]]                                            |

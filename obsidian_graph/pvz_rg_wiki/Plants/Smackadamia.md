@@ -4,10 +4,10 @@ Smackadamia is a hovering nut that increase the health of other plants.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]] |
-| :---------------- | ------------------------------------------------- |
-| Power Mint family | ![[missing_image.png\|53]]                        |
-| Tribes            | [[Nut Tribe]]                                     |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]         |
+| :---------------- | --------------------------------------------------------- |
+| Power Mint family | ![[comple-mint_family.png\|53]]<br>[[Comple-mint Family]] |
+| Tribes            | [[Nut Tribe]]                                             |
 ## Origins
 
 Smackadamia is an official Plants vs Zombie plant that made its debut in Plants vs Zombies Heroes, where it increases the health of all nuts when it is planted.

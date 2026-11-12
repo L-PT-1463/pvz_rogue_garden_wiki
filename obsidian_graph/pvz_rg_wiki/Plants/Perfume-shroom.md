@@ -4,7 +4,7 @@ Perfume-shroom is a mushroom that releases perfumes in its lane.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                          |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]         |
 | :---------------- | --------------------------------------------------- |
 | Power Mint family | ![[ail-mint_family.png\|53]]<br>[[Ail-mint Family]] |
 | Tribes            | [[Mushroom Tribe]]                                  |

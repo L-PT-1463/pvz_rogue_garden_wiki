@@ -4,7 +4,7 @@ A.K.E.E. is a lobber plant that shoots bouncing seeds at the zombie lines.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]        |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]            |
 | :---------------- | ------------------------------------------------------ |
 | Power Mint family | ![[arma-mint_family.png\|53]]<br>[[Arma-mint Familiy]] |
 | Tribes            |                                                        |

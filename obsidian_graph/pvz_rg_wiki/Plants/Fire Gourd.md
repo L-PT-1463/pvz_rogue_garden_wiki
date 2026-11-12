@@ -4,7 +4,7 @@ Fire Gourd is a close quarters attacker that spits fire at the zombies.
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                                |
+| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]               |
 | :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[pepper-mint_family.png\|53]]<br>[[Pepper-mint Family]] |
 | Tribes            |                                                           |

@@ -4,7 +4,7 @@ Frost-shroom is a mushroom that fires a cloud of cold spores, hitting all zombie
 
 ![[frost-shroom.png|236]]
 
-| Class             | ![[solar_class.png\|53]]<br>[[Solar Class]]               |
+| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]             |
 | :---------------- | --------------------------------------------------------- |
 | Power Mint family | ![[winter-mint_family.png\|53]]<br>[[Winter-mint Family]] |
 | Tribes            | [[Mushroom Tribe]]                                        |

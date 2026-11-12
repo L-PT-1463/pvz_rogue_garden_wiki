@@ -4,7 +4,7 @@ Scaredy-shroom is a straight-shooter mushroom that attacks zombies from afar, bu
 
 ![[scaredy-shroom.png|236]]
 
-| Class             | ![[smarty_class.png\|53]]<br>[[Smarty Class]]       |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]   |
 | :---------------- | --------------------------------------------------- |
 | Power Mint family | ![[ail-mint_family.png\|53]]<br>[[Ail-mint Family]] |
 | Tribes            | [[Mushroom Tribe]]                                  |

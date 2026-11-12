@@ -4,7 +4,7 @@ Goo Peashooter
 
 ![[missing_image.png|236]]
 
-| Class             | ![[missing_image.png\|53]]                          |
+| Class             | ![[kabloom_class.png\|53]]<br>[[Kabloom Class]]     |
 | :---------------- | --------------------------------------------------- |
 | Power Mint family | ![[ail-mint_family.png\|53]]<br>[[Ail-mint Family]] |
 | Tribes            | [[Pea Tribe]]                                       |
