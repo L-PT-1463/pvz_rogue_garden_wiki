@@ -15,7 +15,7 @@ Cardboard Split Pea  is an official Plants vs Zombie plant from the I, Zombie mi
 
 Cardboard Split Pea is a regular plant from from the [[Training Grounds]].
 
-It fires *[[Flammable]]* peas in front and behind itself, making a Straight attack forwards and a *[[Repeat]]* Straight attack backwards. It always attacks both ways if there's a zombie in either range.
+It fires *[[Flammable]]* peas in front and behind itself, making a Straight attack forwards and a *[[Double-Strike]]* Straight attack backwards. It always attacks both ways if there's a zombie in either range.
 ### Almanac
 
 Almanac entry.

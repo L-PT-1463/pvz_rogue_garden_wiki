@@ -37,7 +37,7 @@ Almanac entry.
 
 Pea-nut is a protector plant from the [[Steam City]].
 
-It fires *[[Flammable]]* peas down its lane, making a *[[Repeat]]* Straight attack if there is a zombie in range.
+It fires *[[Flammable]]* peas down its lane, making a *[[Double-Strike]]* Straight attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.

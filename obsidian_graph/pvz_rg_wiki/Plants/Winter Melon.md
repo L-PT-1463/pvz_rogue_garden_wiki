@@ -35,7 +35,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Melon-pult is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
+Winter Melon is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
 
 It lobs watermelons, targeting the front-most zombie in its lane with a Lobbed attack. Upon hitting the target, it makes a Lobbed *[[Chill]]* attack at the 3x3 area around the hit zombie.
 ### Almanac

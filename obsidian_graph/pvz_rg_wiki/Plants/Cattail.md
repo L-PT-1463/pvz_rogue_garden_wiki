@@ -37,7 +37,7 @@ Almanac entry.
 
 Cattail is a regular *[[Aquatic]]* plant from the [[Pirate's Beach]].
 
-It fires spikes at the zombies, making a *[[Repeat]]* Lobbed attack at any zombie in its lane.
+It fires spikes at the zombies, making a *[[Double-Strike]]* Lobbed attack at any zombie in its lane.
 ### Almanac
 
 Almanac entry.

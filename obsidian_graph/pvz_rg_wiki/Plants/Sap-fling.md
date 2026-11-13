@@ -35,7 +35,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Sap-fling is a regular plant from the [[Neighbour's House]], exclusive to [[Fall]] and [[Winter]] gardens.
+Sap-fling is a regular plant from the [[Jurassic Marsh]], where it is exclusive to [[Frostbite Cave]] gardens, and the [[Neighbour's House]], where it is exclusive to [[Fall]] and [[Winter]] gardens.
 
 It fires pinecones, making a Lobbed *[[Stall]]* attack at the hit zombie.
 ### Almanac

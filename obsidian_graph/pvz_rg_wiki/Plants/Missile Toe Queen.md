@@ -37,7 +37,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Missile Toe Queen is a regular plant from the [[Dark Ages]] and [[Neighbour's House]], where it is exclusive to [[Winter]] gardens. It fires powerful blasts of ice from above.
+Missile Toe Queen is a regular plant from the [[Dark Ages]] and the [[Neighbour's House]], where it is exclusive to [[Winter]] gardens. It fires powerful blasts of ice from above.
 
 It fires Lobbed *[[Chill]]* attacks at 3x1 areas anywhere on the lawn, always targeting a zombie as its centre. It has to cool down before attacking again.
 ### Almanac

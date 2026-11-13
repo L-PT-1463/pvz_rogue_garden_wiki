@@ -35,7 +35,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Frost-shroom is a regular plant from [[Old Wild Egypt]].
+Frost-shroom is a regular plant from [[Old Wild Egypt]], and [[Jurassic Marsh]], where it is exclusive to [[Frostbite Cave]] gardens.
 
 It fires fumes at a limited range, making a Straight *[[Pierce]]* and *[[Strike-through]]*, *[[Chill]]* attack if there is a zombie in range.
 ### Almanac

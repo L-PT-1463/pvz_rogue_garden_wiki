@@ -15,7 +15,7 @@ Cardboard Repeater  is an official Plants vs Zombie plant from the I, Zombie min
 
 Cardboard Repeater is a regular plant from the [[Training Grounds]].
 
-It shoots *[[Flammable]]* peas down its lane, making a *[[Repeat]]* Straight attack if there is a zombie in range.
+It shoots *[[Flammable]]* peas down its lane, making a *[[Double-Strike]]* Straight attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.

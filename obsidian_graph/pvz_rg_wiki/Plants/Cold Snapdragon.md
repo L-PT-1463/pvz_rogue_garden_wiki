@@ -35,7 +35,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Cold Snapdragon is a regular plant from the [[Jurassic Marsh]] and [[Neighbour's House]], where it is exclusive to [[Winter]] gardens.
+Cold Snapdragon is a regular plant from the [[Jurassic Marsh]].
 
 It exhales ice onto the 3x3 area with Cold Snapdragon at the centre-right of the square, making a Straight *[[Pierce]]* and *[[Chill]]* attack if there is a zombie in range.
 ### Almanac

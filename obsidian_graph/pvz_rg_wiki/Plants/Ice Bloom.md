@@ -35,7 +35,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Ice Bloom is a regular plant from the [[Old Wild Egypt]].
+Ice Bloom is a regular plant from the [[Old Wild Egypt]] and the [[Neighbour's House]], where it is exclusive to [[Winter]] gardens.
 
 It does not attack.
 

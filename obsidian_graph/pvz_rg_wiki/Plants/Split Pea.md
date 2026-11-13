@@ -37,7 +37,7 @@ Almanac entry.
 
 Split Pea is a regular plant from [[Old Wild Egypt]] that attacks in a straight line, shooting if there is a zombie in range
 
-It fires *[[Flammable]]* peas in front and behind itself, making a Straight attack forwards and a *[[Repeat]]* Straight attack backwards. It always attacks both ways if there's a zombie in either range.
+It fires *[[Flammable]]* peas in front and behind itself, making a Straight attack forwards and a *[[Double-Strike]]* Straight attack backwards. It always attacks both ways if there's a zombie in either range.
 ### Almanac
 
 Almanac entry.

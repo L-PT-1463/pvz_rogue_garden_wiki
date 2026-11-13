@@ -37,7 +37,7 @@ Almanac entry.
 
 Repeater is a regular plant from [[Old Wild Egypt]].
 
-It shoots *[[Flammable]]* peas down its lane, making a *[[Repeat]]* straight attack if there is a zombie in range.
+It shoots *[[Flammable]]* peas down its lane, making a *[[Double-Strike]]* straight attack if there is a zombie in range.
 ### Almanac
 
 Almanac entry.

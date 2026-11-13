@@ -39,7 +39,7 @@ Tough Beets is a protector plant from the [[Neon Carnival]].
 
 It headbutts the tile directly in front of itself, making a Straight attack if there is a zombie in range.
 
-When a Spawnling is planted, Tough Beet's health is increased.
+When a Spawnling is summoned, Tough Beet's health is increased.
 ### Almanac
 
 Almanac entry.

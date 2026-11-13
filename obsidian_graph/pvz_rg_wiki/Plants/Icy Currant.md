@@ -35,7 +35,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Icy Currant is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
+Icy Currant is a regular plant from the [[Jurassic Marsh]], where it is exclusive to [[Frostbite Cave]] gardens, and the [[Neighbour's House]], where it is exclusive to [[Winter]] gardens.
 
 It does not attack.
 

@@ -37,7 +37,7 @@ Almanac entry.
 
 Red Stinger is a protector plant from the [[Lost City]].
 
-It only attacks on rows 7 to 9, shooting petals down its lane to make a Straight attack if there is a zombie in range, *[[Repeat]]* Straight attack if it is on column 9.
+It only attacks on rows 7 to 9, shooting petals down its lane to make a Straight attack if there is a zombie in range, *[[Double-Strike]]* Straight attack if it is on column 9.
 
 On columns 8 and 9, Red Stinger is a regular plant.
 ### Almanac

@@ -35,7 +35,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Iceberg Lettuce is a regular *[[Tiny]]* plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
+Iceberg Lettuce is a regular *[[Tiny]]* plant from the [[Jurassic Marsh]], where it is [[Frostbite Cave]] gardens, and the [[Neighbour's House]], where it is exclusive to [[Winter]] gardens.
 
 It does not attack.
 

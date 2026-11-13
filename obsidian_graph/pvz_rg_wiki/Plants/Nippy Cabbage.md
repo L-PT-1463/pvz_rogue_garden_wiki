@@ -35,7 +35,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Nippy Cabbage is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
+Nippy Cabbage is a regular plant from the [[Jurassic Marsh]], where it is exclusive [[Frostbite Cave]] gardens, and the [[Neighbour's House]], where it is exclusive to [[Winter]] gardens.
 
 It makes a Straight *[[Chill]]* attack at a zombie in its range, 2 tiles in front and 1 tile behind.
 ### Almanac

@@ -35,7 +35,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-The Water Chestnut Brothers are a regular plant from the [[Neighbour's House]], exclusive to [[Fall]] and [[Winter]] gardens.
+The Water Chestnut Brothers are a regular plant from the [[Jurassic Marsh]], where it is exclusive to [[Frostbite Cave]] gardens, and the [[Neighbour's House]], where it is exclusive to [[Fall]] and [[Winter]] gardens.
 
 They slide a chestnut down the lane, making a Straight *[[Chill]]* attack if there is a zombie in range.
 ### Almanac
