@@ -4,10 +4,10 @@ Tall-nut is a tall defensive plant that blocks zombies that usually bypass other
 
 ![[missing_image.png|236]]
 
-| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]            |
-| :---------------- | ------------------------------------------------------------ |
-| Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Enforce-mint Family]] |
-| Tribes            | [[Nut Tribe]]                                                |
+| Class             | ![[guardian_class.png\|53]]<br>[[Guardian Class]]               |
+| :---------------- | --------------------------------------------------------------- |
+| Power Mint family | ![[reinforce-mint_family.png\|53]]<br>[[Reinforce-mint Family]] |
+| Tribes            | [[Nut Tribe]]                                                   |
 ## Origins
 
 Tall-nut is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it serves as a strong wall plant that counters the [[Pole Vaulting Zombie]] and [[Dolphin Rider Zombie]].
@@ -35,7 +35,7 @@ Almanac entry.
 | Seed packet recharge |     |
 ## In PvZ ZPG - Zombie RPG
 
-Wall-nut is protector plant from [[Old Wild Egypt]].
+Tall-nut is protector plant from [[Old Wild Egypt]].
 
 It does not attack.
 
