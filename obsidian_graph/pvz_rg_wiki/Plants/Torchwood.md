@@ -11,6 +11,8 @@ Torchwood is a supporting defensive plant that lights peas and other flammable p
 ## Origins
 
 Torchwood is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it's a supporting plant that lights peas on fire.
+
+Its attack in PvZ ZPG is taken directly from its attack animation in Plants vs Zombies Heroes.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -37,7 +39,7 @@ Almanac entry.
 
 Torchwood is a protector plant from [[Old Wild Egypt]].
 
-It does not attack.
+It does not attack. If granted an attack, it shoots a fireball, making a Lobbed attack at the front-most zombie in its lane.
 
 Torchwood grants all *[[Flammable]]* attacks that pass through its tile the *[[Fire]]* trait.
 ### Almanac

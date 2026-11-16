@@ -11,6 +11,8 @@ Hot Date is a flaming plant that attracts zombies from neighbouring lanes before
 ## Origins
 
 Hot Date is an official Plants vs Zombie plant that made its debut in Plants vs Zombies 2, where it acts as a weak wall plant that attracts zombies into its lane and bursts into flames when eaten.
+
+Its attack in PvZ ZPG is taken directly from its attack animation in Plants vs Zombies Heroes.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -37,7 +39,7 @@ Almanac entry.
 
 Hot Date is a protector plant from the [[Neon Carnival]].
 
-It does not attack.
+It does not attack. If granted an attack, it shoots a heart down its lane, making a Straight *[[Fire]]* attack if there is a zombie in range.
 
 As long as it is the front-most protector plant of its lane, Hot Date forces zombies in front of it to move to its lane if they can.
 

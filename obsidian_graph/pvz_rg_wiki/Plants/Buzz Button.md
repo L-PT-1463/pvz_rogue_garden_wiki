@@ -39,7 +39,7 @@ Almanac entry.
 
 Buzz Button is a regular plant from [[The Zombosseum]].
 
-It does not attack.
+It does not attack. If granted an attack, it releases a spark, making a Straight attack at a random zombie in the 3x3 area around it.
 
 When vanquished, it makes a Straight *[[Stun]]* attack at all zombies in a 3x3 area around itself.
 ### ### Almanac

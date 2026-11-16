@@ -37,7 +37,7 @@ Almanac entry.
 
 Lychee is a protector plant from [[Kongfu Mausoleum]].
 
-It does not attack.
+It does not attack. If granted an attack, it bursts its spikes out, making a Straight *[[Pierce]]* attack at the 3x3 area around itself. This attack is lost if Lychee is under a certain health threshold.
 
 When hit, Lychee makes a Straight *[[Pierce]]* attack at the 3x3 area around itself. Lychee can only use this ability while above a certain health threshold.
 ### Almanac

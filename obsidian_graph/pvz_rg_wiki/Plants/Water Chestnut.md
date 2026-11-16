@@ -36,6 +36,8 @@ Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
 Water Chestnut is a protector *[[Aquatic]]* plant from [[Pirate's Beach]].
+
+It does not attack. If granted an attack, it makes a Straight attack at a zombie in the tile directly in front of itself.
 ### Almanac
 
 Almanac entry.

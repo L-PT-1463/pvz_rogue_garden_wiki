@@ -37,7 +37,7 @@ Almanac entry.
 
 Marigold is a regular plant.
 
-It does not attack.
+It does not attack. If granted an attack, it spits a coin down its lane, making a Straight attack if there is a zombie in range.
 
 When vanquished, Marigold gives Brainiac Coins.
 ### Almanac

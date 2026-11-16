@@ -37,7 +37,7 @@ Almanac entry.
 
 Sprout is a regular *[[Tiny]]* plant from the [[Steam City]], exclusive to [[Greenhouse]] gardens.
 
-It does not attack.
+It does not attack. If granted an attack, it swipes at the tile in front of itself, making a Straight attack if there is a zombie in range.
 
 After a few turns, it turns into a [[Marigold]].
 ### Almanac

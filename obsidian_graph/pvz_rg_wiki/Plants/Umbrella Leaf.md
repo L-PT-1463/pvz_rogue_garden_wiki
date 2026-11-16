@@ -11,6 +11,8 @@ Umbrella Leaf is a support plant that protects other plants from threats from ab
 ## Origins
 
 Umbrella Leaf is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it serves as a counter to the [[Bungee Jumper]] and [[Catapult Zombie]], both of which attack plants from above.
+
+Its attack in PvZ ZPG is taken directly from its attack animation in Plants vs Zombies Heroes.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -37,7 +39,7 @@ Almanac entry.
 
 Umbrella Leaf is a regular plant from the [[Pirate's Beach]] and [[Lost City]].
 
-It does not attack.
+It does not attack. If granted an attack, it shoots a leaf down its lane, making a Straight attack if there is a zombie in range.
 
 Umbrella Leaf gives the *[[Shielded]]* trait to other plants in the column in front of it.
 ### Almanac

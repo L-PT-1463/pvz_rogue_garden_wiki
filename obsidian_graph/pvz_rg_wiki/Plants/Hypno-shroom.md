@@ -37,9 +37,9 @@ Almanac entry.
 
 Hypno-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
 
-It does not attack.
+It does not attack. If granted an attack, it shoots a swirl of magic down its lane, making a Straight attack if there is a zombie in range. Hit zombies gain 1 stack of *[[Hypnotized]]*.
 
-If it is vanquished by a Munch-type attack, the hit zombie gains 1 stack of *[[Hypnotized]]*.
+If it is vanquished by a Munch attack, the zombie that bit it gains 1 stack of *[[Hypnotized]]*.
 ### Almanac
 
 Almanac entry.

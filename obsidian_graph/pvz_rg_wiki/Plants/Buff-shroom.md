@@ -39,7 +39,7 @@ Buff-shroom is a regular plant from the [[Training Grounds]] and [[Dark Ages]], 
 
 It shoots spores down its lane, making a Straight attack if there is a zombie in range.
 
-At the start of each turn, it increases the damage of all mushrooms in a 3x3 area.
+At the start of each turn, it increases the damage of all mushrooms in a 3x3 area. This includes mushrooms with no attack, which are granted an attack by Buff-shroom while buffed.
 ### Almanac
 
 Almanac entry.

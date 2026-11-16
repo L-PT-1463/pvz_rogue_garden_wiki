@@ -37,7 +37,7 @@ Almanac entry.
 
 Solar Tomato is a regular plant from the [[Lost City]] and [[Neon Carnival]], where it is exclusive to [[Bog of Enlightenment]] gardens.
 
-It does not attack.
+It does not attack. If granted an attack, it explodes in a 3x3 area, making a Straight *[[Pierce]]* attack if there is a zombie in range. Hit zombies are inflicted with 2 stacks of *[[Illuminated]]*. Solar Tomato vanquishes itself after attacking.
 
 When vanquished, Solar Tomato explodes in a 3x3 area, making a Straight *[[Pierce]]* attack that puts 2 stacks of *[[Illuminated]]* on every hit zombie.
 ## In PvZ: Lawnmaggedon

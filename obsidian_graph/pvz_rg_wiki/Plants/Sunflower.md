@@ -11,6 +11,8 @@ Sunflower is a supporting plant that generates sun.
 ## Origins
 
 Sunflower is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it serves as the first sun producer, generating sun passively.
+
+Its attack in PvZ ZPG is taken directly from its attack animation in Plants vs Zombies Heroes.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -37,7 +39,7 @@ Almanac entry.
 
 Sunflower is a regular plant.
 
-It does not attack.
+It does not attack. If granted an attack, it shoots a small sun down its lane, making a Straight *[[Fire]]* attack if there is a zombie in range.
 
 If hit by a Munch attack, Sunflower heals the zombie that bit it.
 ### Almanac

@@ -37,7 +37,7 @@ Almanac entry.
 
 Perfume-shroom is a regular plant from the [[Jurassic Marsh]].
 
-It does not attack.
+It does not attack. If granted an attack, it shoots spores down its lane, making a Straight attack if there is a zombie in range. Hit zombies get 1 stack of *[[Hypnotized]]*. 
 
 At the start of every few turns, it triggers the [[Dino-roar]] ability of every plant in its lane.
 ### Almanac

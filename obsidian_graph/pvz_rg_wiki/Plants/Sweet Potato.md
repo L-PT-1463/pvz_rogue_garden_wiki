@@ -37,7 +37,7 @@ Almanac entry.
 
 Sweet Potato is a protector plant from the [[Lost City]] that attracts zombies to its lane.
 
-It does not attack.
+It does not attack. If granted an attack, it makes a Straight attack at a zombie in the tile directly in front of itself.
 
 As long as it is the front-most protector plant of its lane, Hot Date forces zombies in front of it to move to its lane if they can.
 ### Almanac

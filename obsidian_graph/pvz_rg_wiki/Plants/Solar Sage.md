@@ -37,7 +37,7 @@ Almanac entry.
 
 Solar Sage is a regular *[[Aerial]]* plant from the [[Neon Carnival]] and [[Kongfu Mausoleum]].
 
-It does not attack.
+It does not attack. If granted an attack, it calls a ray of sunlight down onto the tile directly in front of itself, making a Lobbed attack if there is a zombie in range, which affects it with 1 stack of *[[Illuminated]]*.
 
 When vanquished, it permanently turns all Spawnlings in a 3x1 area centred on itself into a [[Zombie Monk]].
 ### Almanac

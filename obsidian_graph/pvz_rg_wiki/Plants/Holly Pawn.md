@@ -39,7 +39,7 @@ Almanac entry.
 
 Holly Pawn is a protector plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
 
-It does not attack.
+It does not attack. If granted an attack, it bursts out its spikes, making a Straight attack at the tile in front of it if there is a zombie in range.
 
 When hit by a Munch attack, Holly Pawn makes a Straight attack at the zombie that bit it.
 ### Statistics

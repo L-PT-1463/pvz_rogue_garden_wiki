@@ -11,6 +11,8 @@ Imitater is a plant that transforms into perfect imitations of other plants.
 ## Origins
 
 Imitater is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it acts as a copy of another plant in seed selection, allowing the player to bypass seed recharge time.
+
+Its attack in PvZ ZPG is taken directly from its attack animation in Plants vs Zombies Heroes.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -37,7 +39,7 @@ Almanac entry.
 
 Imitater is a regular plant from the [[Neon Carnival]] that copies a neighbouring plant.
 
-It does not attack.
+It does not attack. If granted an attack while in its base form, it makes a Straight attack at the tile directly in front of itself if there is a zombie in range.
 
 At the start of the turn, it choses a nearby plant to copy.
 

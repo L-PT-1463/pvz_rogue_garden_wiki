@@ -37,9 +37,7 @@ Almanac entry.
 
 Magnet-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
 
-It does not attack.
-
-It creates a 4x3 magnetic field, spanning two tiles ahead of itself. On its turn, it steals armour in range with the *[[Magnetisable]]* trait. It deals damage to the armour every turn until the armour vanishes, but gives it back at full health if Magnet-shroom is vanquished before it can fully consume the armour. This also includes armour stolen from Spawnlings.
+It creates a 4x3 magnetic field, spanning 2 tiles ahead of itself. On its turn, instead of attacking, it steals armour in range with the *[[Magnetisable]]* trait. It deals damage to the armour every turn until the armour vanishes, but gives it back at full health if Magnet-shroom is vanquished before it can fully consume the armour. This also includes armour stolen from Spawnlings.
 ### Almanac
 
 Almanac entry.

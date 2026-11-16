@@ -13,6 +13,8 @@ Cosmic Nut is a protective barrier plant that harnesses the powers of the cosmos
 Cosmic Nut is an official Plants vs Zombie plant that made its debut in Plants vs Zombies Heroes, where it is a nut plant that conjures a random Nut, giving it a fixed attack value.
 
 It returns in Plants vs Zombies 2 China, where it can be manually teleported.
+
+Its attack in PvZ ZPG is taken directly from its attack animation in Plants vs Zombies Heroes.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -39,7 +41,7 @@ Almanac entry.
 
 Cosmic Nut is protector plant from [[ZCorp IST Headquarters]].
 
-It does not attack.
+It does not attack. If granted an attack, it spits a cosmic orb down its lane, making a Straight attack if there is a zombie in range.
 
 When in a [[Black Hole]] garden, at the start of the second turn, Cosmic Nut turns into a random [[Nut Tribe]] plant that gains the *[[Shielded]]* trait.
 

@@ -37,7 +37,7 @@ Almanac entry.
 
 Mirror-nut is a protector plant from the [[Neon Carnival]].
 
-It does not attack.
+It does not attack. If granted an attack, it lights up, making a Straight attack at the tile in front of itself if there is a zombie in range.
 
 When any [[Nut Tribe]], including itself, is hit by an attack, Mirror-Nut makes a Straight attack at the zombie which damaged it.
 ### Almanac

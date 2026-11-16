@@ -37,7 +37,7 @@ Almanac entry.
 
 Jalapeño is a regular plant from [[Old Wild Egypt]].
 
-It does not attack.
+It does not attack. If granted an attack, it shoots a fire bolt down its lane, making a Straight *[[Fire]]* attack if there is a zombie in range.
 
 When vanquished, it makes a Ground *[[Fire]]* attack in its entire lane.
 ### Almanac

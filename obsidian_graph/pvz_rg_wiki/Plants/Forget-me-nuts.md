@@ -11,6 +11,8 @@ Forget-me-nuts
 ## Origins
 
 Forget-me-nuts is an official Plants vs Zombie plant that made its debut in Plants vs Zombies Heroes, where it increases the cost of zombie tricks.
+
+Its attack in PvZ ZPG is inspired by its attack animation in Plants vs Zombies Heroes.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -37,7 +39,7 @@ Almanac entry.
 
 Forget-me-nuts is a regular *[[Tiny]]* plant from the [[Jurassic Marsh]] and [[Neighbour's House]].
 
-It does not attack.
+It does not attack. If granted an attack, it shoots seeds, targeting the front-most zombie in its lane with a Lobbed attack.
 
 Forget-me-nuts makes all Spawnlings cost more brains to be summoned.
 ### Almanac

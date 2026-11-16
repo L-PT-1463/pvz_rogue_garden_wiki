@@ -37,9 +37,9 @@ Almanac entry.
 
 Icy Currant is a regular plant from the [[Jurassic Marsh]], where it is exclusive to [[Frostbite Cave]] gardens, and the [[Neighbour's House]], where it is exclusive to [[Winter]] gardens.
 
-It does not attack.
+It does not attack. If granted an attack, it shakes snow off itself, making a Straight *[[Chill]]* attack at a random zombie in the 3x3 area around itself.
 
-It connects to [[Winter-mint Family]] plants to form electric currents. At the start of the turn, the icy currents make a Ground *[[Chill]]* attack at the tiles they affect. If connecting two Icy Currants together, the current of frost deals more damage. 
+It connects to [[Winter-mint Family]] plants to form electric currents. At the start of the turn, the currents of ice make a Ground *[[Chill]]* attack at the tiles they affect. If connecting two Icy Currants together, the current of frost deals more damage. 
 ### Almanac
 
 Almanac entry.

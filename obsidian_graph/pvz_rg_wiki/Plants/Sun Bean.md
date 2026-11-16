@@ -37,7 +37,7 @@ Almanac entry.
 
 Sun Bean is a regular plant from the [[Dark Ages]] and [[Neon Carnival]], where it is exclusive to [[Bog of Enlightenment]] gardens.
 
-It does not attack.
+It does not attack. If granted an attack, it lights up, making a Straight attack at the tile in front of itself, which applies 1 stack of *[[Illuminated]]* at hit zombies.
 
 If vanquished by a Munch attack, the zombie that bit Sun Bean gets 3 stacks of *[[Illuminated]]*.
 ### Almanac

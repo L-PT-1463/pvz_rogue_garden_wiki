@@ -37,7 +37,7 @@ Almanac entry.
 
 Stallia is a regular plant from the [[Lost City]].
 
-On its turn, always attacks the 3x3 area around itself, making a Straight *[[Pierce]]* and *[[Stall]]* attack.
+On its turn, it always attacks the 3x3 area around itself, making a Straight *[[Pierce]]* and *[[Stall]]* attack.
 ### Almanac
 
 Almanac entry.

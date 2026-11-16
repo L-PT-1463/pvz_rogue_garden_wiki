@@ -39,7 +39,7 @@ Almanac entry.
 
 Pumpkin Shell is a protector *[[Vine]]* plant from the [[Dark Ages]].
 
-It does not attack.
+It does not attack and cannot be granted an attack.
 ### Almanac
 
 Almanac entry.

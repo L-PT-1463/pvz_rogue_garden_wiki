@@ -11,6 +11,8 @@ Garlic is a supporting wall plant that redirects zombies that bite it.
 ## Origins
 
 Garlic is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it acts as a weak defensive plant that redirects zombies to adjacent lanes when bitten.
+
+Its attack in PvZ ZPG is a reference to its [[Plant Food]] power in Plants vs Zombies 2.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -37,7 +39,7 @@ Almanac entry.
 
 Garlic is a protector plant.
 
-It does not attack.
+It does not attack. If granted an attack, it breaths garlic breath down its lane, making a Straight *[[Pierce]]* and *[[Strike-through]]* attack if there is a zombie in range. Zombies caught in its breath move to an adjacent lane if the space allows it.
 
 When hit by a Munch attack, Garlic moves that zombie to an adjacent lane, if the space allows it.
 ### Almanac

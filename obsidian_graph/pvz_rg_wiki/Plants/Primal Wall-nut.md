@@ -48,7 +48,7 @@ Almanac entry.
 
 Primal Wall-nut is a protector plant from the [[Jurassic Marsh]].
 
-It does not attack.
+It does not attack. If granted an attack, it makes a Straight *[[Knockback]]* attack at a zombie in the tile directly in front of itself.
 
 Primal Wall-nut has the *[[Sturdy]]* trait.
 ### Almanac

@@ -39,7 +39,7 @@ Almanac entry.
 
 Physalux is a regular *[[Aerial]]* plant from the [[Kongfu Mausoleum]].
 
-It does not attack.
+It does not attack. If granted an attack, it lights up, making a Straight *[[Stun]]* attack at the tile directly in front of itself.
 
 Physalux generates light in a 3x3 area. This clears [[Fog]], and any zombie entering or starting its turn in the light loses 1 stack of the *[[Invisible]]* trait, if the zombie has it.
 ### Almanac

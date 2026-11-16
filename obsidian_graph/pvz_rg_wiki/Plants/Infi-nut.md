@@ -39,7 +39,7 @@ Almanac entry.
 
 Infi-nut is a protector plant from the [[Far Future]].
 
-It does not attack.
+It does not attack. If granted an attack, it lights up, making a Straight attack at the tile in front of itself if there is a zombie in range.
 
 Infi-nut grants the *[[Shielded]]* trait to all plant in its column, including itself.
 ### Almanac

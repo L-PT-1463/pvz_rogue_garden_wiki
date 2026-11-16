@@ -37,7 +37,7 @@ Almanac entry.
 
 Explode-o-Nut is a protector plant.
 
-It does not attack.
+It does not attack. If granted an attack, it makes a Straight attack at a zombie in the tile directly in front of itself.
 
 When vanquished, it explodes, making a Straight attack at the 3x3 area around itself.
 ### Almanac

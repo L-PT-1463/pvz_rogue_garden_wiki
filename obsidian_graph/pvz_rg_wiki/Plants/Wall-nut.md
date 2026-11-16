@@ -36,6 +36,8 @@ Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
 Wall-nut is protector plant.
+
+It does not attack. If granted an attack, it makes a Straight attack at a zombie in the tile directly in front of itself.
 ### Almanac
 
 Almanac entry.

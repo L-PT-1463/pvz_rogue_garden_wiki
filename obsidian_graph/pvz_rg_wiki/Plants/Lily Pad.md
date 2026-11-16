@@ -37,7 +37,7 @@ Almanac entry.
 
 Lily Pad is a pass-through *[[Aquatic]]* *[[Pot]]* plant.
 
-It does not attack.
+It does not attack and cannot be granted an attack.
 
 It allows non-aquatic plants to appear on it on a water tile.
 ### Statistics

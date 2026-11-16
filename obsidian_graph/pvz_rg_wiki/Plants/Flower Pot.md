@@ -37,7 +37,7 @@ Almanac entry.
 
 Flower Pot is a pass-through *[[Pot]]* plant.
 
-It does not attack.
+It does not attack and cannot be granted an attack.
 ### Almanac
 
 Almanac entry.

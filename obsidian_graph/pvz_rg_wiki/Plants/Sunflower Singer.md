@@ -39,7 +39,7 @@ Almanac entry.
 
 Sunflower Singer is a regular plant from the [[Neon Carnival]].
 
-It does not attack.
+It does not attack. If granted an attack, it sings to release a soundwave down its lane, making a Straight attack if there is a zombie in range.
 
 Sunflower Singer boosts the damage of plants in a 3x3 area.
 

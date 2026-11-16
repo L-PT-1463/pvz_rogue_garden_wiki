@@ -37,7 +37,7 @@ Almanac entry.
 
 Iceberg Lettuce is a regular *[[Tiny]]* plant from the [[Jurassic Marsh]], where it is [[Frostbite Cave]] gardens, and the [[Neighbour's House]], where it is exclusive to [[Winter]] gardens.
 
-It does not attack.
+It does not attack. If granted an attack, it lights up, making a Straight *[[Freeze]]* attack at the tile in front of it.
 
 When vanquished, Iceberg Lettuce makes a Straight *[[Freeze]]* attack at the tile in front of it.
 ### Almanac

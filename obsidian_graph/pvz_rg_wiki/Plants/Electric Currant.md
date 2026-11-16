@@ -37,9 +37,9 @@ Almanac entry.
 
 Electric Currant is a regular plant from the [[Far Future]].
 
-It does not attack.
+It does not attack. If granted an attack, it releases a spark, making a Straight attack at a random zombie in the 3x3 area around it.
 
-It connects to [[Fila-mint Family]] plants to form electric currents. At the start of the turn, the icy currents make a Ground attack at the tiles they affect. If connecting two Electric Currants together, the current of electricity deals more damage. 
+It connects to [[Fila-mint Family]] plants to form electric currents. At the start of the turn, the currents of electricity make a Ground attack at the tiles they affect. If connecting two Electric Currants together, the current of electricity deals more damage. 
 ### Almanac
 
 Almanac entry.

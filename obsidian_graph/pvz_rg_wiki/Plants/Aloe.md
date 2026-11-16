@@ -37,7 +37,7 @@ Almanac entry.
 
 Aloe is a regular plant from the [[Pirate's Beach]].
 
-It does not attack.
+It does not attack. If granted an attack, it throws a droplet, making a Lobbed attack at the front-most zombie in its lane.
 
 At the start of the turn, Aloe heals the plant in front of itself.
 ### Almanac

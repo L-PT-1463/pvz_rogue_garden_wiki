@@ -15,7 +15,7 @@ Cardboard Wall-nut is an official Plants vs Zombie plant from the I, Zombie mini
 
 Cardboard Wall-nut is protector plant from the [[Training Grounds]].
 
-It does not attack.
+It does not attack. If granted an attack, it makes a Straight attack at a zombie in the tile directly in front of itself.
 ### Almanac
 
 Almanac entry.

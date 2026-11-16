@@ -37,7 +37,7 @@ Almanac entry.
 
 Noctarine is a regular plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
 
-It does not attack.
+It does not attack. If granted an attack, it explodes, making a Straight attack at the tile directly diagonal to it if there is a zombie in range, which permanently Shadow-powers those tiles. If shadow-powered, the range is increased to a 3x3 area. Noctarine vanquishes itself after attacking.
 
 When vanquished, it explodes, making a Straight attack at the tiles directly diagonal to it, which permanently Shadow-powers those tiles. If Shadow-powered, the range is increased to a 3x3 area.
 ### Almanac

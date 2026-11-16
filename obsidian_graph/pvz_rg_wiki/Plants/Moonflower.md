@@ -41,7 +41,7 @@ Almanac entry.
 
 Moonflower is a regular plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
 
-It does not attack.
+It does not attack. If granted an attack, it turns over and blasts the tile in front of itself with moonlight, making a Straight *[[Pierce]]* attack if there is a zombie in range.
 
 Moonflower shadow-powers neighbouring plants in its lane and column. While Shadow-powered, it instead powers plants in a 3x3 area.
 

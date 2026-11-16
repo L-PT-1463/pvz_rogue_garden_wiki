@@ -37,7 +37,7 @@ Almanac entry.
 
 Escape Root is a regular plant from the [[Neighbour's House]]. It always spawns in columns 7 and 8.
 
-It does not attack.
+It does not attack. If granted an attack, it swipes a root at the tile directly in front of itself, making a Straight attack if there is a zombie in range.
 
 At the start of the turn, if a plant in columns 5 or 6 is on low HP, Escape Root switches places with that plant, then turns into a [[Jalapeño]] or [[Chilly Pepper]].
 ### Almanac

@@ -11,6 +11,8 @@ Twin Sunflower is a supporting plant that generates a lot of sun.
 ## Origins
 
 Twin Sunflower is an official Plants vs Zombie plant that made its debut in the first Plants vs Zombies game, where it is an evolution of the [[Sunflower]] and simply produces twice as much sun.
+
+If granted an attack, it makes a Straight attack at a zombie in the tile directly in front of itself.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -36,6 +38,8 @@ Almanac entry.
 ## In PvZ ZPG - Zombie RPG
 
 Sunflower is a regular plant from [[Old Wild Egypt]].
+
+It does not attack. If granted an attack, it shoots a small sun down its lane, making a Straight *[[Fire]]* attack if there is a zombie in range.
 
 When hit by a Munch attack, Twin Sunflower heals the zombie that bit it
 ### Almanac

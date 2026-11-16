@@ -37,7 +37,7 @@ Almanac entry.
 
 Murkadamia Nut is a protector *[[Tiny]]* plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
 
-It does not attack.
+It does not attack. If granted an attack while unpowered, it makes a Straight attack at the tile directly in front of itself if there is a zombie in range. While shadow-powered, if granted an attack, it instead makes a Straight *[[Pierce]]* attack at the tile in front of itself.
 
 If hit while Shadow-powered, Murkadamia makes a Straight *[[Pierce]]* attack at the tile in front of itself.
 

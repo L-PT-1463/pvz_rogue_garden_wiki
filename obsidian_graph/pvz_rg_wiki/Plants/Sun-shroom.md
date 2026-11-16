@@ -43,7 +43,7 @@ Almanac entry.
 
 Sun-shroom is a regular *[[Tiny]]* plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens. 
 
-It does not attack.
+It does not attack. If granted an attack, it lights up its cap, making a Straight attack at the tile in front of itself if there is a zombie in range.
 
 At the start of the third turn, it turns into a Sunnier-shroom. If hit by a Munch attack, Sun-shroom heals the zombie that bit it.
 
@@ -51,7 +51,7 @@ ___
 
 Sunnier-shroom is a regular plant from the [[Dark Ages]], exclusive to [[Mushroom Grotto]] gardens.
 
-It does not attack.
+It does not attack. If granted an attack, it lights up its cap, making a Straight attack at the tile in front of itself if there is a zombie in range. Hit zombies are inflicted with 2 stacks of *[[Illuminated]]*.
 
 If hit by a Munch attack, Sunnier-shroom heals the zombie that bit it.
 ### Almanac

@@ -37,6 +37,8 @@ Almanac entry.
 
 Buttercup is a protector plant from the [[Neon Carnival]].
 
+It does not attack. If granted an attack, it fires a stick of butter at the tile in front of itself, making a Lobbed *[[Stun]]* attack if there is a zombie in range.
+
 When hit by a Munch or Strike type attack, it has a chance of lobbing a stick of butter at the tile in front of itself, making a Lobbed *[[Stun]]* attack at the zombie in that tile.
 ### Almanac
 

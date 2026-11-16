@@ -37,7 +37,7 @@ Almanac entry.
 
 Explode-o-Vine is a regular *[[Vine]]* plant from the [[Pirate's Beach]] and [[Kongfu Mausoleum]].
 
-It does not attack.
+It does not attack. If granted an attack, it explodes in a 3x3 area, making a Straight attack at all 8 tiles if there is a zombie in range. It vanquishes itself after attacking.
 
 When vanquished, it explodes, making a Straight attack at the 3x3 area around itself.
 ### Almanac

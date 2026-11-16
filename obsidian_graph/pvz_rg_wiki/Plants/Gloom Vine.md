@@ -37,7 +37,7 @@ Almanac entry.
 
 Gloom Vine is a regular *[[Vine]]* plant from the [[Dark Ages]], exclusive to [[Castle]] gardens.
 
-It does not attack. If Shadow-powered, it is granted an attack. Gloom Vine makes a Straight attack at the 3x3 area around itself, as long as there is a zombie in range.
+It does not attack. If granted an attack, Gloom Vine makes a Straight attack at the 3x3 area around itself, as long as there is a zombie in range. It also gains this attack while Shadow-powered.
 
 Gloom Vine shadow-powers other plants in its tile.
 ### Almanac

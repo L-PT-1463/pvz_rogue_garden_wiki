@@ -11,6 +11,8 @@ Chilly Pepper is an instant-use plant that burst into ice, freezing all zombies 
 ## Origins
 
 Chilly Pepper is an official Plants vs Zombie plant that made its debut in Plants vs Zombies Adventures, where it acts as an icy counter-part to the [[Jalapeño]].
+
+Its attack in PvZ ZPG is taken directly from its attack animation in Plants vs Zombies Heroes.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -37,7 +39,7 @@ Almanac entry.
 
 Chilly Pepper is a regular plant from the [[Neighbour's House]], exclusive to [[Winter]] gardens.
 
-It does not attack.
+It does not attack. If granted an attack, it shoots a snowflake down its lane, making a Straight *[[Chill]]* attack if there is a zombie in range.
 
 When vanquished, it makes a Ground *[[Chill]]* attack in its entire lane.
 ### Almanac

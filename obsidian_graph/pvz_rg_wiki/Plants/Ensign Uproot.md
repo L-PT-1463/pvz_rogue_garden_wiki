@@ -38,6 +38,8 @@ Almanac entry.
 Ensign Uproot is a regular *[[Aerial]]* plant from the [[Far Future]] and [[ZCorp IST Headquarters]].
 
 It shoots lasers down its lane, making a Straight attack if there is a zombie in range.
+
+At the start of the turn, it moves a random plant or zombie to a neighbouring tile.
 ### Almanac
 
 Almanac entry.

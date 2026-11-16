@@ -37,7 +37,7 @@ Almanac entry.
 
 Intensive Carrot is a regular plant from the [[Far Future]].
 
-It does not attack.
+It does not attack and cannot be granted an attack.
 
 When another plant is vanquished, Intensive Carrot moves to that tile and transforms into that plant.
 ### Almanac

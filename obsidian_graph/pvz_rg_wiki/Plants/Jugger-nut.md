@@ -37,7 +37,7 @@ Almanac entry.
 
 Jugger-nut is protector plant from [[The Zombosseum]].
 
-It does not attack.
+It does not attack. If granted an attack, it makes a Straight attack at a zombie in the tile directly in front of itself.
 
 Jugger-nut has the *[[Armoured]] (1)* trait.
 ### Almanac

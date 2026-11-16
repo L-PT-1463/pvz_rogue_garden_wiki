@@ -37,7 +37,7 @@ Almanac entry.
 
 Shadow-shroom is a regular plant from the [[Dark Ages]].
 
-It does not attack.
+It does not attack. If granted an attack, it spits at the tile directly in front of itself, making a Straight attack if there is a zombie in range. This attack applies 2 stacks of *[[Poisoned]]* to hit zombies.
 
 If vanquished, it makes a Straight *[[Pierce]]* attack at the tile in front of it, or at the 3x3 area around it if shadow-powered. This attack applies 3 stacks of *[[Poisoned]]* to hit zombies.
 ### Almanac

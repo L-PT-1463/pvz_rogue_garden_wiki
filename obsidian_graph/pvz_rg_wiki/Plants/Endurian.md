@@ -37,7 +37,7 @@ Almanac entry.
 
 Endurian is a protector plant from [[Lost City]].
 
-It does not attack.
+It does not attack. If granted an attack, it bursts out its spikes, making a Straight *[[Pierce]]* attack at the tiles in front and behind itself if there is a zombie in range.
 
 When hit, it makes a Straight *[[Pierce]]* attack at the tiles in front and behind it.
 ### Almanac

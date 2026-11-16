@@ -37,7 +37,7 @@ Almanac entry.
 
 Grapeshot is a regular plant from the [[Lost City]] and [[The Zombosseum]].
 
-It does not attack.
+It does not attack. If granted a an attack, it always shoots a grape on its turn, making a Straight attack in a random direction.
 
 When vanquished, Grapeshot explodes in a 3x3 area, and shoots four projectiles total, down both sides its lane and column.
 ### Almanac

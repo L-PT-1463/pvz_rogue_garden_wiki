@@ -11,6 +11,8 @@ Metal Petal is a defensive sun producer.
 ## Origins
 
 Metal Petal is an official Plants vs Zombie plant that made its debut in Garden Warfare as an armoured variant of the [[Sunflower]].
+
+Its attack in PvZ ZPG is taken directly from its primary attack in Plants vs Zombies Garden Warfare.
 ## In PvZ: Rogue Garden
 
 Description of the plant in Rogue Garden
@@ -37,7 +39,7 @@ Almanac entry.
 
 Metal Petal is a protector plant from the [[Far Future]].
 
-It does not attack.
+It does not attack. If granted an attack, it shoots two laser bolts out of its eyes down its lane, making a Straight attack if there is a zombie in range.
 
 When hit by a Munch-type attack, Metal Petal heals the zombie that bit it.
 ### Almanac

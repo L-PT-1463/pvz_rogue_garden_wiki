@@ -37,7 +37,7 @@ Almanac entry.
 
 Ice Bloom is a regular plant from the [[Old Wild Egypt]] and the [[Neighbour's House]], where it is exclusive to [[Winter]] gardens.
 
-It does not attack.
+It does not attack. If granted an attack, it makes a Straight *[[Chill]]* at the 3x3 area around itself if there is a zombie in range.
 
 When vanquished, Ice Bloom explodes, making a Straight *[[Freeze]]* attack at a 3x3 area around itself.
 ### Almanac

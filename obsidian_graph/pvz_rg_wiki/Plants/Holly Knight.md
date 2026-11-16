@@ -39,7 +39,7 @@ Almanac entry.
 
 Holly Knight is a protector plant from the [[Dark Ages]] and [[Neighbour's House]], where it is exclusive to [[Winter]] gardens.
 
-It does not attack.
+It does not attack. If granted an attack, it targets the front-most zombie in the garden with a Lobbed attack.
 
 When hit by a Munch attack, Holly Knight makes a Straight attack at the zombie that bit it.
 

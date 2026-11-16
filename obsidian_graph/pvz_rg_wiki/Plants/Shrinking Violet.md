@@ -37,7 +37,7 @@ Almanac entry.
 
 Shrinking Violet is a regular plant from the [[Lost City]] and [[Neon Carnival]].
 
-It does not attack.
+It does not attack. If granted an attack, it opens up, releasing a burst of petals to make a Straight attack at the 3x3 area around itself.
 
 When vanquished, it gives all zombies in the 3x3 area around itself the *[[Tiny]]* trait.
 ### Almanac
